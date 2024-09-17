@@ -1,0 +1,58 @@
+09:45:51.313898> WebSocket connected! Start Partial @depth20 [Future] process...
+09:45:51.314898> WebSocket connected! Start Partial @depth20 [Future] process...
+09:45:51.330916> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:45:51.386903> WebSocket connected! Start @depth [Future] process...
+09:45:52.280486> WebSocket connected! Start Partial @depth20 [Future] process...
+09:45:52.288487> WebSocket connected! Start @depth [Future] process...
+09:45:52.290494> WebSocket connected! Start Partial @depth20 [Future] process...
+09:45:52.670329> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:45:52.832351> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 274.59824852 USDT
+09:58:47.288416> Try Open Buy, Bid: 71227.8 Ask:  71227.9
+09:58:47.288416> Lenta Signal open long, OpenLong:True Stk:0 StkImp:1 Lnt:2 Prg:0 Bid: 71227.8 Ask:  71227.9
+09:58:47.289410> Support: 71227.8 VolS:2.727 Resistence: 71232 VolR:0.572
+09:58:48.289466> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.07875;Price=71234.00;Slippage=71234.0;Execution=996.055 ms;
+09:58:48.290465> Move:0 Stk:0 Lnt:2 Prg:0 Bid: 71233.9 Ask:  71234.0
+09:58:48.359470> Placed Main Buy, ticketCustom = 1 ticket= 3659745640 LastBuyPrice=71227.9
+10:37:32.841269> Try adding BuyLimit, Bid: 71150.4 Ask:  71150.5
+10:37:32.842269> Lenta Signal open adding long, OpenLong:True , stoploss=70727.9 TotalVal=0.02 pos:0.02 EntrPrice=71227.9 Stk:0 StkImp:1 Lnt:2 Prg:0
+10:37:33.810202> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.14625;Price=71150.50;Slippage=71150.5;Execution=967.933 ms;
+10:37:33.812201> adding BuyLimit, ticket = 3659745640 ticketCustom = 2 
+10:48:18.327068> Try Close Buy, TotalVal=0.04 pos0.04 Bid: 71070.0 Ask: 71070.1, stoploss=70727.9
+10:48:18.331065> Lenta Signal close long, stoploss=70727.9 TotalVal=0.04 pos:0.04 EntrPrice=71227.9 Stk:0 StkImp:1 Lnt:1 Prg:0 Bid: 71070.0 Ask:  71070.1
+10:48:19.521949> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-3.8075;Price=71070.10;Slippage=71070.1;Execution=1190.884 ms;
+10:48:19.522950> Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71070.0 Ask:  71070.1
+10:48:19.522950> Close Main Buy, ticketCustom = 3 ticket = 3659745640
+15:00:39.726618>  DevSELL (-): -76.8225 avgGapSell:-29.1775 
+15:30:18.793939>  DevBUY (-): 249.915 avgGapBuy:-38.715 
+15:30:18.854941>  DevBUY (+): 197.215 avgGapBuy:-38.715 
+15:30:22.869852>  DevBUY (+): 221.4875 avgGapBuy:-29.5875 
+15:30:23.312877>  DevBUY (-): 312.9875 avgGapBuy:-29.5875 
+15:30:23.395882>  DevBUY (+): 261.8875 avgGapBuy:-29.5875 
+15:30:24.347331>  DevBUY (-): 352.8875 avgGapBuy:-29.5875 
+15:30:24.396343>  DevBUY (+): 316.6875 avgGapBuy:-29.5875 
+15:30:26.952530>  DevSELL (-): -129.3175 avgGapSell:5.8175 
+15:30:27.446526>  DevSELL (-): -142.2175 avgGapSell:5.8175 
+15:30:27.939554>  DevSELL (+): -143.7175 avgGapSell:5.8175 
+15:30:30.458747>  DevSELL (+): -119.20125 avgGapSell:17.50125 
+15:30:31.470557>  DevBUY (-): 81.04375 avgGapBuy:25.15625 
+15:30:31.498564>  DevBUY (+): 65.24375 avgGapBuy:25.15625 
+15:30:32.999184>  DevSELL (-): -87.60125 avgGapSell:17.50125 
+15:30:33.013192>  DevSELL (+): -74.50125 avgGapSell:17.50125 
+15:30:33.504231>  DevSELL (-): -115.70125 avgGapSell:17.50125 
+15:30:33.551216>  DevSELL (+): -99.60125 avgGapSell:17.50125 
+15:30:34.558558>  DevSELL (-): -211.50125 avgGapSell:17.50125 
+15:30:34.559559>  DevSELL (+): -211.50125 avgGapSell:17.50125 
+15:30:34.637564>  DevSELL (+): -212.475 avgGapSell:18.475 
+15:30:41.182747>  DevSELL (-): -76.35 avgGapSell:1.15 
+15:30:41.610467>  DevSELL (-): -143.65 avgGapSell:1.15 
+15:30:41.659468>  DevSELL (+): -85.95 avgGapSell:1.15 
+15:30:42.138499>  DevSELL (+): -114.55 avgGapSell:1.15 
+15:30:44.110259>  DevSELL (-): -150.85 avgGapSell:1.15 
+15:30:45.755331>  DevSELL (+): -103.5725 avgGapSell:-31.8275 
+15:30:46.126612>  DevBUY (-): 77.88875 avgGapBuy:-15.58875 
+15:30:46.627684>  DevSELL (-): -87.3725 avgGapSell:-31.8275 
+15:31:01.323862>  DevBUY (-): 76.4975 avgGapBuy:-48.6975 
+15:31:30.735023>  DevBUY (+): 79.73 avgGapBuy:-26.43 
+15:44:13.977954>  DevSELL (-): -122.3525 avgGapSell:-29.4475 
+15:57:10.448063>  DevSELL (-): -108.26125 avgGapSell:-35.23875 
+15:57:10.971377>  DevSELL (-): -115.76125 avgGapSell:-35.23875 

@@ -1,0 +1,304 @@
+14:30:42.184946> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:30:42.185945> WebSocket connected! Start Partial @depth20 [Future] process...
+14:30:42.189945> WebSocket connected! Start @depth [Future] process...
+14:30:42.189945> WebSocket connected! Start Partial @depth20 [Future] process...
+14:30:42.189945> WebSocket connected! Start @depth [Future] process...
+14:30:42.189945> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:30:43.141391> WebSocket connected! Start Partial @depth20 [Future] process...
+14:30:43.148382> WebSocket connected! Start @depth [Future] process...
+14:30:43.149383> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:30:43.160382> WebSocket connected! Start @depth [Future] process...
+14:30:43.184385> WebSocket connected! Start Partial @depth20 [Future] process...
+14:30:43.187387> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:30:43.668857> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 623.78471012 USDT
+14:33:40.454508> Signal 1(s), Bid: 62256.0 Ask:  62256.1
+14:33:45.101054> Signal 1(s), Bid: 62256.0 Ask:  62256.1
+14:40:03.083327> Signal 1(s), Bid: 62260.4 Ask:  62260.5
+14:40:11.796569> Signal 1(s), Bid: 62255.3 Ask:  62255.4
+14:40:23.797987> Signal 1(s), Bid: 62210.8 Ask:  62210.9
+14:42:53.790113> Signal 2(s), Bid: 62293.9 Ask:  62294.0
+14:45:49.957681> Signal 1(s), Bid: 62227.1 Ask:  62227.2
+14:46:00.828660> Signal 1(s), Bid: 62234.0 Ask:  62234.1
+14:46:11.247197> Signal 1(s), Bid: 62240.0 Ask:  62240.1
+14:46:23.228789> Signal 1(s), Bid: 62230.8 Ask:  62230.9
+14:46:27.947504> Signal 1(s), Bid: 62224.4 Ask:  62224.5
+14:58:01.384292> Signal 1(s), Bid: 62249.1 Ask:  62249.2
+14:59:34.074925> Signal 1(s), Bid: 62237.1 Ask:  62237.2
+15:00:12.859105> Signal 1(s), Bid: 62210.9 Ask:  62211.0
+15:00:30.125093> Signal 1(s), Bid: 62222.0 Ask:  62222.1
+15:00:40.479687> Signal 1(s), Bid: 62200.3 Ask:  62200.4
+15:01:35.407839> Signal 1(s), Bid: 62212.0 Ask:  62212.1
+15:02:03.035421> Signal 1(s), Bid: 62189.9 Ask:  62190.0
+15:03:24.829115> Signal 1(s), Bid: 62192.0 Ask:  62192.1
+15:03:26.849257> Signal 1(s), Bid: 62229.1 Ask:  62229.2
+15:03:35.702733> Signal 2(s), Bid: 62258.9 Ask:  62259.0
+15:03:39.502749> Signal 2(s), Bid: 62260.3 Ask:  62260.4
+15:03:42.768332> Signal 2(s), Bid: 62280.6 Ask:  62280.7
+15:03:56.459345> Signal 2(s), Bid: 62293.9 Ask:  62294.0
+15:07:43.823805> Signal 1(s), Bid: 62266.0 Ask:  62266.1
+15:07:45.924207> Signal 1(s), Bid: 62258.2 Ask:  62258.3
+15:07:49.546596> Signal 1(s), Bid: 62255.9 Ask:  62256.0
+15:07:59.106138> Signal 1(s), Bid: 62258.0 Ask:  62258.1
+15:09:32.072696> Signal 1(s), Bid: 62277.5 Ask:  62277.6
+15:18:48.861516> Signal 1(s), Bid: 62301.7 Ask:  62301.8
+15:19:22.720824> Signal 1(s), Bid: 62252.0 Ask:  62252.1
+15:31:26.508771> Signal 1(s), Bid: 62234.0 Ask:  62234.1
+15:37:10.042686> Signal 1(s), Bid: 62099.9 Ask:  62100.0
+15:37:11.065067> Signal 1(s), Bid: 62090.0 Ask:  62090.1
+15:37:14.156849> Signal 1(s), Bid: 62090.0 Ask:  62090.1
+15:37:23.481612> Signal 1(s), Bid: 62077.9 Ask:  62078.0
+15:37:37.403582> Signal 1(s), Bid: 62072.0 Ask:  62072.1
+15:37:40.990175> Signal 1(s), Bid: 62064.0 Ask:  62064.1
+15:38:49.422924> Signal 2(s), Bid: 62358.6 Ask:  62358.7
+15:47:26.918171> Signal 2(s), Bid: 62459.6 Ask:  62459.7
+15:47:27.407203> Signal 2(s), Bid: 62464.7 Ask:  62464.8
+15:47:28.443233> Signal 2(s), Bid: 62468.3 Ask:  62468.4
+15:47:28.447245> Signal 2(s), Bid: 62468.3 Ask:  62468.4
+15:47:38.104292> Signal 2(s), Bid: 62493.9 Ask:  62494.0
+15:47:48.135990> Signal 2(s), Bid: 62490.9 Ask:  62491.0
+15:47:59.789814> Signal 2(s), Bid: 62486.0 Ask:  62486.1
+15:48:05.286406> Signal 2(s), Bid: 62487.9 Ask:  62488.0
+15:48:23.313351> Signal 2(s), Bid: 62526.5 Ask:  62526.6
+15:48:23.804395> Signal 2(s), Bid: 62526.5 Ask:  62526.6
+15:49:33.140066> Signal 2(s), Bid: 62582.0 Ask:  62582.1
+15:49:59.864101> Signal 2(s), Bid: 62578.1 Ask:  62578.2
+15:51:43.729492> Signal 2(s), Bid: 62573.9 Ask:  62574.0
+15:51:57.709175> Signal 2(s), Bid: 62569.3 Ask:  62570.0
+15:52:14.224544> Signal 2(s), Bid: 62540.0 Ask:  62540.1
+15:55:23.653962> Signal 2(s), Bid: 62564.2 Ask:  62564.3
+15:55:38.961252> Signal 2(s), Bid: 62584.6 Ask:  62584.7
+15:55:46.821287> Signal 2(s), Bid: 62588.9 Ask:  62589.0
+15:55:48.988159> Signal 2(s), Bid: 62587.9 Ask:  62588.0
+15:55:56.190345> Signal 2(s), Bid: 62610.0 Ask:  62610.1
+15:56:05.912433> Signal 2(s), Bid: 62613.9 Ask:  62614.0
+15:56:13.912222> Signal 2(s), Bid: 62611.9 Ask:  62612.0
+15:56:23.669483> Signal 2(s), Bid: 62592.0 Ask:  62592.1
+15:56:25.944614> Signal 2(s), Bid: 62603.4 Ask:  62603.5
+15:56:58.783904> Signal 2(s), Bid: 62610.0 Ask:  62610.1
+15:58:43.617539> Signal 1(s), Bid: 62574.4 Ask:  62574.5
+15:59:09.005176> Signal 1(s), Bid: 62573.0 Ask:  62573.1
+15:59:20.058551> Signal 1(s), Bid: 62568.6 Ask:  62568.7
+15:59:30.608500> Signal 1(s), Bid: 62559.5 Ask:  62559.6
+15:59:34.054435> Signal 1(s), Bid: 62559.5 Ask:  62559.6
+15:59:36.932427> Signal 1(s), Bid: 62550.1 Ask:  62551.7
+15:59:39.498175> Signal 1(s), Bid: 62550.0 Ask:  62550.1
+16:00:19.265099> Signal 1(s), Bid: 62614.6 Ask:  62614.7
+16:02:11.956826> Signal 2(s), Bid: 62508.7 Ask:  62508.8
+16:12:43.050838> Signal 1(s), Bid: 62539.6 Ask:  62539.7
+16:13:39.607640> Signal 1(s), Bid: 62536.2 Ask:  62536.3
+16:14:30.414833> Signal 1(s), Bid: 62528.0 Ask:  62528.1
+16:14:33.211994> Signal 1(s), Bid: 62524.0 Ask:  62524.1
+16:14:37.650437> Signal 1(s), Bid: 62512.0 Ask:  62512.1
+16:14:45.685698> Signal 1(s), Bid: 62494.0 Ask:  62494.1
+16:14:50.306394> Signal 1(s), Bid: 62488.9 Ask:  62489.0
+16:16:11.294084> Signal 1(s), Bid: 62465.0 Ask:  62465.1
+16:16:12.763788> Signal 1(s), Bid: 62457.0 Ask:  62457.1
+16:16:16.726611> Signal 1(s), Bid: 62451.0 Ask:  62451.1
+16:16:17.518711> Signal 1(s), Bid: 62448.5 Ask:  62448.6
+16:16:19.214802> Signal 1(s), Bid: 62447.2 Ask:  62447.3
+16:19:19.607451> Signal 2(s), Bid: 62510.3 Ask:  62510.4
+16:21:11.772882> Signal 1(s), Bid: 62537.9 Ask:  62538.0
+16:22:05.367057> Signal 1(s), Bid: 62574.0 Ask:  62574.1
+16:22:27.685803> Signal 1(s), Bid: 62532.6 Ask:  62532.7
+16:22:35.695981> Signal 1(s), Bid: 62543.2 Ask:  62543.3
+16:22:52.107420> Signal 1(s), Bid: 62480.4 Ask:  62480.5
+16:23:02.212281> Signal 1(s), Bid: 62480.0 Ask:  62480.1
+16:24:36.228011> Signal 1(s), Bid: 62456.4 Ask:  62456.5
+16:27:33.623502> Signal 1(s), Bid: 62477.9 Ask:  62478.0
+16:27:51.879045> Signal 1(s), Bid: 62495.9 Ask:  62496.0
+16:28:00.370511> Signal 1(s), Bid: 62490.0 Ask:  62490.1
+16:28:03.529365> Signal 1(s), Bid: 62476.0 Ask:  62476.1
+16:28:34.830437> Signal 1(s), Bid: 62481.9 Ask:  62482.0
+16:28:42.342320> Signal 1(s), Bid: 62464.8 Ask:  62464.9
+16:29:26.883575> Signal 1(s), Bid: 62479.3 Ask:  62479.4
+16:30:47.739591> Signal 1(s), Bid: 62421.9 Ask:  62422.0
+16:33:19.771748> Signal 1(s), Bid: 62447.0 Ask:  62447.1
+16:33:23.798054> Signal 1(s), Bid: 62445.8 Ask:  62445.9
+16:34:42.664579> Signal 2(s), Bid: 62364.0 Ask:  62364.1
+16:34:44.605254> Signal 2(s), Bid: 62364.0 Ask:  62364.1
+16:34:48.645640> Signal 2(s), Bid: 62362.0 Ask:  62362.1
+16:34:51.630299> Signal 2(s), Bid: 62362.0 Ask:  62362.1
+16:40:16.483707> Signal 1(s), Bid: 62062.8 Ask:  62062.9
+16:40:17.930788> Signal 1(s), Bid: 62065.3 Ask:  62065.4
+16:40:23.986138> Signal 1(s), Bid: 62082.2 Ask:  62083.2
+16:41:55.935012> Signal 1(s), Bid: 62083.6 Ask:  62083.7
+16:42:08.522156> Signal 1(s), Bid: 62080.0 Ask:  62080.1
+16:42:19.369545> Signal 1(s), Bid: 62087.8 Ask:  62087.9
+16:42:27.141368> Signal 1(s), Bid: 62088.0 Ask:  62088.1
+16:44:16.801656> Signal 1(s), Bid: 61951.1 Ask:  61951.2
+16:44:29.954409> Signal 1(s), Bid: 61958.8 Ask:  61958.9
+16:44:49.324519> Signal 2(s), Bid: 61924.0 Ask:  61924.1
+16:45:23.718489> Signal 2(s), Bid: 61954.9 Ask:  61955.0
+16:45:35.125145> Signal 2(s), Bid: 61970.0 Ask:  61970.1
+16:46:03.055758> Signal 2(s), Bid: 61973.1 Ask:  61973.2
+16:48:56.208600> Signal 1(s), Bid: 61978.0 Ask:  61978.1
+16:48:59.038051> Signal 1(s), Bid: 61983.5 Ask:  61983.6
+16:49:05.592167> Signal 1(s), Bid: 61964.0 Ask:  61964.1
+16:49:11.234951> Signal 1(s), Bid: 61958.8 Ask:  61958.9
+16:49:14.782478> Signal 1(s), Bid: 61935.0 Ask:  61935.1
+16:49:18.883475> Signal 1(s), Bid: 61921.9 Ask:  61922.0
+16:49:21.942651> Signal 1(s), Bid: 61915.0 Ask:  61915.1
+16:53:11.521014> Signal 1(s), Bid: 61891.9 Ask:  61892.0
+16:53:13.785144> Signal 1(s), Bid: 61888.0 Ask:  61888.1
+16:53:22.168835> Signal 1(s), Bid: 61880.0 Ask:  61880.1
+16:53:28.755735> Signal 1(s), Bid: 61869.9 Ask:  61870.0
+16:54:23.959899> Signal 2(s), Bid: 61898.0 Ask:  61898.1
+16:54:31.394328> Signal 2(s), Bid: 61919.9 Ask:  61920.0
+16:56:08.304205> Signal 2(s), Bid: 61868.7 Ask:  61868.8
+16:56:18.298781> Signal 2(s), Bid: 61876.0 Ask:  61876.1
+16:56:59.174554> Signal 2(s), Bid: 61899.9 Ask:  61900.0
+16:57:31.124831> Signal 2(s), Bid: 61905.9 Ask:  61906.0
+16:58:19.362597> Signal 2(s), Bid: 61915.5 Ask:  61915.6
+17:04:25.223025> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:04:25.224027> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:07:40.779240> Signal 2(s), Bid: 61998.0 Ask:  61998.1
+17:07:59.907335> WebSocket connected! Start @depth [Future] process...
+17:08:49.809197>  DevSELL (-): -132.26 avgGapSell:70.36 
+17:08:50.227226>  DevSELL (+): -127.06 avgGapSell:70.36 
+17:08:53.845670>  DevSELL (-): -152.46 avgGapSell:70.36 
+17:08:56.505581>  DevSELL (-): -157.805 avgGapSell:43.205 
+17:08:56.666589>  DevSELL (-): -162.705 avgGapSell:43.205 
+17:08:57.441648>  DevSELL (+): -173.005 avgGapSell:43.205 
+17:08:58.448697>  DevSELL (-): -166.905 avgGapSell:43.205 
+17:09:02.231910>  DevSELL (-): -128.515 avgGapSell:-29.485 
+17:09:02.233909>  DevSELL (+): -138.415 avgGapSell:-29.485 
+17:09:03.258969>  DevSELL (-): -128.315 avgGapSell:-29.485 
+17:09:03.266970>  DevSELL (-): -140.515 avgGapSell:-29.485 
+17:09:05.036070>  DevSELL (-): -184.27 avgGapSell:-60.53 
+17:09:08.400262>  DevSELL (+): -173.57 avgGapSell:-60.53 
+17:09:08.858298> Signal 2(s), Bid: 61924.0 Ask:  61924.1
+17:09:30.299519>  DevSELL (-): -150.35 avgGapSell:-154.65 
+17:09:31.561590>  DevSELL (-): -146.95 avgGapSell:-154.65 
+17:09:33.577717>  DevSELL (+): -126.25 avgGapSell:-154.65 
+17:09:36.483875>  DevSELL (-): -167.785 avgGapSell:-138.515 
+17:09:37.758947>  DevSELL (+): -163.385 avgGapSell:-138.515 
+17:09:38.695006>  DevSELL (+): -133.485 avgGapSell:-138.515 
+17:09:46.567452>  DevSELL (-): -125.695 avgGapSell:-176.405 
+17:09:51.485732>  DevBUY (-): 135.795 avgGapBuy:-188.195 
+17:09:51.642742>  DevBUY (+): 133.795 avgGapBuy:-188.195 
+17:09:54.552916>  DevBUY (+): 135.695 avgGapBuy:-188.195 
+17:09:55.748977>  DevSELL (+): -187.06 avgGapSell:-109.04 
+17:09:55.832986>  DevSELL (-): -191.56 avgGapSell:-109.04 
+17:09:56.304008>  DevSELL (-): -174.26 avgGapSell:-109.04 
+17:09:57.701089>  DevSELL (-): -184.96 avgGapSell:-109.04 
+17:09:57.739092>  DevSELL (-): -189.86 avgGapSell:-109.04 
+17:09:58.288125>  DevSELL (+): -173.26 avgGapSell:-109.04 
+17:09:58.647144>  DevSELL (-): -176.96 avgGapSell:-109.04 
+17:10:00.459248>  DevSELL (+): -186.36 avgGapSell:-109.04 
+17:10:01.931348>  DevBUY (+): 185.21 avgGapBuy:-226.71 
+17:10:02.635376>  DevBUY (-): 170.91 avgGapBuy:-226.71 
+17:10:02.819381>  DevBUY (-): 194.31 avgGapBuy:-226.71 
+17:10:06.843614>  DevBUY (+): 189.72 avgGapBuy:-216.02 
+17:11:21.623903> Signal 2(s), Bid: 62121.9 Ask:  62122.0
+17:11:36.858775> Signal 2(s), Bid: 62151.9 Ask:  62152.0
+17:12:00.139114> Signal 2(s), Bid: 62115.9 Ask:  62116.0
+17:12:05.612424> Signal 2(s), Bid: 62151.9 Ask:  62152.0
+17:17:50.592218>  DevSELL (-): -126.84 avgGapSell:16.04 
+17:17:52.763329>  DevSELL (-): -127.84 avgGapSell:16.04 
+17:18:57.567045> Signal 2(s), Bid: 62225.9 Ask:  62160.0
+17:20:36.132696> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:20:36.413711> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:20:41.822022> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:20:41.822022> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:21:53.816387> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:21:53.816387> Signal 1(s), Bid: 62246.0 Ask:  62246.1
+17:21:59.131692> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:21:59.185692> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:24:06.927716>  DevSELL (-): -124.275 avgGapSell:-75.925 
+17:24:07.237734>  DevSELL (+): -124.275 avgGapSell:-75.925 
+17:24:09.095844>  DevBUY (-): 165.56 avgGapBuy:-124.46 
+17:24:11.530981>  DevBUY (-): 165.56 avgGapBuy:-124.46 
+17:24:11.542981>  DevBUY (+): 155.26 avgGapBuy:-124.46 
+17:24:13.557097>  DevBUY (-): 145.085 avgGapBuy:-106.185 
+17:24:15.523210>  DevBUY (+): 135.885 avgGapBuy:-106.185 
+17:24:16.281254>  DevBUY (-): 135.885 avgGapBuy:-106.185 
+17:24:16.474264>  DevBUY (+): 135.885 avgGapBuy:-106.185 
+17:24:18.461379>  DevBUY (+): 129.04 avgGapBuy:-81.14 
+17:24:24.837743>  DevSELL (-): -130.185 avgGapSell:-26.715 
+17:24:27.553899>  DevSELL (-): -162.285 avgGapSell:-26.715 
+17:24:27.721908>  DevSELL (-): -163.085 avgGapSell:-26.715 
+17:24:29.331015>  DevSELL (+): -130.06 avgGapSell:-59.74 
+17:24:30.141048>  DevSELL (-): -142.56 avgGapSell:-59.74 
+17:24:30.917092>  DevSELL (+): -144.76 avgGapSell:-59.74 
+17:24:31.492125>  DevSELL (+): -149.16 avgGapSell:-59.74 
+17:24:32.768199>  DevSELL (-): -150.26 avgGapSell:-59.74 
+17:24:33.485239>  DevBUY (-): 136.215 avgGapBuy:-99.315 
+17:24:34.941323>  DevSELL (+): -126.39 avgGapSell:-99.31 
+17:24:36.555416>  DevBUY (-): 136.215 avgGapBuy:-99.315 
+17:24:36.751437>  DevBUY (-): 139.515 avgGapBuy:-99.315 
+17:24:37.293458>  DevSELL (-): -128.19 avgGapSell:-99.31 
+17:24:38.962552>  DevBUY (-): 170.295 avgGapBuy:-102.995 
+17:24:40.846661>  DevBUY (+): 153.795 avgGapBuy:-102.995 
+17:24:41.443705>  DevBUY (-): 146.095 avgGapBuy:-102.995 
+17:24:42.110732>  DevBUY (-): 149.995 avgGapBuy:-102.995 
+17:24:43.337804>  DevSELL (-): -136.485 avgGapSell:-76.515 
+17:24:43.835832>  DevBUY (-): 134.51 avgGapBuy:-74.81 
+17:24:44.789886>  DevBUY (+): 133.61 avgGapBuy:-74.81 
+17:24:46.291973>  DevBUY (+): 133.61 avgGapBuy:-74.81 
+17:24:50.043187>  DevSELL (-): -128.635 avgGapSell:-50.265 
+17:24:50.861235>  DevSELL (-): -134.335 avgGapSell:-50.265 
+17:24:53.058362>  DevSELL (+): -134.335 avgGapSell:-50.265 
+17:24:53.437384>  DevBUY (-): 154.61 avgGapBuy:-99.91 
+17:24:54.864464>  DevBUY (-): 153.01 avgGapBuy:-99.91 
+17:25:07.306183> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:25:07.307179> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:25:08.167226> Received an unexpected EOF or 0 bytes from the transport stream.
+17:25:13.679544> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:25:13.680544> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:25:48.145521>  DevSELL (-): -124.565 avgGapSell:-112.835 
+17:25:49.196582>  DevSELL (-): -136.265 avgGapSell:-112.835 
+17:25:56.714016> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:26:02.278330> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:26:02.278330> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:26:17.833952>  DevBUY (+): 134.865 avgGapBuy:-146.165 
+17:26:18.478989>  DevBUY (-): 125.565 avgGapBuy:-146.165 
+17:26:20.064079>  DevBUY (-): 127.465 avgGapBuy:-146.165 
+17:28:58.159143> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:28:58.162144> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:29:18.898653> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:29:19.228669> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:29:19.736700> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:29:19.736700> WebSocket connected! Start @depth [Future] process...
+17:29:19.736700> WebSocket connected! Start @depth [Future] process...
+17:29:19.774701> WebSocket connected! Start @depth [Future] process...
+17:31:10.195040> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:31:10.267036> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:31:11.311097> WebSocket connected! Start @depth [Future] process...
+17:32:00.291927>  DevBUY (-): 153.465 avgGapBuy:-40.565 
+17:34:43.957289> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:34:49.378600> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:34:49.379600> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:34:50.707683> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:35:25.632678> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:35:25.633679> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:35:31.195580> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:35:31.196580> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:35:31.197582> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:35:31.198582> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:35:31.376598> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:35:32.637662> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:35:32.957688> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:35:36.849912> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:35:36.851905> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:35:38.072973> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:36:05.800563>  DevBUY (-): 141.00 avgGapBuy:-33.90 
+17:36:06.928628>  DevBUY (-): 154.00 avgGapBuy:-33.90 
+17:36:06.970636>  DevBUY (-): 157.50 avgGapBuy:-33.90 
+17:36:07.859681>  DevBUY (+): 132.80 avgGapBuy:-33.90 
+17:36:08.738733>  DevBUY (+): 136.40 avgGapBuy:-33.90 
+17:36:17.618239>  DevSELL (-): -157.345 avgGapSell:34.845 
+17:36:17.928258>  DevSELL (-): -151.445 avgGapSell:34.845 
+17:36:18.842312>  DevSELL (+): -151.445 avgGapSell:34.845 
+17:36:18.978317>  DevSELL (-): -158.865 avgGapSell:22.965 
+17:36:22.682563>  DevSELL (-): -147.865 avgGapSell:22.965 
+17:36:23.245564>  DevSELL (-): -153.865 avgGapSell:22.965 
+17:36:23.313571>  DevSELL (-): -158.865 avgGapSell:22.965 
+17:36:23.562584>  DevSELL (-): -158.965 avgGapSell:22.965 
+17:36:24.390629>  DevSELL (+): -145.22 avgGapSell:-11.08 
+17:36:24.891658>  DevSELL (-): -124.52 avgGapSell:-11.08 
+17:36:24.933660>  DevSELL (-): -158.02 avgGapSell:-11.08 
+17:36:25.168672>  DevSELL (+): -158.02 avgGapSell:-11.08 
+17:36:25.176674>  DevSELL (-): -124.52 avgGapSell:-11.08 
+17:36:37.533398>  DevSELL (-): -186.655 avgGapSell:-16.645 
+17:36:38.046422>  DevSELL (-): -142.955 avgGapSell:-16.645 
+17:36:38.162418>  DevSELL (-): -209.555 avgGapSell:-16.645 

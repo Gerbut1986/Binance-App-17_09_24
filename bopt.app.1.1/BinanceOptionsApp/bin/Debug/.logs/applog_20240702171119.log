@@ -1,0 +1,1393 @@
+17:11:49.043561> WebSocket connected! Start @depth [Future] process...
+17:11:49.247582> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:11:49.252572> WebSocket connected! Start Partial @depth20 [Future] process...
+17:11:49.318576> WebSocket connected! Start Partial @depth20 [Future] process...
+17:11:50.296918> WebSocket connected! Start @depth [Future] process...
+17:11:50.335913> WebSocket connected! Start Partial @depth20 [Future] process...
+17:11:50.412917> WebSocket connected! Start Partial @depth20 [Future] process...
+17:11:50.656932> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 401.47408921 USDT
+17:11:50.659932> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:16:11.192632> Try Open BuyLimit, Bid: 62228.3 Ask:  62228.4
+17:16:11.193632> Order Signal open long, Order=2 StepByStepUP:0 Stk:20 StkImp:0 Lnt:2 Prg:0 Tide:20 Bid: 62228.3 Ask:  62228.4
+17:16:11.470647> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=62228.4;Execution=274.015 ms;
+17:16:11.471656> Placed Main BuyLimit, ticketCustom = 1 ticket= 4371182868 LastBuyPrice=62228.3
+17:16:15.003158> Try adding BuyLimit, Bid: 62223.7 Ask:  62223.8
+17:16:16.063642> [1Leg]: Buy OK BTCUSDC at 62221.70;Price=62221.7;Slippage=2.1;Execution=1058.493 ms;
+17:16:16.065644> adding BuyLimit, ticket = 4371182868 ticketCustom = 2 
+17:17:03.448546> Try adding BuyLimit, Bid: 62213.3 Ask:  62213.4
+17:17:03.728561> [1Leg]: Buy OK BTCUSDC at 62211.30;Price=62211.3;Slippage=2.1;Execution=279.015 ms;
+17:17:03.729562> adding BuyLimit, ticket = 4371182868 ticketCustom = 3 
+17:17:13.954673> Try adding BuyLimit, Bid: 62207.5 Ask:  62209.0
+17:17:14.226707> [1Leg]: Buy OK BTCUSDC at 62205.50;Price=62205.5;Slippage=3.5;Execution=271.034 ms;
+17:17:14.228688> adding BuyLimit, ticket = 4371182868 ticketCustom = 4 
+17:17:14.451700> Try adding BuyLimit, Bid: 62204.2 Ask:  62204.3
+17:17:14.705713> [1Leg]: Buy OK BTCUSDC at 62202.20;Price=62202.2;Slippage=2.1;Execution=254.013 ms;
+17:17:14.706716> adding BuyLimit, ticket = 4371182868 ticketCustom = 5 
+17:18:06.000117> Try place lock SellLimit, Bid: 62275.7 Ask:62275.8 wantPrice:62299.1  EntrPrice:62214.34
+17:18:06.787910> [1Leg]: Sell OK BTCUSDC at 62299.10;Price=62299.1;Slippage=-23.3;Execution=786.805 ms;
+17:18:06.788909> Placed lock SellLimit, ticketCustom= 6, ticket= 4371182868 
+17:18:06.789910>  
+17:18:45.000484> Try Delete main Buy order, 
+17:18:45.002475>  
+17:18:45.389215> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:45.392214> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:46.419728> Try Delete main Buy order, 
+17:18:46.420712>  
+17:18:46.712686> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:46.713686> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:47.724205> Try Delete main Buy order, 
+17:18:47.725190>  
+17:18:48.008206> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:48.009204> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:49.039260> Try Delete main Buy order, 
+17:18:49.040247>  
+17:18:49.366296> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:49.367296> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:50.386445> Try Delete main Buy order, 
+17:18:50.387440>  
+17:18:50.679457> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:50.679457> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:51.691551> Try Delete main Buy order, 
+17:18:51.692537>  
+17:18:51.983554> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:51.983554> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:53.012585> Try Delete main Buy order, 
+17:18:53.013529>  
+17:18:53.307460> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:53.308460> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:54.333362> Try Delete main Buy order, 
+17:18:54.333362>  
+17:18:54.624377> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:54.643375> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:55.676305> Try Delete main Buy order, 
+17:18:55.676305>  
+17:18:55.968307> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:55.968307> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:56.990292> Try Delete main Buy order, 
+17:18:56.991285>  
+17:18:57.289303> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:57.290303> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:58.320923> Try Delete main Buy order, 
+17:18:58.321923>  
+17:18:58.611941> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:58.612941> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:18:59.654776> Try Delete main Buy order, 
+17:18:59.655766>  
+17:18:59.952940> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:59.954937> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:00.977876> Try Delete main Buy order, 
+17:19:00.978863>  
+17:19:01.287879> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:01.288879> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:02.314807> Try Delete main Buy order, 
+17:19:02.315809>  
+17:19:02.627815> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:02.627815> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:03.702727> Try Delete main Buy order, 
+17:19:03.702727>  
+17:19:04.004747> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:04.005744> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:05.142544> Try Delete main Buy order, 
+17:19:05.142544>  
+17:19:05.441562> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:05.441562> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:06.452519> Try Delete main Buy order, 
+17:19:06.453520>  
+17:19:06.737535> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:06.737535> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:07.746771> Try Delete main Buy order, 
+17:19:07.747739>  
+17:19:08.037172> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:08.038169> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:09.045682> Try Delete main Buy order, 
+17:19:09.046678>  
+17:19:09.492705> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:09.543706> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:10.593179> Try Delete main Buy order, 
+17:19:10.594164>  
+17:19:10.889166> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:10.889166> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:11.918236> Try Delete main Buy order, 
+17:19:11.921232>  
+17:19:12.264225> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:12.264225> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:13.317343> Try Delete main Buy order, 
+17:19:13.318342>  
+17:19:13.741378> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:13.742374> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:14.760852> Try Delete main Buy order, 
+17:19:14.761840>  
+17:19:15.050857> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:15.051857> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:16.071786> Try Delete main Buy order, 
+17:19:16.072782>  
+17:19:16.368798> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:16.368798> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:17.414737> Try Delete main Buy order, 
+17:19:17.415728>  
+17:19:17.703276> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:17.703276> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:18.739588> Try Delete main Buy order, 
+17:19:18.740580>  
+17:19:19.032597> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:19.033598> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:20.063385> Try Delete main Buy order, 
+17:19:20.065358>  
+17:19:20.363376> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:20.364376> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:21.376956> Try Delete main Buy order, 
+17:19:21.376956>  
+17:19:21.665972> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:21.665972> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:22.684073> Try Delete main Buy order, 
+17:19:22.685050>  
+17:19:22.974071> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:22.975064> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:23.997670> Try Delete main Buy order, 
+17:19:23.998671>  
+17:19:24.339690> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:24.341691> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:25.350613> Try Delete main Buy order, 
+17:19:25.351603>  
+17:19:25.639617> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:25.640617> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:26.652972> Try Delete main Buy order, 
+17:19:26.653968>  
+17:19:26.979757> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:26.981759> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:28.021021> Try Delete main Buy order, 
+17:19:28.022024>  
+17:19:28.320040> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:28.335040> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:29.372152> Try Delete main Buy order, 
+17:19:29.373150>  
+17:19:29.672167> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:29.673168> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:30.702620> Try Delete main Buy order, 
+17:19:30.702620>  
+17:19:31.014982> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:31.015981> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:32.037714> Try Delete main Buy order, 
+17:19:32.038704>  
+17:19:32.381725> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:32.382726> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:33.402710> Try Delete main Buy order, 
+17:19:33.403702>  
+17:19:33.689725> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:33.690717> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:34.708447> Try Delete main Buy order, 
+17:19:34.708447>  
+17:19:34.998462> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:34.998462> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:36.004735> Try Delete main Buy order, 
+17:19:36.028730>  
+17:19:36.340750> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:36.341748> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:37.360015> Try Delete main Buy order, 
+17:19:37.361012>  
+17:19:37.654253> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:37.654253> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:38.687838> Try Delete main Buy order, 
+17:19:38.688822>  
+17:19:38.972838> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:38.972838> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:39.982833> Try Delete main Buy order, 
+17:19:39.983824>  
+17:19:40.404847> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:40.404847> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:41.434178> Try Delete main Buy order, 
+17:19:41.435135>  
+17:19:41.741745> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:41.743748> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:42.757292> Try Delete main Buy order, 
+17:19:42.758268>  
+17:19:43.070286> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:43.071287> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:44.103398> Try Delete main Buy order, 
+17:19:44.103398>  
+17:19:44.419407> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:44.420407> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:45.475659> Try Delete main Buy order, 
+17:19:45.476650>  
+17:19:45.773440> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:45.773440> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:46.825508> Try Delete main Buy order, 
+17:19:46.826482>  
+17:19:47.115497> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:47.115497> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:48.165798> Try Delete main Buy order, 
+17:19:48.166790>  
+17:19:48.494633> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:48.496636> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:49.509348> Try Delete main Buy order, 
+17:19:49.509348>  
+17:19:49.804637> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:49.804637> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:50.862455> Try Delete main Buy order, 
+17:19:50.862455>  
+17:19:51.159479> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:51.160482> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:52.181448> Try Delete main Buy order, 
+17:19:52.182445>  
+17:19:52.488463> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:52.489463> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:53.531629> Try Delete main Buy order, 
+17:19:53.531629>  
+17:19:53.867645> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:53.890646> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:54.915031> Try Delete main Buy order, 
+17:19:54.916032>  
+17:19:55.262880> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:55.262880> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:56.276675> Try Delete main Buy order, 
+17:19:56.277676>  
+17:19:56.583693> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:56.584693> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:57.616128> Try Delete main Buy order, 
+17:19:57.617130>  
+17:19:57.935147> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:57.935147> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:19:58.953043> Try Delete main Buy order, 
+17:19:58.954042>  
+17:19:59.299571> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:19:59.299571> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:00.313250> Try Delete main Buy order, 
+17:20:00.314250>  
+17:20:00.614270> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:00.615267> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:01.640709> Try Delete main Buy order, 
+17:20:01.640709>  
+17:20:01.994543> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:01.994543> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:03.006602> Try Delete main Buy order, 
+17:20:03.007585>  
+17:20:03.319604> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:03.321604> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:04.337739> Try Delete main Buy order, 
+17:20:04.338728>  
+17:20:04.704751> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:04.706750> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:05.719485> Try Delete main Buy order, 
+17:20:05.719485>  
+17:20:06.075784> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:06.076783> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:07.089264> Try Delete main Buy order, 
+17:20:07.090254>  
+17:20:07.392352> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:07.394353> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:08.450939> Try Delete main Buy order, 
+17:20:08.450939>  
+17:20:08.783719> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:08.784717> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:09.853874> Try Delete main Buy order, 
+17:20:09.854869>  
+17:20:10.192586> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:10.192586> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:11.208871> Try Delete main Buy order, 
+17:20:11.210871>  
+17:20:11.518392> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:11.519392> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:12.542966> Try Delete main Buy order, 
+17:20:12.542966>  
+17:20:12.833115> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:12.834116> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:13.855533> Try Delete main Buy order, 
+17:20:13.856523>  
+17:20:14.178546> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:14.179542> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:15.189907> Try Delete main Buy order, 
+17:20:15.190900>  
+17:20:15.892078> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:15.893079> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:16.913134> Try Delete main Buy order, 
+17:20:16.913134>  
+17:20:18.260346> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:18.261347> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:19.286204> Try Delete main Buy order, 
+17:20:19.287191>  
+17:20:19.642209> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:19.642209> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:20.650233> Try Delete main Buy order, 
+17:20:20.650233>  
+17:20:21.030001> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:21.031002> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:22.058532> Try Delete main Buy order, 
+17:20:22.059525>  
+17:20:22.407242> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:22.408242> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:23.415220> Try Delete main Buy order, 
+17:20:23.416220>  
+17:20:23.745239> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:23.746238> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:24.872746> Try Delete main Buy order, 
+17:20:24.873740>  
+17:20:25.198756> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:25.199755> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:26.259753> Try Delete main Buy order, 
+17:20:26.260752>  
+17:20:26.577669> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:26.578661> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:27.599011> Try Delete main Buy order, 
+17:20:27.599011>  
+17:20:27.911837> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:27.911837> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:28.947203> Try Delete main Buy order, 
+17:20:28.948191>  
+17:20:29.290321> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:29.290321> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:30.301977> Try Delete main Buy order, 
+17:20:30.302968>  
+17:20:30.606985> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:30.607985> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:31.654257> Try Delete main Buy order, 
+17:20:31.654257>  
+17:20:32.003883> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:32.004884> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:33.020613> Try Delete main Buy order, 
+17:20:33.021613>  
+17:20:33.325633> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:33.326632> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:34.347196> Try Delete main Buy order, 
+17:20:34.348193>  
+17:20:41.018346> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:41.019347> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:42.029227> Try Delete main Buy order, 
+17:20:42.030224>  
+17:20:42.418246> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:42.419247> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:43.439956> Try Delete main Buy order, 
+17:20:43.439956>  
+17:20:43.765970> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:43.766969> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:44.819735> Try Delete main Buy order, 
+17:20:44.819735>  
+17:20:45.547737> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:45.548738> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:46.617306> Try Delete main Buy order, 
+17:20:46.618307>  
+17:20:47.294390> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:47.295389> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:48.303458> Try Delete main Buy order, 
+17:20:48.303458>  
+17:20:48.625611> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:48.658612> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:49.701339> Try Delete main Buy order, 
+17:20:49.702329>  
+17:20:50.003337> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:50.003337> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:51.007559> Try Delete main Buy order, 
+17:20:51.007559>  
+17:20:51.363907> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:51.364910> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:52.388673> Try Delete main Buy order, 
+17:20:52.390672>  
+17:20:52.732682> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:52.732682> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:53.767060> Try Delete main Buy order, 
+17:20:53.767060>  
+17:20:54.053076> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:54.054075> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:55.080073> Try Delete main Buy order, 
+17:20:55.097034>  
+17:20:55.427780> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:55.428722> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:56.444934> Try Delete main Buy order, 
+17:20:56.444934>  
+17:20:56.761427> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:56.762427> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:57.790101> Try Delete main Buy order, 
+17:20:57.790101>  
+17:20:58.111219> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:58.112219> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:20:59.156397> Try Delete main Buy order, 
+17:20:59.157396>  
+17:20:59.522417> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:20:59.523418> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:00.559821> Try Delete main Buy order, 
+17:21:00.560811>  
+17:21:00.883464> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:00.883464> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:01.901109> Try Delete main Buy order, 
+17:21:01.901109>  
+17:21:02.255669> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:02.255669> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:03.292800> Try Delete main Buy order, 
+17:21:03.297797>  
+17:21:03.604617> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:03.604617> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:04.627061> Try Delete main Buy order, 
+17:21:04.627061>  
+17:21:04.985072> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:04.986072> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:06.009257> Try Delete main Buy order, 
+17:21:06.010256>  
+17:21:06.334338> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:06.335335> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:07.375099> Try Delete main Buy order, 
+17:21:07.377079>  
+17:21:07.729188> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:07.730183> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:08.773266> Try Delete main Buy order, 
+17:21:08.774268>  
+17:21:09.083949> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:09.084940> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:10.111428> Try Delete main Buy order, 
+17:21:10.112421>  
+17:21:10.460531> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:10.461531> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:11.466997> Try Delete main Buy order, 
+17:21:11.466997>  
+17:21:11.831019> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:11.832019> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:12.845656> Try Delete main Buy order, 
+17:21:12.846643>  
+17:21:13.166942> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:13.167936> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:14.172865> Try Delete main Buy order, 
+17:21:14.173855>  
+17:21:14.514000> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:14.514000> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:15.546575> Try Delete main Buy order, 
+17:21:15.546575>  
+17:21:15.867596> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:15.868593> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:16.908165> Try Delete main Buy order, 
+17:21:16.909162>  
+17:21:17.261540> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:17.345544> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:18.418839> Try Delete main Buy order, 
+17:21:18.419840>  
+17:21:18.825959> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:18.825959> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:19.841096> Try Delete main Buy order, 
+17:21:19.842097>  
+17:21:20.174357> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:20.175357> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:21.202530> Try Delete main Buy order, 
+17:21:21.203527>  
+17:21:21.535548> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:21.536545> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:22.559595> Try Delete main Buy order, 
+17:21:22.560588>  
+17:21:22.872606> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:22.872606> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:23.901135> Try Delete main Buy order, 
+17:21:23.902124>  
+17:21:24.217775> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:24.218773> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:25.291780> Try Delete main Buy order, 
+17:21:25.291780>  
+17:21:25.594119> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:25.595117> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:26.618978> Try Delete main Buy order, 
+17:21:26.618978>  
+17:21:26.973494> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:26.974491> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:28.043529> Try Delete main Buy order, 
+17:21:28.044520>  
+17:21:28.357538> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:28.362537> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:29.415571> Try Delete main Buy order, 
+17:21:29.415571>  
+17:21:29.705584> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:29.706584> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:30.734573> Try Delete main Buy order, 
+17:21:30.735569>  
+17:21:31.024856> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:31.025857> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:32.064279> Try Delete main Buy order, 
+17:21:32.066280>  
+17:21:32.380229> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:32.381230> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:33.396042> Try Delete main Buy order, 
+17:21:33.398033>  
+17:21:33.693160> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:33.693160> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:34.698315> Try Delete main Buy order, 
+17:21:34.698315>  
+17:21:34.997327> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:34.998325> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:36.008858> Try Delete main Buy order, 
+17:21:36.011858>  
+17:21:36.314475> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:36.314475> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:37.382633> Try Delete main Buy order, 
+17:21:37.383638>  
+17:21:37.684649> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:37.685648> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:38.699752> Try Delete main Buy order, 
+17:21:38.700749>  
+17:21:38.987769> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:38.988765> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:40.020128> Try Delete main Buy order, 
+17:21:40.021125>  
+17:21:40.322157> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:40.323143> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:41.334241> Try Delete main Buy order, 
+17:21:41.334241>  
+17:21:41.623916> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:41.624916> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:42.649916> Try Delete main Buy order, 
+17:21:42.649916>  
+17:21:42.944408> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:42.944408> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:43.972444> Try Delete main Buy order, 
+17:21:43.973427>  
+17:21:44.279551> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:44.280551> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:45.321104> Try Delete main Buy order, 
+17:21:45.321104>  
+17:21:45.650750> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:45.654741> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:46.680796> Try Delete main Buy order, 
+17:21:46.681789>  
+17:21:46.990435> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:46.991459> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:48.023540> Try Delete main Buy order, 
+17:21:48.023540>  
+17:21:48.316799> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:48.317800> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:49.337172> Try Delete main Buy order, 
+17:21:49.338164>  
+17:21:49.639528> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:49.640528> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:50.696676> Try Delete main Buy order, 
+17:21:50.697668>  
+17:21:50.984808> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:50.984808> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:52.004174> Try Delete main Buy order, 
+17:21:52.005172>  
+17:21:52.304605> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:52.305605> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:53.310564> Try Delete main Buy order, 
+17:21:53.312528>  
+17:21:53.616546> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:53.618544> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:54.654467> Try Delete main Buy order, 
+17:21:54.655466>  
+17:21:54.966477> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:54.966477> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:55.988188> Try Delete main Buy order, 
+17:21:55.988188>  
+17:21:56.288206> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:56.288206> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:57.324529> Try Delete main Buy order, 
+17:21:57.325520>  
+17:21:57.709138> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:57.713130> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:21:58.743647> Try Delete main Buy order, 
+17:21:58.746649>  
+17:21:59.046659> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:21:59.047653> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:00.082295> Try Delete main Buy order, 
+17:22:00.083292>  
+17:22:00.433672> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:00.433672> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:01.466855> Try Delete main Buy order, 
+17:22:01.467853>  
+17:22:01.762583> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:01.763583> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:02.778577> Try Delete main Buy order, 
+17:22:02.778577>  
+17:22:03.068591> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:03.069591> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:04.083171> Try Delete main Buy order, 
+17:22:04.084155>  
+17:22:04.396175> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:04.397172> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:05.415215> Try Delete main Buy order, 
+17:22:05.415215>  
+17:22:05.708239> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:05.709229> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:06.774366> Try Delete main Buy order, 
+17:22:06.775383>  
+17:22:07.091399> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:07.092398> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:08.117626> Try Delete main Buy order, 
+17:22:08.118615>  
+17:22:08.422221> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:08.423222> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:09.516551> Try Delete main Buy order, 
+17:22:09.521549>  
+17:22:09.821558> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:09.822557> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:10.920218> Try Delete main Buy order, 
+17:22:10.922218>  
+17:22:11.285235> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:11.285235> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:12.312188> Try Delete main Buy order, 
+17:22:12.312188>  
+17:22:12.636703> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:12.636703> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:13.711974> Try Delete main Buy order, 
+17:22:13.711974>  
+17:22:14.008992> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:14.011992> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:15.024285> Try Delete main Buy order, 
+17:22:15.025278>  
+17:22:15.327626> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:15.327626> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:16.331801> Try Delete main Buy order, 
+17:22:16.331801>  
+17:22:16.672558> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:16.673560> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:17.688635> Try Delete main Buy order, 
+17:22:17.688635>  
+17:22:17.985596> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:18.004596> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:19.030878> Try Delete main Buy order, 
+17:22:19.031856>  
+17:22:19.332428> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:19.332428> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:20.364433> Try Delete main Buy order, 
+17:22:20.364433>  
+17:22:20.655492> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:20.656459> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:21.682830> Try Delete main Buy order, 
+17:22:21.683810>  
+17:22:21.975824> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:21.976824> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:23.018875> Try Delete main Buy order, 
+17:22:23.018875>  
+17:22:23.331232> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:23.331232> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:24.350456> Try Delete main Buy order, 
+17:22:24.350456>  
+17:22:24.663470> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:24.664469> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:25.683770> Try Delete main Buy order, 
+17:22:25.684737>  
+17:22:25.972677> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:25.973678> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:26.982270> Try Delete main Buy order, 
+17:22:26.983269>  
+17:22:27.297284> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:27.297284> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:28.321987> Try Delete main Buy order, 
+17:22:28.321987>  
+17:22:28.618113> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:28.619111> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:29.652560> Try Delete main Buy order, 
+17:22:29.653554>  
+17:22:29.961470> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:29.962471> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:31.005292> Try Delete main Buy order, 
+17:22:31.005292>  
+17:22:31.301577> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:31.301577> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:32.319359> Try Delete main Buy order, 
+17:22:32.320348>  
+17:22:32.633366> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:32.634373> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:33.692162> Try Delete main Buy order, 
+17:22:33.692162>  
+17:22:34.011169> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:34.012169> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:35.041943> Try Delete main Buy order, 
+17:22:35.041943>  
+17:22:35.355654> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:35.356654> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:36.381008> Try Delete main Buy order, 
+17:22:36.381008>  
+17:22:36.676023> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:36.677023> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:37.703161> Try Delete main Buy order, 
+17:22:37.704161>  
+17:22:38.018143> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:38.019137> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:39.040611> Try Delete main Buy order, 
+17:22:39.041605>  
+17:22:39.340621> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:39.341620> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:40.363014> Try Delete main Buy order, 
+17:22:40.363014>  
+17:22:40.729033> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:40.733035> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:41.759683> Try Delete main Buy order, 
+17:22:41.760678>  
+17:22:42.053694> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:42.053694> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:43.083339> Try Delete main Buy order, 
+17:22:43.084336>  
+17:22:43.442460> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:43.443461> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:44.496638> Try Delete main Buy order, 
+17:22:44.496638>  
+17:22:44.784643> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:44.785643> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:45.799620> Try Delete main Buy order, 
+17:22:45.800619>  
+17:22:46.092673> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:46.093670> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:47.142540> Try Delete main Buy order, 
+17:22:47.143543>  
+17:22:47.443799> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:47.443799> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:48.456277> Try Delete main Buy order, 
+17:22:48.456277>  
+17:22:48.775295> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:48.776296> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:49.812245> Try Delete main Buy order, 
+17:22:49.812245>  
+17:22:50.099331> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:50.100332> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:51.124646> Try Delete main Buy order, 
+17:22:51.124646>  
+17:22:51.429070> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:51.430070> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:52.480432> Try Delete main Buy order, 
+17:22:52.480432>  
+17:22:52.766445> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:52.767444> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:53.787579> Try Delete main Buy order, 
+17:22:53.787579>  
+17:22:54.076932> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:54.076932> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:55.121915> Try Delete main Buy order, 
+17:22:55.122911>  
+17:22:55.417928> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:55.417928> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:56.442177> Try Delete main Buy order, 
+17:22:56.442177>  
+17:22:56.752190> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:56.753189> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:57.809524> Try Delete main Buy order, 
+17:22:57.810526>  
+17:22:58.102543> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:58.103544> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:22:59.140044> Try Delete main Buy order, 
+17:22:59.141039>  
+17:22:59.443056> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:22:59.444056> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:00.474609> Try Delete main Buy order, 
+17:23:00.474609>  
+17:23:00.763621> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:00.764622> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:01.771119> Try Delete main Buy order, 
+17:23:01.772119>  
+17:23:02.062503> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:02.063509> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:03.081850> Try Delete main Buy order, 
+17:23:03.082842>  
+17:23:03.380863> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:03.381860> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:04.418290> Try Delete main Buy order, 
+17:23:04.419287>  
+17:23:04.820780> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:04.821782> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:05.838305> Try Delete main Buy order, 
+17:23:05.839295>  
+17:23:06.146725> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:06.148723> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:07.182374> Try Delete main Buy order, 
+17:23:07.183367>  
+17:23:07.503392> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:07.503392> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:08.536287> Try Delete main Buy order, 
+17:23:08.537285>  
+17:23:08.843430> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:08.844430> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:09.861960> Try Delete main Buy order, 
+17:23:09.862948>  
+17:23:10.172149> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:10.172149> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:11.190179> Try Delete main Buy order, 
+17:23:11.191151>  
+17:23:11.491169> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:11.492170> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:12.520933> Try Delete main Buy order, 
+17:23:12.520933>  
+17:23:12.838805> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:12.839806> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:13.887317> Try Delete main Buy order, 
+17:23:13.887317>  
+17:23:14.172333> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:14.174334> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:15.258356> Try Delete main Buy order, 
+17:23:15.259358>  
+17:23:15.556374> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:15.556374> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:16.567283> Try Delete main Buy order, 
+17:23:16.567283>  
+17:23:16.878412> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:16.879410> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:17.905784> Try Delete main Buy order, 
+17:23:17.906766>  
+17:23:18.197154> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:18.197154> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:19.210561> Try Delete main Buy order, 
+17:23:19.211546>  
+17:23:19.510910> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:19.512910> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:20.531978> Try Delete main Buy order, 
+17:23:20.532971>  
+17:23:20.869430> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:20.869430> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:21.902025> Try Delete main Buy order, 
+17:23:21.903017>  
+17:23:22.193846> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:22.193846> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:23.208435> Try Delete main Buy order, 
+17:23:23.209378>  
+17:23:23.526397> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:23.527397> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:24.540953> Try Delete main Buy order, 
+17:23:24.540953>  
+17:23:24.945965> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:24.952967> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:25.988653> Try Delete main Buy order, 
+17:23:25.989653>  
+17:23:26.361501> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:26.390505> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:27.406232> Try Delete main Buy order, 
+17:23:27.407218>  
+17:23:27.741230> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:27.742231> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:28.775612> Try Delete main Buy order, 
+17:23:28.775612>  
+17:23:29.126625> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:29.127625> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:30.147968> Try Delete main Buy order, 
+17:23:30.148960>  
+17:23:30.455974> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:30.456978> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:31.466975> Try Delete main Buy order, 
+17:23:31.466975>  
+17:23:31.805246> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:31.806252> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:32.811033> Try Delete main Buy order, 
+17:23:32.811033>  
+17:23:33.133048> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:33.134047> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:34.171626> Try Delete main Buy order, 
+17:23:34.172626>  
+17:23:34.533548> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:34.534551> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:35.550065> Try Delete main Buy order, 
+17:23:35.550065>  
+17:23:35.902265> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:35.903266> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:36.923893> Try Delete main Buy order, 
+17:23:36.924883>  
+17:23:37.290459> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:37.292459> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:38.326550> Try Delete main Buy order, 
+17:23:38.327551>  
+17:23:38.627568> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:38.628568> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:39.658570> Try Delete main Buy order, 
+17:23:39.659562>  
+17:23:40.076144> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:40.076144> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:41.138000> Try Delete main Buy order, 
+17:23:41.138999>  
+17:23:41.449748> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:41.462750> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:42.482293> Try Delete main Buy order, 
+17:23:42.483305>  
+17:23:42.830571> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:42.831572> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:43.853290> Try Delete main Buy order, 
+17:23:43.853290>  
+17:23:44.224310> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:44.224310> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:45.295453> Try Delete main Buy order, 
+17:23:45.296446>  
+17:23:45.595219> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:45.595219> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:46.615601> Try Delete main Buy order, 
+17:23:46.615601>  
+17:23:46.979302> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:46.981303> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:48.013329> Try Delete main Buy order, 
+17:23:48.014322>  
+17:23:48.310046> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:48.310046> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:49.333052> Try Delete main Buy order, 
+17:23:49.334035>  
+17:23:49.683048> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:49.684047> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:50.705265> Try Delete main Buy order, 
+17:23:50.705265>  
+17:23:51.058610> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:51.060610> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:52.090558> Try Delete main Buy order, 
+17:23:52.091549>  
+17:23:52.391123> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:52.392121> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:53.414535> Try Delete main Buy order, 
+17:23:53.415545>  
+17:23:53.776486> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:53.777482> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:54.785709> Try Delete main Buy order, 
+17:23:54.785709>  
+17:23:55.137719> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:55.138719> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:56.160209> Try Delete main Buy order, 
+17:23:56.161204>  
+17:23:56.456000> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:56.456997> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:57.474531> Try Delete main Buy order, 
+17:23:57.476517>  
+17:23:57.871537> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:57.872535> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:23:58.937766> Try Delete main Buy order, 
+17:23:58.938771>  
+17:23:59.338767> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:23:59.338767> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:00.362983> Try Delete main Buy order, 
+17:24:00.363977>  
+17:24:00.660994> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:00.660994> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:01.677880> Try Delete main Buy order, 
+17:24:01.677880>  
+17:24:02.050233> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:02.051234> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:03.065024> Try Delete main Buy order, 
+17:24:03.067025>  
+17:24:03.374042> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:03.376042> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:04.410158> Try Delete main Buy order, 
+17:24:04.411158>  
+17:24:04.769141> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:04.769141> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:05.817408> Try Delete main Buy order, 
+17:24:05.819407>  
+17:24:06.333447> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:06.334439> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:07.589907> Try Delete main Buy order, 
+17:24:07.589907>  
+17:24:07.949303> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:07.951302> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:08.982737> Try Delete main Buy order, 
+17:24:08.984702>  
+17:24:09.336715> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:09.336715> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:10.369080> Try Delete main Buy order, 
+17:24:10.370072>  
+17:24:10.722090> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:10.722090> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:11.743015> Try Delete main Buy order, 
+17:24:11.745000>  
+17:24:12.145723> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:12.147722> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:13.160149> Try Delete main Buy order, 
+17:24:13.161139>  
+17:24:13.456715> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:13.457711> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:14.465407> Try Delete main Buy order, 
+17:24:14.465407>  
+17:24:14.801420> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:14.803420> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:15.842534> Try Delete main Buy order, 
+17:24:15.843533>  
+17:24:16.183552> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:16.184551> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:17.209021> Try Delete main Buy order, 
+17:24:17.210013>  
+17:24:17.508030> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:17.509030> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:18.545948> Try Delete main Buy order, 
+17:24:18.546949>  
+17:24:18.891532> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:18.892530> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:19.914892> Try Delete main Buy order, 
+17:24:19.914892>  
+17:24:20.282241> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:20.283250> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:21.306828> Try Delete main Buy order, 
+17:24:21.307826>  
+17:24:21.614819> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:21.616819> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:22.635694> Try Delete main Buy order, 
+17:24:22.636683>  
+17:24:22.994328> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:22.995326> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:24.018708> Try Delete main Buy order, 
+17:24:24.020706>  
+17:24:24.328725> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:24.329725> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:25.361530> Try Delete main Buy order, 
+17:24:25.365518>  
+17:24:25.837546> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:25.837546> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:26.873285> Try Delete main Buy order, 
+17:24:26.873285>  
+17:24:27.238089> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:27.239089> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:28.268423> Try Delete main Buy order, 
+17:24:28.269424>  
+17:24:28.670886> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:28.695886> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:29.735682> Try Delete main Buy order, 
+17:24:29.735682>  
+17:24:30.084857> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:30.086857> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:31.100669> Try Delete main Buy order, 
+17:24:31.102674>  
+17:24:31.405684> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:31.406683> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:32.414380> Try Delete main Buy order, 
+17:24:32.414380>  
+17:24:32.768389> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:32.769389> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:33.788599> Try Delete main Buy order, 
+17:24:33.788599>  
+17:24:34.105912> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:34.106913> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:35.115182> Try Delete main Buy order, 
+17:24:35.116178>  
+17:24:35.431195> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:35.432195> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:36.458396> Try Delete main Buy order, 
+17:24:36.458575>  
+17:24:36.811951> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:36.811951> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:37.822545> Try Delete main Buy order, 
+17:24:37.822545>  
+17:24:38.201556> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:38.202558> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:39.237413> Try Delete main Buy order, 
+17:24:39.238411>  
+17:24:39.543460> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:39.544460> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:40.581266> Try Delete main Buy order, 
+17:24:40.581266>  
+17:24:40.930278> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:40.931279> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:42.016622> Try Delete main Buy order, 
+17:24:42.017619>  
+17:24:42.326637> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:42.327636> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:43.346048> Try Delete main Buy order, 
+17:24:43.347042>  
+17:24:43.762555> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:43.784570> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:44.797570> Try Delete main Buy order, 
+17:24:44.798568>  
+17:24:45.140535> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:45.140535> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:46.152074> Try Delete main Buy order, 
+17:24:46.153068>  
+17:24:46.454086> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:46.455086> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:47.488611> Try Delete main Buy order, 
+17:24:47.488611>  
+17:24:47.823003> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:47.843005> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:48.878831> Try Delete main Buy order, 
+17:24:48.878831>  
+17:24:49.227582> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:49.229583> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:50.306795> Try Delete main Buy order, 
+17:24:50.307793>  
+17:24:50.601810> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:50.602810> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:51.683050> Try Delete main Buy order, 
+17:24:51.684053>  
+17:24:52.016072> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:52.016072> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:53.037120> Try Delete main Buy order, 
+17:24:53.038114>  
+17:24:53.336127> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:53.336127> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:54.348188> Try Delete main Buy order, 
+17:24:54.348188>  
+17:24:54.696197> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:54.697197> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:55.708975> Try Delete main Buy order, 
+17:24:55.708975>  
+17:24:56.043986> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:56.044984> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:57.056484> Try Delete main Buy order, 
+17:24:57.057471>  
+17:24:57.379487> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:57.381488> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:58.391621> Try Delete main Buy order, 
+17:24:58.392621>  
+17:24:58.727672> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:24:58.728640> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:24:59.766775> Try Delete main Buy order, 
+17:24:59.768775>  
+17:25:00.128157> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:00.129156> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:01.139133> Try Delete main Buy order, 
+17:25:01.140133>  
+17:25:01.440150> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:01.440150> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:02.452866> Try Delete main Buy order, 
+17:25:02.452866>  
+17:25:02.832009> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:02.852007> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:03.868534> Try Delete main Buy order, 
+17:25:03.868534>  
+17:25:04.193795> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:04.194795> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:05.242402> Try Delete main Buy order, 
+17:25:05.243401>  
+17:25:05.551417> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:05.552469> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:06.584747> Try Delete main Buy order, 
+17:25:06.584747>  
+17:25:06.949755> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:06.950756> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:08.016461> Try Delete main Buy order, 
+17:25:08.017462>  
+17:25:08.446488> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:08.446488> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:09.472530> Try Delete main Buy order, 
+17:25:09.472530>  
+17:25:09.811672> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:09.832671> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:10.870259> Try Delete main Buy order, 
+17:25:10.871256>  
+17:25:11.164275> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:11.165272> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:12.195629> Try Delete main Buy order, 
+17:25:12.196610>  
+17:25:12.497629> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:12.498625> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:13.531114> Try Delete main Buy order, 
+17:25:13.531114>  
+17:25:13.965713> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:13.967712> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:14.994578> Try Delete main Buy order, 
+17:25:14.995578>  
+17:25:15.416134> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:15.434135> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:16.471088> Try Delete main Buy order, 
+17:25:16.472087>  
+17:25:16.853107> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:16.872108> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:17.943791> Try Delete main Buy order, 
+17:25:17.943791>  
+17:25:18.276137> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:18.277135> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:19.310981> Try Delete main Buy order, 
+17:25:19.311974>  
+17:25:19.614995> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:19.614995> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:20.639682> Try Delete main Buy order, 
+17:25:20.641681>  
+17:25:20.961702> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:20.962698> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:22.032012> Try Delete main Buy order, 
+17:25:22.033013>  
+17:25:22.369370> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:22.370371> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:23.410124> Try Delete main Buy order, 
+17:25:23.410124>  
+17:25:23.754770> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:23.754770> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:24.790767> Try Delete main Buy order, 
+17:25:24.790767>  
+17:25:25.140789> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:25.141787> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:26.161887> Try Delete main Buy order, 
+17:25:26.161887>  
+17:25:26.500906> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:26.503907> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:27.509146> Try Delete main Buy order, 
+17:25:27.510138>  
+17:25:27.835157> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:27.837157> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:28.892981> Try Delete main Buy order, 
+17:25:28.893982>  
+17:25:29.239756> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:29.239756> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:30.246581> Try Delete main Buy order, 
+17:25:30.247570>  
+17:25:30.546587> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:30.546587> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:31.553568> Try Delete main Buy order, 
+17:25:31.553568>  
+17:25:31.978774> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:31.999776> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:33.009815> Try Delete main Buy order, 
+17:25:33.010807>  
+17:25:33.339211> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:33.339211> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:34.349608> Try Delete main Buy order, 
+17:25:34.350602>  
+17:25:34.695623> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:34.696621> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:35.710325> Try Delete main Buy order, 
+17:25:35.710325>  
+17:25:36.061713> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:36.062713> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:37.102516> Try Delete main Buy order, 
+17:25:37.103516>  
+17:25:37.439534> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:37.461535> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:38.477015> Try Delete main Buy order, 
+17:25:38.478017>  
+17:25:38.808799> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:38.808799> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:39.824604> Try Delete main Buy order, 
+17:25:39.824604>  
+17:25:40.195521> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:40.195521> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:41.218962> Try Delete main Buy order, 
+17:25:41.219956>  
+17:25:41.543665> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:41.545664> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:42.564926> Try Delete main Buy order, 
+17:25:42.565916>  
+17:25:42.902188> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:42.903186> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:43.922262> Try Delete main Buy order, 
+17:25:43.927250>  
+17:25:44.252670> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:44.253671> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:45.279557> Try Delete main Buy order, 
+17:25:45.279557>  
+17:25:45.625970> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:45.625970> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:46.654300> Try Delete main Buy order, 
+17:25:46.659294>  
+17:25:47.004494> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:47.005495> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:48.063642> Try Delete main Buy order, 
+17:25:48.063642>  
+17:25:48.382276> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:48.383266> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:49.397847> Try Delete main Buy order, 
+17:25:49.397847>  
+17:25:49.696866> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:49.697856> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:50.704594> Try Delete main Buy order, 
+17:25:50.704594>  
+17:25:51.034606> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:51.035605> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:52.060889> Try Delete main Buy order, 
+17:25:52.061886>  
+17:25:52.360911> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:52.361902> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:53.384365> Try Delete main Buy order, 
+17:25:53.384365>  
+17:25:53.734235> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:53.734235> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:54.744811> Try Delete main Buy order, 
+17:25:54.744811>  
+17:25:55.078815> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:55.079816> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:56.099716> Try Delete main Buy order, 
+17:25:56.102717>  
+17:25:56.407735> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:56.408734> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:57.445600> Try Delete main Buy order, 
+17:25:57.446601>  
+17:25:57.768620> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:57.770619> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:25:58.866030> Try Delete main Buy order, 
+17:25:58.866030>  
+17:25:59.182810> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:25:59.183810> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:00.191541> Try Delete main Buy order, 
+17:26:00.192538>  
+17:26:00.566559> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:00.568559> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:01.593710> Try Delete main Buy order, 
+17:26:01.594699>  
+17:26:01.915115> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:01.916115> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:02.944934> Try Delete main Buy order, 
+17:26:02.945920>  
+17:26:03.253931> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:03.254933> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:04.275645> Try Delete main Buy order, 
+17:26:04.276630>  
+17:26:04.601148> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:04.602148> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:05.649282> Try Delete main Buy order, 
+17:26:05.649282>  
+17:26:05.992491> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:05.993491> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:07.036153> Try Delete main Buy order, 
+17:26:07.056151>  
+17:26:07.367643> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:07.367643> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:08.393877> Try Delete main Buy order, 
+17:26:08.395878>  
+17:26:08.727865> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:08.727865> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:09.787009> Try Delete main Buy order, 
+17:26:09.788008>  
+17:26:10.128651> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:10.129651> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:11.166011> Try Delete main Buy order, 
+17:26:11.167003>  
+17:26:11.473734> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:11.474736> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:12.497947> Try Delete main Buy order, 
+17:26:12.497947>  
+17:26:12.796020> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:12.797024> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:13.812801> Try Delete main Buy order, 
+17:26:13.815783>  
+17:26:14.139788> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:14.140783> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:15.163908> Try Delete main Buy order, 
+17:26:15.164913>  
+17:26:15.468007> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:15.469006> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:16.490341> Try Delete main Buy order, 
+17:26:16.490341>  
+17:26:16.847108> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:16.848108> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:17.885736> Try Delete main Buy order, 
+17:26:17.885736>  
+17:26:18.274429> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:18.275428> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:19.283362> Try Delete main Buy order, 
+17:26:19.284355>  
+17:26:19.586768> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:19.587769> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:20.640575> Try Delete main Buy order, 
+17:26:20.641563>  
+17:26:20.979766> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:20.980766> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:22.020270> Try Delete main Buy order, 
+17:26:22.020270>  
+17:26:22.320296> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:22.321290> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:23.355534> Try Delete main Buy order, 
+17:26:23.356518>  
+17:26:23.685536> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:23.685536> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:24.689368> Try Delete main Buy order, 
+17:26:24.691368>  
+17:26:25.045490> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:25.046489> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:26.059110> Try Delete main Buy order, 
+17:26:26.060119>  
+17:26:26.360136> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:26.360136> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:27.370551> Try Delete main Buy order, 
+17:26:27.370551>  
+17:26:27.696012> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:27.697013> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:28.741390> Try Delete main Buy order, 
+17:26:28.742392>  
+17:26:29.097230> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:29.099230> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:30.156767> Try Delete main Buy order, 
+17:26:30.157768>  
+17:26:30.483173> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:30.484174> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:31.514752> Try Delete main Buy order, 
+17:26:31.515756>  
+17:26:31.857776> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:31.876777> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:32.920917> Try Delete main Buy order, 
+17:26:32.920917>  
+17:26:33.254253> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:33.254253> Error Delete main BuyLimit, ticketCustom=6 ticket=4371290702
+17:26:34.300767> Try Open SellLimit, Ask: 62296.0 Bid:62295.9
+17:26:34.300767> Order Signal open short, Order=1 StepByStepDN:0 Stk:20 StkImp:1 Lnt:2 Prg:0 Bid: 62295.9 Ask:  62296.0
+17:26:34.661106> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=62297.8;Execution=358.343 ms;
+17:26:34.661106> Placed Main SellLimit, ticketCustom = 7 ticket = 4371688542 LastSellPrice=62296.0
+17:26:34.661106> Try Delete main Buy order, 
+17:26:34.662108> Order Signal open short, Order=1 StepByStepDN:0 Stk:20 StkImp:1 Lnt:2 Prg:0 Bid: 62295.9 Ask:  62296.0
+17:26:35.295144> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:26:35.298144> Error Delete main BuyLimit, ticketCustom=7 ticket=4371688542

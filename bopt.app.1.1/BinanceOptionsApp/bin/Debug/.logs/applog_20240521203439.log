@@ -1,0 +1,1376 @@
+20:34:43.630153> WebSocket connected! Start Partial @depth20 [Future] process...
+20:34:43.631152> WebSocket connected! Start @depth [Future] process...
+20:34:43.632153> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:34:43.632153> WebSocket connected! Start Partial @depth20 [Future] process...
+20:34:44.729721> WebSocket connected! Start Partial @depth20 [Future] process...
+20:34:44.730718> WebSocket connected! Start Partial @depth20 [Future] process...
+20:34:44.746719> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:34:44.746719> WebSocket connected! Start @depth [Future] process...
+20:34:44.752719> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 101.08510852 USDT
+20:35:35.068374> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69918.0 Ask:  69918.1
+20:35:35.068374> Try Open SellLimit, Ask: 69918.1
+20:35:35.069373> Support: 69916.4 VolS:0.961 Resistence: 69918.1 VolR:3.681
+20:35:35.391723> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.459375;Price=69918.10;Slippage=69918.1;Execution=319.345 ms;
+20:35:35.391723> Placed Main SellLimit, ticketCustom = 1 ticket = 3177329296
+20:35:35.557734> Try Modify main Sell order, 
+20:35:35.976760> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:35:35.977756> [1Leg]: Sell failed BTCUSDC;price=69891.10
+20:35:35.977756> Error Modify main SellLimit, ticketCustom=1 ticket=0
+20:35:36.981824> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69885.1 Ask:  69885.2
+20:35:38.015398> Try place lock BuyLimit, Bid: 69885.1 Ask:  69885.2
+20:35:38.301744> [1Leg]: Buy OK BTCUSDC at 69703.10;Gap=2.70;Price=69885.20;Slippage=182.1;Execution=285.354 ms;
+20:35:38.302754> Placed lock BuyLimit, ticketCustom= 2, ticket= 3177329296 
+20:36:18.745561> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69846.1 Ask:  69846.2
+20:38:26.269477> Try Modify Lock Buy order for close at now, 
+20:38:26.570127> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69778.00;execution=298.649 ms;
+20:38:26.570127> Modify BuyLimit (1Leg) for Close at now
+20:38:26.572117> Try Modify Lock Buy order for close at now, 
+20:38:26.856133> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69788.50;execution=284.016 ms;
+20:38:26.856133> Modify BuyLimit (1Leg) for Close at now
+20:38:27.071172> Try Modify Lock Buy order for close at now, 
+20:38:27.352193> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69791.30;execution=281.022 ms;
+20:38:27.353188> Modify BuyLimit (1Leg) for Close at now
+20:38:27.577201> Try Modify Lock Buy order for close at now, 
+20:38:27.860226> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69799.90;execution=283.025 ms;
+20:38:27.861222> Modify BuyLimit (1Leg) for Close at now
+20:38:28.081228> Try Modify Lock Buy order for close at now, 
+20:38:29.194108> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69803.80;execution=1112.880 ms;
+20:38:29.195112> Modify BuyLimit (1Leg) for Close at now
+20:38:29.197114> Try Modify Lock Buy order for close at now, 
+20:38:29.483121> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69816.10;execution=286.007 ms;
+20:38:29.483121> Modify BuyLimit (1Leg) for Close at now
+20:38:33.781831> Try Modify Lock Buy order for close at now, 
+20:38:34.099505> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:38:34.099505> [1Leg]: Buy failed BTCUSDC;price=69808.70
+20:38:36.123591> Try Modify Lock Buy order for close at now, 
+20:38:36.438594> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:38:36.438594> [1Leg]: Buy failed BTCUSDC;price=69802.00
+20:38:45.626641> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 69818.9 Ask:  69819.0
+20:38:45.626641> Try Open BuyLimit, Bid: 69818.9 Ask:  69819.0
+20:38:45.627641> Support: 69818.9 VolS:1.865 Resistence: 69827.4 VolR:0.337
+20:38:45.910024> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-0.47375;Price=69827.90;Slippage=69827.9;Execution=282.383 ms;
+20:38:45.910024> Placed Main BuyLimit, ticketCustom = 3 ticket= 3177435064
+20:38:45.911025> Try Modify main Buy order, 
+20:38:45.911025> Support: 69827.8 VolS:2.58 Resistence: 69829.9 VolR:1.088
+20:38:46.228777> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:38:46.228777> [1Leg]: Buy failed BTCUSDC;price=69827.90
+20:38:46.229778> Error Modify main BuyLimit, ticketCustom=3 ticket=0
+20:38:47.234859> Try Modify main Buy order, 
+20:38:47.235851> Support: 69826.7 VolS:1.057 Resistence: 69827.9 VolR:1.682
+20:38:47.550851> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:38:47.551850> [1Leg]: Buy failed BTCUSDC;price=69827.90
+20:38:47.551850> Error Modify main BuyLimit, ticketCustom=3 ticket=0
+20:38:48.555962> Try Modify main Buy order, 
+20:38:48.555962> Support: 69836.5 VolS:1.373 Resistence: 69840.6 VolR:0.184
+20:38:48.870617> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:38:48.870617> [1Leg]: Buy failed BTCUSDC;price=69836.60
+20:38:48.871610> Error Modify main BuyLimit, ticketCustom=3 ticket=0
+20:38:49.889606> Try place lock SellLimit, Bid: 69842.9 Ask:  69843.0
+20:38:50.190500> [1Leg]: Sell OK BTCUSDC at 70012.30;Gap=3.31;Price=69856.10;Slippage=-156.2;Execution=300.894 ms;
+20:38:50.190500> Placed lock SellLimit, ticketCustom= 4, ticket= 3177435064 
+20:40:05.003195> Try Modify Lock Sell order, 
+20:40:05.842914> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69834.70;execution=839.719 ms;
+20:40:05.843906> Modify Lock SellLimit (1Leg)
+20:40:39.796344> Try Modify Lock Sell order for Close at now, 
+20:40:40.080125> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69754.70;execution=282.780 ms;
+20:40:40.081123> Modify Lock SellLimit (1Leg) for Close at now
+20:40:40.263133> Try Modify Lock Sell order for Close at now, 
+20:40:40.547984> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69750.10;execution=284.851 ms;
+20:40:40.548984> Modify Lock SellLimit (1Leg) for Close at now
+20:40:41.331291> Try Modify Lock Sell order for Close at now, 
+20:40:41.627776> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69748.90;execution=296.485 ms;
+20:40:41.629776> Modify Lock SellLimit (1Leg) for Close at now
+20:40:41.835788> Try Modify Lock Sell order for Close at now, 
+20:40:42.118843> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69743.50;execution=283.055 ms;
+20:40:42.118843> Modify Lock SellLimit (1Leg) for Close at now
+20:40:42.926855> Try Modify Lock Sell order for Close at now, 
+20:40:43.251006> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:40:43.251006> [1Leg]: Sell failed BTCUSDC;price=69744.00
+20:40:45.292732> Try Modify Lock Sell order for Close at now, 
+20:40:45.618755> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:40:45.619753> [1Leg]: Sell failed BTCUSDC;price=69742.70
+20:40:49.751542> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69725.1 Ask:  69725.2
+20:40:49.751542> Try Open SellLimit, Ask: 69725.2
+20:40:49.752532> Support: 69725.1 VolS:2.019 Resistence: 69727.3 VolR:1.05
+20:40:50.034550> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.23625;Price=69725.20;Slippage=69725.2;Execution=282.018 ms;
+20:40:50.035556> Placed Main SellLimit, ticketCustom = 5 ticket = 3177503451
+20:40:53.002422> Try place lock BuyLimit, Bid: 69725.2 Ask:  69725.3
+20:40:53.291731> [1Leg]: Buy OK BTCUSDC at 69621.90;Gap=1.4325;Price=69725.30;Slippage=103.4;Execution=288.318 ms;
+20:40:53.292724> Placed lock BuyLimit, ticketCustom= 6, ticket= 3177503451 
+20:50:41.126723> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69812.5 Ask:  69812.6
+20:50:41.128723> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69812.5 Ask:  69812.6
+20:50:41.156725> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69812.5 Ask:  69812.6
+20:50:41.175725> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69812.5 Ask:  69812.6
+20:51:38.576215> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69782.6 Ask:  69782.7
+20:51:38.596217> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69782.6 Ask:  69782.7
+20:55:21.837478> Try Modify Lock Buy order for close at now, 
+20:55:22.121044> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69842.20;execution=282.567 ms;
+20:55:22.126044> Modify BuyLimit (1Leg) for Close at now
+20:55:22.133046> Try Modify Lock Buy order for close at now, 
+20:55:22.418599> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69855.90;execution=284.553 ms;
+20:55:22.419610> Modify BuyLimit (1Leg) for Close at now
+20:55:25.752215> Try Modify Lock Buy order for close at now, 
+20:55:26.048556> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69859.00;execution=296.341 ms;
+20:55:26.049557> Modify BuyLimit (1Leg) for Close at now
+20:55:26.253569> Try Modify Lock Buy order for close at now, 
+20:55:26.565586> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69869.00;execution=312.017 ms;
+20:55:26.567585> Modify BuyLimit (1Leg) for Close at now
+20:55:26.761596> Try Modify Lock Buy order for close at now, 
+20:55:27.061566> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69877.60;execution=299.970 ms;
+20:55:27.062571> Modify BuyLimit (1Leg) for Close at now
+20:55:28.904031> Try Modify Lock Buy order for close at now, 
+20:55:29.187738> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69879.00;execution=283.707 ms;
+20:55:29.187738> Modify BuyLimit (1Leg) for Close at now
+20:55:32.119107> Try Modify Lock Buy order for close at now, 
+20:55:32.441123> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:55:32.442121> [1Leg]: Buy failed BTCUSDC;price=69868.20
+20:55:34.447653> Try Modify Lock Buy order for close at now, 
+20:55:35.588425> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:55:35.589421> [1Leg]: Buy failed BTCUSDC;price=69864.00
+21:02:51.581282> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 69955.9 Ask:  69956.0
+21:02:51.581282> Try Open BuyLimit, Bid: 69955.9 Ask:  69956.0
+21:02:51.582283> Support: 69953.5 VolS:1.153 Resistence: 69956 VolR:2.923
+21:02:51.867085> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.45625;Price=69956.00;Slippage=69956.0;Execution=284.803 ms;
+21:02:51.868073> Placed Main BuyLimit, ticketCustom = 7 ticket= 3178093995
+21:02:52.076086> Try Modify main Buy order, 
+21:02:52.076086> Support: 69952.1 VolS:0.456 Resistence: 69962.1 VolR:1.443
+21:02:52.407387> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:02:52.407387> [1Leg]: Buy failed BTCUSDC;price=69962.10
+21:02:52.408385> Error Modify main BuyLimit, ticketCustom=7 ticket=0
+21:02:53.423939> Try Modify main Buy order, 
+21:02:53.424936> Support: 69961.1 VolS:1.264 Resistence: 69961.2 VolR:3.889
+21:02:54.581481> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:02:54.582476> [1Leg]: Buy failed BTCUSDC;price=69958.30
+21:02:54.582476> Error Modify main BuyLimit, ticketCustom=7 ticket=0
+21:02:55.586461> Try place lock SellLimit, Bid: 69958.2 Ask:  69958.3
+21:02:55.870478> [1Leg]: Sell OK BTCUSDC at 70108.80;Gap=-0.67125;Price=69958.30;Slippage=-150.5;Execution=283.022 ms;
+21:02:55.870478> Placed lock SellLimit, ticketCustom= 8, ticket= 3178093995 
+21:10:56.800337> Try Modify Lock Sell order for Close at now, 
+21:10:57.083832> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69860.10;execution=283.496 ms;
+21:10:57.084840> Modify Lock SellLimit (1Leg) for Close at now
+21:10:57.089828> Try Modify Lock Sell order for Close at now, 
+21:10:57.375847> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69854.10;execution=285.018 ms;
+21:10:57.375847> Modify Lock SellLimit (1Leg) for Close at now
+21:10:59.638962> Try Modify Lock Sell order for Close at now, 
+21:10:59.925578> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69853.90;execution=285.616 ms;
+21:10:59.926571> Modify Lock SellLimit (1Leg) for Close at now
+21:11:02.835790> Try Modify Lock Sell order for Close at now, 
+21:11:03.127926> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69851.10;execution=292.136 ms;
+21:11:03.127926> Modify Lock SellLimit (1Leg) for Close at now
+21:11:03.340936> Try Modify Lock Sell order for Close at now, 
+21:11:03.645955> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69850.30;execution=304.017 ms;
+21:11:03.645955> Modify Lock SellLimit (1Leg) for Close at now
+21:11:05.466165> Try Modify Lock Sell order for Close at now, 
+21:11:05.758177> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69848.10;execution=292.013 ms;
+21:11:05.758177> Modify Lock SellLimit (1Leg) for Close at now
+21:11:06.012192> Try Modify Lock Sell order for Close at now, 
+21:11:06.296208> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69846.10;execution=284.016 ms;
+21:11:06.296208> Modify Lock SellLimit (1Leg) for Close at now
+21:11:08.858885> Try Modify Lock Sell order for Close at now, 
+21:11:09.143820> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69843.70;execution=284.935 ms;
+21:11:09.143820> Modify Lock SellLimit (1Leg) for Close at now
+21:11:09.388601> Try Modify Lock Sell order for Close at now, 
+21:11:09.673740> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69843.40;execution=285.139 ms;
+21:11:09.673740> Modify Lock SellLimit (1Leg) for Close at now
+21:11:10.483198> Try Modify Lock Sell order for Close at now, 
+21:11:10.785210> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69843.10;execution=302.012 ms;
+21:11:10.785210> Modify Lock SellLimit (1Leg) for Close at now
+21:11:11.031228> Try Modify Lock Sell order for Close at now, 
+21:11:11.315253> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69833.40;execution=284.024 ms;
+21:11:11.316258> Modify Lock SellLimit (1Leg) for Close at now
+21:11:12.041414> Try Modify Lock Sell order for Close at now, 
+21:11:12.327183> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69830.90;execution=285.769 ms;
+21:11:12.328181> Modify Lock SellLimit (1Leg) for Close at now
+21:11:15.808711> Try Modify Lock Sell order for Close at now, 
+21:11:16.127545> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:16.128544> [1Leg]: Sell failed BTCUSDC;price=69837.50
+21:11:18.186204> Try Modify Lock Sell order for Close at now, 
+21:11:18.508571> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:18.509570> [1Leg]: Sell failed BTCUSDC;price=69840.00
+21:12:32.090855> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69808.2 Ask:  69808.3
+21:12:32.090855> Try Open SellLimit, Ask: 69808.3
+21:12:32.090855> Support: 69804.8 VolS:0.213 Resistence: 69811 VolR:4.032
+21:12:32.926461> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.83375;Price=69804.90;Slippage=69804.9;Execution=833.610 ms;
+21:12:32.926461> Placed Main SellLimit, ticketCustom = 9 ticket = 3178306307
+21:12:32.927461> Try Modify main Sell order, 
+21:12:33.254479> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:12:33.254479> [1Leg]: Sell failed BTCUSDC;price=69804.90
+21:12:33.255480> Error Modify main SellLimit, ticketCustom=9 ticket=0
+21:12:36.002772> Try place lock BuyLimit, Bid: 69804.8 Ask:  69804.9
+21:12:36.285779> [1Leg]: Buy OK BTCUSDC at 69633.20;Gap=-1.40625;Price=69804.90;Slippage=171.7;Execution=282.015 ms;
+21:12:36.286780> Placed lock BuyLimit, ticketCustom= 10, ticket= 3178306307 
+21:12:50.682681> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69761.0 Ask:  69761.1
+21:13:04.309412> Try Modify Lock Buy order for close at now, 
+21:13:04.626081> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69752.90;execution=286.667 ms;
+21:13:04.627112> Modify BuyLimit (1Leg) for Close at now
+21:13:04.628124> Try Modify Lock Buy order for close at now, 
+21:13:04.911255> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69773.00;execution=282.109 ms;
+21:13:04.912250> Modify BuyLimit (1Leg) for Close at now
+21:13:04.914277> Try Modify Lock Buy order for close at now, 
+21:13:05.353275> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:13:05.354274> [1Leg]: Buy failed BTCUSDC;price=69764.10
+21:13:07.407391> Try Modify Lock Buy order for close at now, 
+21:13:07.736770> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:13:07.737770> [1Leg]: Buy failed BTCUSDC;price=69764.10
+21:13:45.185708> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69734.5 Ask:  69734.6
+21:13:45.186708> Try Open SellLimit, Ask: 69734.6
+21:13:45.192710> Support: 69734.5 VolS:3.216 Resistence: 69739.3 VolR:0.612
+21:13:45.474711> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-3.53;Price=69734.60;Slippage=69734.6;Execution=282.001 ms;
+21:13:45.474711> Placed Main SellLimit, ticketCustom = 11 ticket = 3178343475
+21:13:49.002466> Try place lock BuyLimit, Bid: 69749.9 Ask:  69750.0
+21:13:49.288488> [1Leg]: Buy OK BTCUSDC at 69633.50;Gap=1.36875;Price=69750.00;Slippage=116.5;Execution=284.983 ms;
+21:13:49.288488> Placed lock BuyLimit, ticketCustom= 12, ticket= 3178343475 
+21:14:04.685013> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69736.8 Ask:  69736.9
+21:14:11.831973> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69732.1 Ask:  69732.2
+21:14:21.393804> Try Modify Lock Buy order for close at now, 
+21:14:21.682236> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69747.90;execution=288.432 ms;
+21:14:21.683229> Modify BuyLimit (1Leg) for Close at now
+21:14:26.515674> Try Modify Lock Buy order for close at now, 
+21:14:26.802865> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69751.50;execution=287.191 ms;
+21:14:26.803869> Modify BuyLimit (1Leg) for Close at now
+21:14:33.572561> Try Modify Lock Buy order for close at now, 
+21:14:33.929475> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:14:33.930474> [1Leg]: Buy failed BTCUSDC;price=69744.70
+21:15:47.972600> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 69714.1 Ask:  69714.2
+21:15:47.973600> Try Open BuyLimit, Bid: 69714.1 Ask:  69714.2
+21:15:47.973600> Support: 69714.1 VolS:3.234 Resistence: 69715 VolR:0.963
+21:15:48.625194> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-1.99625;Price=69726.00;Slippage=69726.0;Execution=651.594 ms;
+21:15:48.626193> Placed Main BuyLimit, ticketCustom = 13 ticket= 3178390224
+21:15:48.626193> Try Modify main Buy order, 
+21:15:48.627192> Support: 69725.9 VolS:3.004 Resistence: 69728.9 VolR:1.051
+21:15:48.951758> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:15:48.952757> [1Leg]: Buy failed BTCUSDC;price=69726.00
+21:15:48.952757> Error Modify main BuyLimit, ticketCustom=13 ticket=0
+21:15:49.964683> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69726.1 Ask:  69726.2
+21:15:49.966682> Try Modify main Buy order, 
+21:15:49.966682> Support: 69725.1 VolS:0.952 Resistence: 69726.2 VolR:1.366
+21:15:51.145943> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:15:51.146937> [1Leg]: Buy failed BTCUSDC;price=69726.20
+21:15:51.146937> Error Modify main BuyLimit, ticketCustom=13 ticket=0
+21:15:52.155207> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69726.6 Ask:  69726.7
+21:15:52.160207> Try place lock SellLimit, Bid: 69726.6 Ask:  69726.7
+21:15:52.442262> [1Leg]: Sell OK BTCUSDC at 69723.00;Gap=-3.325;Price=69726.70;Slippage=3.7;Execution=277.057 ms;
+21:15:52.442262> Placed lock SellLimit, ticketCustom= 14, ticket= 3178390224 
+21:15:54.216047> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69728.4 Ask:  69728.5
+21:15:54.605361> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69733.9 Ask:  69734.0
+21:15:54.608358> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69733.9 Ask:  69734.0
+21:15:55.238790> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69735.1 Ask:  69735.2
+21:15:56.609653> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69741.9 Ask:  69742.0
+21:15:56.609653> Try Open BuyLimit, Bid: 69741.9 Ask:  69742.0
+21:15:56.609653> Support: 69741.9 VolS:3.112 Resistence: 69743.9 VolR:1.142
+21:15:56.892309> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.085;Price=69742.00;Slippage=69742.0;Execution=280.653 ms;
+21:15:56.892309> Placed Main BuyLimit, ticketCustom = 15 ticket= 3178396837
+21:15:57.035315> Try Modify main Buy order, 
+21:15:57.035315> Support: 69746.6 VolS:2.337 Resistence: 69751.6 VolR:2.736
+21:15:57.358141> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:15:57.359141> [1Leg]: Buy failed BTCUSDC;price=69746.70
+21:15:57.359141> Error Modify main BuyLimit, ticketCustom=15 ticket=0
+21:15:58.362070> Try Modify main Buy order, 
+21:15:58.363068> Support: 69754.9 VolS:1.731 Resistence: 69760 VolR:0.19
+21:15:58.677288> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:15:58.677288> [1Leg]: Buy failed BTCUSDC;price=69755.00
+21:15:58.677288> Error Modify main BuyLimit, ticketCustom=15 ticket=0
+21:15:59.692651> Try Modify main Buy order, 
+21:15:59.692651> Support: 69754.9 VolS:2.349 Resistence: 69758.1 VolR:0.278
+21:16:00.042671> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:16:00.067669> [1Leg]: Buy failed BTCUSDC;price=69758.10
+21:16:00.070670> Error Modify main BuyLimit, ticketCustom=15 ticket=0
+21:16:01.076515> Try place lock SellLimit, Bid: 69758.0 Ask:  69758.1
+21:16:01.355951> [1Leg]: Sell OK BTCUSDC at 69824.50;Gap=1.13625;Price=69750.10;Slippage=-74.4;Execution=279.436 ms;
+21:16:01.356947> Placed lock SellLimit, ticketCustom= 16, ticket= 3178396837 
+21:16:01.377950> Try Modify Lock Sell order for Close at now, 
+21:16:01.656948> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69750.10;execution=277.999 ms;
+21:16:01.657944> Modify Lock SellLimit (1Leg) for Close at now
+21:16:01.771950> Try Modify Lock Sell order for Close at now, 
+21:16:02.056732> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=69744.10;execution=284.782 ms;
+21:16:02.057726> Modify Lock SellLimit (1Leg) for Close at now
+21:16:02.280748> Try Modify Lock Sell order for Close at now, 
+21:16:02.606567> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:16:02.607567> [1Leg]: Sell failed BTCUSDC;price=69750.00
+21:16:04.621613> Try Modify Lock Sell order for Close at now, 
+21:16:04.956554> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:16:04.956554> [1Leg]: Sell failed BTCUSDC;price=69752.20
+21:16:06.974472> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69744.0 Ask:  69744.1
+21:16:06.974472> Try Open SellLimit, Ask: 69744.1
+21:16:06.975465> Support: 69744 VolS:1.371 Resistence: 69744.1 VolR:2.457
+21:16:07.253401> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=1.84625;Price=69744.10;Slippage=69744.1;Execution=276.942 ms;
+21:16:07.253401> Placed Main SellLimit, ticketCustom = 17 ticket = 3178404844
+21:16:10.006845> Try place lock BuyLimit, Bid: 69747.9 Ask:  69748.0
+21:16:10.292518> [1Leg]: Buy OK BTCUSDC at 69637.80;Gap=5.69;Price=69748.00;Slippage=110.2;Execution=281.673 ms;
+21:16:10.293510> Placed lock BuyLimit, ticketCustom= 18, ticket= 3178404844 
+21:17:00.985664> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69712.0 Ask:  69712.1
+21:17:01.010651> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69712.0 Ask:  69712.1
+21:17:01.125659> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69712.0 Ask:  69712.1
+21:17:01.160661> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69712.0 Ask:  69712.1
+21:17:01.246674> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69693.2 Ask:  69694.7
+21:17:01.248665> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69693.2 Ask:  69694.7
+21:17:32.690279> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69688.0 Ask:  69688.1
+21:17:36.667656> Try Modify Lock Buy order for close at now, 
+21:17:36.955862> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69670.00;execution=288.206 ms;
+21:17:36.955862> Modify BuyLimit (1Leg) for Close at now
+21:17:37.109870> Try Modify Lock Buy order for close at now, 
+21:17:37.398295> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69677.40;execution=287.424 ms;
+21:17:37.399295> Modify BuyLimit (1Leg) for Close at now
+21:17:38.159876> Try Modify Lock Buy order for close at now, 
+21:17:38.441945> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69680.70;execution=281.069 ms;
+21:17:38.442943> Modify BuyLimit (1Leg) for Close at now
+21:17:38.649953> Try Modify Lock Buy order for close at now, 
+21:17:38.929945> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69684.30;execution=279.993 ms;
+21:17:38.930940> Modify BuyLimit (1Leg) for Close at now
+21:17:44.107180> Try Modify Lock Buy order for close at now, 
+21:17:44.420198> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:17:44.420198> [1Leg]: Buy failed BTCUSDC;price=69684.10
+21:23:13.927360> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69638.3 Ask:  69638.4
+21:23:13.927360> Try Open SellLimit, Ask: 69638.4
+21:23:13.927360> Support: 69638.3 VolS:1.693 Resistence: 69638.4 VolR:1.358
+21:23:14.286935> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.00;Price=69614.50;Slippage=69614.5;Execution=359.575 ms;
+21:23:14.291933> Placed Main SellLimit, ticketCustom = 19 ticket = 3178557835
+21:23:14.292935> Try Modify main Sell order, 
+21:23:14.780045> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:23:14.781045> [1Leg]: Sell failed BTCUSDC;price=69578.40
+21:23:14.781045> Error Modify main SellLimit, ticketCustom=19 ticket=0
+21:23:15.785361> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69579.0 Ask:  69579.1
+21:23:15.786363> Try Open BuyLimit, Bid: 69579.0 Ask:  69579.1
+21:23:15.786363> Support: 69572 VolS:0.292 Resistence: 69585.5 VolR:0.719
+21:23:16.880194> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=1.30;Price=69586.00;Slippage=69586.0;Execution=1093.831 ms;
+21:23:16.880194> Placed Main BuyLimit, ticketCustom = 20 ticket= 3178557835
+21:23:16.881195> Try Modify main Buy order, 
+21:23:16.881195> Support: 69585.9 VolS:1.506 Resistence: 69598.3 VolR:0.517
+21:23:17.197768> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:23:17.198770> [1Leg]: Buy failed BTCUSDC;price=69586.00
+21:23:17.198770> Error Modify main BuyLimit, ticketCustom=20 ticket=0
+21:23:18.209136> Try place lock BuyLimit, Bid: 69582.1 Ask:  69582.2
+21:23:18.483148> [1Leg]: Buy OK BTCUSDC at 69445.40;Gap=1.09;Price=69582.20;Slippage=136.8;Execution=273.013 ms;
+21:23:18.484144> Placed lock BuyLimit, ticketCustom= 21, ticket= 3178563753 
+21:23:18.484144> Try Modify Lock Buy order for close at now, 
+21:23:18.776977> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69582.10;execution=292.832 ms;
+21:23:18.798989> Modify BuyLimit (1Leg) for Close at now
+21:23:18.800990> Try Modify Lock Buy order for close at now, 
+21:23:19.118231> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:23:19.119231> [1Leg]: Buy failed BTCUSDC;price=69573.00
+21:23:21.154149> Try Modify main Buy order, 
+21:23:21.154149> Support: 69585.9 VolS:1.329 Resistence: 69594.7 VolR:0.173
+21:23:21.465161> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:23:21.466161> [1Leg]: Buy failed BTCUSDC;price=69587.50
+21:23:21.467160> Error Modify main BuyLimit, ticketCustom=21 ticket=0
+21:23:22.498954> Try Modify main Buy order, 
+21:23:22.499950> Support: 69595.9 VolS:1.315 Resistence: 69605.6 VolR:0.266
+21:23:22.855020> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:23:22.855020> [1Leg]: Buy failed BTCUSDC;price=69600.00
+21:23:22.855020> Error Modify main BuyLimit, ticketCustom=21 ticket=0
+21:23:23.861384> Try place lock SellLimit, Bid: 69603.9 Ask:  69604.0
+21:23:24.137809> [1Leg]: Sell OK BTCUSDC at 69638.40;Gap=2.2475;Price=69604.00;Slippage=-34.4;Execution=275.389 ms;
+21:23:24.137809> Placed lock SellLimit, ticketCustom= 22, ticket= 3178563753 
+21:24:43.064954> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69680.0 Ask:  69680.1
+21:24:43.064954> Try Open BuyLimit, Bid: 69680.0 Ask:  69680.1
+21:24:43.065939> Support: 69680 VolS:2.131 Resistence: 69680.1 VolR:1.848
+21:24:43.876797> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.6875;Price=69680.10;Slippage=69680.1;Execution=810.858 ms;
+21:24:43.876797> Placed Main BuyLimit, ticketCustom = 23 ticket= 3178617523
+21:24:44.404078> Try Modify main Buy order, 
+21:24:44.411080> Support: 69680 VolS:1.665 Resistence: 69684.4 VolR:1.027
+21:24:44.758251> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:24:44.758251> [1Leg]: Buy failed BTCUSDC;price=69684.40
+21:24:44.759250> Error Modify main BuyLimit, ticketCustom=23 ticket=0
+21:24:45.764959> Try Modify main Buy order, 
+21:24:45.764959> Support: 69684.3 VolS:1.916 Resistence: 69684.7 VolR:1.045
+21:24:46.088378> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:24:46.109379> [1Leg]: Buy failed BTCUSDC;price=69684.40
+21:24:46.109379> Error Modify main BuyLimit, ticketCustom=23 ticket=0
+21:24:47.140177> Try place lock SellLimit, Bid: 69684.3 Ask:  69684.4
+21:24:47.413314> [1Leg]: Sell OK BTCUSDC at 69724.40;Gap=-1.305;Price=69684.70;Slippage=-39.7;Execution=273.137 ms;
+21:24:47.414308> Placed lock SellLimit, ticketCustom= 24, ticket= 3178617523 
+21:24:53.945860> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69694.9 Ask:  69695.0
+21:25:23.355131> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 69727.7 Ask:  69727.8
+21:26:40.810754> Signal 2(s), Move:2 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 69651.7 Ask:  69651.8
+21:26:40.810754> Try Open BuyLimit, Bid: 69651.7 Ask:  69651.8
+21:26:40.811743> Support: 69651.6 VolS:1.068 Resistence: 69651.8 VolR:1.753
+21:26:41.091763> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.49;Price=69654.00;Slippage=69654.0;Execution=280.020 ms;
+21:26:41.092759> Placed Main BuyLimit, ticketCustom = 25 ticket= 3178665870
+21:26:41.092759> Try Modify main Buy order, 
+21:26:41.114759> Support: 69652.7 VolS:1.233 Resistence: 69654 VolR:0.351
+21:26:41.450578> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:26:41.451579> [1Leg]: Buy failed BTCUSDC;price=69665.40
+21:26:41.451579> Error Modify main BuyLimit, ticketCustom=25 ticket=0
+21:26:42.471959> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69679.9 Ask:  69680.0
+21:26:42.472954> Try Modify main Buy order, 
+21:26:42.473952> Support: 69679.9 VolS:3.175 Resistence: 69682.5 VolR:1.157
+21:26:43.629787> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:26:43.630790> [1Leg]: Buy failed BTCUSDC;price=69682.00
+21:26:43.631789> Error Modify main BuyLimit, ticketCustom=25 ticket=0
+21:26:44.636885> Try place lock SellLimit, Bid: 69681.9 Ask:  69682.0
+21:26:44.914903> [1Leg]: Sell OK BTCUSDC at 69725.80;Gap=-5.59375;Price=69672.20;Slippage=-53.6;Execution=277.014 ms;
+21:26:44.915902> Placed lock SellLimit, ticketCustom= 26, ticket= 3178665870 
+21:28:29.921353> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69703.1 Ask:  69703.2
+21:33:26.363063> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 69821.6 Ask:  69821.7
+21:33:26.363063> Try Open BuyLimit, Bid: 69821.6 Ask:  69821.7
+21:33:26.363063> Support: 69821.6 VolS:2.029 Resistence: 69825.7 VolR:0.45
+21:33:26.646042> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-4.7725;Price=69827.10;Slippage=69827.1;Execution=282.979 ms;
+21:33:26.647043> Placed Main BuyLimit, ticketCustom = 27 ticket= 3178855763
+21:33:26.648043> Try Modify main Buy order, 
+21:33:26.648043> Support: 69827 VolS:1.484 Resistence: 69829.5 VolR:1.591
+21:33:26.966871> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:33:26.966871> [1Leg]: Buy failed BTCUSDC;price=69827.10
+21:33:26.966871> Error Modify main BuyLimit, ticketCustom=27 ticket=0
+21:33:27.970090> Try Modify main Buy order, 
+21:33:27.970090> Support: 69831.2 VolS:3.103 Resistence: 69840.4 VolR:0.057
+21:33:28.290883> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:33:28.291883> [1Leg]: Buy failed BTCUSDC;price=69844.00
+21:33:28.291883> Error Modify main BuyLimit, ticketCustom=27 ticket=0
+21:33:29.325019> Try Modify main Buy order, 
+21:33:29.326017> Support: 69843.9 VolS:1.673 Resistence: 69855 VolR:0.526
+21:33:30.476665> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:33:30.477661> [1Leg]: Buy failed BTCUSDC;price=69840.10
+21:33:30.477661> Error Modify main BuyLimit, ticketCustom=27 ticket=0
+21:33:31.488194> Try place lock SellLimit, Bid: 69829.2 Ask:  69829.3
+21:33:31.765384> [1Leg]: Sell OK BTCUSDC at 69821.20;Gap=0.07375;Price=69829.30;Slippage=8.1;Execution=276.199 ms;
+21:33:31.765384> Placed lock SellLimit, ticketCustom= 28, ticket= 3178855763 
+21:33:44.751099> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69815.2 Ask:  69815.5
+21:33:44.777099> Try Open SellLimit, Ask: 69815.5
+21:33:44.778100> Support: 69812.1 VolS:0.331 Resistence: 69816 VolR:0.885
+21:33:45.059188> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-12.78;Price=69815.50;Slippage=69815.5;Execution=281.088 ms;
+21:33:45.059188> Placed Main SellLimit, ticketCustom = 29 ticket = 3178868879
+21:33:47.002310> Try place lock BuyLimit, Bid: 69835.9 Ask:  69836.0
+21:33:47.282087> [1Leg]: Buy OK BTCUSDC at 69634.00;Gap=-1.9025;Price=69836.00;Slippage=202.0;Execution=278.777 ms;
+21:33:47.282087> Placed lock BuyLimit, ticketCustom= 30, ticket= 3178868879 
+21:41:08.333304> Try Modify Lock Buy order for close at now, 
+21:41:08.615320> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69693.70;execution=280.016 ms;
+21:41:08.617321> Modify BuyLimit (1Leg) for Close at now
+21:41:08.619320> Try Modify Lock Buy order for close at now, 
+21:41:08.902873> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69712.50;execution=283.553 ms;
+21:41:08.903873> Modify BuyLimit (1Leg) for Close at now
+21:41:08.934879> Try Modify Lock Buy order for close at now, 
+21:41:09.214610> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69713.70;execution=279.732 ms;
+21:41:09.214610> Modify BuyLimit (1Leg) for Close at now
+21:41:09.452804> Try Modify Lock Buy order for close at now, 
+21:41:10.570816> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69724.90;execution=1118.012 ms;
+21:41:10.571810> Modify BuyLimit (1Leg) for Close at now
+21:41:10.572812> Try Modify Lock Buy order for close at now, 
+21:41:10.852829> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69726.60;execution=280.017 ms;
+21:41:10.852829> Modify BuyLimit (1Leg) for Close at now
+21:41:13.976703> Try Modify Lock Buy order for close at now, 
+21:41:14.308720> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:41:14.309720> [1Leg]: Buy failed BTCUSDC;price=69718.10
+21:41:16.331990> Try Modify Lock Buy order for close at now, 
+21:41:16.718923> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:41:16.737920> [1Leg]: Buy failed BTCUSDC;price=69712.10
+21:48:12.703593> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69720.2 Ask:  69720.3
+21:48:12.764626> Try Open BuyLimit, Bid: 69720.2 Ask:  69720.3
+21:48:12.768592> Support: 69720 VolS:1.128 Resistence: 69720.3 VolR:2.023
+21:48:13.045079> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.9225;Price=69720.30;Slippage=69720.3;Execution=276.487 ms;
+21:48:13.045079> Placed Main BuyLimit, ticketCustom = 31 ticket= 3179233682
+21:48:13.195089> Try Modify main Buy order, 
+21:48:13.195089> Support: 69738 VolS:1.994 Resistence: 69738.1 VolR:1.23
+21:48:13.506291> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:48:13.507292> [1Leg]: Buy failed BTCUSDC;price=69738.10
+21:48:13.507292> Error Modify main BuyLimit, ticketCustom=31 ticket=0
+21:48:14.514093> Try Modify main Buy order, 
+21:48:14.515085> Support: 69723.5 VolS:0.493 Resistence: 69732.9 VolR:2.31
+21:48:14.825232> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:48:14.826233> [1Leg]: Buy failed BTCUSDC;price=69728.10
+21:48:14.826233> Error Modify main BuyLimit, ticketCustom=31 ticket=0
+21:48:15.829465> Try Modify main Buy order, 
+21:48:15.830462> Support: 69718.3 VolS:1.198 Resistence: 69722.1 VolR:3.057
+21:48:16.149739> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:48:16.174739> [1Leg]: Buy failed BTCUSDC;price=69722.10
+21:48:16.175740> Error Modify main BuyLimit, ticketCustom=31 ticket=0
+21:48:17.205970> Try place lock SellLimit, Bid: 69722.0 Ask:  69722.1
+21:48:17.485886> [1Leg]: Sell OK BTCUSDC at 69714.60;Gap=2.0625;Price=69722.10;Slippage=7.5;Execution=279.916 ms;
+21:48:17.486884> Placed lock SellLimit, ticketCustom= 32, ticket= 3179233682 
+21:48:29.201363> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69739.3 Ask:  69739.4
+21:48:29.201363> Try Open BuyLimit, Bid: 69739.3 Ask:  69739.4
+21:48:29.202361> Support: 69739.3 VolS:1.988 Resistence: 69739.8 VolR:1.057
+21:48:29.483526> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=1.86;Price=69741.60;Slippage=69741.6;Execution=281.165 ms;
+21:48:29.483526> Placed Main BuyLimit, ticketCustom = 33 ticket= 3179241196
+21:48:29.484514> Try Modify main Buy order, 
+21:48:29.484514> Support: 69741.5 VolS:2.781 Resistence: 69745.5 VolR:1.048
+21:48:29.796531> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:48:29.797531> [1Leg]: Buy failed BTCUSDC;price=69741.60
+21:48:29.797531> Error Modify main BuyLimit, ticketCustom=33 ticket=0
+21:48:30.817742> Try Modify main Buy order, 
+21:48:30.817742> Support: 69745.6 VolS:2.81 Resistence: 69749 VolR:0.997
+21:48:31.130587> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:48:31.130587> [1Leg]: Buy failed BTCUSDC;price=69745.70
+21:48:31.130587> Error Modify main BuyLimit, ticketCustom=33 ticket=0
+21:48:32.167194> Try Modify main Buy order, 
+21:48:32.168194> Support: 69748.7 VolS:3.192 Resistence: 69752.1 VolR:1.174
+21:48:32.521167> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:48:32.521167> [1Leg]: Buy failed BTCUSDC;price=69748.80
+21:48:32.522166> Error Modify main BuyLimit, ticketCustom=33 ticket=0
+21:48:33.526534> Try Modify main Buy order, 
+21:48:33.526534> Support: 69751.8 VolS:3.3 Resistence: 69753.1 VolR:1.1
+21:48:33.838550> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:48:33.839550> [1Leg]: Buy failed BTCUSDC;price=69751.90
+21:48:33.839550> Error Modify main BuyLimit, ticketCustom=33 ticket=0
+21:48:34.857457> Try place lock SellLimit, Bid: 69751.8 Ask:  69751.9
+21:48:35.139827> [1Leg]: Sell OK BTCUSDC at 69815.80;Gap=-4.05125;Price=69751.90;Slippage=-63.9;Execution=282.370 ms;
+21:48:35.139827> Placed lock SellLimit, ticketCustom= 34, ticket= 3179241196 
+21:49:44.751145> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69806.2 Ask:  69806.3
+21:52:15.853862> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69807.9 Ask:  69808.0
+21:52:15.855848> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69807.9 Ask:  69808.0
+21:52:15.896849> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69807.9 Ask:  69808.0
+22:01:31.925899> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69886.0 Ask:  69886.1
+22:01:31.926899> Try Open SellLimit, Ask: 69886.1
+22:01:31.926899> Support: 69886 VolS:2.836 Resistence: 69886.5 VolR:0.972
+22:01:32.207286> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.6675;Price=69886.10;Slippage=69886.1;Execution=280.387 ms;
+22:01:32.208281> Placed Main SellLimit, ticketCustom = 35 ticket = 3179547659
+22:01:32.209282> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69886.0 Ask:  69886.1
+22:01:34.002723> Try place lock BuyLimit, Bid: 69866.6 Ask:  69866.7
+22:01:35.110905> [1Leg]: Buy OK BTCUSDC at 69711.70;Gap=-3.1525;Price=69866.70;Slippage=155.0;Execution=1108.183 ms;
+22:01:35.110905> Placed lock BuyLimit, ticketCustom= 36, ticket= 3179547659 
+22:01:51.503073> Signal 1(s), Move:2 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 69917.1 Ask:  69917.2
+22:01:51.507071> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69917.1 Ask:  69917.2
+22:01:55.407807> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69908.0 Ask:  69908.1
+22:01:56.931488> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69905.2 Ask:  69905.3
+22:09:24.038129> Try Modify Lock Buy order, 
+22:09:25.228912> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69825.30;execution=1189.781 ms;
+22:09:25.229905> Modify Lock BuyLimit (1Leg)
+22:09:34.028025> Try Modify Lock Buy order, 
+22:09:34.349306> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69724.00;execution=286.276 ms;
+22:09:34.349306> Modify Lock BuyLimit (1Leg)
+22:12:33.891951> Try Modify Lock Buy order for close at now, 
+22:12:34.178300> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69928.00;execution=286.349 ms;
+22:12:34.178300> Modify BuyLimit (1Leg) for Close at now
+22:12:34.182299> Try Modify Lock Buy order for close at now, 
+22:12:35.304243> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69955.40;execution=1121.944 ms;
+22:12:35.305242> Modify BuyLimit (1Leg) for Close at now
+22:12:35.307250> Try Modify Lock Buy order for close at now, 
+22:12:35.620677> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:12:35.620677> [1Leg]: Buy failed BTCUSDC;price=69952.40
+22:12:37.631394> Try Modify Lock Buy order for close at now, 
+22:12:37.944744> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:12:37.945742> [1Leg]: Buy failed BTCUSDC;price=69952.40
+22:24:42.297492> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69803.5 Ask:  69803.6
+22:24:42.298483> Try Open SellLimit, Ask: 69803.6
+22:24:42.298483> Support: 69803.5 VolS:2.292 Resistence: 69803.8 VolR:1.06
+22:24:42.576506> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.9975;Price=69803.60;Slippage=69803.6;Execution=278.023 ms;
+22:24:42.576506> Placed Main SellLimit, ticketCustom = 37 ticket = 3180018397
+22:24:45.004639> Try place lock BuyLimit, Bid: 69803.5 Ask:  69803.6
+22:24:46.182513> [1Leg]: Buy OK BTCUSDC at 69642.40;Gap=0.2125;Price=69803.60;Slippage=161.2;Execution=1177.874 ms;
+22:24:46.183511> Placed lock BuyLimit, ticketCustom= 38, ticket= 3180018397 
+22:24:47.503718> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69801.3 Ask:  69801.4
+22:25:01.252149> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69796.0 Ask:  69796.1
+22:26:59.003363> Try Modify Lock Buy order, 
+22:27:00.128580> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69451.30;execution=1124.217 ms;
+22:27:00.128580> Modify Lock BuyLimit (1Leg)
+22:27:09.358985> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69600.0 Ask:  69600.1
+22:27:13.842030> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69584.0 Ask:  69584.1
+22:27:13.847030> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69584.0 Ask:  69584.1
+22:27:18.105805>  DevBUY (-): 62.18625 avgGapBuy:-3.58625 
+22:27:19.967754> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69418.2 Ask:  69431.9
+22:27:21.186893> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69442.1 Ask:  69442.2
+22:27:21.186893> Try Open SellLimit, Ask: 69442.2
+22:27:21.186893> Support: 69442 VolS:3.456 Resistence: 69448.3 VolR:3.972
+22:27:21.519724> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=7.48125;Price=69424.90;Slippage=69424.9;Execution=331.840 ms;
+22:27:21.519724> Placed Main SellLimit, ticketCustom = 39 ticket = 3180106923
+22:27:21.519724> Try Modify main Sell order, 
+22:27:21.887759> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:27:21.888757> [1Leg]: Sell failed BTCUSDC;price=69424.90
+22:27:21.888757> Error Modify main SellLimit, ticketCustom=39 ticket=0
+22:27:22.918843> Try Modify main Sell order, 
+22:27:23.233851> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:27:23.234853> [1Leg]: Sell failed BTCUSDC;price=69431.90
+22:27:23.235852> Error Modify main SellLimit, ticketCustom=39 ticket=0
+22:27:26.016007> Try place lock BuyLimit, Bid: 69431.7 Ask:  69431.8
+22:27:26.332554> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4164 Message: Order's notional must be no smaller than 100 (unless you choose reduce only).
+22:27:26.332554> [1Leg]: Buy FAILED BTCUSDC;Gap=-9.625;Price=69442.70
+22:27:28.001207> Try place lock BuyLimit, Bid: 69418.2 Ask:  69418.3
+22:27:28.308332> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4164 Message: Order's notional must be no smaller than 100 (unless you choose reduce only).
+22:27:28.310332> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.025;Price=69402.30
+22:27:30.001534> Try place lock BuyLimit, Bid: 69399.9 Ask:  69400.0
+22:27:30.307957> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:30.307957> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.99125;Price=69416.30
+22:27:30.838646> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69408.0 Ask:  69419.9
+22:27:32.002159> Try place lock BuyLimit, Bid: 69391.8 Ask:  69402.8
+22:27:32.336656> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:32.336656> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.29125;Price=69407.90
+22:27:34.008536> Try place lock BuyLimit, Bid: 69413.9 Ask:  69414.0
+22:27:34.343160> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:34.343160> [1Leg]: Buy FAILED BTCUSDC;Gap=-9.29125;Price=69402.00
+22:27:36.076754> Try place lock BuyLimit, Bid: 69421.9 Ask:  69422.0
+22:27:36.411122> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:36.412121> [1Leg]: Buy FAILED BTCUSDC;Gap=-10.595;Price=69422.00
+22:27:38.002104> Try place lock BuyLimit, Bid: 69442.9 Ask:  69443.0
+22:27:38.308749> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:38.309748> [1Leg]: Buy FAILED BTCUSDC;Gap=-16.095;Price=69443.00
+22:27:40.002618> Try place lock BuyLimit, Bid: 69444.0 Ask:  69444.1
+22:27:40.319043> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:40.320041> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.3125;Price=69444.10
+22:27:42.012975> Try place lock BuyLimit, Bid: 69417.4 Ask:  69417.5
+22:27:42.327549> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:42.327549> [1Leg]: Buy FAILED BTCUSDC;Gap=4.4875;Price=69404.10
+22:27:44.001106> Try place lock BuyLimit, Bid: 69402.0 Ask:  69402.1
+22:27:44.310124> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:44.310124> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.9125;Price=69397.30
+22:27:46.000100> Try place lock BuyLimit, Bid: 69397.2 Ask:  69397.3
+22:27:46.328427> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:46.329427> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.2825;Price=69399.40
+22:27:48.001045> Try place lock BuyLimit, Bid: 69393.2 Ask:  69393.3
+22:27:48.339083> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:48.342083> [1Leg]: Buy FAILED BTCUSDC;Gap=-8.4825;Price=69389.20
+22:27:50.005738> Try place lock BuyLimit, Bid: 69400.2 Ask:  69400.3
+22:27:50.348160> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:50.348160> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.89375;Price=69400.30
+22:27:52.001386> Try place lock BuyLimit, Bid: 69388.0 Ask:  69388.1
+22:27:52.306404> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:52.306404> [1Leg]: Buy FAILED BTCUSDC;Gap=1.90625;Price=69397.20
+22:27:54.002320> Try place lock BuyLimit, Bid: 69405.8 Ask:  69405.9
+22:27:54.346326> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:54.346326> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.69375;Price=69413.30
+22:27:56.002558> Try place lock BuyLimit, Bid: 69422.9 Ask:  69423.0
+22:27:56.311559> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:56.312559> [1Leg]: Buy FAILED BTCUSDC;Gap=0.36625;Price=69423.00
+22:27:58.001060> Try place lock BuyLimit, Bid: 69412.0 Ask:  69412.1
+22:27:58.307078> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:27:58.307078> [1Leg]: Buy FAILED BTCUSDC;Gap=0.46625;Price=69416.40
+22:28:00.030633> Try place lock BuyLimit, Bid: 69416.5 Ask:  69416.6
+22:28:00.344449> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:00.344449> [1Leg]: Buy FAILED BTCUSDC;Gap=2.8125;Price=69416.60
+22:28:02.002078> Try place lock BuyLimit, Bid: 69447.8 Ask:  69447.9
+22:28:02.316920> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:02.316920> [1Leg]: Buy FAILED BTCUSDC;Gap=1.6125;Price=69447.90
+22:28:04.002796> Try place lock BuyLimit, Bid: 69446.1 Ask:  69446.2
+22:28:04.314434> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:04.334431> [1Leg]: Buy FAILED BTCUSDC;Gap=3.3125;Price=69446.20
+22:28:06.033101> Try place lock BuyLimit, Bid: 69410.0 Ask:  69410.1
+22:28:06.350120> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:06.350120> [1Leg]: Buy FAILED BTCUSDC;Gap=6.53375;Price=69411.90
+22:28:08.038813> Try place lock BuyLimit, Bid: 69430.1 Ask:  69430.2
+22:28:08.353830> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:08.354831> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.26625;Price=69430.20
+22:28:10.006670> Try place lock BuyLimit, Bid: 69439.4 Ask:  69439.5
+22:28:10.337488> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:10.338490> [1Leg]: Buy FAILED BTCUSDC;Gap=16.0925;Price=69422.60
+22:28:12.006416> Try place lock BuyLimit, Bid: 69412.7 Ask:  69412.8
+22:28:12.335434> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:12.336434> [1Leg]: Buy FAILED BTCUSDC;Gap=-10.7075;Price=69412.50
+22:28:14.002061> Try place lock BuyLimit, Bid: 69399.9 Ask:  69400.0
+22:28:14.309078> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:14.312078> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.0075;Price=69405.00
+22:28:16.016994> Try place lock BuyLimit, Bid: 69394.0 Ask:  69394.1
+22:28:16.331013> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:16.332012> [1Leg]: Buy FAILED BTCUSDC;Gap=-8.13;Price=69382.80
+22:28:16.333014> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69382.7 Ask:  69382.8
+22:28:18.002130> Try place lock BuyLimit, Bid: 69397.9 Ask:  69398.0
+22:28:18.313147> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:18.314146> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.03;Price=69398.00
+22:28:20.007154> Try place lock BuyLimit, Bid: 69407.9 Ask:  69408.0
+22:28:20.315001> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:20.315538> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.0375;Price=69408.00
+22:28:22.002943> Try place lock BuyLimit, Bid: 69411.9 Ask:  69412.0
+22:28:22.318507> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:22.318507> [1Leg]: Buy FAILED BTCUSDC;Gap=0.3625;Price=69398.90
+22:28:24.002251> Try place lock BuyLimit, Bid: 69413.8 Ask:  69413.9
+22:28:24.306271> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:24.306271> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.9375;Price=69423.00
+22:28:26.002960> Try place lock BuyLimit, Bid: 69429.1 Ask:  69429.2
+22:28:26.315097> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:26.315097> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.90375;Price=69429.20
+22:28:28.001444> Try place lock BuyLimit, Bid: 69431.9 Ask:  69432.0
+22:28:28.313455> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:28.314456> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.30375;Price=69432.00
+22:28:30.026543> Try place lock BuyLimit, Bid: 69422.2 Ask:  69422.3
+22:28:30.331126> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:30.332125> [1Leg]: Buy FAILED BTCUSDC;Gap=0.2475;Price=69414.70
+22:28:32.002853> Try place lock BuyLimit, Bid: 69413.9 Ask:  69414.0
+22:28:32.309412> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:32.310413> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.8525;Price=69414.00
+22:28:34.001371> Try place lock BuyLimit, Bid: 69395.4 Ask:  69395.5
+22:28:34.335379> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:34.336382> [1Leg]: Buy FAILED BTCUSDC;Gap=1.7475;Price=69393.60
+22:28:36.001615> Try place lock BuyLimit, Bid: 69375.9 Ask:  69376.0
+22:28:36.312790> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:36.313790> [1Leg]: Buy FAILED BTCUSDC;Gap=1.785;Price=69376.00
+22:28:38.002734> Try place lock BuyLimit, Bid: 69381.9 Ask:  69382.0
+22:28:38.313515> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:38.313515> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.815;Price=69382.00
+22:28:39.078685>  DevBUY (-): 85.685 avgGapBuy:-9.785 
+22:28:39.364703>  DevBUY (-): 85.69 avgGapBuy:-9.79 
+22:28:40.008525> Try place lock BuyLimit, Bid: 69309.9 Ask:  69310.0
+22:28:40.346543> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:40.347545> [1Leg]: Buy FAILED BTCUSDC;Gap=9.59;Price=69310.00
+22:28:40.818571> Signal 1(s), Move:1 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 69318.0 Ask:  69318.7
+22:28:42.006303> Try place lock BuyLimit, Bid: 69302.0 Ask:  69302.1
+22:28:42.383104> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:42.384105> [1Leg]: Buy FAILED BTCUSDC;Gap=12.19;Price=69302.10
+22:28:43.379882> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69310.0 Ask:  69310.1
+22:28:43.996917> Try Modify Lock Buy order for close at now, 
+22:28:44.330936> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:28:44.331937> [1Leg]: Buy failed BTCUSDC;price=69313.90
+22:28:46.367541> Try place lock BuyLimit, Bid: 69330.0 Ask:  69330.1
+22:28:46.713264> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:46.714266> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3075;Price=69330.10
+22:28:46.714266> Try Modify Lock Buy order for close at now, 
+22:28:47.030485> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:28:47.030485> [1Leg]: Buy failed BTCUSDC;price=69330.10
+22:28:49.045348> Try place lock BuyLimit, Bid: 69300.3 Ask:  69302.0
+22:28:49.415369> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:49.416370> [1Leg]: Buy FAILED BTCUSDC;Gap=11.8075;Price=69302.10
+22:28:49.416370> Try Modify Lock Buy order for close at now, 
+22:28:49.765390> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:28:49.766389> [1Leg]: Buy failed BTCUSDC;price=69312.50
+22:28:51.772371> Try place lock BuyLimit, Bid: 69315.3 Ask:  69315.4
+22:28:52.107409> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:52.108408> [1Leg]: Buy FAILED BTCUSDC;Gap=2.55375;Price=69315.40
+22:28:52.108408> Try Modify Lock Buy order for close at now, 
+22:28:52.430426> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:28:52.430426> [1Leg]: Buy failed BTCUSDC;price=69301.20
+22:28:54.474796> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69312.9 Ask:  69313.0
+22:28:54.475796> Try place lock BuyLimit, Bid: 69312.9 Ask:  69313.0
+22:28:54.781812> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:54.781812> [1Leg]: Buy FAILED BTCUSDC;Gap=0.35375;Price=69313.00
+22:28:54.782813> Try Modify Lock Buy order for close at now, 
+22:28:55.094831> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:28:55.094831> [1Leg]: Buy failed BTCUSDC;price=69314.00
+22:28:57.104453> Try place lock BuyLimit, Bid: 69303.9 Ask:  69304.0
+22:28:57.438470> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:28:57.438470> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.44;Price=69304.00
+22:28:57.438470> Try Modify Lock Buy order for close at now, 
+22:28:57.751490> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:28:57.751490> [1Leg]: Buy failed BTCUSDC;price=69308.00
+22:28:59.753836> Try place lock BuyLimit, Bid: 69293.3 Ask:  69293.4
+22:29:00.059251> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:00.060249> [1Leg]: Buy FAILED BTCUSDC;Gap=-24.24;Price=69293.40
+22:29:00.060249> Try Modify Lock Buy order for close at now, 
+22:29:00.371267> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:00.372267> [1Leg]: Buy failed BTCUSDC;price=69298.00
+22:29:02.392379> Try place lock BuyLimit, Bid: 69309.8 Ask:  69309.9
+22:29:02.734689> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:02.759690> [1Leg]: Buy FAILED BTCUSDC;Gap=5.19;Price=69306.50
+22:29:02.759690> Try Modify Lock Buy order for close at now, 
+22:29:03.070926> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:03.070926> [1Leg]: Buy failed BTCUSDC;price=69306.50
+22:29:05.080804> Try place lock BuyLimit, Bid: 69326.0 Ask:  69326.1
+22:29:05.420812> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:05.421817> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.61;Price=69320.50
+22:29:05.421817> Try Modify Lock Buy order for close at now, 
+22:29:05.750127> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:05.769131> [1Leg]: Buy failed BTCUSDC;price=69320.50
+22:29:07.774858> Try place lock BuyLimit, Bid: 69344.9 Ask:  69345.0
+22:29:08.084639> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:08.084639> [1Leg]: Buy FAILED BTCUSDC;Gap=0.7525;Price=69344.20
+22:29:08.084639> Try Modify Lock Buy order for close at now, 
+22:29:08.396659> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:08.397657> [1Leg]: Buy failed BTCUSDC;price=69346.00
+22:29:10.452904> Try place lock BuyLimit, Bid: 69341.9 Ask:  69342.0
+22:29:10.814592> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:10.836594> [1Leg]: Buy FAILED BTCUSDC;Gap=6.8525;Price=69342.00
+22:29:10.836594> Try Modify Lock Buy order for close at now, 
+22:29:11.148903> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:11.149903> [1Leg]: Buy failed BTCUSDC;price=69346.00
+22:29:13.251741> Try place lock BuyLimit, Bid: 69372.0 Ask:  69372.1
+22:29:19.922463> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:19.923464> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.22125;Price=69354.10
+22:29:19.923464> Try Modify Lock Buy order for close at now, 
+22:29:20.279131> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:20.280133> [1Leg]: Buy failed BTCUSDC;price=69352.10
+22:29:22.287659> Try place lock BuyLimit, Bid: 69324.0 Ask:  69324.1
+22:29:22.605797> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:22.605797> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.34;Price=69324.10
+22:29:22.606796> Try Modify Lock Buy order for close at now, 
+22:29:22.917202> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:22.918202> [1Leg]: Buy failed BTCUSDC;price=69317.50
+22:29:24.963150> Try place lock BuyLimit, Bid: 69301.8 Ask:  69301.9
+22:29:25.364420> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:25.374420> [1Leg]: Buy FAILED BTCUSDC;Gap=5.26;Price=69298.10
+22:29:25.374420> Try Modify Lock Buy order for close at now, 
+22:29:25.687438> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:25.688439> [1Leg]: Buy failed BTCUSDC;price=69298.10
+22:29:27.701017> Try place lock BuyLimit, Bid: 69305.8 Ask:  69305.9
+22:29:28.013032> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:28.016033> [1Leg]: Buy FAILED BTCUSDC;Gap=3.82125;Price=69305.90
+22:29:28.016033> Try Modify Lock Buy order for close at now, 
+22:29:28.328054> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:28.328054> [1Leg]: Buy failed BTCUSDC;price=69308.00
+22:29:30.350480> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69326.0 Ask:  69326.1
+22:29:30.351480> Try place lock BuyLimit, Bid: 69326.0 Ask:  69326.1
+22:29:30.664498> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:30.664498> [1Leg]: Buy FAILED BTCUSDC;Gap=8.72125;Price=69326.10
+22:29:30.664498> Try Modify Lock Buy order for close at now, 
+22:29:30.989513> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:30.990516> [1Leg]: Buy failed BTCUSDC;price=69331.10
+22:29:32.994406> Try place lock BuyLimit, Bid: 69315.7 Ask:  69315.8
+22:29:33.330424> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:33.330424> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.8775;Price=69317.80
+22:29:33.330424> Try Modify Lock Buy order for close at now, 
+22:29:33.643897> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:33.643897> [1Leg]: Buy failed BTCUSDC;price=69317.80
+22:29:35.693764> Try place lock BuyLimit, Bid: 69329.9 Ask:  69330.0
+22:29:35.998981> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:35.999981> [1Leg]: Buy FAILED BTCUSDC;Gap=2.8225;Price=69330.00
+22:29:35.999981> Try Modify Lock Buy order for close at now, 
+22:29:36.319999> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:36.334006> [1Leg]: Buy failed BTCUSDC;price=69330.00
+22:29:38.339147> Try place lock BuyLimit, Bid: 69337.7 Ask:  69337.8
+22:29:38.656157> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:38.657160> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.1075;Price=69337.80
+22:29:38.658160> Try Modify Lock Buy order for close at now, 
+22:29:38.975179> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:38.976179> [1Leg]: Buy failed BTCUSDC;price=69337.80
+22:29:40.979004> Try place lock BuyLimit, Bid: 69336.0 Ask:  69336.1
+22:29:41.324309> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:41.341304> [1Leg]: Buy FAILED BTCUSDC;Gap=5.3925;Price=69336.10
+22:29:41.341304> Try Modify Lock Buy order for close at now, 
+22:29:41.656324> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:41.673323> [1Leg]: Buy failed BTCUSDC;price=69336.10
+22:29:43.678824> Try place lock BuyLimit, Bid: 69347.9 Ask:  69348.0
+22:29:43.983843> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:43.983843> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.0525;Price=69348.00
+22:29:43.983843> Try Modify Lock Buy order for close at now, 
+22:29:44.347941> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:44.374943> [1Leg]: Buy failed BTCUSDC;price=69348.00
+22:29:46.394539> Try place lock BuyLimit, Bid: 69350.0 Ask:  69350.1
+22:29:46.700564> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:46.701567> [1Leg]: Buy FAILED BTCUSDC;Gap=2.0475;Price=69350.10
+22:29:46.701567> Try Modify Lock Buy order for close at now, 
+22:29:47.014585> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:47.014585> [1Leg]: Buy failed BTCUSDC;price=69353.10
+22:29:49.023256> Try place lock BuyLimit, Bid: 69364.9 Ask:  69365.0
+22:29:49.367119> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:49.385116> [1Leg]: Buy FAILED BTCUSDC;Gap=6.765;Price=69365.00
+22:29:49.386116> Try Modify Lock Buy order for close at now, 
+22:29:49.700325> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:49.701326> [1Leg]: Buy failed BTCUSDC;price=69358.70
+22:29:51.732834> Try place lock BuyLimit, Bid: 69356.0 Ask:  69356.1
+22:29:52.049851> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:29:52.050851> [1Leg]: Buy FAILED BTCUSDC;Gap=0.665;Price=69358.20
+22:29:52.050851> Try Modify Lock Buy order for close at now, 
+22:29:52.403349> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:29:52.403349> [1Leg]: Buy failed BTCUSDC;price=69358.20
+22:29:54.458471> Try place lock BuyLimit, Bid: 69383.2 Ask:  69383.3
+22:30:13.399557> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1021 Message: Timestamp for this request is outside of the recvWindow.
+22:30:13.400556> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.53125;Price=69356.00
+22:30:13.400556> Try Modify Lock Buy order for close at now, 
+22:30:14.345569> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:14.346569> [1Leg]: Buy failed BTCUSDC;price=69356.00
+22:30:16.351572> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69323.4 Ask:  69323.5
+22:30:16.351572> Try place lock BuyLimit, Bid: 69323.4 Ask:  69323.5
+22:30:16.659974> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:16.660974> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.4025;Price=69333.00
+22:30:16.660974> Try Modify Lock Buy order for close at now, 
+22:30:17.052694> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:17.053695> [1Leg]: Buy failed BTCUSDC;price=69334.00
+22:30:19.059398> Try place lock BuyLimit, Bid: 69319.9 Ask:  69320.0
+22:30:19.369417> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:19.370416> [1Leg]: Buy FAILED BTCUSDC;Gap=-7.9025;Price=69324.00
+22:30:19.370416> Try Modify Lock Buy order for close at now, 
+22:30:19.685435> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:19.686436> [1Leg]: Buy failed BTCUSDC;price=69324.00
+22:30:21.693108> Try place lock BuyLimit, Bid: 69329.1 Ask:  69329.2
+22:30:22.033613> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:22.035610> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.94;Price=69329.20
+22:30:22.035610> Try Modify Lock Buy order for close at now, 
+22:30:22.348012> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:22.349010> [1Leg]: Buy failed BTCUSDC;price=69329.20
+22:30:24.354761> Try place lock BuyLimit, Bid: 69344.9 Ask:  69345.0
+22:30:24.665390> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:24.665390> [1Leg]: Buy FAILED BTCUSDC;Gap=-9.34;Price=69345.00
+22:30:24.666391> Try Modify Lock Buy order for close at now, 
+22:30:25.017055> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:25.017055> [1Leg]: Buy failed BTCUSDC;price=69336.60
+22:30:27.021938> Try place lock BuyLimit, Bid: 69331.9 Ask:  69332.0
+22:30:27.333998> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:27.333998> [1Leg]: Buy FAILED BTCUSDC;Gap=-9.685;Price=69332.00
+22:30:27.333998> Try Modify Lock Buy order for close at now, 
+22:30:27.673017> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:27.673017> [1Leg]: Buy failed BTCUSDC;price=69332.00
+22:30:29.704654> Try place lock BuyLimit, Bid: 69343.9 Ask:  69344.0
+22:30:30.049665> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:30.050663> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.185;Price=69344.00
+22:30:30.050663> Try Modify Lock Buy order for close at now, 
+22:30:30.363945> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:30.363945> [1Leg]: Buy failed BTCUSDC;price=69344.00
+22:30:32.422581> Try place lock BuyLimit, Bid: 69347.9 Ask:  69348.0
+22:30:32.731600> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:32.735598> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.07875;Price=69348.00
+22:30:32.736600> Try Modify Lock Buy order for close at now, 
+22:30:33.053161> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:33.054160> [1Leg]: Buy failed BTCUSDC;price=69348.00
+22:30:35.072741> Try place lock BuyLimit, Bid: 69336.4 Ask:  69336.5
+22:30:35.389601> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:35.390600> [1Leg]: Buy FAILED BTCUSDC;Gap=-6.07875;Price=69329.10
+22:30:35.390600> Try Modify Lock Buy order for close at now, 
+22:30:35.702617> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:35.702617> [1Leg]: Buy failed BTCUSDC;price=69329.10
+22:30:37.727897> Try place lock BuyLimit, Bid: 69340.5 Ask:  69340.6
+22:30:38.107467> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:38.108465> [1Leg]: Buy FAILED BTCUSDC;Gap=-8.95375;Price=69340.60
+22:30:38.108465> Try Modify Lock Buy order for close at now, 
+22:30:38.425482> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:38.426482> [1Leg]: Buy failed BTCUSDC;price=69340.60
+22:30:40.462837> Try place lock BuyLimit, Bid: 69336.0 Ask:  69336.1
+22:30:40.773858> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:40.779855> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.15375;Price=69336.10
+22:30:40.780856> Try Modify Lock Buy order for close at now, 
+22:30:41.131876> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:41.131876> [1Leg]: Buy failed BTCUSDC;price=69336.10
+22:30:43.142215> Try place lock BuyLimit, Bid: 69327.9 Ask:  69328.0
+22:30:43.453842> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:43.453842> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.3025;Price=69328.00
+22:30:43.453842> Try Modify Lock Buy order for close at now, 
+22:30:43.809863> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:43.809863> [1Leg]: Buy failed BTCUSDC;price=69328.00
+22:30:45.818926> Try place lock BuyLimit, Bid: 69327.9 Ask:  69328.0
+22:30:46.140103> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:46.140103> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.5025;Price=69328.00
+22:30:46.140103> Try Modify Lock Buy order for close at now, 
+22:30:46.467089> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:46.468088> [1Leg]: Buy failed BTCUSDC;price=69328.00
+22:30:48.512306> Try place lock BuyLimit, Bid: 69306.7 Ask:  69306.8
+22:30:48.825324> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:48.825324> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.1125;Price=69306.80
+22:30:48.826327> Try Modify Lock Buy order for close at now, 
+22:30:49.149342> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:49.150342> [1Leg]: Buy failed BTCUSDC;price=69305.70
+22:30:51.183400> Try place lock BuyLimit, Bid: 69296.4 Ask:  69296.5
+22:30:51.486659> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:51.487659> [1Leg]: Buy FAILED BTCUSDC;Gap=0.9875;Price=69296.50
+22:30:51.487659> Try Modify Lock Buy order for close at now, 
+22:30:51.821186> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:51.822186> [1Leg]: Buy failed BTCUSDC;price=69296.50
+22:30:53.830544> Try place lock BuyLimit, Bid: 69299.4 Ask:  69299.5
+22:30:54.153559> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:54.154560> [1Leg]: Buy FAILED BTCUSDC;Gap=3.90125;Price=69299.50
+22:30:54.154560> Try Modify Lock Buy order for close at now, 
+22:30:54.480578> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:54.480578> [1Leg]: Buy failed BTCUSDC;price=69298.10
+22:30:56.486399> Try place lock BuyLimit, Bid: 69293.6 Ask:  69293.7
+22:30:56.801415> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:56.802416> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.89875;Price=69293.70
+22:30:56.802416> Try Modify Lock Buy order for close at now, 
+22:30:57.189439> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:57.211441> [1Leg]: Buy failed BTCUSDC;price=69295.40
+22:30:59.228846> Try place lock BuyLimit, Bid: 69293.3 Ask:  69293.4
+22:30:59.555263> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:30:59.556264> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.89875;Price=69293.40
+22:30:59.556264> Try Modify Lock Buy order for close at now, 
+22:30:59.868850> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:30:59.873843> [1Leg]: Buy failed BTCUSDC;price=69293.40
+22:31:01.899446> Try place lock BuyLimit, Bid: 69291.1 Ask:  69291.2
+22:31:02.208515> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:02.209513> [1Leg]: Buy FAILED BTCUSDC;Gap=10.24625;Price=69293.90
+22:31:02.209513> Try Modify Lock Buy order for close at now, 
+22:31:02.529925> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:02.529925> [1Leg]: Buy failed BTCUSDC;price=69293.90
+22:31:04.553014> Try place lock BuyLimit, Bid: 69262.8 Ask:  69262.9
+22:31:04.935032> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:04.935032> [1Leg]: Buy FAILED BTCUSDC;Gap=1.11125;Price=69257.10
+22:31:04.936034> Try Modify Lock Buy order for close at now, 
+22:31:05.355870> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:05.356868> [1Leg]: Buy failed BTCUSDC;price=69255.60
+22:31:07.370774> Try place lock BuyLimit, Bid: 69256.8 Ask:  69260.0
+22:31:07.756317> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:07.784317> [1Leg]: Buy FAILED BTCUSDC;Gap=4.71125;Price=69260.00
+22:31:07.784317> Try Modify Lock Buy order for close at now, 
+22:31:08.160167> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:08.161172> [1Leg]: Buy failed BTCUSDC;price=69264.00
+22:31:10.187843> Try place lock BuyLimit, Bid: 69273.2 Ask:  69273.3
+22:31:10.507892> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:10.508893> [1Leg]: Buy FAILED BTCUSDC;Gap=4.655;Price=69273.30
+22:31:10.508893> Try Modify Lock Buy order for close at now, 
+22:31:10.822678> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:10.828669> [1Leg]: Buy failed BTCUSDC;price=69278.00
+22:31:12.832772> Try place lock BuyLimit, Bid: 69265.9 Ask:  69266.0
+22:31:13.277788> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:13.278790> [1Leg]: Buy FAILED BTCUSDC;Gap=3.155;Price=69282.00
+22:31:13.278790> Try Modify Lock Buy order for close at now, 
+22:31:13.589809> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:13.589809> [1Leg]: Buy failed BTCUSDC;price=69282.00
+22:31:15.596964> Try place lock BuyLimit, Bid: 69268.0 Ask:  69268.1
+22:31:15.911980> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:15.911980> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.53125;Price=69270.00
+22:31:15.912982> Try Modify Lock Buy order for close at now, 
+22:31:16.237001> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:16.238001> [1Leg]: Buy failed BTCUSDC;price=69270.00
+22:31:18.253285> Try place lock BuyLimit, Bid: 69264.8 Ask:  69264.9
+22:31:18.610104> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:18.611103> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.63125;Price=69277.60
+22:31:18.611103> Try Modify Lock Buy order for close at now, 
+22:31:18.977123> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:18.978124> [1Leg]: Buy failed BTCUSDC;price=69279.10
+22:31:20.987463> Try place lock BuyLimit, Bid: 69299.9 Ask:  69300.0
+22:31:21.293474> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:21.295473> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.64;Price=69300.00
+22:31:21.295473> Try Modify Lock Buy order for close at now, 
+22:31:21.613008> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:21.613008> [1Leg]: Buy failed BTCUSDC;price=69307.30
+22:31:23.639029> Try place lock BuyLimit, Bid: 69319.4 Ask:  69319.5
+22:31:23.963044> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:23.963044> [1Leg]: Buy FAILED BTCUSDC;Gap=2.76;Price=69319.50
+22:31:23.964048> Try Modify Lock Buy order for close at now, 
+22:31:24.290072> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:24.291065> [1Leg]: Buy failed BTCUSDC;price=69322.00
+22:31:26.315811> Try place lock BuyLimit, Bid: 69281.4 Ask:  69281.5
+22:31:26.654536> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:26.669544> [1Leg]: Buy FAILED BTCUSDC;Gap=1.82;Price=69281.50
+22:31:26.669544> Try Modify Lock Buy order for close at now, 
+22:31:26.992553> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:26.993553> [1Leg]: Buy failed BTCUSDC;price=69281.50
+22:31:29.019702> Try place lock BuyLimit, Bid: 69301.9 Ask:  69302.0
+22:31:29.361460> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:29.363460> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.58;Price=69302.00
+22:31:29.363460> Try Modify Lock Buy order for close at now, 
+22:31:29.709052> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:29.709052> [1Leg]: Buy failed BTCUSDC;price=69306.00
+22:31:31.728339> Try place lock BuyLimit, Bid: 69321.9 Ask:  69322.0
+22:31:32.036357> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:32.037357> [1Leg]: Buy FAILED BTCUSDC;Gap=0.35625;Price=69322.00
+22:31:32.037357> Try Modify Lock Buy order for close at now, 
+22:31:32.354970> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:32.355970> [1Leg]: Buy failed BTCUSDC;price=69325.40
+22:31:34.381632> Try place lock BuyLimit, Bid: 69333.8 Ask:  69333.9
+22:31:34.732998> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:34.760000> [1Leg]: Buy FAILED BTCUSDC;Gap=1.05625;Price=69333.90
+22:31:34.761002> Try Modify Lock Buy order for close at now, 
+22:31:35.076021> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:35.077020> [1Leg]: Buy failed BTCUSDC;price=69336.10
+22:31:37.079725> Try place lock BuyLimit, Bid: 69339.6 Ask:  69339.7
+22:31:37.393732> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:37.394733> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.77125;Price=69339.70
+22:31:37.394733> Try Modify Lock Buy order for close at now, 
+22:31:37.764434> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:37.765435> [1Leg]: Buy failed BTCUSDC;price=69339.70
+22:31:39.772375> Try place lock BuyLimit, Bid: 69339.9 Ask:  69340.0
+22:31:40.076386> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:40.076386> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.67125;Price=69340.00
+22:31:40.076386> Try Modify Lock Buy order for close at now, 
+22:31:40.399414> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:40.400405> [1Leg]: Buy failed BTCUSDC;price=69342.00
+22:31:42.405019> Try place lock BuyLimit, Bid: 69351.2 Ask:  69351.3
+22:31:43.327050> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:43.328046> [1Leg]: Buy FAILED BTCUSDC;Gap=2.58625;Price=69340.10
+22:31:43.328046> Try Modify Lock Buy order for close at now, 
+22:31:43.660064> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:43.661065> [1Leg]: Buy failed BTCUSDC;price=69340.10
+22:31:45.666406> Try place lock BuyLimit, Bid: 69330.0 Ask:  69330.1
+22:31:46.127432> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:46.128432> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.61375;Price=69330.10
+22:31:46.129434> Try Modify Lock Buy order for close at now, 
+22:31:46.473259> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:46.474257> [1Leg]: Buy failed BTCUSDC;price=69336.00
+22:31:48.483773> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69306.0 Ask:  69306.1
+22:31:48.484764> Try place lock BuyLimit, Bid: 69306.0 Ask:  69306.1
+22:31:48.812780> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:48.836783> [1Leg]: Buy FAILED BTCUSDC;Gap=-23.9875;Price=69306.10
+22:31:48.836783> Try Modify Lock Buy order for close at now, 
+22:31:49.171345> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:49.172346> [1Leg]: Buy failed BTCUSDC;price=69316.00
+22:31:51.216495> Try place lock BuyLimit, Bid: 69317.9 Ask:  69318.0
+22:31:51.523634> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:51.523634> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.3875;Price=69318.00
+22:31:51.524633> Try Modify Lock Buy order for close at now, 
+22:31:51.872653> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:51.873654> [1Leg]: Buy failed BTCUSDC;price=69318.00
+22:31:53.884808> Try place lock BuyLimit, Bid: 69340.8 Ask:  69340.9
+22:31:55.796922> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:55.810920> [1Leg]: Buy FAILED BTCUSDC;Gap=-6.55125;Price=69344.00
+22:31:55.810920> Try Modify Lock Buy order for close at now, 
+22:31:57.064992> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:57.064992> [1Leg]: Buy failed BTCUSDC;price=69344.00
+22:31:59.090829> Try place lock BuyLimit, Bid: 69343.9 Ask:  69344.0
+22:31:59.400848> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:31:59.401848> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.05;Price=69344.00
+22:31:59.420849> Try Modify Lock Buy order for close at now, 
+22:31:59.780397> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:31:59.780397> [1Leg]: Buy failed BTCUSDC;price=69338.30
+22:32:01.797677> Try place lock BuyLimit, Bid: 69336.0 Ask:  69336.1
+22:32:02.105262> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:32:02.105262> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.85;Price=69336.10
+22:32:02.106261> Try Modify Lock Buy order for close at now, 
+22:32:02.443282> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:02.444281> [1Leg]: Buy failed BTCUSDC;price=69341.20
+22:32:04.494934> Try place lock BuyLimit, Bid: 69360.0 Ask:  69360.1
+22:32:06.990077> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:32:06.990077> [1Leg]: Buy FAILED BTCUSDC;Gap=-8.29875;Price=69332.20
+22:32:06.990077> Try Modify Lock Buy order for close at now, 
+22:32:07.305089> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:07.306091> [1Leg]: Buy failed BTCUSDC;price=69332.20
+22:32:09.341440> Try place lock BuyLimit, Bid: 69338.8 Ask:  69338.9
+22:32:09.647680> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:32:09.648684> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.19875;Price=69336.10
+22:32:09.648684> Try Modify Lock Buy order for close at now, 
+22:32:09.964701> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:09.965700> [1Leg]: Buy failed BTCUSDC;price=69336.10
+22:32:11.986669> Try place lock BuyLimit, Bid: 69328.1 Ask:  69328.2
+22:32:12.815735> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:32:12.816732> [1Leg]: Buy FAILED BTCUSDC;Gap=2.57375;Price=69328.20
+22:32:12.816732> Try Modify Lock Buy order for close at now, 
+22:32:13.130596> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:13.131597> [1Leg]: Buy failed BTCUSDC;price=69328.20
+22:32:15.181456> Try place lock BuyLimit, Bid: 69331.4 Ask:  69331.5
+22:32:15.507477> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:32:15.507477> [1Leg]: Buy FAILED BTCUSDC;Gap=3.17375;Price=69339.40
+22:32:15.507477> Try Modify Lock Buy order for close at now, 
+22:32:15.826380> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:15.826380> [1Leg]: Buy failed BTCUSDC;price=69339.40
+22:32:17.895113> Try place lock BuyLimit, Bid: 69338.0 Ask:  69338.1
+22:32:18.211132> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:32:18.211132> [1Leg]: Buy FAILED BTCUSDC;Gap=4.31625;Price=69338.10
+22:32:18.212132> Try Modify Lock Buy order for close at now, 
+22:32:18.523037> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:18.524037> [1Leg]: Buy failed BTCUSDC;price=69338.10
+22:32:20.528099> Try place lock BuyLimit, Bid: 69333.8 Ask:  69333.9
+22:32:20.864631> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:32:20.868626> [1Leg]: Buy FAILED BTCUSDC;Gap=0.11625;Price=69338.10
+22:32:20.870628> Try Modify Lock Buy order for close at now, 
+22:32:21.192647> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:21.192647> [1Leg]: Buy failed BTCUSDC;price=69349.90
+22:32:23.199762> Try place lock BuyLimit, Bid: 69353.8 Ask:  69353.9
+22:32:49.229252> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1021 Message: Timestamp for this request is outside of the recvWindow.
+22:32:49.230256> [1Leg]: Buy FAILED BTCUSDC;Gap=3.3425;Price=69334.10
+22:32:49.230256> Try Modify Lock Buy order for close at now, 
+22:32:50.128184> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:50.131183> [1Leg]: Buy failed BTCUSDC;price=69326.10
+22:32:52.134265> Try place lock BuyLimit, Bid: 69318.0 Ask:  69318.1
+22:32:52.439693> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:32:52.440693> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.59375;Price=69318.10
+22:32:52.440693> Try Modify Lock Buy order for close at now, 
+22:32:52.749261> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:52.750259> [1Leg]: Buy failed BTCUSDC;price=69318.10
+22:32:54.771858> Try place lock BuyLimit, Bid: 69319.7 Ask:  69319.8
+22:32:55.107143> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:32:55.112140> [1Leg]: Buy FAILED BTCUSDC;Gap=1.10625;Price=69319.80
+22:32:55.112140> Try Modify Lock Buy order for close at now, 
+22:32:55.427703> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:55.428703> [1Leg]: Buy failed BTCUSDC;price=69318.90
+22:32:57.439869> Try place lock BuyLimit, Bid: 69300.6 Ask:  69300.7
+22:32:57.743885> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:32:57.778887> [1Leg]: Buy FAILED BTCUSDC;Gap=3.12875;Price=69300.70
+22:32:57.778887> Try Modify Lock Buy order for close at now, 
+22:32:58.149838> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:32:58.150836> [1Leg]: Buy failed BTCUSDC;price=69296.90
+22:33:00.159308> Try place lock BuyLimit, Bid: 69285.4 Ask:  69285.5
+22:33:00.464255> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:00.465255> [1Leg]: Buy FAILED BTCUSDC;Gap=3.12875;Price=69283.40
+22:33:00.465255> Try Modify Lock Buy order for close at now, 
+22:33:00.799270> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:00.799270> [1Leg]: Buy failed BTCUSDC;price=69277.40
+22:33:02.804043> Try place lock BuyLimit, Bid: 69281.9 Ask:  69282.0
+22:33:03.179112> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:03.197105> [1Leg]: Buy FAILED BTCUSDC;Gap=2.44625;Price=69282.00
+22:33:03.198108> Try Modify Lock Buy order for close at now, 
+22:33:03.515377> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:03.515377> [1Leg]: Buy failed BTCUSDC;price=69290.00
+22:33:05.525185> Try place lock BuyLimit, Bid: 69299.9 Ask:  69300.0
+22:33:05.836502> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:05.836502> [1Leg]: Buy FAILED BTCUSDC;Gap=-7.65375;Price=69300.00
+22:33:05.837500> Try Modify Lock Buy order for close at now, 
+22:33:06.150406> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:06.172411> [1Leg]: Buy failed BTCUSDC;price=69300.00
+22:33:08.190995> Try place lock BuyLimit, Bid: 69307.2 Ask:  69307.3
+22:33:08.498903> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:08.499902> [1Leg]: Buy FAILED BTCUSDC;Gap=-6.605;Price=69310.70
+22:33:08.499902> Try Modify Lock Buy order for close at now, 
+22:33:08.814923> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:08.816921> [1Leg]: Buy failed BTCUSDC;price=69310.70
+22:33:10.834221> Try place lock BuyLimit, Bid: 69315.6 Ask:  69315.7
+22:33:11.185228> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:11.185228> [1Leg]: Buy FAILED BTCUSDC;Gap=-9.405;Price=69328.20
+22:33:11.185228> Try Modify Lock Buy order for close at now, 
+22:33:11.493558> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:11.494558> [1Leg]: Buy failed BTCUSDC;price=69328.20
+22:33:13.527642> Try place lock BuyLimit, Bid: 69313.4 Ask:  69313.5
+22:33:13.858674> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:13.859662> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.99875;Price=69316.00
+22:33:13.859662> Try Modify Lock Buy order for close at now, 
+22:33:14.182215> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:14.184215> [1Leg]: Buy failed BTCUSDC;price=69316.00
+22:33:16.213275> Try place lock BuyLimit, Bid: 69323.3 Ask:  69323.4
+22:33:16.531295> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:16.532294> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.89875;Price=69323.40
+22:33:16.533294> Try Modify Lock Buy order for close at now, 
+22:33:16.851517> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:16.852523> [1Leg]: Buy failed BTCUSDC;price=69323.40
+22:33:18.859637> Try place lock BuyLimit, Bid: 69326.7 Ask:  69326.8
+22:33:19.184952> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:19.185951> [1Leg]: Buy FAILED BTCUSDC;Gap=2.31;Price=69326.10
+22:33:19.185951> Try Modify Lock Buy order for close at now, 
+22:33:19.535229> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:19.536231> [1Leg]: Buy failed BTCUSDC;price=69326.10
+22:33:21.562676> Try place lock BuyLimit, Bid: 69339.8 Ask:  69339.9
+22:33:21.886694> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:21.886694> [1Leg]: Buy FAILED BTCUSDC;Gap=2.61;Price=69344.00
+22:33:21.930697> Try Modify Lock Buy order for close at now, 
+22:33:22.249716> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:22.249716> [1Leg]: Buy failed BTCUSDC;price=69344.00
+22:33:24.256830> Try place lock BuyLimit, Bid: 69350.0 Ask:  69350.1
+22:33:39.188687> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1021 Message: Timestamp for this request is outside of the recvWindow.
+22:33:39.189687> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.41375;Price=69338.00
+22:33:39.190687> Try Modify Lock Buy order for close at now, 
+22:33:40.145766> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:40.145766> [1Leg]: Buy failed BTCUSDC;price=69338.00
+22:33:42.172978> Try place lock BuyLimit, Bid: 69336.0 Ask:  69336.1
+22:33:43.048480> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:43.049478> [1Leg]: Buy FAILED BTCUSDC;Gap=1.20125;Price=69336.10
+22:33:43.050478> Try Modify Lock Buy order for close at now, 
+22:33:43.358495> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:43.359495> [1Leg]: Buy failed BTCUSDC;price=69336.10
+22:33:45.392507> Try place lock BuyLimit, Bid: 69334.0 Ask:  69334.1
+22:33:45.705361> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:45.706363> [1Leg]: Buy FAILED BTCUSDC;Gap=19.90125;Price=69307.70
+22:33:45.706363> Try Modify Lock Buy order for close at now, 
+22:33:46.056130> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:46.077135> [1Leg]: Buy failed BTCUSDC;price=69307.70
+22:33:48.093282> Try place lock BuyLimit, Bid: 69296.6 Ask:  69296.7
+22:33:48.404300> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:48.404300> [1Leg]: Buy FAILED BTCUSDC;Gap=1.66125;Price=69296.70
+22:33:48.405300> Try Modify Lock Buy order for close at now, 
+22:33:48.714047> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:48.714047> [1Leg]: Buy failed BTCUSDC;price=69296.70
+22:33:50.721300> Try place lock BuyLimit, Bid: 69283.3 Ask:  69283.4
+22:33:51.073679> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:51.100677> [1Leg]: Buy FAILED BTCUSDC;Gap=0.06125;Price=69283.40
+22:33:51.100677> Try Modify Lock Buy order for close at now, 
+22:33:51.408694> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:51.408694> [1Leg]: Buy failed BTCUSDC;price=69272.10
+22:33:53.446324> Try place lock BuyLimit, Bid: 69266.4 Ask:  69266.5
+22:33:53.788174> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:53.804173> [1Leg]: Buy FAILED BTCUSDC;Gap=3.365;Price=69266.50
+22:33:53.804173> Try Modify Lock Buy order for close at now, 
+22:33:54.122193> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:54.122193> [1Leg]: Buy failed BTCUSDC;price=69266.50
+22:33:56.148264> Try place lock BuyLimit, Bid: 69266.2 Ask:  69266.3
+22:33:56.481189> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:56.482192> [1Leg]: Buy FAILED BTCUSDC;Gap=3.165;Price=69264.50
+22:33:56.482192> Try Modify Lock Buy order for close at now, 
+22:33:56.818996> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:56.818996> [1Leg]: Buy failed BTCUSDC;price=69264.50
+22:33:58.827551> Try place lock BuyLimit, Bid: 69257.9 Ask:  69258.0
+22:33:59.132913> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:33:59.133913> [1Leg]: Buy FAILED BTCUSDC;Gap=0.475;Price=69258.00
+22:33:59.133913> Try Modify Lock Buy order for close at now, 
+22:33:59.447017> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:33:59.447017> [1Leg]: Buy failed BTCUSDC;price=69258.00
+22:34:01.462503> Try place lock BuyLimit, Bid: 69249.3 Ask:  69249.4
+22:34:01.778983> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:01.792982> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.325;Price=69249.40
+22:34:01.792982> Try Modify Lock Buy order for close at now, 
+22:34:02.106577> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:02.107576> [1Leg]: Buy failed BTCUSDC;price=69249.40
+22:34:04.152707> Try place lock BuyLimit, Bid: 69251.8 Ask:  69251.9
+22:34:04.479725> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:04.479725> [1Leg]: Buy FAILED BTCUSDC;Gap=0.2275;Price=69251.90
+22:34:04.480725> Try Modify Lock Buy order for close at now, 
+22:34:04.797351> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:04.817353> [1Leg]: Buy failed BTCUSDC;price=69251.90
+22:34:06.900165> Try place lock BuyLimit, Bid: 69234.6 Ask:  69234.7
+22:34:07.233170> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:07.234170> [1Leg]: Buy FAILED BTCUSDC;Gap=4.0275;Price=69226.50
+22:34:07.234170> Try Modify Lock Buy order for close at now, 
+22:34:07.542186> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:07.542186> [1Leg]: Buy failed BTCUSDC;price=69230.00
+22:34:09.561879> Try place lock BuyLimit, Bid: 69224.5 Ask:  69224.6
+22:34:09.887897> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:09.904898> [1Leg]: Buy FAILED BTCUSDC;Gap=8.685;Price=69218.10
+22:34:09.904898> Try Modify Lock Buy order for close at now, 
+22:34:10.248920> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:10.250918> [1Leg]: Buy failed BTCUSDC;price=69189.60
+22:34:12.268559> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69185.9 Ask:  69186.0
+22:34:12.269559> Try place lock BuyLimit, Bid: 69185.9 Ask:  69186.0
+22:34:12.636182> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:12.659184> [1Leg]: Buy FAILED BTCUSDC;Gap=7.585;Price=69186.00
+22:34:12.660185> Try Modify Lock Buy order for close at now, 
+22:34:13.017558> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:13.017558> [1Leg]: Buy failed BTCUSDC;price=69189.60
+22:34:15.032736> Try place lock BuyLimit, Bid: 69190.1 Ask:  69190.2
+22:34:15.390715> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:15.418714> [1Leg]: Buy FAILED BTCUSDC;Gap=3.0925;Price=69189.20
+22:34:15.418714> Try Modify Lock Buy order for close at now, 
+22:34:15.739447> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:15.740440> [1Leg]: Buy failed BTCUSDC;price=69189.20
+22:34:17.748790> Try place lock BuyLimit, Bid: 69195.9 Ask:  69196.0
+22:34:18.082793> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:18.084785> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.2075;Price=69196.00
+22:34:18.084785> Try Modify Lock Buy order for close at now, 
+22:34:18.484508> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:18.489505> [1Leg]: Buy failed BTCUSDC;price=69206.00
+22:34:20.514064> Try place lock BuyLimit, Bid: 69196.0 Ask:  69196.1
+22:34:20.824643> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:20.832643> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.22125;Price=69196.10
+22:34:20.832643> Try Modify Lock Buy order for close at now, 
+22:34:21.152663> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:21.153662> [1Leg]: Buy failed BTCUSDC;price=69196.10
+22:34:23.166508> Try place lock BuyLimit, Bid: 69209.1 Ask:  69209.2
+22:34:23.505524> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:23.505524> [1Leg]: Buy FAILED BTCUSDC;Gap=4.27875;Price=69209.20
+22:34:23.506528> Try Modify Lock Buy order for close at now, 
+22:34:23.829543> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:23.829543> [1Leg]: Buy failed BTCUSDC;price=69218.90
+22:34:25.880596> Try place lock BuyLimit, Bid: 69224.3 Ask:  69224.4
+22:34:26.188051> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:26.188051> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3825;Price=69225.10
+22:34:26.189049> Try Modify Lock Buy order for close at now, 
+22:34:26.522070> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:26.523076> [1Leg]: Buy failed BTCUSDC;price=69225.10
+22:34:28.542895> Try place lock BuyLimit, Bid: 69207.3 Ask:  69207.4
+22:34:28.858254> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:28.860253> [1Leg]: Buy FAILED BTCUSDC;Gap=3.4825;Price=69202.10
+22:34:28.860253> Try Modify Lock Buy order for close at now, 
+22:34:29.172861> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:29.172861> [1Leg]: Buy failed BTCUSDC;price=69200.00
+22:34:31.177774> Try place lock BuyLimit, Bid: 69209.4 Ask:  69209.5
+22:34:31.505790> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:31.506790> [1Leg]: Buy FAILED BTCUSDC;Gap=1.4825;Price=69209.50
+22:34:31.506790> Try Modify Lock Buy order for close at now, 
+22:34:31.823808> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:31.823808> [1Leg]: Buy failed BTCUSDC;price=69224.60
+22:34:33.832209> Try place lock BuyLimit, Bid: 69223.9 Ask:  69224.0
+22:34:34.145228> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:34.145228> [1Leg]: Buy FAILED BTCUSDC;Gap=3.4825;Price=69224.00
+22:34:34.146228> Try Modify Lock Buy order for close at now, 
+22:34:34.484710> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:34.484710> [1Leg]: Buy failed BTCUSDC;price=69224.00
+22:34:36.493939> Try place lock BuyLimit, Bid: 69240.1 Ask:  69240.2
+22:34:36.803429> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:36.803429> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.6025;Price=69240.20
+22:34:36.804431> Try Modify Lock Buy order for close at now, 
+22:34:37.122995> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:37.123997> [1Leg]: Buy failed BTCUSDC;price=69235.90
+22:34:39.132603> Try place lock BuyLimit, Bid: 69222.9 Ask:  69223.0
+22:34:39.449871> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:39.449871> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.3025;Price=69223.00
+22:34:39.450876> Try Modify Lock Buy order for close at now, 
+22:34:39.766223> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:39.767226> [1Leg]: Buy failed BTCUSDC;price=69218.30
+22:34:41.793738> Try place lock BuyLimit, Bid: 69212.0 Ask:  69212.1
+22:34:42.118757> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:42.119757> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.45625;Price=69212.10
+22:34:42.119757> Try Modify Lock Buy order for close at now, 
+22:34:42.445344> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:42.458343> [1Leg]: Buy failed BTCUSDC;price=69212.10
+22:34:44.483334> Try place lock BuyLimit, Bid: 69239.9 Ask:  69240.0
+22:34:44.812354> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:44.813356> [1Leg]: Buy FAILED BTCUSDC;Gap=4.24375;Price=69240.00
+22:34:44.813356> Try Modify Lock Buy order for close at now, 
+22:34:45.130375> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:45.131372> [1Leg]: Buy failed BTCUSDC;price=69240.00
+22:34:47.151496> Try place lock BuyLimit, Bid: 69239.9 Ask:  69240.0
+22:34:47.521472> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:47.522473> [1Leg]: Buy FAILED BTCUSDC;Gap=4.12125;Price=69240.00
+22:34:47.522473> Try Modify Lock Buy order for close at now, 
+22:34:47.849689> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:47.850686> [1Leg]: Buy failed BTCUSDC;price=69240.00
+22:34:49.901637> Try place lock BuyLimit, Bid: 69239.6 Ask:  69239.7
+22:34:50.211656> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:50.211656> [1Leg]: Buy FAILED BTCUSDC;Gap=7.62125;Price=69234.30
+22:34:50.211656> Try Modify Lock Buy order for close at now, 
+22:34:50.518724> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:50.518724> [1Leg]: Buy failed BTCUSDC;price=69234.30
+22:34:52.529859> Try place lock BuyLimit, Bid: 69249.9 Ask:  69250.0
+22:34:52.843878> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:52.843878> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.24625;Price=69250.00
+22:34:52.844878> Try Modify Lock Buy order for close at now, 
+22:34:53.160892> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:53.160892> [1Leg]: Buy failed BTCUSDC;price=69250.00
+22:34:55.172817> Try place lock BuyLimit, Bid: 69278.0 Ask:  69278.1
+22:34:55.558875> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+22:34:55.600874> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.84625;Price=69278.10
+22:34:55.600874> Try Modify Lock Buy order for close at now, 
+22:34:55.933898> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:34:55.950896> [1Leg]: Buy failed BTCUSDC;price=69278.10
+22:34:57.978010> Try place lock BuyLimit, Bid: 69291.0 Ask:  69291.1
+22:36:23.852399> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1021 Message: Timestamp for this request is outside of the recvWindow.
+22:36:23.864394> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.25875;Price=69479.60
+22:36:23.865395> Try Modify Lock Buy order for close at now, 
+22:42:01.274963> BinanceFuture - Vxxv1AWf[USD_M] A task was canceled.
+22:42:01.309965> [1Leg]: Buy failed BTCUSDC;price=69300.00
+22:42:03.482092> Try place lock BuyLimit, Bid: 69321.9 Ask:  69322.0

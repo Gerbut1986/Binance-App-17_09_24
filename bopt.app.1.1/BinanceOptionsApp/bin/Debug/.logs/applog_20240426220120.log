@@ -1,0 +1,846 @@
+22:01:30.848273> WebSocket connected! Start Partial @depth20 [Future] process...
+22:01:30.848273> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:01:30.916276> WebSocket connected! Start Partial @depth20 [Future] process...
+22:01:30.982278> WebSocket connected! Start @depth [Future] process...
+22:01:30.983280> WebSocket connected! Start @depth [Future] process...
+22:01:30.983280> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:01:32.147407> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:01:32.155397> WebSocket connected! Start Partial @depth20 [Future] process...
+22:01:32.165397> WebSocket connected! Start @depth [Future] process...
+22:01:32.214418> WebSocket connected! Start @depth [Future] process...
+22:01:32.222400> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:01:32.240402> WebSocket connected! Start Partial @depth20 [Future] process...
+22:01:33.668431> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 683.71021732 USDT
+22:01:44.521900> Try Open BuyLimit, Bid: 64023.9 Ask:  64024.0
+22:01:44.521900> Support: 64020.4 VolS:0.588 Resistence: 64024 VolR:2.092
+22:01:44.838740> [1Leg]: Buy OK BTCUSDC at 64023.9000;Gap=2.842857142857142857142857143;Price=64024.0000;Slippage=0.1;Execution=312.839 ms;
+22:01:44.839739> Elapsted Open BuyLimit 
+22:01:49.001062> Try place SellLimit, Bid: 64023.9 Ask:  64024.0
+22:01:49.270974> [1Leg]: Sell OK BTCUSDC at 64123.9000;Gap=-3.675;Price=64024.0000;Slippage=-99.9;Execution=268.915 ms;
+22:01:49.271974> Placed lock SellLimit 
+22:01:59.979874> Try Modify Lock Sell order for Close at now, 
+22:02:00.287233> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64018.2000;execution=303.363 ms;
+22:02:00.288233> Modify Lock SellLimit (1Leg) for Close at now
+22:02:00.290235> Try Modify Lock Sell order, 
+22:02:00.596252> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64124.0000;execution=306.018 ms;
+22:02:00.597251> Modify Lock SellLimit (1Leg)
+22:02:01.514616> Try Modify Lock Sell order for Close at now, 
+22:02:01.784668> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64009.5000;execution=270.052 ms;
+22:02:01.785662> Modify Lock SellLimit (1Leg) for Close at now
+22:02:01.788664> Try Modify Lock Sell order, 
+22:02:02.068696> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64124.0000;execution=280.032 ms;
+22:02:02.069687> Modify Lock SellLimit (1Leg)
+22:02:09.783638> Try Modify Lock Sell order for Close at now, 
+22:02:10.083207> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64024.0000;execution=299.569 ms;
+22:02:10.084205> Modify Lock SellLimit (1Leg) for Close at now
+22:02:10.088206> Try Modify Lock Sell order, 
+22:02:10.395195> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64124.0000;execution=306.990 ms;
+22:02:10.396197> Modify Lock SellLimit (1Leg)
+22:02:31.007294> Try Modify Lock Sell order, 
+22:02:31.277001> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64137.1000;execution=269.706 ms;
+22:02:31.293921> Modify Lock SellLimit (1Leg)
+22:02:35.638246> Try Modify Lock Sell order, 
+22:02:35.905846> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64150.0000;execution=267.600 ms;
+22:02:35.906844> Modify Lock SellLimit (1Leg)
+22:02:42.823750> Try Modify Lock Sell order for Close at now, 
+22:02:43.112713> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64048.1000;execution=287.987 ms;
+22:02:43.113711> Modify Lock SellLimit (1Leg) for Close at now
+22:02:43.115711> Try Modify Lock Sell order, 
+22:02:43.386729> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64150.0000;execution=271.018 ms;
+22:02:43.387728> Modify Lock SellLimit (1Leg)
+22:02:52.631685> Try Modify Lock Sell order for Close at now, 
+22:02:52.935185> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64042.1000;execution=303.501 ms;
+22:02:52.935185> Modify Lock SellLimit (1Leg) for Close at now
+22:02:52.940180> Try Modify Lock Sell order, 
+22:02:53.329122> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:02:53.330127> [1Leg]: Sell failed BTCUSDC;price=64042.1000
+22:02:53.332123> Try Modify Lock Sell order, 
+22:02:53.782149> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:02:53.783149> [1Leg]: Sell failed BTCUSDC;price=64062.0000
+22:02:53.785149> Try Modify Lock Sell order, 
+22:02:54.569048> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:02:54.570046> [1Leg]: Sell failed BTCUSDC;price=64066.7000
+22:02:54.574047> Try Modify Lock Sell order, 
+22:02:54.938828> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:02:54.939842> [1Leg]: Sell failed BTCUSDC;price=64066.7000
+22:02:54.941840> Try Modify Lock Sell order, 
+22:02:55.326867> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:02:55.329862> [1Leg]: Sell failed BTCUSDC;price=64066.7000
+22:03:02.553796> Try Open BuyLimit, Bid: 64071.6 Ask:  64071.7
+22:03:02.554797> Support: 64071.6 VolS:1.907 Resistence: 64074 VolR:0.206
+22:03:02.838817> [1Leg]: Buy OK BTCUSDC at 64071.6000;Gap=0.375;Price=64071.7000;Slippage=0.1;Execution=283.021 ms;
+22:03:02.839814> Elapsted Open BuyLimit 
+22:03:03.052831> Try Modify Buy order, 
+22:03:03.052831> Support: 64072.5 VolS:3.171 Resistence: 64073.8 VolR:0.557
+22:03:03.319844> [1Leg]: BUY OK MODIFY BTCUSDC at 0.020 lot;price=64072.5000;execution=266.020 ms;
+22:03:03.320840> Modify BuyLimit (1Leg)
+22:03:04.377317> Try Modify Buy order, 
+22:03:04.378316> Support: 64095.9 VolS:0.503 Resistence: 64101.7 VolR:0.26
+22:03:04.644161> [1Leg]: BUY OK MODIFY BTCUSDC at 0.020 lot;price=64097.9000;execution=265.845 ms;
+22:03:04.644161> Modify BuyLimit (1Leg)
+22:03:07.000614> Try place SellLimit, Bid: 64086.0 Ask:  64086.1
+22:03:07.265616> [1Leg]: Sell OK BTCUSDC at 64196.3000;Gap=2.56;Price=64086.1000;Slippage=-110.2;Execution=264.000 ms;
+22:03:07.266617> Placed lock SellLimit 
+22:03:07.270618> Try Modify Lock Sell order for Close at now, 
+22:03:07.545661> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64086.1000;execution=274.042 ms;
+22:03:07.546633> Modify Lock SellLimit (1Leg) for Close at now
+22:03:07.548634> Try Modify Lock Sell order, 
+22:03:07.811651> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=263.017 ms;
+22:03:07.812651> Modify Lock SellLimit (1Leg)
+22:03:07.965656> Try Modify Lock Sell order for Close at now, 
+22:03:08.232175> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64086.1000;execution=266.519 ms;
+22:03:08.233172> Modify Lock SellLimit (1Leg) for Close at now
+22:03:08.236173> Try Modify Lock Sell order, 
+22:03:08.533189> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=297.016 ms;
+22:03:08.534189> Modify Lock SellLimit (1Leg)
+22:03:26.626248> Try Modify Lock Sell order for Close at now, 
+22:03:26.890273> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64050.1000;execution=263.025 ms;
+22:03:26.891264> Modify Lock SellLimit (1Leg) for Close at now
+22:03:26.910274> Try Modify Lock Sell order, 
+22:03:27.197288> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=287.015 ms;
+22:03:27.197288> Modify Lock SellLimit (1Leg)
+22:03:30.870981> Try Modify Lock Sell order for Close at now, 
+22:03:31.171774> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64050.1000;execution=299.793 ms;
+22:03:31.172769> Modify Lock SellLimit (1Leg) for Close at now
+22:03:31.175781> Try Modify Lock Sell order, 
+22:03:31.441787> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=266.006 ms;
+22:03:31.442785> Modify Lock SellLimit (1Leg)
+22:03:34.673801> Try Modify Lock Sell order for Close at now, 
+22:03:34.968387> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64040.1000;execution=294.586 ms;
+22:03:34.969381> Modify Lock SellLimit (1Leg) for Close at now
+22:03:34.971383> Try Modify Lock Sell order, 
+22:03:35.266002> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=294.619 ms;
+22:03:35.266999> Modify Lock SellLimit (1Leg)
+22:03:39.221981> Try Modify Lock Sell order for Close at now, 
+22:03:39.488973> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64039.8000;execution=266.991 ms;
+22:03:39.489964> Modify Lock SellLimit (1Leg) for Close at now
+22:03:39.493965> Try Modify Lock Sell order, 
+22:03:39.766981> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=273.016 ms;
+22:03:39.767981> Modify Lock SellLimit (1Leg)
+22:03:43.830117> Try Modify Lock Sell order for Close at now, 
+22:03:44.092042> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64058.0000;execution=261.925 ms;
+22:03:44.093040> Modify Lock SellLimit (1Leg) for Close at now
+22:03:44.095040> Try Modify Lock Sell order for Close at now, 
+22:03:44.364609> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64056.1000;execution=269.568 ms;
+22:03:44.365615> Modify Lock SellLimit (1Leg) for Close at now
+22:03:44.366615> Try Modify Lock Sell order, 
+22:03:44.680186> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=313.571 ms;
+22:03:44.680186> Modify Lock SellLimit (1Leg)
+22:03:44.702182> Try Modify Lock Sell order for Close at now, 
+22:03:45.008989> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64056.1000;execution=305.802 ms;
+22:03:45.009987> Modify Lock SellLimit (1Leg) for Close at now
+22:03:45.023986> Try Modify Lock Sell order, 
+22:03:45.295003> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=271.017 ms;
+22:03:45.296004> Modify Lock SellLimit (1Leg)
+22:03:49.456585> Try Modify Lock Sell order for Close at now, 
+22:03:49.728585> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64048.1000;execution=272.001 ms;
+22:03:49.728585> Modify Lock SellLimit (1Leg) for Close at now
+22:03:49.732565> Try Modify Lock Sell order, 
+22:03:50.002581> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=269.014 ms;
+22:03:50.002581> Modify Lock SellLimit (1Leg)
+22:03:52.608157> Try Modify Lock Sell order for Close at now, 
+22:03:52.908301> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64044.1000;execution=300.144 ms;
+22:03:52.908301> Modify Lock SellLimit (1Leg) for Close at now
+22:03:52.912309> Try Modify Lock Sell order, 
+22:03:53.214315> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=302.006 ms;
+22:03:53.215317> Modify Lock SellLimit (1Leg)
+22:04:25.929650> Try Modify Lock Sell order for Close at now, 
+22:04:26.233224> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64055.4000;execution=303.574 ms;
+22:04:26.233224> Modify Lock SellLimit (1Leg) for Close at now
+22:04:26.236230> Try Modify Lock Sell order, 
+22:04:26.506235> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=270.006 ms;
+22:04:26.507237> Modify Lock SellLimit (1Leg)
+22:04:26.509235> Try Modify Lock Sell order for Close at now, 
+22:04:26.773252> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64032.1000;execution=264.016 ms;
+22:04:26.774250> Modify Lock SellLimit (1Leg) for Close at now
+22:04:26.775250> Try Modify Lock Sell order, 
+22:04:27.078272> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=303.022 ms;
+22:04:27.078272> Modify Lock SellLimit (1Leg)
+22:04:28.418018> Try Modify Lock Sell order for Close at now, 
+22:04:28.681036> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64027.5000;execution=263.017 ms;
+22:04:28.682032> Modify Lock SellLimit (1Leg) for Close at now
+22:04:28.684033> Try Modify Lock Sell order, 
+22:04:28.986051> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=302.018 ms;
+22:04:28.986051> Modify Lock SellLimit (1Leg)
+22:04:28.993051> Try Modify Lock Sell order for Close at now, 
+22:04:29.299108> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64027.0000;execution=306.057 ms;
+22:04:29.300078> Modify Lock SellLimit (1Leg) for Close at now
+22:04:29.305067> Try Modify Lock Sell order, 
+22:04:29.572082> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=266.009 ms;
+22:04:29.572082> Modify Lock SellLimit (1Leg)
+22:04:29.574092> Try Modify Lock Sell order for Close at now, 
+22:04:29.844104> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64024.1000;execution=270.013 ms;
+22:04:29.845099> Modify Lock SellLimit (1Leg) for Close at now
+22:04:29.846099> Try Modify Lock Sell order, 
+22:04:30.112157> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=266.058 ms;
+22:04:30.113114> Modify Lock SellLimit (1Leg)
+22:04:31.526513> Try Modify Lock Sell order for Close at now, 
+22:04:31.792552> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64024.1000;execution=265.028 ms;
+22:04:31.794539> Modify Lock SellLimit (1Leg) for Close at now
+22:04:31.797553> Try Modify Lock Sell order, 
+22:04:32.072572> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=274.020 ms;
+22:04:32.075558> Modify Lock SellLimit (1Leg)
+22:04:32.123577> Try Modify Lock Sell order for Close at now, 
+22:04:32.427581> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64024.1000;execution=301.021 ms;
+22:04:32.428575> Modify Lock SellLimit (1Leg) for Close at now
+22:04:32.429576> Try Modify Lock Sell order, 
+22:04:32.732432> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=302.857 ms;
+22:04:32.734457> Modify Lock SellLimit (1Leg)
+22:04:32.736458> Try Modify Lock Sell order for Close at now, 
+22:04:33.042769> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64024.1000;execution=305.313 ms;
+22:04:33.043758> Modify Lock SellLimit (1Leg) for Close at now
+22:04:33.045758> Try Modify Lock Sell order for Close at now, 
+22:04:33.309773> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64022.1000;execution=264.015 ms;
+22:04:33.312772> Modify Lock SellLimit (1Leg) for Close at now
+22:04:33.314775> Try Modify Lock Sell order, 
+22:04:33.582789> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=268.014 ms;
+22:04:33.582789> Modify Lock SellLimit (1Leg)
+22:04:33.658793> Try Modify Lock Sell order for Close at now, 
+22:04:33.920810> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64019.0000;execution=261.016 ms;
+22:04:33.921810> Modify Lock SellLimit (1Leg) for Close at now
+22:04:33.924812> Try Modify Lock Sell order for Close at now, 
+22:04:34.238834> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64018.6000;execution=314.023 ms;
+22:04:34.239829> Modify Lock SellLimit (1Leg) for Close at now
+22:04:34.254828> Try Modify Lock Sell order, 
+22:04:34.565846> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=311.019 ms;
+22:04:34.566846> Modify Lock SellLimit (1Leg)
+22:04:36.694921> Try Modify Lock Sell order for Close at now, 
+22:04:36.991929> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64006.1000;execution=297.008 ms;
+22:04:36.991929> Modify Lock SellLimit (1Leg) for Close at now
+22:04:36.993938> Try Modify Lock Sell order, 
+22:04:37.284954> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=291.016 ms;
+22:04:37.286970> Modify Lock SellLimit (1Leg)
+22:04:37.391962> Try Modify Lock Sell order for Close at now, 
+22:04:37.658969> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64003.6000;execution=265.977 ms;
+22:04:37.659969> Modify Lock SellLimit (1Leg) for Close at now
+22:04:37.661971> Try Modify Lock Sell order, 
+22:04:37.929997> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=268.026 ms;
+22:04:37.930985> Modify Lock SellLimit (1Leg)
+22:04:39.278782> Try Modify Lock Sell order for Close at now, 
+22:04:39.542806> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64000.1000;execution=263.021 ms;
+22:04:39.543798> Modify Lock SellLimit (1Leg) for Close at now
+22:04:39.544799> Try Modify Lock Sell order, 
+22:04:39.810815> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=266.016 ms;
+22:04:39.811812> Modify Lock SellLimit (1Leg)
+22:04:39.822814> Try Modify Lock Sell order for Close at now, 
+22:04:40.100829> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63998.7000;execution=278.016 ms;
+22:04:40.101839> Modify Lock SellLimit (1Leg) for Close at now
+22:04:40.103831> Try Modify Lock Sell order, 
+22:04:40.400847> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=296.023 ms;
+22:04:40.400847> Modify Lock SellLimit (1Leg)
+22:05:11.829947> Try Modify Lock Sell order for Close at now, 
+22:05:12.132959> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63992.6000;execution=303.013 ms;
+22:05:12.133957> Modify Lock SellLimit (1Leg) for Close at now
+22:05:12.135967> Try Modify Lock Sell order, 
+22:05:12.425973> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=290.007 ms;
+22:05:12.425973> Modify Lock SellLimit (1Leg)
+22:05:13.871159> Try Modify Lock Sell order for Close at now, 
+22:05:14.214157> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63986.1000;execution=342.999 ms;
+22:05:14.215158> Modify Lock SellLimit (1Leg) for Close at now
+22:05:14.230159> Try Modify Lock Sell order, 
+22:05:14.522197> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=291.037 ms;
+22:05:14.523176> Modify Lock SellLimit (1Leg)
+22:05:14.524177> Try Modify Lock Sell order for Close at now, 
+22:05:14.835195> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63975.2000;execution=311.018 ms;
+22:05:14.843192> Modify Lock SellLimit (1Leg) for Close at now
+22:05:14.851193> Try Modify Lock Sell order, 
+22:05:15.152211> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=300.019 ms;
+22:05:15.152211> Modify Lock SellLimit (1Leg)
+22:05:15.155212> Try Modify Lock Sell order for Close at now, 
+22:05:15.418259> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63975.2000;execution=262.046 ms;
+22:05:15.419253> Modify Lock SellLimit (1Leg) for Close at now
+22:05:15.472259> Try Modify Lock Sell order, 
+22:05:15.734285> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=261.031 ms;
+22:05:15.735270> Modify Lock SellLimit (1Leg)
+22:05:19.096607> Try Modify Lock Sell order for Close at now, 
+22:05:19.365608> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63970.0000;execution=268.000 ms;
+22:05:19.366608> Modify Lock SellLimit (1Leg) for Close at now
+22:05:19.367608> Try Modify Lock Sell order, 
+22:05:19.632769> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=265.161 ms;
+22:05:19.633758> Modify Lock SellLimit (1Leg)
+22:05:22.057622> Try Modify Lock Sell order for Close at now, 
+22:05:22.359270> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63970.0000;execution=301.648 ms;
+22:05:22.360269> Modify Lock SellLimit (1Leg) for Close at now
+22:05:22.364268> Try Modify Lock Sell order for Close at now, 
+22:05:22.664299> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63962.3000;execution=300.031 ms;
+22:05:22.665286> Modify Lock SellLimit (1Leg) for Close at now
+22:05:22.667287> Try Modify Lock Sell order, 
+22:05:22.967750> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=300.463 ms;
+22:05:22.969746> Modify Lock SellLimit (1Leg)
+22:05:23.573947> Try Modify Lock Sell order for Close at now, 
+22:05:23.880972> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63958.0000;execution=307.024 ms;
+22:05:23.881965> Modify Lock SellLimit (1Leg) for Close at now
+22:05:23.886965> Try Modify Lock Sell order for Close at now, 
+22:05:24.192057> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63956.0000;execution=304.085 ms;
+22:05:24.194057> Modify Lock SellLimit (1Leg) for Close at now
+22:05:24.214059> Try Modify Lock Sell order, 
+22:05:24.514074> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=300.015 ms;
+22:05:24.514074> Modify Lock SellLimit (1Leg)
+22:05:36.844279> Try Modify Lock Sell order for Close at now, 
+22:05:37.139691> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63959.9000;execution=295.412 ms;
+22:05:37.140678> Modify Lock SellLimit (1Leg) for Close at now
+22:05:37.142678> Try Modify Lock Sell order, 
+22:05:37.410042> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=267.364 ms;
+22:05:37.410042> Modify Lock SellLimit (1Leg)
+22:05:37.412041> Try Modify Lock Sell order for Close at now, 
+22:05:37.679461> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63959.9000;execution=267.420 ms;
+22:05:37.680459> Modify Lock SellLimit (1Leg) for Close at now
+22:05:37.681459> Try Modify Lock Sell order, 
+22:05:37.946474> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=265.014 ms;
+22:05:37.948474> Modify Lock SellLimit (1Leg)
+22:05:38.353397> Try Modify Lock Sell order for Close at now, 
+22:05:38.641415> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63955.0000;execution=288.018 ms;
+22:05:38.642402> Modify Lock SellLimit (1Leg) for Close at now
+22:05:38.645401> Try Modify Lock Sell order, 
+22:05:38.950421> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=305.020 ms;
+22:05:38.951421> Modify Lock SellLimit (1Leg)
+22:05:52.001253> Try Modify Lock Sell order for Close at now, 
+22:05:52.301268> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63954.0000;execution=300.015 ms;
+22:05:52.301268> Modify Lock SellLimit (1Leg) for Close at now
+22:05:52.317278> Try Modify Lock Sell order, 
+22:05:52.614282> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=296.001 ms;
+22:05:52.614282> Modify Lock SellLimit (1Leg)
+22:06:31.804207> Try Modify Lock Sell order for Close at now, 
+22:06:32.069217> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63953.9000;execution=265.010 ms;
+22:06:32.069217> Modify Lock SellLimit (1Leg) for Close at now
+22:06:32.070218> Try Modify Lock Sell order for Close at now, 
+22:06:32.334238> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63944.5000;execution=264.021 ms;
+22:06:32.337246> Modify Lock SellLimit (1Leg) for Close at now
+22:06:32.398276> Try Modify Lock Sell order, 
+22:06:32.708271> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64196.3000;execution=309.025 ms;
+22:06:32.710259> Modify Lock SellLimit (1Leg)
+22:06:38.920091> Try Modify Lock Sell order, 
+22:06:39.190107> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64043.5000;execution=269.015 ms;
+22:06:39.190107> Modify Lock SellLimit (1Leg)
+22:06:44.788116> Try Modify Lock Sell order, 
+22:06:45.109281> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64053.8000;execution=320.166 ms;
+22:06:45.111291> Modify Lock SellLimit (1Leg)
+22:06:46.821627> Try Modify Lock Sell order, 
+22:06:47.114197> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64064.0000;execution=292.570 ms;
+22:06:47.115192> Modify Lock SellLimit (1Leg)
+22:06:57.231780> Try Modify Lock Sell order for Close at now, 
+22:06:57.496118> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63958.5000;execution=264.339 ms;
+22:06:57.496118> Modify Lock SellLimit (1Leg) for Close at now
+22:06:57.499102> Try Modify Lock Sell order, 
+22:06:57.765470> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64064.0000;execution=266.368 ms;
+22:06:57.766458> Modify Lock SellLimit (1Leg)
+22:08:06.043087> Try Modify Lock Sell order for Close at now, 
+22:08:06.335134> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63968.0000;execution=290.064 ms;
+22:08:06.335134> Modify Lock SellLimit (1Leg) for Close at now
+22:08:06.339134> Try Modify Lock Sell order, 
+22:08:06.628719> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=289.586 ms;
+22:08:06.629719> Modify Lock SellLimit (1Leg)
+22:08:08.436839> Try Modify Lock Sell order for Close at now, 
+22:08:08.735456> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63968.0000;execution=298.618 ms;
+22:08:08.737454> Modify Lock SellLimit (1Leg) for Close at now
+22:08:08.740454> Try Modify Lock Sell order, 
+22:08:09.037416> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=296.962 ms;
+22:08:09.038410> Modify Lock SellLimit (1Leg)
+22:08:09.039416> Try Modify Lock Sell order for Close at now, 
+22:08:11.117140> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63968.0000;execution=2076.730 ms;
+22:08:11.118141> Modify Lock SellLimit (1Leg) for Close at now
+22:08:11.121141> Try Modify Lock Sell order for Close at now, 
+22:08:11.383154> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63962.1000;execution=262.013 ms;
+22:08:11.384156> Modify Lock SellLimit (1Leg) for Close at now
+22:08:11.386167> Try Modify Lock Sell order, 
+22:08:11.649182> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=263.015 ms;
+22:08:11.650179> Modify Lock SellLimit (1Leg)
+22:08:12.238137> Try Modify Lock Sell order for Close at now, 
+22:08:12.528158> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63962.1000;execution=289.022 ms;
+22:08:12.528158> Modify Lock SellLimit (1Leg) for Close at now
+22:08:12.530155> Try Modify Lock Sell order, 
+22:08:12.823099> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=292.944 ms;
+22:08:12.824096> Modify Lock SellLimit (1Leg)
+22:08:14.335079> Try Modify Lock Sell order for Close at now, 
+22:08:14.626106> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63958.8000;execution=290.026 ms;
+22:08:14.627096> Modify Lock SellLimit (1Leg) for Close at now
+22:08:14.628097> Try Modify Lock Sell order, 
+22:08:14.911042> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=282.945 ms;
+22:08:14.913043> Modify Lock SellLimit (1Leg)
+22:08:15.958487> Try Modify Lock Sell order for Close at now, 
+22:08:16.243374> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63958.8000;execution=284.888 ms;
+22:08:16.244369> Modify Lock SellLimit (1Leg) for Close at now
+22:08:16.245370> Try Modify Lock Sell order for Close at now, 
+22:08:16.549430> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63954.1000;execution=303.059 ms;
+22:08:16.549430> Modify Lock SellLimit (1Leg) for Close at now
+22:08:16.551436> Try Modify Lock Sell order, 
+22:08:16.837910> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=286.473 ms;
+22:08:16.840904> Modify Lock SellLimit (1Leg)
+22:08:18.460344> Try Modify Lock Sell order for Close at now, 
+22:08:18.746335> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63950.3000;execution=285.991 ms;
+22:08:18.746335> Modify Lock SellLimit (1Leg) for Close at now
+22:08:18.748360> Try Modify Lock Sell order, 
+22:08:19.034878> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=286.518 ms;
+22:08:19.035877> Modify Lock SellLimit (1Leg)
+22:08:19.479336> Try Modify Lock Sell order for Close at now, 
+22:08:19.740887> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63950.3000;execution=260.551 ms;
+22:08:19.741885> Modify Lock SellLimit (1Leg) for Close at now
+22:08:19.745890> Try Modify Lock Sell order, 
+22:08:20.044896> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=299.006 ms;
+22:08:20.045895> Modify Lock SellLimit (1Leg)
+22:08:21.996573> Try Modify Lock Sell order for Close at now, 
+22:08:22.358144> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63950.3000;execution=325.565 ms;
+22:08:22.359134> Modify Lock SellLimit (1Leg) for Close at now
+22:08:22.361132> Try Modify Lock Sell order, 
+22:08:22.655153> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=294.021 ms;
+22:08:22.656150> Modify Lock SellLimit (1Leg)
+22:08:24.798625> Try Modify Lock Sell order for Close at now, 
+22:08:25.099980> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63950.3000;execution=301.354 ms;
+22:08:25.099980> Modify Lock SellLimit (1Leg) for Close at now
+22:08:25.101989> Try Modify Lock Sell order for Close at now, 
+22:08:25.364005> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63950.1000;execution=261.026 ms;
+22:08:25.364005> Modify Lock SellLimit (1Leg) for Close at now
+22:08:25.367006> Try Modify Lock Sell order, 
+22:08:25.629028> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=262.023 ms;
+22:08:25.630020> Modify Lock SellLimit (1Leg)
+22:08:26.653655> Try Modify Lock Sell order for Close at now, 
+22:08:26.947363> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63950.1000;execution=293.708 ms;
+22:08:26.948357> Modify Lock SellLimit (1Leg) for Close at now
+22:08:26.950366> Try Modify Lock Sell order, 
+22:08:27.251994> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=301.628 ms;
+22:08:27.252987> Modify Lock SellLimit (1Leg)
+22:08:28.615805> Try Modify Lock Sell order for Close at now, 
+22:08:28.922101> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63950.1000;execution=306.296 ms;
+22:08:28.923102> Modify Lock SellLimit (1Leg) for Close at now
+22:08:28.931103> Try Modify Lock Sell order, 
+22:08:29.226119> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=294.016 ms;
+22:08:29.227119> Modify Lock SellLimit (1Leg)
+22:08:55.641627> Try Modify Lock Sell order, 
+22:08:55.985646> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64086.0000;execution=343.018 ms;
+22:08:55.986647> Modify Lock SellLimit (1Leg)
+22:09:41.863327> Try Modify Lock Sell order for Close at now, 
+22:09:42.209337> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63985.0000;execution=345.019 ms;
+22:09:42.210338> Modify Lock SellLimit (1Leg) for Close at now
+22:09:42.288340> Try Modify Lock Sell order, 
+22:09:42.630362> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64086.0000;execution=341.021 ms;
+22:09:42.631362> Modify Lock SellLimit (1Leg)
+22:10:33.470257> Try Modify Lock Sell order for Close at now, 
+22:10:33.776272> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63984.8000;execution=305.018 ms;
+22:10:33.776272> Modify Lock SellLimit (1Leg) for Close at now
+22:10:33.880278> Try Modify Lock Sell order, 
+22:10:34.331303> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64079.5000;execution=451.025 ms;
+22:10:34.332303> Modify Lock SellLimit (1Leg)
+22:11:26.165380> Try Modify Lock Sell order for Close at now, 
+22:11:26.462376> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63994.9000;execution=296.015 ms;
+22:11:26.465386> Modify Lock SellLimit (1Leg) for Close at now
+22:11:26.642383> Try Modify Lock Sell order, 
+22:11:26.947404> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=304.015 ms;
+22:11:26.949403> Modify Lock SellLimit (1Leg)
+22:11:53.464556> Try Modify Lock Sell order for Close at now, 
+22:11:53.772572> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63986.1000;execution=308.016 ms;
+22:11:53.773567> Modify Lock SellLimit (1Leg) for Close at now
+22:11:53.878574> Try Modify Lock Sell order, 
+22:11:54.185600> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=307.027 ms;
+22:11:54.187596> Modify Lock SellLimit (1Leg)
+22:11:58.236965> Try Modify Lock Sell order for Close at now, 
+22:11:58.527636> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63986.1000;execution=290.671 ms;
+22:11:58.528638> Modify Lock SellLimit (1Leg) for Close at now
+22:11:58.530638> Try Modify Lock Sell order, 
+22:11:58.830653> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=299.014 ms;
+22:11:58.831653> Modify Lock SellLimit (1Leg)
+22:12:13.889204> Try Modify Lock Sell order for Close at now, 
+22:12:14.192223> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63984.9000;execution=303.020 ms;
+22:12:14.193222> Modify Lock SellLimit (1Leg) for Close at now
+22:12:14.285226> Try Modify Lock Sell order, 
+22:12:14.730253> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=444.023 ms;
+22:12:14.731253> Modify Lock SellLimit (1Leg)
+22:12:15.449767> Try Modify Lock Sell order for Close at now, 
+22:12:15.731340> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63984.9000;execution=280.575 ms;
+22:12:15.732290> Modify Lock SellLimit (1Leg) for Close at now
+22:12:15.734280> Try Modify Lock Sell order, 
+22:12:16.023561> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=289.282 ms;
+22:12:16.024546> Modify Lock SellLimit (1Leg)
+22:12:39.876832> Try Modify Lock Sell order for Close at now, 
+22:12:40.187858> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63980.1000;execution=310.029 ms;
+22:12:40.189863> Modify Lock SellLimit (1Leg) for Close at now
+22:12:40.383856> Try Modify Lock Sell order for Close at now, 
+22:12:40.684883> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63966.1000;execution=301.027 ms;
+22:12:40.699879> Modify Lock SellLimit (1Leg) for Close at now
+22:12:40.774877> Try Modify Lock Sell order, 
+22:12:41.076896> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=301.017 ms;
+22:12:41.078896> Modify Lock SellLimit (1Leg)
+22:12:57.723441> Try Modify Lock Sell order for Close at now, 
+22:12:58.012450> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63963.6000;execution=288.018 ms;
+22:12:58.013449> Modify Lock SellLimit (1Leg) for Close at now
+22:12:58.108454> Try Modify Lock Sell order, 
+22:12:58.630491> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=521.037 ms;
+22:12:58.632484> Modify Lock SellLimit (1Leg)
+22:13:24.680245> Try Modify Lock Sell order for Close at now, 
+22:13:24.976258> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63971.9000;execution=295.018 ms;
+22:13:24.977256> Modify Lock SellLimit (1Leg) for Close at now
+22:13:25.117265> Try Modify Lock Sell order, 
+22:13:25.416280> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=298.015 ms;
+22:13:25.417281> Modify Lock SellLimit (1Leg)
+22:13:55.096787> Try Modify Lock Sell order for Close at now, 
+22:13:55.397787> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63971.9000;execution=299.013 ms;
+22:13:55.398786> Modify Lock SellLimit (1Leg) for Close at now
+22:13:55.400786> Try Modify Lock Sell order for Close at now, 
+22:13:55.681230> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63970.1000;execution=280.444 ms;
+22:13:55.682239> Modify Lock SellLimit (1Leg) for Close at now
+22:13:55.684255> Try Modify Lock Sell order, 
+22:13:55.971274> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=287.019 ms;
+22:13:55.972258> Modify Lock SellLimit (1Leg)
+22:13:57.282224> Try Modify Lock Sell order for Close at now, 
+22:13:57.569307> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63966.9000;execution=287.083 ms;
+22:13:57.570308> Modify Lock SellLimit (1Leg) for Close at now
+22:13:57.573307> Try Modify Lock Sell order, 
+22:13:57.876203> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=302.896 ms;
+22:13:57.877208> Modify Lock SellLimit (1Leg)
+22:13:58.334361> Try Modify Lock Sell order for Close at now, 
+22:13:58.630058> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63963.3000;execution=293.701 ms;
+22:13:58.631060> Modify Lock SellLimit (1Leg) for Close at now
+22:13:58.667062> Try Modify Lock Sell order, 
+22:13:58.998080> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=330.016 ms;
+22:13:59.000081> Modify Lock SellLimit (1Leg)
+22:14:06.179915> Try Modify Lock Sell order for Close at now, 
+22:14:06.474862> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63963.3000;execution=294.948 ms;
+22:14:06.476874> Modify Lock SellLimit (1Leg) for Close at now
+22:14:06.482886> Try Modify Lock Sell order, 
+22:14:06.788868> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=305.009 ms;
+22:14:06.791860> Modify Lock SellLimit (1Leg)
+22:14:25.566408> Try Modify Lock Sell order for Close at now, 
+22:14:25.864221> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63972.0000;execution=296.812 ms;
+22:14:25.865217> Modify Lock SellLimit (1Leg) for Close at now
+22:14:25.867228> Try Modify Lock Sell order, 
+22:14:26.165234> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=298.006 ms;
+22:14:26.166235> Modify Lock SellLimit (1Leg)
+22:14:42.246095> Try Modify Lock Sell order for Close at now, 
+22:14:42.545251> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63942.1000;execution=299.156 ms;
+22:14:42.545251> Modify Lock SellLimit (1Leg) for Close at now
+22:14:42.548260> Try Modify Lock Sell order, 
+22:14:42.838082> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=289.822 ms;
+22:14:42.839080> Modify Lock SellLimit (1Leg)
+22:14:54.455898> Try Modify Lock Sell order for Close at now, 
+22:14:54.761027> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63934.1000;execution=304.129 ms;
+22:14:54.762029> Modify Lock SellLimit (1Leg) for Close at now
+22:14:54.783034> Try Modify Lock Sell order, 
+22:14:55.086249> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=302.219 ms;
+22:14:55.087248> Modify Lock SellLimit (1Leg)
+22:14:55.088248> Try Modify Lock Sell order for Close at now, 
+22:14:55.376964> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63934.1000;execution=287.717 ms;
+22:14:55.377964> Modify Lock SellLimit (1Leg) for Close at now
+22:14:55.379981> Try Modify Lock Sell order, 
+22:14:55.676206> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=296.225 ms;
+22:14:55.677205> Modify Lock SellLimit (1Leg)
+22:15:00.845087> Try Modify Lock Sell order for Close at now, 
+22:15:01.123100> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63934.1000;execution=278.013 ms;
+22:15:01.124101> Modify Lock SellLimit (1Leg) for Close at now
+22:15:01.126101> Try Modify Lock Sell order, 
+22:15:01.432328> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=305.225 ms;
+22:15:01.433341> Modify Lock SellLimit (1Leg)
+22:15:01.939375> Try Modify Lock Sell order for Close at now, 
+22:15:02.235578> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63934.1000;execution=296.203 ms;
+22:15:02.236580> Modify Lock SellLimit (1Leg) for Close at now
+22:15:02.238580> Try Modify Lock Sell order for Close at now, 
+22:15:02.534149> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63925.9000;execution=295.569 ms;
+22:15:02.535145> Modify Lock SellLimit (1Leg) for Close at now
+22:15:02.537162> Try Modify Lock Sell order, 
+22:15:02.835288> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=298.126 ms;
+22:15:02.839287> Modify Lock SellLimit (1Leg)
+22:15:02.923291> Try Modify Lock Sell order for Close at now, 
+22:15:03.222328> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63925.9000;execution=299.037 ms;
+22:15:03.223307> Modify Lock SellLimit (1Leg) for Close at now
+22:15:03.224317> Try Modify Lock Sell order, 
+22:15:03.503875> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=279.558 ms;
+22:15:03.503875> Modify Lock SellLimit (1Leg)
+22:15:06.515744> Try Modify Lock Sell order for Close at now, 
+22:15:06.814759> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63918.4000;execution=298.015 ms;
+22:15:06.816758> Modify Lock SellLimit (1Leg) for Close at now
+22:15:06.820761> Try Modify Lock Sell order, 
+22:15:07.121663> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=299.885 ms;
+22:15:07.121663> Modify Lock SellLimit (1Leg)
+22:15:10.640948> Try Modify Lock Sell order for Close at now, 
+22:15:10.941980> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63911.3000;execution=300.030 ms;
+22:15:10.941980> Modify Lock SellLimit (1Leg) for Close at now
+22:15:10.944981> Try Modify Lock Sell order, 
+22:15:11.249325> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=304.344 ms;
+22:15:11.250322> Modify Lock SellLimit (1Leg)
+22:15:11.252323> Try Modify Lock Sell order for Close at now, 
+22:15:11.540474> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63911.3000;execution=288.151 ms;
+22:15:11.540474> Modify Lock SellLimit (1Leg) for Close at now
+22:15:11.542482> Try Modify Lock Sell order, 
+22:15:11.812553> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64081.8000;execution=270.071 ms;
+22:15:11.813551> Modify Lock SellLimit (1Leg)
+22:15:43.690941> Try Modify Lock Sell order, 
+22:15:43.992364> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64042.0000;execution=299.427 ms;
+22:15:43.994363> Modify Lock SellLimit (1Leg)
+22:15:44.009376> Try Modify Lock Sell order for Close at now, 
+22:15:44.310379> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63942.0000;execution=300.006 ms;
+22:15:44.310379> Modify Lock SellLimit (1Leg) for Close at now
+22:15:44.312446> Try Modify Lock Sell order, 
+22:15:44.616273> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64042.0000;execution=303.826 ms;
+22:15:44.616273> Modify Lock SellLimit (1Leg)
+22:15:44.618281> Try Modify Lock Sell order for Close at now, 
+22:15:44.916295> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63940.4000;execution=298.014 ms;
+22:15:44.916295> Modify Lock SellLimit (1Leg) for Close at now
+22:15:44.920289> Try Modify Lock Sell order, 
+22:15:45.215792> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64042.0000;execution=295.504 ms;
+22:15:45.215792> Modify Lock SellLimit (1Leg)
+22:15:45.472816> Try Modify Lock Sell order for Close at now, 
+22:15:45.772699> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63940.4000;execution=299.883 ms;
+22:15:45.774694> Modify Lock SellLimit (1Leg) for Close at now
+22:15:45.775695> Try Modify Lock Sell order, 
+22:15:46.080715> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64042.0000;execution=305.021 ms;
+22:15:46.081719> Modify Lock SellLimit (1Leg)
+22:15:52.018929> Try Modify Lock Sell order for Close at now, 
+22:15:52.338320> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63937.1000;execution=319.391 ms;
+22:15:52.339309> Modify Lock SellLimit (1Leg) for Close at now
+22:15:52.343315> Try Modify Lock Sell order, 
+22:15:52.644079> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64042.0000;execution=300.764 ms;
+22:15:52.645072> Modify Lock SellLimit (1Leg)
+22:15:53.443868> Try Modify Lock Sell order for Close at now, 
+22:15:53.743884> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63918.4000;execution=299.016 ms;
+22:15:53.745885> Modify Lock SellLimit (1Leg) for Close at now
+22:15:53.748894> Try Modify Lock Sell order for Close at now, 
+22:15:54.045663> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63912.1000;execution=296.768 ms;
+22:15:54.046654> Modify Lock SellLimit (1Leg) for Close at now
+22:15:54.047655> Try Modify Lock Sell order, 
+22:15:54.356010> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64042.0000;execution=308.356 ms;
+22:15:54.357009> Modify Lock SellLimit (1Leg)
+22:15:55.557234> Try Modify Lock Sell order for Close at now, 
+22:15:55.865450> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63912.1000;execution=307.217 ms;
+22:15:55.865450> Modify Lock SellLimit (1Leg) for Close at now
+22:15:55.867449> Try Modify Lock Sell order, 
+22:15:56.169810> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64042.0000;execution=302.361 ms;
+22:15:56.170813> Modify Lock SellLimit (1Leg)
+22:16:30.872691> Try Modify Lock Sell order, 
+22:16:31.141703> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=269.012 ms;
+22:16:31.142702> Modify Lock SellLimit (1Leg)
+22:16:32.110257> Try Modify Lock Sell order for Close at now, 
+22:16:32.431546> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63956.8000;execution=320.289 ms;
+22:16:32.432535> Modify Lock SellLimit (1Leg) for Close at now
+22:16:32.434535> Try Modify Lock Sell order for Close at now, 
+22:16:32.747108> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63950.1000;execution=312.573 ms;
+22:16:32.747108> Modify Lock SellLimit (1Leg) for Close at now
+22:16:32.748109> Try Modify Lock Sell order, 
+22:16:33.032613> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=284.504 ms;
+22:16:33.033605> Modify Lock SellLimit (1Leg)
+22:16:50.383640> Try Modify Lock Sell order for Close at now, 
+22:16:50.681912> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63950.9000;execution=297.272 ms;
+22:16:50.682913> Modify Lock SellLimit (1Leg) for Close at now
+22:16:50.683914> Try Modify Lock Sell order for Close at now, 
+22:16:50.963932> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63942.1000;execution=280.019 ms;
+22:16:50.963932> Modify Lock SellLimit (1Leg) for Close at now
+22:16:50.966946> Try Modify Lock Sell order, 
+22:16:51.264544> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=297.598 ms;
+22:16:51.265559> Modify Lock SellLimit (1Leg)
+22:16:51.905030> Try Modify Lock Sell order for Close at now, 
+22:16:52.201553> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63938.8000;execution=295.523 ms;
+22:16:52.201553> Modify Lock SellLimit (1Leg) for Close at now
+22:16:52.204552> Try Modify Lock Sell order, 
+22:16:52.500671> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=296.119 ms;
+22:16:52.500671> Modify Lock SellLimit (1Leg)
+22:16:52.503684> Try Modify Lock Sell order for Close at now, 
+22:16:52.816916> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63932.6000;execution=313.231 ms;
+22:16:52.817917> Modify Lock SellLimit (1Leg) for Close at now
+22:16:52.824916> Try Modify Lock Sell order, 
+22:16:53.146937> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=322.021 ms;
+22:16:53.147956> Modify Lock SellLimit (1Leg)
+22:17:01.697816> Try Modify Lock Sell order for Close at now, 
+22:17:01.991308> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63926.0000;execution=293.492 ms;
+22:17:01.992308> Modify Lock SellLimit (1Leg) for Close at now
+22:17:02.040318> Try Modify Lock Sell order, 
+22:17:02.334173> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=292.862 ms;
+22:17:02.334173> Modify Lock SellLimit (1Leg)
+22:17:38.104854> Try Modify Lock Sell order for Close at now, 
+22:17:38.379333> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63937.0000;execution=273.479 ms;
+22:17:38.380335> Modify Lock SellLimit (1Leg) for Close at now
+22:17:38.382329> Try Modify Lock Sell order, 
+22:17:38.668348> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=286.019 ms;
+22:17:38.668348> Modify Lock SellLimit (1Leg)
+22:17:38.670347> Try Modify Lock Sell order for Close at now, 
+22:17:38.970469> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63926.2000;execution=300.123 ms;
+22:17:38.971463> Modify Lock SellLimit (1Leg) for Close at now
+22:17:38.972463> Try Modify Lock Sell order, 
+22:17:39.273487> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=301.023 ms;
+22:17:39.275490> Modify Lock SellLimit (1Leg)
+22:17:45.078666> Try Modify Lock Sell order for Close at now, 
+22:17:45.380380> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63924.1000;execution=300.714 ms;
+22:17:45.380380> Modify Lock SellLimit (1Leg) for Close at now
+22:17:45.396381> Try Modify Lock Sell order, 
+22:17:45.694404> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=297.023 ms;
+22:17:45.698401> Modify Lock SellLimit (1Leg)
+22:17:52.868684> Try Modify Lock Sell order for Close at now, 
+22:17:53.174474> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63910.1000;execution=304.795 ms;
+22:17:53.176483> Modify Lock SellLimit (1Leg) for Close at now
+22:17:53.193476> Try Modify Lock Sell order, 
+22:17:53.484476> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=289.002 ms;
+22:17:53.485478> Modify Lock SellLimit (1Leg)
+22:17:53.526481> Try Modify Lock Sell order for Close at now, 
+22:17:53.812823> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63910.1000;execution=286.342 ms;
+22:17:53.813820> Modify Lock SellLimit (1Leg) for Close at now
+22:17:53.814820> Try Modify Lock Sell order, 
+22:17:54.095843> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=281.023 ms;
+22:17:54.096837> Modify Lock SellLimit (1Leg)
+22:18:02.025946> Try Modify Lock Sell order for Close at now, 
+22:18:02.561975> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63908.1000;execution=535.028 ms;
+22:18:02.563976> Modify Lock SellLimit (1Leg) for Close at now
+22:18:02.649981> Try Modify Lock Sell order, 
+22:18:03.363023> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=712.040 ms;
+22:18:03.364022> Modify Lock SellLimit (1Leg)
+22:18:09.155266> Try Modify Lock Sell order for Close at now, 
+22:18:09.455331> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63909.0000;execution=299.066 ms;
+22:18:09.458306> Modify Lock SellLimit (1Leg) for Close at now
+22:18:09.491298> Try Modify Lock Sell order, 
+22:18:09.848309> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=356.008 ms;
+22:18:09.849247> Modify Lock SellLimit (1Leg)
+22:18:21.388905> Try Modify Lock Sell order for Close at now, 
+22:18:21.676900> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63913.6000;execution=285.998 ms;
+22:18:21.677900> Modify Lock SellLimit (1Leg) for Close at now
+22:18:21.698901> Try Modify Lock Sell order, 
+22:18:21.983933> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=285.032 ms;
+22:18:21.985921> Modify Lock SellLimit (1Leg)
+22:18:25.242892> Try Modify Lock Sell order for Close at now, 
+22:18:25.546670> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63913.6000;execution=303.779 ms;
+22:18:25.546670> Modify Lock SellLimit (1Leg) for Close at now
+22:18:25.549670> Try Modify Lock Sell order, 
+22:18:25.853700> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=304.030 ms;
+22:18:25.856690> Modify Lock SellLimit (1Leg)
+22:18:25.934691> Try Modify Lock Sell order for Close at now, 
+22:18:26.231726> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63902.6000;execution=297.036 ms;
+22:18:26.233710> Modify Lock SellLimit (1Leg) for Close at now
+22:18:26.242710> Try Modify Lock Sell order, 
+22:18:26.531726> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=288.016 ms;
+22:18:26.533731> Modify Lock SellLimit (1Leg)
+22:18:26.781742> Try Modify Lock Sell order for Close at now, 
+22:18:27.087759> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63902.6000;execution=305.018 ms;
+22:18:27.087759> Modify Lock SellLimit (1Leg) for Close at now
+22:18:27.092765> Try Modify Lock Sell order, 
+22:18:27.368773> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=276.008 ms;
+22:18:27.369775> Modify Lock SellLimit (1Leg)
+22:18:27.371776> Try Modify Lock Sell order for Close at now, 
+22:18:27.645801> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63902.6000;execution=274.025 ms;
+22:18:27.646798> Modify Lock SellLimit (1Leg) for Close at now
+22:18:27.649792> Try Modify Lock Sell order, 
+22:18:27.920039> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=270.248 ms;
+22:18:27.921003> Modify Lock SellLimit (1Leg)
+22:18:27.923999> Try Modify Lock Sell order for Close at now, 
+22:18:28.208014> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63900.9000;execution=284.015 ms;
+22:18:28.208014> Modify Lock SellLimit (1Leg) for Close at now
+22:18:28.211014> Try Modify Lock Sell order, 
+22:18:28.534893> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=323.879 ms;
+22:18:28.535891> Modify Lock SellLimit (1Leg)
+22:18:28.538893> Try Modify Lock Sell order for Close at now, 
+22:18:28.840176> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63891.2000;execution=301.284 ms;
+22:18:28.841177> Modify Lock SellLimit (1Leg) for Close at now
+22:18:28.842177> Try Modify Lock Sell order, 
+22:18:29.142036> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=299.860 ms;
+22:18:29.143037> Modify Lock SellLimit (1Leg)
+22:18:29.149036> Try Modify Lock Sell order for Close at now, 
+22:18:29.458055> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63887.4000;execution=309.019 ms;
+22:18:29.459055> Modify Lock SellLimit (1Leg) for Close at now
+22:18:29.467055> Try Modify Lock Sell order, 
+22:18:29.768079> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=301.024 ms;
+22:18:29.769074> Modify Lock SellLimit (1Leg)
+22:18:30.185102> Try Modify Lock Sell order for Close at now, 
+22:18:30.570619> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63886.6000;execution=385.517 ms;
+22:18:30.571618> Modify Lock SellLimit (1Leg) for Close at now
+22:18:30.574620> Try Modify Lock Sell order for Close at now, 
+22:18:30.879971> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63861.8000;execution=305.351 ms;
+22:18:30.879971> Modify Lock SellLimit (1Leg) for Close at now
+22:18:30.885974> Try Modify Lock Sell order, 
+22:18:31.203011> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64068.0000;execution=316.039 ms;
+22:18:31.205012> Modify Lock SellLimit (1Leg)
+22:18:31.445004> Try Modify Lock Sell order for Close at now, 
+22:18:31.760680> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63856.1000;execution=314.676 ms;
+22:18:31.762647> Modify Lock SellLimit (1Leg) for Close at now
+22:18:31.765669> Try Modify Lock Sell order for Close at now, 
+22:18:32.060647> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63849.1000;execution=294.014 ms;
+22:18:32.060647> Modify Lock SellLimit (1Leg) for Close at now
+22:18:32.062661> Try Modify Lock Sell order, 
+22:18:32.521674> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:18:32.523674> [1Leg]: Sell failed BTCUSDC;price=63856.1000
+22:18:32.554674> Try Modify Lock Sell order, 
+22:18:32.911697> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:18:32.912696> [1Leg]: Sell failed BTCUSDC;price=63856.1000
+22:18:32.931697> Try Modify Lock Sell order, 
+22:18:33.267489> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:18:33.267489> [1Leg]: Sell failed BTCUSDC;price=63856.1000
+22:18:33.269499> Try Modify Lock Sell order, 
+22:18:33.609509> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:18:33.610510> [1Leg]: Sell failed BTCUSDC;price=63853.2000
+22:18:33.611510> Try Modify Lock Sell order, 
+22:18:34.014532> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:18:34.022532> [1Leg]: Sell failed BTCUSDC;price=63853.2000
+22:18:34.034532> Try Modify Lock Sell order, 
+22:18:34.396502> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:18:34.397499> [1Leg]: Sell failed BTCUSDC;price=63853.2000
+22:18:34.399507> Try Modify Lock Sell order, 
+22:18:34.727275> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:18:34.728275> [1Leg]: Sell failed BTCUSDC;price=63853.2000
+22:18:34.729277> Try Modify Lock Sell order, 
+22:18:35.088660> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:18:35.088660> [1Leg]: Sell failed BTCUSDC;price=63853.2000
+22:18:44.881052> Try Open BuyLimit, Bid: 63869.9 Ask:  63870.0
+22:18:44.882052> Support: 63869.9 VolS:1.249 Resistence: 63872.9 VolR:0.523
+22:18:45.182393> [1Leg]: Buy OK BTCUSDC at 63869.9000;Gap=-1.325;Price=63870.0000;Slippage=0.1;Execution=300.342 ms;
+22:18:45.183394> Elapsted Open BuyLimit 
+22:18:53.000783> Try place SellLimit, Bid: 63860.0 Ask:  63860.1
+22:18:53.295291> [1Leg]: Sell OK BTCUSDC at 63969.9000;Gap=2.135;Price=63860.1000;Slippage=-109.8;Execution=293.515 ms;
+22:18:53.296297> Placed lock SellLimit 
+22:18:53.869545> Try Modify Lock Sell order for Close at now, 
+22:18:54.160562> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63856.4000;execution=291.017 ms;
+22:18:54.161567> Modify Lock SellLimit (1Leg) for Close at now
+22:18:54.165599> Try Modify Lock Sell order, 
+22:18:54.490449> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63969.9000;execution=289.891 ms;
+22:18:54.490449> Modify Lock SellLimit (1Leg)
+22:18:55.110441> Try Modify Lock Sell order for Close at now, 
+22:18:55.403463> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63856.4000;execution=293.022 ms;
+22:18:55.404461> Modify Lock SellLimit (1Leg) for Close at now
+22:18:55.406455> Try Modify Lock Sell order, 
+22:18:55.700471> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63969.9000;execution=294.016 ms;
+22:18:55.701471> Modify Lock SellLimit (1Leg)
+22:18:58.901473> Try Modify Lock Sell order for Close at now, 
+22:18:59.194497> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63850.0000;execution=292.025 ms;
+22:18:59.195489> Modify Lock SellLimit (1Leg) for Close at now
+22:18:59.197496> Try Modify Lock Sell order, 
+22:18:59.487515> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63969.9000;execution=290.020 ms;
+22:18:59.489521> Modify Lock SellLimit (1Leg)
+22:19:01.505906> Try Modify Lock Sell order for Close at now, 
+22:19:01.786326> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63844.0000;execution=280.420 ms;
+22:19:01.787327> Modify Lock SellLimit (1Leg) for Close at now
+22:19:01.840328> Try Modify Lock Sell order, 
+22:19:02.122349> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63969.9000;execution=281.021 ms;
+22:19:02.123347> Modify Lock SellLimit (1Leg)
+22:19:02.125359> Try Modify Lock Sell order for Close at now, 
+22:19:02.433874> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63844.0000;execution=308.515 ms;
+22:19:02.434876> Modify Lock SellLimit (1Leg) for Close at now
+22:19:02.437875> Try Modify Lock Sell order, 
+22:19:02.741481> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63969.9000;execution=303.606 ms;
+22:19:02.741481> Modify Lock SellLimit (1Leg)
+22:19:02.810479> Try Modify Lock Sell order for Close at now, 
+22:19:03.106505> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63844.0000;execution=295.025 ms;
+22:19:03.107487> Modify Lock SellLimit (1Leg) for Close at now
+22:19:03.109496> Try Modify Lock Sell order, 
+22:19:03.407513> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63969.9000;execution=298.017 ms;
+22:19:03.407513> Modify Lock SellLimit (1Leg)
+22:19:04.812986> Try Modify Lock Sell order for Close at now, 
+22:19:05.118991> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63844.0000;execution=306.004 ms;
+22:19:05.119985> Modify Lock SellLimit (1Leg) for Close at now
+22:19:05.121985> Try Modify Lock Sell order, 
+22:19:05.426782> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63969.9000;execution=304.797 ms;
+22:19:05.427783> Modify Lock SellLimit (1Leg)
+22:19:10.272008> Try Modify Lock Sell order for Close at now, 
+22:19:10.584892> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63838.5000;execution=311.884 ms;
+22:19:10.585882> Modify Lock SellLimit (1Leg) for Close at now
+22:19:10.586883> Try Modify Lock Sell order for Close at now, 
+22:19:10.880727> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63833.2000;execution=293.843 ms;
+22:19:10.880727> Modify Lock SellLimit (1Leg) for Close at now
+22:19:10.882728> Try Modify Lock Sell order for Close at now, 
+22:19:11.190831> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=63826.1000;execution=308.103 ms;
+22:19:11.191773> Modify Lock SellLimit (1Leg) for Close at now
+22:19:11.194757> Try Modify Lock Sell order, 
+22:19:11.747778> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:19:11.771777> [1Leg]: Sell failed BTCUSDC;price=63830.0000
+22:19:11.778778> Try Modify Lock Sell order, 
+22:19:12.117798> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:19:12.119800> [1Leg]: Sell failed BTCUSDC;price=63836.0000
+22:19:12.120808> Try Modify Lock Sell order, 
+22:19:12.486879> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:19:12.487877> [1Leg]: Sell failed BTCUSDC;price=63844.0000
+22:19:12.491880> Try Modify Lock Sell order, 
+22:19:12.812896> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:19:12.813896> [1Leg]: Sell failed BTCUSDC;price=63844.0000
+22:19:12.816894> Try Modify Lock Sell order, 
+22:19:13.187918> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:19:13.188918> [1Leg]: Sell failed BTCUSDC;price=63837.2000

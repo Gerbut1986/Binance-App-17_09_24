@@ -1,0 +1,36 @@
+11:52:06.848312> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+11:52:06.849311> WebSocket connected! Start Partial @depth20 [Future] process...
+11:52:06.849311> WebSocket connected! Start Partial @depth20 [Future] process...
+11:52:06.850310> WebSocket connected! Start @depth [Future] process...
+11:52:07.763598> WebSocket connected! Start Partial @depth20 [Future] process...
+11:52:07.834604> WebSocket connected! Start Partial @depth20 [Future] process...
+11:52:07.836603> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+11:52:07.849595> WebSocket connected! Start @depth [Future] process...
+11:52:08.261616> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 221.49133561 USDT
+14:35:04.974215>  DevBUY (+): 79.9725 avgGapBuy:-47.0725 
+14:35:43.776282>  DevSELL (-): -107.79125 avgGapSell:-45.60875 
+14:43:12.409921>  DevSELL (-): -69.3525 avgGapSell:-58.1475 
+14:54:26.990835> Try Open BuyLimit, Bid: 61094.8 Ask:  61094.9
+14:54:26.991832> Order Signal open long, Order=2 StepByStepUP:0 Stk:2 StkImp:2 Lnt:1 Prg:2 Tide:20 Bid: 61094.8 Ask:  61094.9
+14:54:27.268409> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=61094.9;Execution=273.578 ms;
+14:54:27.268409> Placed Main BuyLimit, ticketCustom = 1 ticket= 4296322934 LastBuyPrice=61094.8
+14:54:33.001736> Try place lock SellLimit, Bid: 61094.8 Ask:61094.9 wantPrice:61193.5  EntrPrice:61094.9
+14:54:33.959083> [1Leg]: Sell OK BTCUSDC at 61193.50;Price=61193.5;Slippage=-98.6;Execution=957.347 ms;
+14:54:33.960092> Placed lock SellLimit, ticketCustom= 2, ticket= 4296322934 
+14:54:33.960092>  
+15:03:34.306844> Try Delete lock Sell order,  ticket = 4296322934 ticketCustom = 2
+15:03:34.306844> Natiag Signal close long, stoploss=60944.9 TotalVal=0.002 pos:0.002 EntrPrice=61094.9 Stk:10 Lnt:1 Prg:2 Bid: 61032.5 Ask:  61032.6
+15:03:34.599055> OrderId: [4296323414]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=291.213 ms;
+15:03:34.600057> Delete lock SellLimit (1Leg)
+15:03:34.600057> Try Close Buy, Ask: 61032.6 Bid:61032.5 
+15:03:34.600057> Natiag Signal close long, stoploss=60944.9 TotalVal=0.002 pos:0.002 EntrPrice=61094.9 Stk:10 Lnt:1 Prg:2 Bid: 61032.5 Ask:  61032.6
+15:03:34.879074> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=61032.6;Execution=278.019 ms;
+15:03:34.879074> Close Main Buy, ticketCustom = 3 ticket = 4296421900
+19:39:04.380143> Try Open BuyLimit, Bid: 60931.0 Ask:  60931.1
+19:39:04.391146> Order Signal open long, Order=2 StepByStepUP:1 Stk:2 StkImp:2 Lnt:2 Prg:2 Tide:10 Bid: 60931.0 Ask:  60931.1
+19:39:04.663715> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=60931.1;Execution=251.565 ms;
+19:39:04.663715> Placed Main BuyLimit, ticketCustom = 4 ticket= 4296421900 LastBuyPrice=60931.0
+19:39:09.000601> Try place lock SellLimit, Bid: 60931.8 Ask:60931.9 wantPrice:61029.7  EntrPrice:60931.1
+19:39:10.052098> [1Leg]: Sell OK BTCUSDC at 61029.70;Price=61029.7;Slippage=-97.8;Execution=1050.499 ms;
+19:39:10.053097> Placed lock SellLimit, ticketCustom= 5, ticket= 4299313249 
+19:39:10.053097>  

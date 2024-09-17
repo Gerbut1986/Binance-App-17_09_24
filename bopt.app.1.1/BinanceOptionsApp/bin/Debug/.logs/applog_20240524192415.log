@@ -1,0 +1,59 @@
+19:24:27.848338> WebSocket connected! Start Partial @depth20 [Future] process...
+19:24:27.849334> WebSocket connected! Start @depth [Future] process...
+19:24:27.850334> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:24:27.857334> WebSocket connected! Start Partial @depth20 [Future] process...
+19:24:28.958416> WebSocket connected! Start Partial @depth20 [Future] process...
+19:24:28.964416> WebSocket connected! Start Partial @depth20 [Future] process...
+19:24:28.974421> WebSocket connected! Start @depth [Future] process...
+19:24:29.572272> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:24:29.573271> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 61.52394078 USDT
+19:27:27.821831> Try Open SellLimit, Ask: 68130.3
+19:27:27.822833> Support: 68130.2 VolS:1.315 Resistence: 68138.8 VolR:0.59
+19:27:28.112999> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=3.6575;Price=68130.30;Slippage=68130.3;Execution=287.168 ms;
+19:27:28.113999> Placed Main SellLimit, ticketCustom = 1 ticket = 3286192082 LastSellPrice=68130.2
+19:35:35.325104> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+19:35:35.590118> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:35:35.671124>  DevBUY (-): 65.17125 avgGapBuy:-16.57125 
+19:35:35.755128>  DevBUY (+): 63.27125 avgGapBuy:-16.57125 
+19:35:35.801131>  DevBUY (-): 80.17125 avgGapBuy:-16.57125 
+19:35:35.885134>  DevBUY (-): 128.17125 avgGapBuy:-16.57125 
+19:35:35.898138>  DevBUY (+): 133.97125 avgGapBuy:-16.57125 
+19:35:35.899138>  DevBUY (+): 141.27125 avgGapBuy:-16.57125 
+19:35:36.469682>  DevBUY (-): 73.37125 avgGapBuy:-16.57125 
+19:35:36.734698>  DevBUY (-): 72.67125 avgGapBuy:-16.57125 
+19:35:37.128725>  DevBUY (-): 72.57125 avgGapBuy:-16.57125 
+19:35:37.394736>  DevBUY (-): 73.27125 avgGapBuy:-16.57125 
+19:35:40.300403>  DevSELL (+): -62.185 avgGapSell:3.185 
+19:35:40.340405> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:35:40.341406> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:35:40.358407> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:35:40.359407> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:35:40.402408>  DevSELL (-): -63.685 avgGapSell:3.185 
+19:35:40.592432> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:35:40.592432> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:35:40.667423>  DevSELL (-): -66.785 avgGapSell:3.185 
+19:35:40.719427>  DevSELL (-): -87.285 avgGapSell:3.185 
+19:35:40.799434>  DevSELL (+): -90.885 avgGapSell:3.185 
+19:35:40.932438>  DevSELL (-): -91.485 avgGapSell:3.185 
+19:35:41.252123>  DevSELL (-): -95.785 avgGapSell:3.185 
+19:35:41.442142> WebSocket connected! Start @depth [Future] process...
+19:35:41.456134> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:35:41.686151> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:38:34.470449> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:38:39.510621> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+19:38:39.510621> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+19:38:41.383258> WebSocket connected! Start @depth [Future] process...
+20:01:02.539287> Try Close Sell, Bid: 68419.3 Ask:  68419.4
+20:01:02.540280> Support: 68419.3 VolS:2.054 Resistence: 68425 VolR:0.846
+20:01:02.820559> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.9525;Price=68419.40;Slippage=68419.4;Execution=280.279 ms;
+20:01:02.821560> Close Main Sell ticketCustom = 2 ticket= 3286192082
+20:01:02.823551> Try Close Sell, Bid: 68419.3 Ask:  68419.4
+20:01:02.823551> Support: 68419.3 VolS:2.054 Resistence: 68425 VolR:0.846
+20:01:03.945135> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.6525;Price=68421.50;Slippage=68421.5;Execution=1102.583 ms;
+20:01:03.946135> Close Main Sell ticketCustom = 3 ticket= 3287113651
+20:01:59.776004> Try place lock SellLimit, Bid: 68473.9 Ask:  68474.0
+20:02:00.055020> [1Leg]: Sell OK BTCUSDC at 68475.00;Gap=-1.0225;Price=68474.00;Slippage=-1.0;Execution=279.015 ms;
+20:02:00.056021> Placed lock SellLimit, ticketCustom= 4, ticket= 3287113651 
+20:02:02.353968> Try place lock SellLimit, Bid: 68575.3 Ask:  68576.0
+20:02:02.915950> [1Leg]: Sell OK BTCUSDC at 68577.00;Gap=56.5775;Price=68586.60;Slippage=9.6;Execution=561.983 ms;
+20:02:02.915950> Placed lock SellLimit, ticketCustom= 5, ticket= 3287147303 

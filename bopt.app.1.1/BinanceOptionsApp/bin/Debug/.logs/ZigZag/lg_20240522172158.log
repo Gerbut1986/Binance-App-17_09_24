@@ -1,0 +1,80 @@
+17:21:59.923983> WebSocket connected! Start @depth [Future] process...
+17:21:59.924984> WebSocket connected! Start Partial @depth20 [Future] process...
+17:21:59.925984> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:21:59.968986> WebSocket connected! Start Partial @depth20 [Future] process...
+17:22:03.621408> WebSocket connected! Start Partial @depth20 [Future] process...
+17:22:03.630409> WebSocket connected! Start @depth [Future] process...
+17:22:03.633413> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:22:03.639405> WebSocket connected! Start Partial @depth20 [Future] process...
+17:22:03.881480> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 99.16783525 USDT
+17:27:46.738629> Try Open SellLimit, Ask: 69630.2
+17:27:46.738629> Support: 69630 VolS:10.01 Resistence: 69630.2 VolR:2.198
+17:27:47.102833> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=20.73875;Price=69601.30;Slippage=69601.3;Execution=360.205 ms;
+17:27:47.103832> Placed Main SellLimit, ticketCustom = 1 ticket = 3206521289
+17:27:50.001736> Try adding SellLimit, Ask: 69579.5
+17:27:50.002721> Support: 69576.2 VolS:1.187 Resistence: 69591.2 VolR:0.784
+17:27:51.110953> [1Leg]: Sell OK BTCUSDC at 69584.50;Gap=16.03875;Price=69587.90;Slippage=3.4;Execution=1108.232 ms;
+17:27:51.111974> adding Sell (1Leg), ticket = 3206521289 ticketCustom = 2
+17:28:14.394452> Try place lock BuyLimit, Bid: 69534.9 Ask:  69535.6
+17:28:14.675615> [1Leg]: Buy OK BTCUSDC at 69529.90;Gap=-7.70;Price=69535.60;Slippage=5.7;Execution=280.160 ms;
+17:28:14.676608> Placed lock BuyLimit, ticketCustom= 3, ticket= 3206521289 
+17:28:18.006055> Try Open SellLimit, Ask: 69517.2
+17:28:18.007056> Support: 69508.2 VolS:0.626 Resistence: 69517.6 VolR:1.107
+17:28:18.293432> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=5.1775;Price=69517.20;Slippage=69517.2;Execution=286.376 ms;
+17:28:18.294427> Placed Main SellLimit, ticketCustom = 4 ticket = 3206548014
+17:28:22.009438> Try adding SellLimit, Ask: 69555.2
+17:28:22.011440> Support: 69554.5 VolS:1.064 Resistence: 69555.2 VolR:1.49
+17:28:22.294415> [1Leg]: Sell OK BTCUSDC at 69560.20;Gap=0.84625;Price=69555.20;Slippage=-5.0;Execution=282.975 ms;
+17:28:22.294415> adding Sell (1Leg), ticket = 3206548014 ticketCustom = 5
+17:28:51.224416> Try adding SellLimit, Ask: 69610.5
+17:28:51.224416> Support: 69610.4 VolS:1.532 Resistence: 69615.6 VolR:1.194
+17:28:51.505204> [1Leg]: Sell OK BTCUSDC at 69615.50;Gap=5.7025;Price=69610.50;Slippage=-5.0;Execution=279.791 ms;
+17:28:51.505204> adding Sell (1Leg), ticket = 3206548014 ticketCustom = 6
+17:32:02.814464> Try place lock BuyLimit, Bid: 69659.5 Ask:  69659.6
+17:32:03.119107> [1Leg]: Buy OK BTCUSDC at 69654.50;Gap=0.27;Price=69666.40;Slippage=11.9;Execution=281.641 ms;
+17:32:03.120106> Placed lock BuyLimit, ticketCustom= 7, ticket= 3206548014 
+17:32:03.120106> Try Modify Lock Buy order for close at now, 
+17:32:03.425126> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=69666.30;execution=287.017 ms;
+17:32:03.426124> Modify BuyLimit (1Leg) for Close at now
+17:32:12.328504> Try Modify Lock Buy order for close at now, 
+17:32:13.550195> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:13.551194> [1Leg]: Buy failed BTCUSDC;price=69654.70
+17:32:15.583104> Try Modify Lock Buy order for close at now, 
+17:32:15.897129> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:15.898136> [1Leg]: Buy failed BTCUSDC;price=69645.50
+17:32:17.916041> Try Modify Lock Buy order for close at now, 
+17:32:18.261043> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:18.262043> [1Leg]: Buy failed BTCUSDC;price=69645.50
+17:32:20.272743> Try Modify Lock Buy order for close at now, 
+17:32:20.598841> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:20.599841> [1Leg]: Buy failed BTCUSDC;price=69676.00
+17:32:22.607405> Try Modify Lock Buy order for close at now, 
+17:32:22.934967> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:22.954971> [1Leg]: Buy failed BTCUSDC;price=69672.10
+17:32:24.969910> Try Modify Lock Buy order for close at now, 
+17:32:25.284755> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:25.285755> [1Leg]: Buy failed BTCUSDC;price=69653.40
+17:32:27.306209> Try Modify Lock Buy order for close at now, 
+17:32:27.623580> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:27.624578> [1Leg]: Buy failed BTCUSDC;price=69654.50
+17:32:29.637591> Try Modify Lock Buy order for close at now, 
+17:32:29.956703> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:29.957702> [1Leg]: Buy failed BTCUSDC;price=69660.00
+17:32:31.982971> Try Modify Lock Buy order for close at now, 
+17:32:32.295610> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:32.297610> [1Leg]: Buy failed BTCUSDC;price=69665.30
+17:32:34.313272> Try Modify Lock Buy order for close at now, 
+17:32:34.637283> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:34.637283> [1Leg]: Buy failed BTCUSDC;price=69675.00
+17:32:36.653534> Try Modify Lock Buy order for close at now, 
+17:32:36.969552> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:36.969552> [1Leg]: Buy failed BTCUSDC;price=69668.40
+17:32:38.984462> Try Modify Lock Buy order for close at now, 
+17:32:39.299191> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:39.318192> [1Leg]: Buy failed BTCUSDC;price=69661.30
+17:32:41.334135> Try Modify Lock Buy order for close at now, 
+17:32:41.652049> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:41.652049> [1Leg]: Buy failed BTCUSDC;price=69648.30
+17:32:43.667721> Try Modify Lock Buy order for close at now, 
+17:32:43.987135> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:32:43.989136> [1Leg]: Buy failed BTCUSDC;price=69650.10

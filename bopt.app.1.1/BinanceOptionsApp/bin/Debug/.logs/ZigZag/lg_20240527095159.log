@@ -1,0 +1,49 @@
+09:52:00.776862> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:52:00.778862> WebSocket connected! Start Partial @depth20 [Future] process...
+09:52:00.792863> WebSocket connected! Start @depth [Future] process...
+09:52:00.793863> WebSocket connected! Start Partial @depth20 [Future] process...
+09:52:01.857933> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:52:01.858928> WebSocket connected! Start @depth [Future] process...
+09:52:01.865939> WebSocket connected! Start Partial @depth20 [Future] process...
+09:52:01.872929> WebSocket connected! Start Partial @depth20 [Future] process...
+09:52:02.476347> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 46.83226785 USDT
+10:01:43.386027> Try Open Buy, Bid: 68429.5 Ask:  68429.6
+10:01:43.400071> Support: 68429.5 VolS:2.043 Resistence: 68432 VolR:1.086
+10:01:43.693025> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-1.025;Price=68429.60;Slippage=68429.6;Execution=288.953 ms;
+10:01:43.693025> Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 68429.5 Ask:  68429.6
+10:01:43.694025> Placed Main BuyLimit, ticketCustom = 1 ticket= 3347847397 LastBuyPrice=68429.6
+10:05:47.646234> Try Close Partly Long, Bid: 68485.0 Ask:  68485.1
+10:05:47.928251> [1Leg]: Sell OK BTCUSDC at 68486.10;Gap=-1.1425;Price=68485.10;Slippage=-1.0;Execution=281.021 ms;
+10:05:47.929246> Close Partly Long, ticketCustom= 2, ticket= 3347847397 
+10:05:47.930246> Try Open Buy, Bid: 68485.0 Ask:  68485.1
+10:05:47.930246> Support: 68485 VolS:3.593 Resistence: 68486 VolR:1.072
+10:05:48.212267> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-1.10;Price=68485.10;Slippage=68485.1;Execution=282.020 ms;
+10:05:48.212267> Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 68485.0 Ask:  68485.1
+10:05:48.213262> Placed Main BuyLimit, ticketCustom = 3 ticket= 3347925743 LastBuyPrice=68485.1
+10:05:58.000955> Try Close Partly Long, Bid: 68487.9 Ask:  68488.0
+10:05:59.104291> [1Leg]: Sell OK BTCUSDC at 68489.00;Gap=-0.27625;Price=68488.00;Slippage=-1.0;Execution=1102.338 ms;
+10:05:59.104291> Close Partly Long, ticketCustom= 4, ticket= 3347925743 
+10:16:30.147324> Try Open SellLimit, Ask: 68366.7
+10:16:30.147324> Support: 68362.7 VolS:1.051 Resistence: 68366.7 VolR:3.117
+10:16:30.435424> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=6.4375;Price=68353.60;Slippage=68353.6;Execution=280.099 ms;
+10:16:30.437424> Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 68353.5 Ask:  68353.6
+10:16:30.437424> Placed Main SellLimit, ticketCustom = 5 ticket = 3348085639 LastSellPrice=68366.6
+10:18:27.401720> Try adding SellLimit, Ask: 68418.0
+10:18:27.404711> Support: 68417.9 VolS:2.445 Resistence: 68420.9 VolR:0.434
+10:18:27.687726> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.74125;Price=68418.00;Slippage=68418.0;Execution=282.017 ms;
+10:18:27.688727> adding Sell (1Leg), ticket = 3348085639 ticketCustom = 6
+10:20:06.628230> Try Close Sell, Bid: 68471.5 Ask:  68471.6, stoploss=68686.45
+10:20:06.628230> Support: 68471.5 VolS:3.402 Resistence: 68472.2 VolR:0.965
+10:20:06.910237> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.5275;Price=68484.50;Slippage=68484.5;Execution=280.019 ms;
+10:20:06.911234> Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 68484.4 Ask:  68484.5
+10:20:06.911234> Close Main Sell ticketCustom = 7 ticket= 3348085639
+10:20:08.207348> Try Open Buy, Bid: 68484.4 Ask:  68484.5
+10:20:08.207348> Support: 68484.4 VolS:1.909 Resistence: 68484.5 VolR:0.415
+10:20:08.492721> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.57375;Price=68484.50;Slippage=68484.5;Execution=285.373 ms;
+10:20:08.492721> Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 68484.4 Ask:  68484.5
+10:20:08.493722> Placed Main BuyLimit, ticketCustom = 8 ticket= 3348174649 LastBuyPrice=68484.5
+10:20:18.000045> Try Close Sell, Bid: 68496.9 Ask:  68497.0, stoploss=68686.45
+10:20:18.001039> Support: 68496.9 VolS:2.135 Resistence: 68502.9 VolR:0.464
+10:20:19.114327> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=1.49125;Price=68499.30;Slippage=68499.3;Execution=1113.288 ms;
+10:20:19.114327> Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 68499.2 Ask:  68499.3
+10:20:19.115317> Close Main Sell ticketCustom = 9 ticket= 3348174649

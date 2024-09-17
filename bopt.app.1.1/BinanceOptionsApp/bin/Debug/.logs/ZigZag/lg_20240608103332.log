@@ -1,0 +1,39 @@
+10:33:33.315604> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+10:33:33.326606> WebSocket connected! Start Partial @depth20 [Future] process...
+10:33:33.330605> WebSocket connected! Start Partial @depth20 [Future] process...
+10:33:33.367607> WebSocket connected! Start @depth [Future] process...
+10:33:34.250461> WebSocket connected! Start Partial @depth20 [Future] process...
+10:33:34.266450> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+10:33:34.280456> WebSocket connected! Start @depth [Future] process...
+10:33:34.282459> WebSocket connected! Start Partial @depth20 [Future] process...
+10:33:34.784900> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 263.14385253 USDT
+11:11:14.115322> Try Open Buy, Bid: 69454.9 Ask:  69455.0
+11:11:14.117310> Lenta Signal open long, OpenLong:True Stk:20 StkImp:1 Lnt:2 Prg:0 Tide:2 Bid: 69454.9 Ask:  69455.0
+11:11:14.117310> Support: 69454.9 VolS:1.868 Resistence: 69461 VolR:1.575
+11:11:15.156531> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=2.0525;Price=69457.70;Slippage=69457.7;Execution=1036.220 ms;
+11:11:15.158531> Move:0 Stk:20 Lnt:2 Prg:0 Bid: 69457.6 Ask:  69457.7
+11:11:15.159531> Placed Main Buy, ticketCustom = 1 ticket= 3687954105 LastBuyPrice=69455.0
+11:45:14.152995> Try Close Buy, TotalVal=0.005 pos0.005 Bid: 69378.6 Ask: 69378.7, stoploss=68955.0
+11:45:14.153994> Lenta Signal close long, stoploss=68955.0 TotalVal=0.005 pos:0.005 EntrPrice=69455.0 Stk:10 StkImp:1 Lnt:1 Prg:0 Bid: 69378.6 Ask:  69378.7
+11:45:15.156669> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=1.6225;Price=69370.10;Slippage=69370.1;Execution=1002.675 ms;
+11:45:15.157669> Move:0 Stk:10 Lnt:1 Prg:0 Fon:0 Bid: 69370.0 Ask:  69370.1
+11:45:15.158669> Close Main Buy, ticketCustom = 2 ticket = 3687954105
+11:47:30.071169> Try Open Buy, Bid: 69399.9 Ask:  69400.0
+11:47:30.073168> Lenta Signal open long, OpenLong:True Stk:20 StkImp:1 Lnt:2 Prg:0 Tide:1 Bid: 69399.9 Ask:  69400.0
+11:47:30.074169> Support: 69399.9 VolS:3.388 Resistence: 69400 VolR:2.209
+11:47:31.085443> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-0.19875;Price=69405.00;Slippage=69405.0;Execution=1011.273 ms;
+11:47:31.086441> Move:0 Stk:20 Lnt:2 Prg:0 Bid: 69404.9 Ask:  69405.0
+11:47:31.086441> Placed Main Buy, ticketCustom = 3 ticket= 3688304626 LastBuyPrice=69400.0
+11:55:11.030613> Try Close Buy, TotalVal=0.005 pos0.005 Bid: 69450.0 Ask: 69450.1, stoploss=68900.0
+11:55:11.030613> Lenta Signal close long, stoploss=68900.0 TotalVal=0.005 pos:0.005 EntrPrice=69400.0 Stk:10 StkImp:2 Lnt:1 Prg:0 Bid: 69450.0 Ask:  69450.1
+11:55:12.173669> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=3.58875;Price=69448.40;Slippage=69448.4;Execution=1142.066 ms;
+11:55:12.174670> Move:0 Stk:10 Lnt:1 Prg:0 Fon:0 Bid: 69448.3 Ask:  69448.4
+11:55:12.175668> Close Main Buy, ticketCustom = 4 ticket = 3688304626
+13:04:40.180013> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+13:04:41.811106> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+13:04:42.081122> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+13:04:44.321250> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+13:04:44.585266> Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+13:04:45.230302> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+13:04:45.230302> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+13:04:46.298361> WebSocket connected! Start @depth [Future] process...

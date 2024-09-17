@@ -1,0 +1,27 @@
+19:35:38.731315> WebSocket connected! Start Partial @depth20 [Future] process...
+19:35:38.748312> WebSocket connected! Start Partial @depth20 [SPOT] process...
+19:35:38.772314> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:35:38.814316> WebSocket connected! Start @depth [Future] process...
+19:35:38.939323> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.15097346 USDT
+19:35:38.980328> WebSocket connected! Start Partial @depth20 [SPOT] process...
+19:35:39.570187> WebSocket connected! Start Partial @depth20 [Future] process...
+19:35:39.577184> WebSocket connected! Start @depth [Future] process...
+19:35:39.580186> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:35:40.099842> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 170.83820408 USDT
+22:23:07.390358> Try Open SellLimit, Ask: 59769.40 Bid:59769.30
+22:23:07.391357> Order Signal open short, OrdZig=1 Order=2222 StepByStepDN:0 Stk:10 StkImp:1 Lnt:1 Prg:0 Natiag:2 Bid: 59769.30 Ask:  59769.40
+22:23:07.666375> [1Leg]: Sell OK BTCUSDT at 0.00;Price=0.00;Slippage=59769.4;Execution=270.016 ms;
+22:23:07.667377> Placed Main SellLimit, ticketCustom = 1 ticket = 392490311894 LastSellPrice=59769.40
+22:23:13.000553> Try place lock BuyLimit, Bid: 59774.70 Ask:  59774.80 wantPrice:59565.0 EntrPrice:59765.0
+22:23:14.081158> [1Leg]: Buy OK BTCUSDT at 59565.00;Price=59565.00;Slippage=206.5;Execution=1080.604 ms;
+22:23:14.081158>  
+22:23:14.082157> Placed lock BuyLimit, ticketCustom= 2, ticket= 392490311894 
+22:27:47.659356> Try Modify Lock Buy order for close at now, 
+22:27:47.659356> close short, modify for take min profit, TotalVal=0.002 pos:-0.002 EntrPrice=59765.0 Stk:20 Lnt:2 Prg:0 Bid: 59653.00 Ask:  59653.10
+22:27:47.913370> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=59648.00;execution=252.014 ms;
+22:27:47.914370> Modify BuyLimit (1Leg) for Close at now
+22:27:49.690385> Try Modify Lock Buy order for close at now, 
+22:27:49.690385> close short, modify for take min profit, TotalVal=0.002 pos:-0.002 EntrPrice=59765.0 Stk:20 Lnt:2 Prg:0 Bid: 59655.90 Ask:  59656.00
+22:27:50.056227> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:27:50.056227> [1Leg]: Buy failed BTCUSDT;price=59656.00
+22:27:50.057227> srabotalo

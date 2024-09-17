@@ -1,0 +1,215 @@
+08:39:54.922411> WebSocket connected! Start @depth [Future] process...
+08:39:54.922411> WebSocket connected! Start Partial @depth20 [Future] process...
+08:39:54.928419> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+08:39:54.947418> WebSocket connected! Start Partial @depth20 [Future] process...
+08:39:55.873590> WebSocket connected! Start Partial @depth20 [Future] process...
+08:39:55.879588> WebSocket connected! Start @depth [Future] process...
+08:39:55.904589> WebSocket connected! Start Partial @depth20 [Future] process...
+08:39:55.913591> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+08:39:56.332614> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 87.51624045 USDT
+09:13:29.969248> Try Open BuyLimit, Bid: 57391.0 Ask:  57391.1
+09:13:29.969248> Order Signal open long, OrdStep=10 Order=222 StepByStepUP:3 Stk:20 StkImp:2 Lnt:1 Prg:0 Tide:20 Natiag:2 Bid: 57391.0 Ask:  57391.1
+09:13:30.238263> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57391.1;Execution=265.013 ms;
+09:13:30.239263> Placed Main BuyLimit, ticketCustom = 1 ticket= 4653478387 LastBuyPrice=57391.0
+09:24:06.352215> Try Close Buy, Ask: 57470.4 Bid:57470.3 
+09:24:06.362218> Order Signal close long, OrdStep=10 Order=1 stoploss=57271.6 TotalVal=0.010 pos:0.010 EntrPrice=57391.6 Stk:10 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57470.3 Ask:  57470.4
+09:24:06.614230> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57460.7;Execution=251.014 ms;
+09:24:06.620230> Close Main Buy, ticketCustom = 2 ticket = 4653478387
+09:27:28.270678> Try Open SellLimit, Ask: 57575.9 Bid:57575.8
+09:27:28.280677> Order Signal open short, OrdStep=10 Order=1 StepByStepDN:0 Stk:10 StkImp:2 Lnt:1 Prg:0 Natiag:1 Bid: 57575.8 Ask:  57575.9
+09:27:28.537689> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57587.7;Execution=256.013 ms;
+09:27:28.538691> Placed Main SellLimit, ticketCustom = 3 ticket = 4653866861 LastSellPrice=57575.9
+09:31:52.456981> Try Close Sell, Bid: 57721.9 Ask:  57722.0
+09:31:52.457981> Stop Signal close short, stoploss=57710.5 TotalVal=0.010 pos:-0.010 EntrPrice=57590.5 Stk:20 Lnt:2 Prg:0 Bid: 57721.9 Ask:  57722.0
+09:31:52.706600> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57722.0;Execution=248.619 ms;
+09:31:52.706600> Close Main Sell ticketCustom = 4 ticket= 4653866861
+09:40:05.928995> Try Open SellLimit, Ask: 57549.8 Bid:57549.7
+09:40:05.929994> Order Signal open short, OrdStep=1 Order=1 StepByStepDN:3 Stk:10 StkImp:2 Lnt:1 Prg:0 Natiag:0 Bid: 57549.7 Ask:  57549.8
+09:40:06.179009> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57547.0;Execution=249.015 ms;
+09:40:06.179009> Placed Main SellLimit, ticketCustom = 5 ticket = 4654333259 LastSellPrice=57549.8
+09:50:05.976595> Try Close Sell, Bid: 57422.7 Ask:  57422.8
+09:50:05.977595> Order Signal close short, OrdStep=1 Order=1111 stoploss=57666.53 TotalVal=0.010 pos:-0.010 EntrPrice=57546.53 Stk:10 StkImp:2 Lnt:1 Prg:0 Natiag:2 Bid: 57422.7 Ask:  57422.8
+09:50:06.255612> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57449.2;Execution=278.018 ms;
+09:50:06.256613> Close Main Sell ticketCustom = 6 ticket= 4654333259
+10:18:34.643018> Try Open BuyLimit, Bid: 57182.4 Ask:  57182.5
+10:18:34.643018> Order Signal open long, OrdStep=20 Order=2 StepByStepUP:0 Stk:1 StkImp:2 Lnt:1 Prg:0 Tide:20 Natiag:2 Bid: 57182.4 Ask:  57182.5
+10:18:34.913032> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57193.4;Execution=269.016 ms;
+10:18:34.913032> Placed Main BuyLimit, ticketCustom = 7 ticket= 4655210538 LastBuyPrice=57182.4
+10:22:05.533917> Try place lock SellLimit, Bid: 57318.2 Ask:57318.3 wantPrice:57323.3  EntrPrice:57193.4
+10:22:05.804609> [1Leg]: Sell OK BTCUSDC at 57323.30;Price=57323.3;Slippage=-5.0;Execution=270.693 ms;
+10:22:05.805601> Placed lock SellLimit, ticketCustom= 8, ticket= 4655210538 
+10:22:05.805601> TakeProfit Signal close long, stoploss=57073.4 TotalVal=0.010 pos:0.010 EntrPrice=57193.4 Stk:20 Lnt:2 Prg:0 Bid: 57318.2 Ask:  57318.3
+10:22:05.806601> Try Delete lock Sell order,  ticket = 4655210538 ticketCustom = 8
+10:22:05.806601> TakeProfit Signal close long, stoploss=57073.4 TotalVal=0.010 pos:0.010 EntrPrice=57193.4 Stk:20 Lnt:2 Prg:0 Bid: 57318.2 Ask:  57318.3
+10:22:06.085615> OrderId: [4655297894]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=278.014 ms;
+10:22:06.085615> Delete lock SellLimit (1Leg)
+10:23:44.137074> Try place lock SellLimit, Bid: 57328.0 Ask:57328.1 wantPrice:57333.1  EntrPrice:57193.4
+10:23:45.152298> [1Leg]: Sell OK BTCUSDC at 57333.10;Price=57333.1;Slippage=-10.8;Execution=1015.224 ms;
+10:23:45.157299> Placed lock SellLimit, ticketCustom= 9, ticket= 4655347147 
+10:23:45.157299> TakeProfit Signal close long, stoploss=57073.4 TotalVal=0.010 pos:0.010 EntrPrice=57193.4 Stk:2 Lnt:2 Prg:0 Bid: 57328.0 Ask:  57328.1
+10:23:53.671639> Try Modify Lock Sell order, 
+10:23:53.945225> [1Leg]: SELL OK MODIFY BTCUSDC at 0.010 lot;price=57320.40;execution=269.592 ms;
+10:23:53.948214> Modify Lock SellLimit (1Leg)
+10:49:24.079760> Try Delete lock Sell order,  ticket = 4655347147 ticketCustom = 9
+10:49:24.079760> Order Signal close long, OrdStep=20 Order=2 stoploss=57073.4 TotalVal=0.010 pos:0.010 EntrPrice=57193.4 Stk:10 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57173.9 Ask:  57174.0
+10:49:24.326769> OrderId: [4655347147]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=246.022 ms;
+10:49:24.327761> Delete lock SellLimit (1Leg)
+10:49:24.328762> Try Close Buy, Ask: 57174.0 Bid:57173.9 
+10:49:24.328762> Order Signal close long, OrdStep=20 Order=2 stoploss=57073.4 TotalVal=0.010 pos:0.010 EntrPrice=57193.4 Stk:10 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57173.9 Ask:  57174.0
+10:49:24.577964> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57174.0;Execution=249.201 ms;
+10:49:24.578979> Close Main Buy, ticketCustom = 10 ticket = 4655347147
+10:50:22.667512> Try Open BuyLimit, Bid: 57117.3 Ask:  57117.4
+10:50:22.671511> Order Signal open long, OrdStep=20 Order=2 StepByStepUP:0 Stk:1 StkImp:2 Lnt:2 Prg:0 Tide:20 Natiag:2 Bid: 57117.3 Ask:  57117.4
+10:50:22.921539> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57119.1;Execution=250.028 ms;
+10:50:22.922526> Placed Main BuyLimit, ticketCustom = 11 ticket= 4655347147 LastBuyPrice=57117.3
+10:56:59.741524> Try Close Buy, Ask: 56994.1 Bid:56994.0 
+10:56:59.741524> Stop Signal close long, stoploss=56999.1 TotalVal=0.010 pos:0.010 EntrPrice=57119.1 Stk:2 Lnt:1 Prg:0 Bid: 56994.0 Ask:  56994.1
+10:56:59.991601> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=56994.1;Execution=249.033 ms;
+10:56:59.992538> Close Main Buy, ticketCustom = 12 ticket = 4656057700
+11:02:05.863008> Try Open SellLimit, Ask: 57155.3 Bid:57155.2
+11:02:05.864010> Order Signal open short, OrdStep=20 Order=2 StepByStepDN:0 Stk:20 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57155.2 Ask:  57155.3
+11:02:06.109023> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57143.6;Execution=244.014 ms;
+11:02:06.110026> Placed Main SellLimit, ticketCustom = 13 ticket = 4656057700 LastSellPrice=57155.3
+11:02:06.110026> Try Delete main Sell order, 
+11:02:06.111022> Order Signal open short, OrdStep=20 Order=2 StepByStepDN:0 Stk:20 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57155.2 Ask:  57155.3
+11:02:06.478044> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+11:02:06.479044> Error Delete main SellLimit, ticketCustom=13 ticket=4656178133
+11:07:32.697271> Try place lock BuyLimit, Bid: 57014.2 Ask:  57014.3 wantPrice:57009.2 EntrPrice:57143.18
+11:07:32.940303> [1Leg]: Buy OK BTCUSDC at 57009.20;Price=57009.2;Slippage=8.3;Execution=242.033 ms;
+11:07:32.941284> TakeProfit Signal close short, stoploss=57263.18 TotalVal=0.010 pos:-0.010 EntrPrice=57143.18 Stk:10 Lnt:1 Prg:0 Bid: 57014.2 Ask:  57014.3
+11:07:32.941284> Placed lock BuyLimit, ticketCustom= 14, ticket= 4656057700 
+11:07:32.941284> Try Delete lock Buy order, ticket = 4656057700 ticketCustom = 14
+11:07:32.942285> TakeProfit Signal close short, stoploss=57263.18 TotalVal=0.010 pos:-0.010 EntrPrice=57143.18 Stk:10 Lnt:1 Prg:0 Bid: 57014.2 Ask:  57014.3
+11:07:33.197631> OrderId: [4656309228]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=254.348 ms;
+11:07:33.197631> Delete lock BuyLimit (1Leg)
+11:07:33.199633> Try place lock BuyLimit, Bid: 57017.4 Ask:  57017.5 wantPrice:57012.4 EntrPrice:57143.18
+11:07:33.442651> [1Leg]: Buy OK BTCUSDC at 57012.40;Price=57012.4;Slippage=6.8;Execution=243.018 ms;
+11:07:33.443644> TakeProfit Signal close short, stoploss=57263.18 TotalVal=0.010 pos:-0.010 EntrPrice=57143.18 Stk:10 Lnt:1 Prg:0 Bid: 57017.4 Ask:  57017.5
+11:07:33.443644> Placed lock BuyLimit, ticketCustom= 15, ticket= 4656309408 
+11:08:30.454886> Try Open BuyLimit, Bid: 57021.6 Ask:  57021.7
+11:08:30.455884> Order Signal open long, OrdStep=20 Order=2 StepByStepUP:0 Stk:10 StkImp:2 Lnt:1 Prg:0 Tide:10 Natiag:2 Bid: 57021.6 Ask:  57021.7
+11:08:30.701933> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57021.7;Execution=246.049 ms;
+11:08:30.702940> Placed Main BuyLimit, ticketCustom = 16 ticket= 4656309408 LastBuyPrice=57021.6
+11:10:22.971079>  DevSELL (-): -67.005 avgGapSell:-3.995 
+11:10:22.971079> Try place lock SellLimit, Bid: 57145.0 Ask:57166.6 wantPrice:57171.6  EntrPrice:57021.6
+11:10:23.575589> [1Leg]: Sell OK BTCUSDC at 57171.60;Price=57171.6;Slippage=35.6;Execution=603.511 ms;
+11:10:23.576586> Placed lock SellLimit, ticketCustom= 17, ticket= 4656309408 
+11:10:23.576586> TakeProfit Signal close long, stoploss=56901.6 TotalVal=0.010 pos:0.010 EntrPrice=57021.6 Stk:2 Lnt:2 Prg:0 Bid: 57145.0 Ask:  57166.6
+11:10:23.577587> Try Delete lock Sell order,  ticket = 4656309408 ticketCustom = 17
+11:10:23.577587> TakeProfit Signal close long, stoploss=56901.6 TotalVal=0.010 pos:0.010 EntrPrice=57021.6 Stk:2 Lnt:2 Prg:0 Bid: 57145.0 Ask:  57166.6
+11:10:23.962613> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+11:11:20.486574>  DevBUY (+): 70.03875 avgGapBuy:-8.33875 
+11:11:21.291409> Try Open SellLimit, Ask: 57296.2 Bid:57295.8
+11:11:21.292410> Order Signal open short, OrdStep=20 Order=1111 StepByStepDN:0 Stk:222 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57295.8 Ask:  57296.2
+11:11:21.660480> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57289.3;Execution=366.021 ms;
+11:11:21.660480> Placed Main SellLimit, ticketCustom = 18 ticket = 4656413215 LastSellPrice=57296.2
+11:16:47.044841> Try Close Sell, Bid: 57419.8 Ask:  57420.3
+11:16:47.045842> Stop Signal close short, stoploss=57409.2 TotalVal=0.010 pos:-0.010 EntrPrice=57289.2 Stk:2 Lnt:2 Prg:0 Bid: 57419.8 Ask:  57420.3
+11:16:47.289855> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57420.3;Execution=243.013 ms;
+11:16:47.294853> Close Main Sell ticketCustom = 19 ticket= 4656413215
+11:18:45.313631> Try Open SellLimit, Ask: 57376.8 Bid:57376.7
+11:18:45.314622> Order Signal open short, OrdStep=20 Order=1 StepByStepDN:0 Stk:222 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57376.7 Ask:  57376.8
+11:18:45.560639> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57376.8;Execution=246.017 ms;
+11:18:45.561637> Placed Main SellLimit, ticketCustom = 20 ticket = 4656593429 LastSellPrice=57376.8
+11:21:23.565974> Try Close Sell, Bid: 57499.8 Ask:  57501.6
+11:21:23.565974> Stop Signal close short, stoploss=57491.5 TotalVal=0.010 pos:-0.010 EntrPrice=57371.5 Stk:222 Lnt:2 Prg:0 Bid: 57499.8 Ask:  57501.6
+11:21:23.970008> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57501.6;Execution=404.034 ms;
+11:21:23.970999> Close Main Sell ticketCustom = 21 ticket= 4656593429
+11:23:16.924835> Try Open SellLimit, Ask: 57538.9 Bid:57538.8
+11:23:16.924835> Order Signal open short, OrdStep=20 Order=1 StepByStepDN:0 Stk:10 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57538.8 Ask:  57538.9
+11:23:17.171847> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57535.4;Execution=246.024 ms;
+11:23:17.171847> Placed Main SellLimit, ticketCustom = 22 ticket = 4656725113 LastSellPrice=57538.9
+11:24:52.761025> Try Close Sell, Bid: 57457.6 Ask:  57457.7
+11:24:52.761025> Order Signal close short, OrdStep=2 Order=1 stoploss=57655.03 TotalVal=0.010 pos:-0.010 EntrPrice=57535.03 Stk:20 StkImp:2 Lnt:2 Prg:0 Natiag:0 Bid: 57457.6 Ask:  57457.7
+11:24:53.005040> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57462.9;Execution=243.024 ms;
+11:24:53.006033> Close Main Sell ticketCustom = 23 ticket= 4656725113
+11:24:53.009032> Try Open BuyLimit, Bid: 57462.8 Ask:  57462.9
+11:24:53.009032> Order Signal open long, OrdStep=2 Order=1 StepByStepUP:4 Stk:20 StkImp:2 Lnt:0 Prg:0 Tide:20 Natiag:0 Bid: 57462.8 Ask:  57462.9
+11:24:53.252047> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57462.9;Execution=243.014 ms;
+11:24:53.253046> Placed Main BuyLimit, ticketCustom = 24 ticket= 4656777770 LastBuyPrice=57462.8
+11:25:57.018948> Try Close Buy, Ask: 57490.0 Bid:57489.9 
+11:25:57.019939> Order Signal close long, OrdStep=2 Order=1 stoploss=57342.9 TotalVal=0.010 pos:0.010 EntrPrice=57462.9 Stk:20 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57489.9 Ask:  57490.0
+11:25:57.264953> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57480.1;Execution=245.014 ms;
+11:25:57.264953> Close Main Buy, ticketCustom = 25 ticket = 4656777770
+11:30:12.792058> Try Open SellLimit, Ask: 57578.4 Bid:57576.5
+11:30:12.792058> Order Signal open short, OrdStep=2 Order=1 StepByStepDN:0 Stk:2 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57576.5 Ask:  57578.4
+11:30:13.056076> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57584.0;Execution=263.018 ms;
+11:30:13.057077> Placed Main SellLimit, ticketCustom = 26 ticket = 4656894588 LastSellPrice=57578.4
+11:30:13.057077> Try Delete main Sell order, 
+11:30:13.057077> Order Signal open short, OrdStep=2 Order=1 StepByStepDN:0 Stk:2 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57576.5 Ask:  57578.4
+11:30:13.441097> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+11:30:13.442097> Error Delete main SellLimit, ticketCustom=26 ticket=4656894588
+11:31:42.782276> Try Close Sell, Bid: 57707.4 Ask:  57707.5
+11:31:42.782276> Stop Signal close short, stoploss=57699.4 TotalVal=0.010 pos:-0.010 EntrPrice=57579.4 Stk:222 Lnt:2 Prg:0 Bid: 57707.4 Ask:  57707.5
+11:31:43.204285> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57707.5;Execution=421.022 ms;
+11:31:43.204285> Close Main Sell ticketCustom = 27 ticket= 4656894588
+11:32:26.312994> Try Open SellLimit, Ask: 57659.9 Bid:57659.8
+11:32:26.312994> Order Signal open short, OrdStep=2 Order=1 StepByStepDN:0 Stk:222 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 57659.8 Ask:  57659.9
+11:32:26.583010> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57654.7;Execution=270.016 ms;
+11:32:26.584009> Placed Main SellLimit, ticketCustom = 28 ticket = 4657002510 LastSellPrice=57659.9
+11:36:31.455068> Try Close Sell, Bid: 57669.9 Ask:  57670.0
+11:36:31.456068> Order Signal close short, OrdStep=2 Order=1 stoploss=57775.0 TotalVal=0.010 pos:-0.010 EntrPrice=57655.0 Stk:20 StkImp:2 Lnt:1 Prg:0 Natiag:2 Bid: 57669.9 Ask:  57670.0
+11:36:31.774094> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57670.0;Execution=318.026 ms;
+11:36:31.776099> Close Main Sell ticketCustom = 29 ticket= 4657002510
+11:36:31.780095> Try Open BuyLimit, Bid: 57669.9 Ask:  57670.0
+11:36:31.781099> Order Signal open long, OrdStep=2 Order=1 StepByStepUP:0 Stk:20 StkImp:2 Lnt:0 Prg:0 Tide:10 Natiag:2 Bid: 57669.9 Ask:  57670.0
+11:36:32.024107> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57700.0;Execution=243.008 ms;
+11:36:32.025102> Placed Main BuyLimit, ticketCustom = 30 ticket= 4657133619 LastBuyPrice=57669.9
+11:38:37.727146>  DevBUY (-): 100.1475 avgGapBuy:-10.1475 
+11:43:51.954777> Try place lock SellLimit, Bid: 57829.2 Ask:57829.3 wantPrice:57834.3  EntrPrice:57700.0
+11:43:52.268797> [1Leg]: Sell OK BTCUSDC at 57834.30;Price=57834.3;Slippage=-10.2;Execution=312.021 ms;
+11:43:52.269795> Placed lock SellLimit, ticketCustom= 31, ticket= 4657133619 
+11:43:52.270796> TakeProfit Signal close long, stoploss=57580.0 TotalVal=0.010 pos:0.010 EntrPrice=57700.0 Stk:20 Lnt:2 Prg:0 Bid: 57829.2 Ask:  57829.3
+11:43:52.270796> Try Delete lock Sell order,  ticket = 4657133619 ticketCustom = 31
+11:43:52.271795> TakeProfit Signal close long, stoploss=57580.0 TotalVal=0.010 pos:0.010 EntrPrice=57700.0 Stk:20 Lnt:2 Prg:0 Bid: 57829.2 Ask:  57829.3
+11:43:52.709820> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+11:45:14.596429> Try Open BuyLimit, Bid: 57704.6 Ask:  57704.7
+11:45:14.602431> Order Signal open long, OrdStep=2 Order=1 StepByStepUP:3 Stk:2 StkImp:2 Lnt:1 Prg:0 Tide:10 Natiag:0 Bid: 57704.6 Ask:  57704.7
+11:45:14.864461> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57704.7;Execution=261.032 ms;
+11:45:14.865444> Placed Main BuyLimit, ticketCustom = 32 ticket= 4657442431 LastBuyPrice=57704.6
+11:47:59.965681>  DevBUY (+): 81.03 avgGapBuy:-12.43 
+11:57:25.716156> Try Close Buy, Ask: 57609.1 Bid:57609.0 
+11:57:25.717157> Stop Signal close long, stoploss=57614.1 TotalVal=0.010 pos:0.010 EntrPrice=57714.1 Stk:10 Lnt:2 Prg:0 Bid: 57609.0 Ask:  57609.1
+11:57:25.991173> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57609.1;Execution=274.015 ms;
+11:57:25.993173> Close Main Buy, ticketCustom = 33 ticket = 4657442431
+12:00:08.816439> Try Open BuyLimit, Bid: 57611.3 Ask:  57611.4
+12:00:08.817439> Order Signal open long, OrdStep=2 Order=2 StepByStepUP:0 Stk:20 StkImp:2 Lnt:1 Prg:0 Tide:20 Natiag:2 Bid: 57611.3 Ask:  57611.4
+12:00:09.093455> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57611.4;Execution=276.016 ms;
+12:00:09.094456> Placed Main BuyLimit, ticketCustom = 34 ticket= 4657872114 LastBuyPrice=57611.3
+12:11:23.475239> Try Close Buy, Ask: 57511.8 Bid:57510.0 
+12:11:24.774314> Stop Signal close long, stoploss=57513.2 TotalVal=0.010 pos:0.010 EntrPrice=57613.2 Stk:20 Lnt:1 Prg:0 Bid: 57510.0 Ask:  57511.8
+12:11:26.116390> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57516.2;Execution=1342.077 ms;
+12:11:26.117390> Close Main Buy, ticketCustom = 35 ticket = 4657872114
+12:13:44.808100> Try Open BuyLimit, Bid: 57517.3 Ask:  57517.4
+12:13:44.809099> Order Signal open long, OrdStep=20 Order=2 StepByStepUP:1 Stk:2 StkImp:2 Lnt:2 Prg:0 Tide:10 Natiag:2 Bid: 57517.3 Ask:  57517.4
+12:13:45.068128> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57517.4;Execution=258.027 ms;
+12:13:45.069116> Placed Main BuyLimit, ticketCustom = 36 ticket= 4658143818 LastBuyPrice=57517.3
+13:10:59.018359> Try Close Buy, Ask: 57567.9 Bid:57567.8 
+13:10:59.019361> Order Signal close long, OrdStep=1 Order=1 stoploss=57436.5 TotalVal=0.010 pos:0.010 EntrPrice=57536.5 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 57567.8 Ask:  57567.9
+13:10:59.773783> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57567.9;Execution=754.423 ms;
+13:10:59.774767> Close Main Buy, ticketCustom = 37 ticket = 4658143818
+13:10:59.775767> Try Open SellLimit, Ask: 57567.9 Bid:57567.8
+13:10:59.775767> Order Signal open short, OrdStep=1 Order=1 StepByStepDN:3 Stk:10 StkImp:1 Lnt:0 Prg:0 Natiag:0 Bid: 57567.8 Ask:  57567.9
+13:11:00.020781> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57567.9;Execution=245.014 ms;
+13:11:00.021783> Placed Main SellLimit, ticketCustom = 38 ticket = 4659101302 LastSellPrice=57567.9
+13:17:34.047193> Try Close Sell, Bid: 57444.9 Ask:  57445.0
+13:17:34.047193> Order Signal close short, OrdStep=1 Order=1 stoploss=57667.8 TotalVal=0.010 pos:-0.010 EntrPrice=57567.8 Stk:20 StkImp:1 Lnt:1 Prg:0 Natiag:2 Bid: 57444.9 Ask:  57445.0
+13:17:34.303215> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57446.4;Execution=256.022 ms;
+13:17:34.304212> Close Main Sell ticketCustom = 39 ticket= 4659101302
+13:26:42.807967> Try Open BuyLimit, Bid: 57448.6 Ask:  57448.7
+13:26:42.807967> Order Signal open long, OrdStep=20 Order=2 StepByStepUP:0 Stk:2 StkImp:2 Lnt:1 Prg:0 Tide:20 Natiag:2 Bid: 57448.6 Ask:  57448.7
+13:26:43.088981> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57449.0;Execution=280.015 ms;
+13:26:43.088981> Placed Main BuyLimit, ticketCustom = 40 ticket= 4659459517 LastBuyPrice=57448.6
+13:37:44.016443>  DevBUY (-): 79.48875 avgGapBuy:7.41125 
+13:38:14.392304> Try Close Buy, Ask: 57347.4 Bid:57347.3 
+13:38:14.393306> Stop Signal close long, stoploss=57349.0 TotalVal=0.010 pos:0.010 EntrPrice=57449.0 Stk:1 Lnt:2 Prg:0 Bid: 57347.3 Ask:  57347.4
+13:38:14.647321> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57347.4;Execution=253.018 ms;
+13:38:14.647321> Close Main Buy, ticketCustom = 41 ticket = 4659459517
+14:06:31.912372> Try Open BuyLimit, Bid: 57359.3 Ask:  57359.4
+14:06:31.913372> Order Signal open long, OrdStep=2 Order=2 StepByStepUP:3 Stk:20 StkImp:2 Lnt:1 Prg:0 Tide:20 Natiag:0 Bid: 57359.3 Ask:  57359.4
+14:06:41.446920> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1021 Message: Timestamp for this request is outside of the recvWindow.
+14:06:41.485921> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.55125;Price=57362.40
+14:10:28.827956> Try Open BuyLimit, Bid: 57232.7 Ask:  57232.8
+14:10:28.827956> Order Signal open long, OrdStep=2 Order=2 StepByStepUP:0 Stk:10 StkImp:2 Lnt:2 Prg:0 Tide:20 Natiag:2 Bid: 57232.7 Ask:  57232.8
+14:10:33.144205> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57242.7;Execution=4315.247 ms;
+14:10:33.146203> Placed Main BuyLimit, ticketCustom = 42 ticket= 4660187641 LastBuyPrice=57232.7

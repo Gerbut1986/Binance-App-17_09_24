@@ -1,0 +1,90 @@
+09:33:22.464242> WebSocket connected! Start @depth [Future] process...
+09:33:22.469239> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:33:22.473242> WebSocket connected! Start Partial @depth20 [Future] process...
+09:33:22.475241> WebSocket connected! Start Partial @depth20 [Future] process...
+09:33:23.658403> WebSocket connected! Start @depth [Future] process...
+09:33:23.728316> WebSocket connected! Start Partial @depth20 [Future] process...
+09:33:23.809321> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:33:23.810318> WebSocket connected! Start Partial @depth20 [Future] process...
+09:33:24.446356> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 244.86241981 USDT
+09:34:41.420050> Try Open Sell, Ask: 66254.4 Bid: 66254.3
+09:34:41.420050> Step Signal open short, StepByStepDN:3 Stk:10 StkImp:0 Lnt:2 Prg:0 Bid: 66254.3 Ask:  66254.4
+09:34:42.198580> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.351851851851851851851851852;Price=66250.10;Slippage=66250.1;Execution=774.525 ms;
+09:34:42.199580> Move:0 Stk:10 Lnt:2 Prg:0 Fon:0 Bid: 66250.0 Ask:  66250.1
+09:34:42.199580> Placed Main Sell, ticketCustom = 1 ticket = 3925847622 LastSellPrice=66254.3
+09:36:30.270752> Try Close Sell, TotalVal=0.002 pos-0.002 Bid: 66193.8 Ask:  66193.9, stoploss=66294.3
+09:36:30.271763> TakeProfit Signal close short, stoploss=66294.3 TotalVal=0.002 pos:-0.002 EntrPrice=66254.3 Stk:1 Lnt:0 Prg:0 Bid: 66193.8 Ask:  66193.9
+09:36:31.276925> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=2.005;Price=66193.90;Slippage=66193.9;Execution=1004.158 ms;
+09:36:31.277925> Move:0 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 66193.8 Ask:  66193.9
+09:36:31.277925> Close Main Sell ticketCustom = 2 ticket= 3925847622
+09:37:10.863664> Try Open Sell, Ask: 66183.9 Bid: 66183.8
+09:37:10.864664> Step Signal open short, StepByStepDN:3 Stk:1 StkImp:1 Lnt:0 Prg:0 Bid: 66183.8 Ask:  66183.9
+09:37:11.121819> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=4.7375;Price=66181.40;Slippage=66181.4;Execution=257.155 ms;
+09:37:11.122811> Move:0 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 66181.3 Ask:  66181.4
+09:37:11.122811> Placed Main Sell, ticketCustom = 3 ticket = 3925893292 LastSellPrice=66183.8
+09:38:23.495698> Try Close Sell, TotalVal=0.002 pos-0.002 Bid: 66192.4 Ask:  66192.5, stoploss=66223.8
+09:38:23.496698> Lenta Signal close short, stoploss=66223.8 TotalVal=0.002 pos:-0.002 EntrPrice=66183.8 Stk:111 StkImp:1 Lnt:2 Prg:0 Bid: 66192.4 Ask:  66192.5
+09:38:24.234926> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=4.4075;Price=66195.40;Slippage=66195.4;Execution=731.227 ms;
+09:38:24.235931> Move:1 Stk:111 Lnt:2 Prg:0 Fon:1 Bid: 66195.3 Ask:  66195.4
+09:38:24.235931> Close Main Sell ticketCustom = 4 ticket= 3925893292
+09:39:23.998536> Try Open Buy, Bid: 66202.2 Ask:  66202.3
+09:39:23.998536> Lenta Signal open long, OpenLong:True Stk:20 StkImp:1 Lnt:0 Prg:0 Tide:20 Bid: 66202.2 Ask:  66202.3
+09:39:23.999534> Support: 66202.2 VolS:3.543 Resistence: 66206 VolR:0.145
+09:39:24.340570> BinanceFuture - Vxxv1AWf[USD_M] The underlying connection was closed: A connection that was expected to be kept alive was closed by the server.
+09:39:24.342554> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.13;Price=66202.30
+09:39:24.369555> Try Open Buy, Bid: 66202.2 Ask:  66202.3
+09:39:24.369555> Lenta Signal open long, OpenLong:True Stk:20 StkImp:1 Lnt:0 Prg:0 Tide:20 Bid: 66202.2 Ask:  66202.3
+09:39:24.370555> Support: 66202.2 VolS:3.543 Resistence: 66206 VolR:0.145
+09:39:25.352541> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-1.13;Price=66202.30;Slippage=66202.3;Execution=980.985 ms;
+09:39:25.352541> Move:1 Stk:20 Lnt:0 Prg:0 Bid: 66202.2 Ask:  66202.3
+09:39:25.353540> Placed Main Buy, ticketCustom = 5 ticket= 3925934688 LastBuyPrice=66202.3
+09:42:12.398136> Try Close Buy, TotalVal=0.002 pos0.002 Bid: 66186.0 Ask: 66186.1, stoploss=66162.3
+09:42:12.399135> Step Signal close long, stoploss=66162.3 TotalVal=0.002 pos:0.002 EntrPrice=66202.3 Stk:1 StkImp:1 Lnt:0 Prg:0 Bid: 66186.0 Ask:  66186.1
+09:42:13.488284> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=6.58;Price=66186.10;Slippage=66186.1;Execution=1089.148 ms;
+09:42:13.489286> Move:1 Stk:1 Lnt:0 Prg:0 Fon:1 Bid: 66186.0 Ask:  66186.1
+09:42:13.489286> Close Main Buy, ticketCustom = 6 ticket = 3925934688
+09:43:09.177755> Try Open Buy, Bid: 66196.2 Ask:  66196.3
+09:43:09.178755> Lenta Signal open long, OpenLong:True Stk:1 StkImp:1 Lnt:2 Prg:0 Tide:20 Bid: 66196.2 Ask:  66196.3
+09:43:09.178755> Support: 66196.2 VolS:2.217 Resistence: 66196.3 VolR:0.631
+09:43:09.440778> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=9.77;Price=66196.30;Slippage=66196.3;Execution=262.023 ms;
+09:43:09.441771> Move:1 Stk:1 Lnt:2 Prg:0 Bid: 66196.2 Ask:  66196.3
+09:43:09.444771> Placed Main Buy, ticketCustom = 7 ticket= 3925976641 LastBuyPrice=66196.3
+09:44:27.371425> Try Close Buy, TotalVal=0.002 pos0.002 Bid: 66192.0 Ask: 66192.1, stoploss=66156.3
+09:44:27.374425> Step Signal close long, stoploss=66156.3 TotalVal=0.002 pos:0.002 EntrPrice=66196.3 Stk:1 StkImp:1 Lnt:0 Prg:0 Bid: 66192.0 Ask:  66192.1
+09:44:28.399026> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.835;Price=66192.10;Slippage=66192.1;Execution=1024.601 ms;
+09:44:28.400027> Move:1 Stk:1 Lnt:0 Prg:0 Fon:1 Bid: 66192.0 Ask:  66192.1
+09:44:28.400027> Close Main Buy, ticketCustom = 8 ticket = 3925976641
+09:44:28.402018> Try Open Sell, Ask: 66192.1 Bid: 66192.0
+09:44:28.402018> Step Signal open short, StepByStepDN:3 Stk:1 StkImp:1 Lnt:0 Prg:0 Bid: 66192.0 Ask:  66192.1
+09:44:28.663032> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.835;Price=66192.10;Slippage=66192.1;Execution=261.014 ms;
+09:44:28.663032> Move:1 Stk:1 Lnt:0 Prg:0 Fon:1 Bid: 66192.0 Ask:  66192.1
+09:44:28.663032> Placed Main Sell, ticketCustom = 9 ticket = 3925993391 LastSellPrice=66192.0
+09:51:45.257363> Try Close Sell, TotalVal=0.002 pos-0.002 Bid: 66136.0 Ask:  66136.1, stoploss=66232.0
+09:51:45.258363> Lenta Signal close short, stoploss=66232.0 TotalVal=0.002 pos:-0.002 EntrPrice=66192.0 Stk:111 StkImp:1 Lnt:2 Prg:0 Bid: 66136.0 Ask:  66136.1
+09:51:46.275374> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-4.395;Price=66143.80;Slippage=66143.8;Execution=1017.011 ms;
+09:51:46.276364> Move:1 Stk:20 Lnt:2 Prg:0 Fon:1 Bid: 66143.7 Ask:  66143.8
+09:51:46.277364> Close Main Sell ticketCustom = 10 ticket= 3925993391
+09:51:46.278433> Try Open Buy, Bid: 66143.7 Ask:  66143.8
+09:51:46.278433> Lenta Signal open long, OpenLong:True Stk:20 StkImp:1 Lnt:0 Prg:0 Tide:10 Bid: 66143.7 Ask:  66143.8
+09:51:46.278433> Support: 66143.7 VolS:2.346 Resistence: 66148.3 VolR:1.367
+09:51:46.530380> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-0.195;Price=66143.80;Slippage=66143.8;Execution=251.947 ms;
+09:51:46.530380> Move:1 Stk:20 Lnt:0 Prg:0 Bid: 66143.7 Ask:  66143.8
+09:51:46.531379> Placed Main Buy, ticketCustom = 11 ticket= 3926080604 LastBuyPrice=66143.8
+09:54:26.677425> Try Close Buy, TotalVal=0.002 pos0.002 Bid: 66088.0 Ask: 66088.1, stoploss=66103.8
+09:54:26.677425> Stop Signal close long, stoploss=66103.8 TotalVal=0.002 pos:0.002 EntrPrice=66143.8 Stk:10 Lnt:1 Prg:0 Bid: 66088.0 Ask:  66088.1
+09:54:27.774035> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-20.0375;Price=66087.60;Slippage=66087.6;Execution=1096.610 ms;
+09:54:27.775035> Move:1 Stk:10 Lnt:1 Prg:0 Fon:1 Bid: 66086.4 Ask:  66087.6
+09:54:27.775035> Close Main Buy, ticketCustom = 12 ticket = 3926080604
+09:54:54.612708> Try Open Buy, Bid: 66069.4 Ask:  66069.5
+09:54:54.612708> Lenta Signal open long, OpenLong:True Stk:20 StkImp:1 Lnt:1 Prg:0 Tide:10 Bid: 66069.4 Ask:  66069.5
+09:54:54.612708> Support: 66069.4 VolS:1.264 Resistence: 66072.6 VolR:1.159
+09:54:54.918726> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-0.03;Price=66069.50;Slippage=66069.5;Execution=306.018 ms;
+09:54:54.923726> Move:1 Stk:20 Lnt:1 Prg:0 Bid: 66069.4 Ask:  66069.5
+09:54:54.924726> Placed Main Buy, ticketCustom = 13 ticket= 3926135377 LastBuyPrice=66069.5
+10:54:23.791874> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+10:54:28.841162> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+10:54:28.847166> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+10:54:29.835218> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+10:56:42.429746> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+10:56:42.433748> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+10:56:43.425327> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...

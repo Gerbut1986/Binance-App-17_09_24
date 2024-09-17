@@ -1,0 +1,248 @@
+09:57:22.438482> WebSocket connected! Start @depth [Future] process...
+09:57:22.438482> WebSocket connected! Start @depth [Future] process...
+09:57:22.456484> WebSocket connected! Start Partial @depth20 [Future] process...
+09:57:22.503486> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:57:22.504487> WebSocket connected! Start Partial @depth20 [Future] process...
+09:57:22.538490> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:57:23.539703> WebSocket connected! Start Partial @depth20 [Future] process...
+09:57:23.547711> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:57:23.561703> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:57:23.562703> WebSocket connected! Start @depth [Future] process...
+09:57:23.564704> WebSocket connected! Start Partial @depth20 [Future] process...
+09:57:23.566712> WebSocket connected! Start @depth [Future] process...
+09:57:24.079627> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 357.90002594 USDT
+10:15:15.927863> Try Open BuyLimit, Bid: 67389.30 Ask:  67389.40
+10:15:15.927863> Order Signal open long, OrdZig=2 Order=0 StepByStepUP:1 Stk:2 StkImp:0 Lnt:2 Prg:0 Tide:20 Natiag:2 Bid: 67389.30 Ask:  67389.40
+10:15:16.229888> [1Leg]: Buy OK BTCUSDT at 0.00;Price=0.00;Slippage=67389.4;Execution=298.025 ms;
+10:15:16.229888> Placed Main BuyLimit, ticketCustom = 1 ticket= 380795473991 LastBuyPrice=67389.30
+10:15:21.000519> Try place lock SellLimit, Bid: 67389.30 Ask:67389.40 wantPrice:67414.40  EntrPrice:67389.4
+10:15:22.147064> [1Leg]: Sell OK BTCUSDT at 67414.40;Price=67414.40;Slippage=-25.0;Execution=1144.555 ms;
+10:15:22.147064> Placed lock SellLimit, ticketCustom= 2, ticket= 380795473991 
+10:15:22.148066>  
+10:17:11.963011> Try Modify Lock Sell order, 
+10:17:12.228218> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67425.00;execution=259.207 ms;
+10:17:12.228218> Modify Lock SellLimit (1Leg)
+10:17:16.265469> Try Modify Lock Sell order, 
+10:17:16.529503> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67439.80;execution=261.032 ms;
+10:17:16.529503> Modify Lock SellLimit (1Leg)
+10:46:55.594761> Try Modify Lock Sell order, 
+10:46:55.858777> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67450.20;execution=262.016 ms;
+10:46:55.859776> Modify Lock SellLimit (1Leg)
+10:47:20.718768> Try Modify Lock Sell order, 
+10:47:20.991685> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67461.30;execution=271.918 ms;
+10:47:20.992682> Modify Lock SellLimit (1Leg)
+10:47:22.259596> Try Modify Lock Sell order, 
+10:47:22.645618> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67472.60;execution=385.021 ms;
+10:47:22.645618> Modify Lock SellLimit (1Leg)
+10:47:51.800189> Try Modify Lock Sell order, 
+10:47:52.062215> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67482.90;execution=260.027 ms;
+10:47:52.063204> Modify Lock SellLimit (1Leg)
+10:48:27.215916> Try Modify Lock Sell order, 
+10:48:28.225871> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67494.50;execution=1008.955 ms;
+10:48:28.226860> Modify Lock SellLimit (1Leg)
+10:50:55.361674> Try Modify Lock Sell order for Close at now, 
+10:50:55.362673> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=67389.4 Stk:2 StkImp:2 Lnt:1 Prg:0 Natiag:1 Bid: 67444.20 Ask:  67444.30
+10:50:55.623086> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67469.30;execution=260.413 ms;
+10:50:55.624071> Modify Lock SellLimit (1Leg) for Close at now
+10:51:49.494358> Try Modify Lock Sell order for Close at now, 
+10:51:49.495356> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=67389.4 Stk:2 StkImp:2 Lnt:2 Prg:0 Natiag:2 Bid: 67441.20 Ask:  67441.30
+10:51:49.752449> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67466.30;execution=257.093 ms;
+10:51:49.753448> Modify Lock SellLimit (1Leg) for Close at now
+10:51:57.406172> Try Modify Lock Sell order for Close at now, 
+10:51:57.407171> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=67389.4 Stk:2 StkImp:2 Lnt:2 Prg:0 Natiag:2 Bid: 67439.50 Ask:  67439.60
+10:51:57.666187> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67464.60;execution=258.015 ms;
+10:51:57.666187> Modify Lock SellLimit (1Leg) for Close at now
+10:51:58.005211> Try Modify Lock Sell order for Close at now, 
+10:51:58.005211> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=67389.4 Stk:2 StkImp:2 Lnt:2 Prg:0 Natiag:2 Bid: 67439.30 Ask:  67439.40
+10:51:58.278234> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67464.40;execution=272.028 ms;
+10:51:58.278234> Modify Lock SellLimit (1Leg) for Close at now
+10:51:59.552307> Try Modify Lock Sell order for Close at now, 
+10:51:59.552307> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=67389.4 Stk:2 StkImp:2 Lnt:2 Prg:0 Natiag:2 Bid: 67433.20 Ask:  67433.30
+10:51:59.812261> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67458.30;execution=258.953 ms;
+10:51:59.813259> Modify Lock SellLimit (1Leg) for Close at now
+10:53:15.168572> Try Modify Lock Sell order, 
+10:53:16.147225> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67475.00;execution=978.653 ms;
+10:53:16.148229> Modify Lock SellLimit (1Leg)
+10:53:23.237980> Try Modify Lock Sell order, 
+10:53:23.532998> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67490.30;execution=294.019 ms;
+10:53:23.533997> Modify Lock SellLimit (1Leg)
+10:53:44.607736> Try Modify Lock Sell order, 
+10:53:44.864747> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67501.50;execution=257.011 ms;
+10:53:44.865747> Modify Lock SellLimit (1Leg)
+10:53:57.174345> Try Modify Lock Sell order, 
+10:53:57.439360> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67512.60;execution=264.015 ms;
+10:53:57.440359> Modify Lock SellLimit (1Leg)
+10:56:08.634223> Try Modify Lock Sell order, 
+10:56:08.891728> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67523.80;execution=257.506 ms;
+10:56:08.892709> Modify Lock SellLimit (1Leg)
+10:59:02.136446> Try Modify Lock Sell order, 
+10:59:02.410177> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67534.90;execution=272.731 ms;
+10:59:02.413174> Modify Lock SellLimit (1Leg)
+10:59:29.560309> Try Modify Lock Sell order, 
+10:59:29.871330> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67546.00;execution=243.016 ms;
+10:59:29.873328> Modify Lock SellLimit (1Leg)
+11:07:41.851177> Try Modify Lock Sell order for Close at now, 
+11:07:41.855178> Signal % close long, StepByStepUP=0 Order=1 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 67425.20 Ask:  67425.30
+11:07:42.112193> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67450.30;execution=257.015 ms;
+11:07:42.113193> Modify Lock SellLimit (1Leg) for Close at now
+11:07:42.344207> Try Modify Lock Sell order for Close at now, 
+11:07:42.344207> Signal % close long, StepByStepUP=0 Order=1 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 67424.00 Ask:  67424.10
+11:07:43.406807> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67449.10;execution=1061.600 ms;
+11:07:43.407800> Modify Lock SellLimit (1Leg) for Close at now
+11:07:44.472858> Try Modify Lock Sell order for Close at now, 
+11:07:44.472858> Signal % close long, StepByStepUP=0 Order=1 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 67423.20 Ask:  67423.30
+11:07:44.722880> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67448.30;execution=250.023 ms;
+11:07:44.723874> Modify Lock SellLimit (1Leg) for Close at now
+11:07:46.129955> Try Modify Lock Sell order for Close at now, 
+11:07:46.133954> Signal % close long, StepByStepUP=0 Order=1 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:2 Bid: 67416.50 Ask:  67416.60
+11:07:46.377251> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67441.60;execution=243.297 ms;
+11:07:46.378237> Modify Lock SellLimit (1Leg) for Close at now
+11:07:50.577397> Try Modify Lock Sell order for Close at now, 
+11:07:50.599387> Signal % close long, StepByStepUP=0 Order=1 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:2 Bid: 67414.90 Ask:  67415.00
+11:07:50.845404> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67440.00;execution=245.017 ms;
+11:07:50.846405> Modify Lock SellLimit (1Leg) for Close at now
+11:08:17.636871> Try Modify Lock Sell order, 
+11:08:17.879884> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67452.10;execution=243.013 ms;
+11:08:17.880885> Modify Lock SellLimit (1Leg)
+11:08:38.231294> Try Modify Lock Sell order, 
+11:08:38.475309> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67465.20;execution=243.012 ms;
+11:08:38.477310> Modify Lock SellLimit (1Leg)
+11:10:15.564695> Try Modify Lock Sell order, 
+11:10:15.850710> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67478.40;execution=286.016 ms;
+11:10:15.851711> Modify Lock SellLimit (1Leg)
+11:10:58.348886> Try Modify Lock Sell order, 
+11:10:58.596004> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67496.20;execution=245.117 ms;
+11:10:58.596004> Modify Lock SellLimit (1Leg)
+11:11:35.572628> Try Modify Lock Sell order for Close at now, 
+11:11:35.575632> Signal % close long, StepByStepUP=0 Order=1 TotalVal=0.002 EntrPrice=67389.4 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 67450.50 Ask:  67450.60
+11:11:35.822804> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67475.60;execution=246.175 ms;
+11:11:35.823644> Modify Lock SellLimit (1Leg) for Close at now
+11:14:08.701781> Try Modify Lock Sell order, 
+11:14:08.953798> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67498.20;execution=249.017 ms;
+11:14:08.954802> Modify Lock SellLimit (1Leg)
+11:17:52.520599> Try Modify Lock Sell order, 
+11:17:52.783613> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67509.90;execution=263.014 ms;
+11:17:52.798618> Modify Lock SellLimit (1Leg)
+11:21:00.703773> Try Modify Lock Sell order for Close at now, 
+11:21:00.704774> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 67451.50 Ask:  67451.60
+11:21:00.977790> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67476.60;execution=273.016 ms;
+11:21:00.978789> Modify Lock SellLimit (1Leg) for Close at now
+11:21:05.084745> Try Modify Lock Sell order for Close at now, 
+11:21:05.085746> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 67451.30 Ask:  67451.40
+11:21:05.332758> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67476.40;execution=247.012 ms;
+11:21:05.332758> Modify Lock SellLimit (1Leg) for Close at now
+11:21:55.160022> Try Modify Lock Sell order for Close at now, 
+11:21:55.168021> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 67436.40 Ask:  67436.50
+11:21:55.442036> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67461.50;execution=274.015 ms;
+11:21:55.443037> Modify Lock SellLimit (1Leg) for Close at now
+11:21:56.563108> Try Modify Lock Sell order for Close at now, 
+11:21:56.564101> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67430.40 Ask:  67430.50
+11:21:56.809115> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67455.50;execution=245.014 ms;
+11:21:56.810115> Modify Lock SellLimit (1Leg) for Close at now
+11:22:14.104117> Try Modify Lock Sell order for Close at now, 
+11:22:14.105117> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67425.90 Ask:  67426.00
+11:22:14.362133> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67451.00;execution=257.016 ms;
+11:22:14.363132> Modify Lock SellLimit (1Leg) for Close at now
+11:22:31.621955> Try Modify Lock Sell order, 
+11:22:31.870980> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67474.70;execution=246.026 ms;
+11:22:31.871976> Modify Lock SellLimit (1Leg)
+11:22:54.051408> Try Modify Lock Sell order, 
+11:22:55.086988> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67491.70;execution=1035.580 ms;
+11:22:55.087979> Modify Lock SellLimit (1Leg)
+11:24:45.128904> Try Modify Lock Sell order for Close at now, 
+11:24:45.128904> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67423.20 Ask:  67423.30
+11:24:45.937901> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67448.30;execution=807.997 ms;
+11:24:45.938893> Modify Lock SellLimit (1Leg) for Close at now
+11:24:46.098903> Try Modify Lock Sell order for Close at now, 
+11:24:46.099902> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67418.20 Ask:  67418.30
+11:24:46.369927> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67443.30;execution=270.026 ms;
+11:24:46.370925> Modify Lock SellLimit (1Leg) for Close at now
+11:24:49.878514> Try Modify Lock Sell order for Close at now, 
+11:24:49.878514> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67418.10 Ask:  67418.20
+11:24:50.133527> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67443.20;execution=254.011 ms;
+11:24:50.133527> Modify Lock SellLimit (1Leg) for Close at now
+11:24:50.377548> Try Modify Lock Sell order for Close at now, 
+11:24:50.377548> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67415.30 Ask:  67415.40
+11:24:50.654559> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67440.40;execution=276.016 ms;
+11:24:50.655558> Modify Lock SellLimit (1Leg) for Close at now
+11:24:59.774546> Try Modify Lock Sell order for Close at now, 
+11:24:59.778546> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67413.30 Ask:  67413.40
+11:25:00.023029> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67438.40;execution=243.483 ms;
+11:25:00.024050> Modify Lock SellLimit (1Leg) for Close at now
+11:25:10.345181> Try Modify Lock Sell order for Close at now, 
+11:25:10.347182> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67411.00 Ask:  67411.10
+11:25:10.593197> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67436.10;execution=246.015 ms;
+11:25:10.593197> Modify Lock SellLimit (1Leg) for Close at now
+11:25:10.596198> Try Modify Lock Sell order for Close at now, 
+11:25:10.596198> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67407.80 Ask:  67407.90
+11:25:10.857212> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67432.90;execution=260.014 ms;
+11:25:10.857212> Modify Lock SellLimit (1Leg) for Close at now
+11:25:12.532308> Try Modify Lock Sell order for Close at now, 
+11:25:12.533307> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67407.70 Ask:  67407.80
+11:25:12.806323> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67432.80;execution=273.015 ms;
+11:25:12.807323> Modify Lock SellLimit (1Leg) for Close at now
+11:25:13.561105> Try Modify Lock Sell order for Close at now, 
+11:25:13.561105> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67389.4 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67405.70 Ask:  67405.80
+11:25:13.809120> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67430.80;execution=248.014 ms;
+11:25:14.052522> Modify Lock SellLimit (1Leg) for Close at now
+12:01:35.518890> Try Open BuyLimit, Bid: 67367.90 Ask:  67368.00
+12:01:35.519892> Order Signal open long, OrdZig=2 Order=2 StepByStepUP:3 Stk:2 StkImp:2 Lnt:2 Prg:0 Tide:10 Natiag:2 Bid: 67367.90 Ask:  67368.00
+12:01:35.796908> [1Leg]: Buy OK BTCUSDT at 0.00;Price=0.00;Slippage=67368.0;Execution=276.018 ms;
+12:01:35.797905> Placed Main BuyLimit, ticketCustom = 3 ticket= 380831017981 LastBuyPrice=67367.90
+12:03:22.125143> Try place lock SellLimit, Bid: 67406.90 Ask:67407.00 wantPrice:67432.00  EntrPrice:67368.0
+12:03:24.612283> [1Leg]: Sell OK BTCUSDT at 67432.00;Price=67432.00;Slippage=-6.4;Execution=2487.141 ms;
+12:03:24.613285> Placed lock SellLimit, ticketCustom= 4, ticket= 380831017981 
+12:03:24.613285>  
+12:03:24.615286> Try Modify Lock Sell order, 
+12:03:24.893302> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67450.60;execution=278.016 ms;
+12:03:24.894302> Modify Lock SellLimit (1Leg)
+12:03:51.438826> Try Modify Lock Sell order, 
+12:03:52.450880> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67461.60;execution=999.053 ms;
+12:03:52.661892> Modify Lock SellLimit (1Leg)
+12:06:07.044017> Try Modify Lock Sell order, 
+12:06:07.314033> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67473.30;execution=269.016 ms;
+12:06:07.314033> Modify Lock SellLimit (1Leg)
+12:07:59.991061> Try Modify Lock Sell order for Close at now, 
+12:08:00.031066> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67368.0 Stk:1 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 67425.40 Ask:  67425.50
+12:08:01.391143> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67450.50;execution=1359.078 ms;
+12:08:01.392143> Modify Lock SellLimit (1Leg) for Close at now
+12:08:01.645156> Try Modify Lock Sell order for Close at now, 
+12:08:01.646157> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67368.0 Stk:1 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 67409.50 Ask:  67409.60
+12:08:03.654271> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67434.60;execution=2008.114 ms;
+12:08:03.655273> Modify Lock SellLimit (1Leg) for Close at now
+12:08:59.074453> Try Modify Lock Sell order, 
+12:09:00.658541> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67445.00;execution=1539.089 ms;
+12:09:00.658541> Modify Lock SellLimit (1Leg)
+12:10:22.520372> Try Modify Lock Sell order for Close at now, 
+12:10:22.520372> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67368.0 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67380.50 Ask:  67380.60
+12:10:22.821387> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67405.60;execution=300.014 ms;
+12:10:22.822390> Modify Lock SellLimit (1Leg) for Close at now
+12:10:25.126522> Try Modify Lock Sell order for Close at now, 
+12:10:25.127521> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67368.0 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67380.00 Ask:  67380.10
+12:10:28.916738> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67405.10;execution=3788.217 ms;
+12:10:28.917741> Modify Lock SellLimit (1Leg) for Close at now
+12:10:30.847849> Try Modify Lock Sell order for Close at now, 
+12:10:30.885851> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67368.0 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67378.30 Ask:  67378.40
+12:10:32.016916> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67403.40;execution=1131.065 ms;
+12:10:32.018928> Modify Lock SellLimit (1Leg) for Close at now
+12:10:32.035918> Try Modify Lock Sell order for Close at now, 
+12:10:32.035918> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67368.0 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67374.40 Ask:  67374.50
+12:10:33.039983> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67399.50;execution=1003.065 ms;
+12:10:33.039983> Modify Lock SellLimit (1Leg) for Close at now
+12:10:33.041975> Try Modify Lock Sell order for Close at now, 
+12:10:33.041975> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67368.0 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67370.30 Ask:  67370.40
+12:10:33.442001> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67395.40;execution=398.026 ms;
+12:10:33.461999> Modify Lock SellLimit (1Leg) for Close at now
+12:10:36.915196> Try Modify Lock Sell order for Close at now, 
+12:10:36.921196> Signal % close long, StepByStepUP=0 Order=2 TotalVal=0.002 EntrPrice=67368.0 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 67369.00 Ask:  67369.10
+12:10:37.486228> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=67394.10;execution=439.024 ms;
+12:10:37.486228> Modify Lock SellLimit (1Leg) for Close at now
+12:11:55.842803> Try Modify Lock Sell order, 
+12:12:42.536485> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:12:42.582485> [1Leg]: Sell failed BTCUSDT;price=67396.60
+12:12:42.582485> srabotalo
+12:17:45.996881>  DevSELL (-): -75.3125 avgGapSell:-1.1875 
+12:30:34.239933> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+12:30:40.041272> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+12:30:40.042263> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+12:30:42.378413> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...

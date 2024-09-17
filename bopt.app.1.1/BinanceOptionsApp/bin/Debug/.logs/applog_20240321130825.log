@@ -1,0 +1,28 @@
+13:08:38.744977> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:08:38.759972> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0 USDT
+13:08:38.760972> WebSocket connected! Start Partial @depth20 [SPOT] process...
+13:08:38.764973> WebSocket connected! Start @depth [Future] process...
+13:08:38.765975> WebSocket connected! Start Partial @depth20 [Future] process...
+13:08:39.033034> WebSocket connected! Start Partial @depth20 [SPOT] process...
+13:08:39.566683> WebSocket connected! Start @depth [Future] process...
+13:08:39.588681> WebSocket connected! Start Partial @depth20 [Future] process...
+13:08:39.593682> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:08:40.104396> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 45.26580752 USDT
+13:09:46.116344>  DevBUY (+): 210.65000000 avgGapBuy:3864.14000000 
+13:09:48.475480>  DevBUY (+): 211.35000000 avgGapBuy:3864.14000000 
+13:09:49.005510>  DevBUY (-): 213.61000000 avgGapBuy:3864.14000000 
+13:09:49.412534>  DevBUY (+): 221.21000000 avgGapBuy:3864.14000000 
+13:09:50.990624>  DevBUY (-): 213.76000000 avgGapBuy:3864.14000000 
+13:10:06.407512>  DevBUY (+): 407.19200000 avgGapBuy:3667.88800000 
+13:10:09.802701>  DevBUY (+): 412.09200000 avgGapBuy:3667.88800000 
+13:10:09.989714>  DevBUY (+): 417.79200000 avgGapBuy:3667.88800000 
+13:10:11.503800>  DevBUY (-): 826.50650000 avgGapBuy:3262.09350000 
+13:10:12.791871>  DevBUY (+): 816.90650000 avgGapBuy:3262.09350000 
+13:10:17.102118>  DevBUY (-): 1021.27450000 avgGapBuy:3057.71550000 
+13:10:20.250301>  DevBUY (+): 1021.17450000 avgGapBuy:3057.71550000 
+13:10:21.018346>  DevBUY (+): 1022.87450000 avgGapBuy:3057.71550000 
+13:10:22.452249>  DevBUY (+): 1027.88600000 avgGapBuy:3058.80400000 
+13:10:25.884873>  DevBUY (-): 1027.24600000 avgGapBuy:3058.80400000 
+13:10:26.288505>  DevBUY (+): 1041.04600000 avgGapBuy:3058.80400000 
+13:10:26.788234>  DevBUY (+): 1047.44600000 avgGapBuy:3058.80400000 
+13:10:26.885228>  DevBUY (-): 1027.59600000 avgGapBuy:3058.80400000 

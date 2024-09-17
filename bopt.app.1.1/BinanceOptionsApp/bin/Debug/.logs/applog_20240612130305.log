@@ -1,0 +1,66 @@
+13:03:16.035820> WebSocket connected! Start Partial @depth20 [Future] process...
+13:03:16.036823> WebSocket connected! Start @depth [Future] process...
+13:03:16.036823> WebSocket connected! Start Partial @depth20 [Future] process...
+13:03:16.065821> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:03:17.034104> WebSocket connected! Start Partial @depth20 [Future] process...
+13:03:17.038105> WebSocket connected! Start @depth [Future] process...
+13:03:17.044105> WebSocket connected! Start Partial @depth20 [Future] process...
+13:03:17.051096> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:03:17.568511> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 246.51270410 USDT
+13:51:35.741448>  DevSELL (-): -63.90875 avgGapSell:-10.09125 
+15:30:16.985830>  DevSELL (-): -102.75125 avgGapSell:-12.04875 
+15:30:17.470642>  DevBUY (-): 76.70125 avgGapBuy:-10.20125 
+15:30:31.179791>  DevSELL (-): -147.15375 avgGapSell:-21.64625 
+15:30:31.498821>  DevSELL (+): -63.85375 avgGapSell:-21.64625 
+15:30:33.166658>  DevBUY (-): 87.145 avgGapBuy:-14.045 
+15:30:34.543312>  DevBUY (+): 74.445 avgGapBuy:-14.045 
+15:30:39.779503>  DevSELL (-): -105.51 avgGapSell:-23.69 
+15:30:40.683960>  DevSELL (+): -65.61 avgGapSell:-23.69 
+15:30:50.834327>  DevBUY (+): 89.445 avgGapBuy:-27.945 
+15:30:52.360545>  DevSELL (-): -70.6275 avgGapSell:-32.4725 
+15:31:08.983020>  DevSELL (-): -69.88375 avgGapSell:-26.31625 
+15:31:12.007912>  DevSELL (-): -64.91125 avgGapSell:-26.28875 
+15:31:13.577413>  DevSELL (-): -70.81125 avgGapSell:-26.28875 
+15:31:15.084702>  DevSELL (+): -103.21125 avgGapSell:-26.28875 
+15:31:15.602443>  DevBUY (-): 114.20875 avgGapBuy:-23.90875 
+15:31:39.943278>  DevBUY (-): 67.265 avgGapBuy:-23.365 
+15:31:57.588925>  DevBUY (-): 164.07375 avgGapBuy:-9.27375 
+15:31:58.598110>  DevSELL (-): -64.2125 avgGapSell:-8.9875 
+15:32:45.233330>  DevSELL (+): -66.63 avgGapSell:-0.57 
+15:37:52.056388>  DevBUY (+): 97.17125 avgGapBuy:-0.77125 
+16:28:15.356536>  DevBUY (-): 71.38 avgGapBuy:12.22 
+17:22:48.028722>  DevSELL (-): -68.06375 avgGapSell:12.16375 
+21:00:13.631021>  DevSELL (+): -97.4825 avgGapSell:-10.8175 
+21:00:13.634022>  DevBUY (-): 80.9025 avgGapBuy:-10.8025 
+21:00:14.629080>  DevBUY (-): 106.36 avgGapBuy:-10.86 
+21:00:16.144778>  DevBUY (-): 140.56 avgGapBuy:-10.86 
+21:00:16.148779>  DevBUY (+): 110.46 avgGapBuy:-10.86 
+21:00:17.693959>  DevBUY (-): 108.06 avgGapBuy:-10.86 
+21:00:18.174987>  DevBUY (-): 138.06 avgGapBuy:-10.86 
+21:00:18.237991>  DevBUY (+): 123.06 avgGapBuy:-10.86 
+21:00:18.693570>  DevBUY (-): 182.96 avgGapBuy:-10.86 
+21:00:18.726572>  DevBUY (+): 148.46 avgGapBuy:-10.86 
+21:00:19.190427>  DevBUY (-): 212.26 avgGapBuy:-10.86 
+21:00:20.196747>  DevSELL (-): -124.78875 avgGapSell:6.48875 
+21:00:20.282739>  DevSELL (+): -121.48875 avgGapSell:6.48875 
+21:00:22.838118>  DevSELL (+): -166.98875 avgGapSell:6.48875 
+21:00:24.234249>  DevSELL (-): -119.58875 avgGapSell:6.48875 
+21:00:24.372259>  DevSELL (+): -99.38875 avgGapSell:6.48875 
+21:00:25.393262>  DevSELL (+): -102.39 avgGapSell:-6.21 
+21:00:28.784050>  DevBUY (-): 71.88875 avgGapBuy:1.11125 
+21:00:34.857463>  DevSELL (-): -61.805 avgGapSell:-10.095 
+21:00:39.406115>  DevSELL (-): -137.6525 avgGapSell:-34.3475 
+21:00:41.244046>  DevSELL (+): -117.3525 avgGapSell:-34.3475 
+21:00:41.415090>  DevSELL (-): -118.6525 avgGapSell:-34.3475 
+21:00:46.003170>  DevSELL (-): -62.91 avgGapSell:-38.09 
+21:00:53.539970>  DevSELL (+): -61.9075 avgGapSell:-39.1925 
+21:00:54.076008>  DevSELL (-): -73.0075 avgGapSell:-39.1925 
+21:00:57.139835>  DevSELL (-): -94.53875 avgGapSell:-43.56125 
+21:00:57.173845>  DevSELL (+): -72.53875 avgGapSell:-43.56125 
+21:00:57.622862>  DevSELL (-): -100.03875 avgGapSell:-43.56125 
+21:01:19.348691>  DevBUY (-): 62.70125 avgGapBuy:-36.30125 
+21:01:23.875007>  DevBUY (-): 71.68375 avgGapBuy:-19.08375 
+21:02:10.386006>  DevSELL (-): -79.21625 avgGapSell:-4.68375 
+21:02:15.929138>  DevSELL (-): -89.46625 avgGapSell:-7.93375 
+21:02:16.297114>  DevSELL (+): -76.16625 avgGapSell:-7.93375 
+21:02:54.749898>  DevBUY (+): 62.42875 avgGapBuy:-1.72875 

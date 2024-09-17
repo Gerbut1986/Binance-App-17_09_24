@@ -1,0 +1,184 @@
+18:05:23.125679> WebSocket connected! Start @depth [Future] process...
+18:05:23.126679> WebSocket connected! Start Partial @depth20 [Future] process...
+18:05:23.127679> WebSocket connected! Start Partial @depth20 [Future] process...
+18:05:23.127679> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:05:24.254767> WebSocket connected! Start Partial @depth20 [Future] process...
+18:05:24.271767> WebSocket connected! Start @depth [Future] process...
+18:05:24.276767> WebSocket connected! Start Partial @depth20 [Future] process...
+18:05:24.698801> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:05:24.849801> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 98.23719522 USDT
+18:05:27.716495> Try adding BuyLimit, Bid: 70227.9 Ask:  70228.0
+18:05:27.716495> Support: 70227.9 VolS:2.496 Resistence: 70237.2 VolR:1.148
+18:05:28.007412> [1Leg]: Buy OK BTCUSDC at 70222.90;Gap=-3.90;Price=70238.10;Slippage=15.2;Execution=286.921 ms;
+18:05:28.007412> adding BuyLimit, ticket = 3207942669 ticketCustom = 1 
+18:05:57.171253> Try Open SellLimit, Ask: 70279.8
+18:05:57.172253> Support: 70276 VolS:1.241 Resistence: 70279.8 VolR:0.837
+18:05:57.485035> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.609230769230769230769230769;Price=70271.90;Slippage=70271.9;Execution=289.779 ms;
+18:05:57.485035> Placed Main SellLimit, ticketCustom = 2 ticket = 3207942669
+18:05:58.000126> Try Delete main Buy order, 
+18:05:58.378459> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:05:58.379460> Error Delete main BuyLimit, ticketCustom=2 ticket=0
+18:05:59.389496> Try Delete main Buy order, 
+18:05:59.709409> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:05:59.709409> Error Delete main BuyLimit, ticketCustom=2 ticket=0
+18:06:00.725444> Try adding SellLimit, Ask: 70271.8
+18:06:00.725444> Support: 70271.3 VolS:0.955 Resistence: 70271.8 VolR:1.228
+18:06:01.010564> [1Leg]: Sell OK BTCUSDC at 70276.80;Gap=-1.061842105263157894736842105;Price=70271.80;Slippage=-5.0;Execution=284.121 ms;
+18:06:01.011562> adding Sell (1Leg), ticket = 3207963082 ticketCustom = 3
+18:06:38.000198> Try Open SellLimit, Ask: 70261.1
+18:06:38.001184> Support: 70254.5 VolS:0.512 Resistence: 70261.1 VolR:1.423
+18:06:38.295427> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.95;Price=70252.70;Slippage=70252.7;Execution=292.246 ms;
+18:06:38.295427> Placed Main SellLimit, ticketCustom = 4 ticket = 3207963082
+18:06:40.000604> Try Delete main Buy order, 
+18:06:40.328102> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:06:40.329102> Error Delete main BuyLimit, ticketCustom=4 ticket=0
+18:06:41.343733> Try Delete main Buy order, 
+18:06:41.658750> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:06:41.659745> Error Delete main BuyLimit, ticketCustom=4 ticket=0
+18:06:42.680031> Try adding SellLimit, Ask: 70234.0
+18:06:42.681027> Support: 70233.9 VolS:1.002 Resistence: 70234 VolR:1.68
+18:06:42.969959> [1Leg]: Sell OK BTCUSDC at 70239.00;Gap=-2.35875;Price=70234.00;Slippage=-5.0;Execution=288.933 ms;
+18:06:42.970889> adding Sell (1Leg), ticket = 3207963082 ticketCustom = 5
+18:08:00.031927> Try place lock BuyLimit, Bid: 70193.4 Ask:  70193.5
+18:08:02.013859> [1Leg]: Buy OK BTCUSDC at 70188.40;Gap=1.57125;Price=70181.60;Slippage=-6.8;Execution=1981.932 ms;
+18:08:02.014862> Placed lock BuyLimit, ticketCustom= 6, ticket= 3207963082 
+18:08:28.599565> Try Open SellLimit, Ask: 70130.1
+18:08:28.600569> Support: 70130 VolS:2.156 Resistence: 70131.7 VolR:0.982
+18:08:28.880217> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=1.82;Price=70130.10;Slippage=70130.1;Execution=278.651 ms;
+18:08:28.881213> Placed Main SellLimit, ticketCustom = 7 ticket = 3208067857
+18:08:30.000416> Try Delete main Buy order, 
+18:08:30.319567> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:30.319567> Error Delete main BuyLimit, ticketCustom=7 ticket=0
+18:08:31.324145> Try Delete main Buy order, 
+18:08:31.637438> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:31.638439> Error Delete main BuyLimit, ticketCustom=7 ticket=0
+18:08:32.662660> Try adding SellLimit, Ask: 70121.6
+18:08:32.663651> Support: 70120.8 VolS:1.111 Resistence: 70121.6 VolR:4.622
+18:08:32.946458> [1Leg]: Sell OK BTCUSDC at 70126.60;Gap=1.455;Price=70121.60;Slippage=-5.0;Execution=282.806 ms;
+18:08:32.947443> adding Sell (1Leg), ticket = 3208067857 ticketCustom = 8
+18:08:45.347943> Try place lock BuyLimit, Bid: 70079.9 Ask:  70080.0
+18:08:45.624958> [1Leg]: Buy OK BTCUSDC at 70074.90;Gap=-4.05;Price=70080.00;Slippage=5.1;Execution=276.015 ms;
+18:08:45.624958> Placed lock BuyLimit, ticketCustom= 9, ticket= 3208067857 
+18:08:56.001461> Try Open SellLimit, Ask: 70075.0
+18:08:56.002459> Support: 70074.8 VolS:1.066 Resistence: 70075 VolR:1.873
+18:08:56.287248> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.655;Price=70075.00;Slippage=70075.0;Execution=284.789 ms;
+18:08:56.288242> Placed Main SellLimit, ticketCustom = 10 ticket = 3208082298
+18:08:58.002847> Try Delete main Buy order, 
+18:08:58.320327> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:58.321327> Error Delete main BuyLimit, ticketCustom=10 ticket=0
+18:08:59.344585> Try Delete main Buy order, 
+18:08:59.663480> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:59.664480> Error Delete main BuyLimit, ticketCustom=10 ticket=0
+18:09:00.672156> Try adding SellLimit, Ask: 70088.0
+18:09:00.673139> Support: 70087.9 VolS:1.371 Resistence: 70088 VolR:2.659
+18:09:00.956165> [1Leg]: Sell OK BTCUSDC at 70093.00;Gap=1.4475;Price=70088.00;Slippage=-5.0;Execution=282.024 ms;
+18:09:00.957155> adding Sell (1Leg), ticket = 3208082298 ticketCustom = 11
+18:10:36.190355> Try place lock BuyLimit, Bid: 70032.0 Ask:  70032.1
+18:10:37.322499> [1Leg]: Buy OK BTCUSDC at 70027.00;Gap=-5.59375;Price=70025.00;Slippage=-2.0;Execution=1131.143 ms;
+18:10:37.323503> Placed lock BuyLimit, ticketCustom= 12, ticket= 3208082298 
+18:10:40.002075> Try Open SellLimit, Ask: 70024.8
+18:10:40.002075> Support: 70019.4 VolS:1.138 Resistence: 70024.8 VolR:2.109
+18:10:40.288095> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.1625;Price=70024.80;Slippage=70024.8;Execution=286.019 ms;
+18:10:40.289092> Placed Main SellLimit, ticketCustom = 13 ticket = 3208133334
+18:10:42.000817> Try Delete main Buy order, 
+18:10:42.428854> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:10:42.429855> Error Delete main BuyLimit, ticketCustom=13 ticket=0
+18:10:43.449749> Try Delete main Buy order, 
+18:10:43.764780> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:10:43.765767> Error Delete main BuyLimit, ticketCustom=13 ticket=0
+18:10:44.773692> Try adding SellLimit, Ask: 69990.9
+18:10:44.774679> Support: 69990.8 VolS:1.574 Resistence: 69991.5 VolR:1.139
+18:10:45.057056> [1Leg]: Sell OK BTCUSDC at 69995.90;Gap=-0.93125;Price=69990.90;Slippage=-5.0;Execution=282.378 ms;
+18:10:45.058054> adding Sell (1Leg), ticket = 3208133334 ticketCustom = 14
+18:11:34.044293> Try adding SellLimit, Ask: 70046.4
+18:11:34.047294> Support: 70046.3 VolS:4.658 Resistence: 70047.6 VolR:1
+18:11:34.328312> [1Leg]: Sell OK BTCUSDC at 70051.40;Gap=5.26;Price=70046.40;Slippage=-5.0;Execution=281.019 ms;
+18:11:34.329310> adding Sell (1Leg), ticket = 3208133334 ticketCustom = 15
+18:14:17.043434> Try place lock BuyLimit, Bid: 69964.4 Ask:  69964.5
+18:14:17.322449> [1Leg]: Buy OK BTCUSDC at 69959.40;Gap=-3.84625;Price=69964.50;Slippage=5.1;Execution=278.015 ms;
+18:14:17.326447> Placed lock BuyLimit, ticketCustom= 16, ticket= 3208133334 
+18:24:56.613653> Try Open SellLimit, Ask: 70142.6
+18:24:56.614653> Support: 70139.4 VolS:1.014 Resistence: 70142.6 VolR:4.003
+18:24:56.907670> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.22375;Price=70137.70;Slippage=70137.7;Execution=292.018 ms;
+18:24:56.911668> Placed Main SellLimit, ticketCustom = 17 ticket = 3208596559
+18:24:58.014305> Try Delete main Buy order, 
+18:24:59.168156> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:24:59.168156> Error Delete main BuyLimit, ticketCustom=17 ticket=0
+18:25:00.178739> Try adding SellLimit, Ask: 70120.1
+18:25:00.179749> Support: 70120 VolS:7.609 Resistence: 70120.1 VolR:1.76
+18:25:00.461753> [1Leg]: Sell OK BTCUSDC at 70125.10;Gap=-1.27625;Price=70120.10;Slippage=-5.0;Execution=281.017 ms;
+18:25:00.462759> adding Sell (1Leg), ticket = 3208596559 ticketCustom = 18
+18:25:44.259157> Try place lock BuyLimit, Bid: 70130.6 Ask:  70130.7
+18:25:44.544312> [1Leg]: Buy OK BTCUSDC at 70125.60;Gap=-0.54125;Price=70136.00;Slippage=10.4;Execution=285.155 ms;
+18:25:44.544312> Placed lock BuyLimit, ticketCustom= 19, ticket= 3208596559 
+18:25:44.545314> Try Modify Lock Buy order for close at now, 
+18:25:44.827654> [1Leg]: BUY OK MODIFY BTCUSDC at 0.004 lot;price=70133.60;execution=280.346 ms;
+18:25:44.828651> Modify BuyLimit (1Leg) for Close at now
+18:25:44.829651> Try Modify Lock Buy order for close at now, 
+18:25:45.106668> [1Leg]: BUY OK MODIFY BTCUSDC at 0.004 lot;price=70151.90;execution=277.017 ms;
+18:25:45.107665> Modify BuyLimit (1Leg) for Close at now
+18:25:45.306678> Try Modify Lock Buy order for close at now, 
+18:25:45.589699> [1Leg]: BUY OK MODIFY BTCUSDC at 0.004 lot;price=70155.70;execution=280.022 ms;
+18:25:45.590696> Modify BuyLimit (1Leg) for Close at now
+18:25:45.783706> Try Modify Lock Buy order for close at now, 
+18:25:46.061947> [1Leg]: BUY OK MODIFY BTCUSDC at 0.004 lot;price=70159.90;execution=278.241 ms;
+18:25:46.062939> Modify BuyLimit (1Leg) for Close at now
+18:25:46.819161> Try Modify Lock Buy order for close at now, 
+18:25:47.096549> [1Leg]: BUY OK MODIFY BTCUSDC at 0.004 lot;price=70165.40;execution=277.388 ms;
+18:25:47.097539> Modify BuyLimit (1Leg) for Close at now
+18:25:47.859533> Try Modify Lock Buy order for close at now, 
+18:25:48.141541> [1Leg]: BUY OK MODIFY BTCUSDC at 0.004 lot;price=70171.90;execution=278.018 ms;
+18:25:48.142540> Modify BuyLimit (1Leg) for Close at now
+18:28:04.283762> Try Open SellLimit, Ask: 70247.0
+18:28:04.284762> Support: 70246.9 VolS:1.345 Resistence: 70247 VolR:1.125
+18:28:05.065830> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=11.97875;Price=70234.40;Slippage=70234.4;Execution=781.068 ms;
+18:28:05.066827> Placed Main SellLimit, ticketCustom = 20 ticket = 3208691616
+18:28:06.000402> Try Delete main Buy order, 
+18:28:07.185043> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:07.185043> Error Delete main BuyLimit, ticketCustom=20 ticket=0
+18:28:08.205637> Try adding SellLimit, Ask: 70239.8
+18:28:08.205637> Support: 70239.7 VolS:1.702 Resistence: 70239.8 VolR:3.835
+18:28:08.487643> [1Leg]: Sell OK BTCUSDC at 70244.80;Gap=2.8725;Price=70239.80;Slippage=-5.0;Execution=281.014 ms;
+18:28:08.488644> adding Sell (1Leg), ticket = 3208691616 ticketCustom = 21
+18:28:52.432510> Try place lock BuyLimit, Bid: 70186.0 Ask:  70186.1
+18:28:52.714525> [1Leg]: Buy OK BTCUSDC at 70181.00;Gap=-3.74125;Price=70186.10;Slippage=5.1;Execution=282.015 ms;
+18:28:52.715525> Placed lock BuyLimit, ticketCustom= 22, ticket= 3208691616 
+18:28:58.000940> Try Open SellLimit, Ask: 70177.6
+18:28:58.001933> Support: 70176.9 VolS:0.943 Resistence: 70177.6 VolR:2.99
+18:28:58.283964> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.71625;Price=70177.60;Slippage=70177.6;Execution=281.031 ms;
+18:28:58.284950> Placed Main SellLimit, ticketCustom = 23 ticket = 3208721683
+18:29:00.003353> Try Delete main Buy order, 
+18:29:00.323374> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:00.324375> Error Delete main BuyLimit, ticketCustom=23 ticket=0
+18:29:01.327567> Try Delete main Buy order, 
+18:29:01.639583> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:01.640584> Error Delete main BuyLimit, ticketCustom=23 ticket=0
+18:29:02.656938> Try adding SellLimit, Ask: 70186.1
+18:29:02.657934> Support: 70186 VolS:2.236 Resistence: 70191.2 VolR:0.998
+18:29:02.940982> [1Leg]: Sell OK BTCUSDC at 70191.10;Gap=-7.01;Price=70186.10;Slippage=-5.0;Execution=283.048 ms;
+18:29:02.941972> adding Sell (1Leg), ticket = 3208721683 ticketCustom = 24
+18:33:07.514582> Try adding SellLimit, Ask: 70244.0
+18:33:07.514582> Support: 70243.6 VolS:1.658 Resistence: 70247.2 VolR:1.051
+18:33:07.793603> [1Leg]: Sell OK BTCUSDC at 70249.00;Gap=1.88625;Price=70244.00;Slippage=-5.0;Execution=279.022 ms;
+18:33:07.794598> adding Sell (1Leg), ticket = 3208721683 ticketCustom = 25
+18:39:52.512054> Try place lock BuyLimit, Bid: 70216.0 Ask:  70216.1
+18:39:52.819490> [1Leg]: Buy OK BTCUSDC at 70211.00;Gap=-0.80;Price=70216.10;Slippage=5.1;Execution=279.437 ms;
+18:39:52.820481> Placed lock BuyLimit, ticketCustom= 26, ticket= 3208721683 
+18:39:52.821600> Try Modify Lock Buy order for close at now, 
+18:39:53.121498> [1Leg]: BUY OK MODIFY BTCUSDC at 0.004 lot;price=70216.00;execution=282.012 ms;
+18:39:53.122499> Modify BuyLimit (1Leg) for Close at now
+18:39:53.123500> Try Modify Lock Buy order for close at now, 
+18:39:53.403783> [1Leg]: BUY OK MODIFY BTCUSDC at 0.004 lot;price=70226.60;execution=280.283 ms;
+18:39:53.404784> Modify BuyLimit (1Leg) for Close at now
+18:39:53.405784> Try Modify Lock Buy order for close at now, 
+18:39:53.684811> [1Leg]: BUY OK MODIFY BTCUSDC at 0.004 lot;price=70227.90;execution=279.027 ms;
+18:39:53.685799> Modify BuyLimit (1Leg) for Close at now
+18:39:54.900932> Try Modify Lock Buy order for close at now, 
+18:39:55.179784> [1Leg]: BUY OK MODIFY BTCUSDC at 0.004 lot;price=70228.30;execution=278.852 ms;
+18:39:55.179784> Modify BuyLimit (1Leg) for Close at now
+18:39:58.656952> Try Modify Lock Buy order for close at now, 
+18:39:58.986010> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:39:58.987010> [1Leg]: Buy failed BTCUSDC;price=70228.30
+18:40:01.007170> Try Modify Lock Buy order for close at now, 
+18:40:02.158969> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:40:02.158969> [1Leg]: Buy failed BTCUSDC;price=70224.10

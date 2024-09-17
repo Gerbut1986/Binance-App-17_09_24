@@ -1,0 +1,27 @@
+23:15:14.450833> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0 USDT
+23:15:14.801288> WebSocket connected! Start @depth [Future] process...
+23:15:14.834289> WebSocket connected! Start Partial @depth20 [SPOT] process...
+23:15:14.835289> WebSocket connected! Start Partial @depth20 [Future] process...
+23:15:14.836289> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+23:15:15.036306> WebSocket connected! Start Partial @depth20 [SPOT] process...
+23:15:15.472952> WebSocket connected! Start Partial @depth20 [Future] process...
+23:15:15.472952> WebSocket connected! Start @depth [Future] process...
+23:15:15.484038> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+23:15:16.004975> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 63.75300490 USDT
+23:17:05.451654>  DevBUY (+): 190.13000000 avgGapBuy:3895.66000000 
+23:17:05.971716>  DevBUY (-): 198.68000000 avgGapBuy:3895.66000000 
+23:17:06.186869>  DevBUY (+): 208.18000000 avgGapBuy:3895.66000000 
+23:17:11.973804>  DevBUY (-): 202.49750000 avgGapBuy:3893.57250000 
+23:17:15.454953>  DevBUY (+): 209.89550000 avgGapBuy:3889.47450000 
+23:17:15.761976>  DevBUY (+): 213.59550000 avgGapBuy:3889.47450000 
+23:17:18.834555>  DevBUY (+): 220.19550000 avgGapBuy:3889.47450000 
+23:17:18.976551>  DevBUY (-): 213.27550000 avgGapBuy:3889.47450000 
+23:20:15.484268>  DevBUY (-): 208.81200000 avgGapBuy:3885.73800000 
+23:20:17.747718>  DevBUY (+): 207.81200000 avgGapBuy:3885.73800000 
+23:20:18.321750>  DevBUY (+): 219.81200000 avgGapBuy:3885.73800000 
+23:20:18.992793>  DevBUY (-): 215.77200000 avgGapBuy:3885.73800000 
+23:21:00.494596>  DevBUY (-): 214.62800000 avgGapBuy:3887.34200000 
+23:21:02.032036>  DevBUY (+): 205.92800000 avgGapBuy:3887.34200000 
+23:21:02.576336>  DevBUY (+): 210.92800000 avgGapBuy:3887.34200000 
+23:21:06.997112>  DevBUY (-): 221.31200000 avgGapBuy:3888.26800000 
+23:21:08.186134>  DevBUY (+): 213.62200000 avgGapBuy:3888.26800000 

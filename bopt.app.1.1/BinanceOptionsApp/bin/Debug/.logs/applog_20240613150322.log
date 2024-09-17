@@ -1,0 +1,30 @@
+15:03:29.124902> WebSocket connected! Start Partial @depth20 [Future] process...
+15:03:29.125902> WebSocket connected! Start Partial @depth20 [Future] process...
+15:03:29.128903> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:03:29.131903> WebSocket connected! Start @depth [Future] process...
+15:03:30.067926> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:03:30.073937> WebSocket connected! Start Partial @depth20 [Future] process...
+15:03:30.103941> WebSocket connected! Start Partial @depth20 [Future] process...
+15:03:30.153944> WebSocket connected! Start @depth [Future] process...
+15:03:30.612768> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 246.52080278 USDT
+15:30:13.578457>  DevSELL (-): -85.86375 avgGapSell:-1.93625 
+15:30:16.149737>  DevSELL (-): -142.30375 avgGapSell:-6.09625 
+15:30:16.394750>  DevSELL (+): -81.20375 avgGapSell:-6.09625 
+15:30:17.894404>  DevBUY (+): 66.54875 avgGapBuy:-5.54875 
+15:30:18.500409>  DevSELL (-): -124.90375 avgGapSell:-6.09625 
+15:30:18.900432>  DevSELL (+): -91.90375 avgGapSell:-6.09625 
+15:30:19.020448>  DevSELL (-): -162.10375 avgGapSell:-6.09625 
+15:30:19.434463>  DevSELL (+): -137.40375 avgGapSell:-6.09625 
+15:30:20.031549>  DevSELL (-): -258.20375 avgGapSell:-6.09625 
+15:30:20.468575>  DevSELL (+): -199.74375 avgGapSell:-28.75625 
+15:30:26.619276>  DevBUY (-): 73.46625 avgGapBuy:-30.96625 
+15:30:33.664277>  DevBUY (-): 95.63625 avgGapBuy:-32.33625 
+15:31:29.436764>  DevSELL (-): -78.53625 avgGapSell:2.53625 
+15:33:31.441118>  DevSELL (+): -197.6775 avgGapSell:6.8775 
+15:33:31.908310>  DevBUY (+): 79.27 avgGapBuy:6.83 
+15:33:32.277536>  DevBUY (-): 90.97 avgGapBuy:6.83 
+15:33:37.585838>  DevSELL (+): -283.29 avgGapSell:3.59 
+15:33:37.840855>  DevBUY (-): 330.0875 avgGapBuy:5.6125 
+15:33:37.992858>  DevBUY (+): 314.1875 avgGapBuy:5.6125 
+15:33:39.347706>  DevSELL (-): -108.09 avgGapSell:3.59 
+15:33:39.507732>  DevSELL (+): -89.59 avgGapSell:3.59 

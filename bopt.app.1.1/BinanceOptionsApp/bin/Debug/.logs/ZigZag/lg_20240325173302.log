@@ -1,0 +1,31 @@
+17:33:05.216746> WebSocket connected! Start @depth [Future] process...
+17:33:05.217747> WebSocket connected! Start Partial @depth20 [Future] process...
+17:33:05.217747> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:33:05.217747> WebSocket connected! Start Partial @depth20 [SPOT] process...
+17:33:06.256806> WebSocket connected! Start Partial @depth20 [Future] process...
+17:33:06.302808> WebSocket connected! Start @depth [Future] process...
+17:33:06.305809> WebSocket connected! Start Partial @depth20 [SPOT] process...
+17:33:06.308809> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:33:06.510822> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.00000000 USDT
+17:33:07.310868> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 426.63928450 USDT
+17:33:25.793092>  DevSELL (+): -423.26600000 avgGapSell:-3770.64400000 
+17:33:25.922100>  DevSELL (-): -411.36600000 avgGapSell:-3770.64400000 
+17:33:26.433129>  DevSELL (-): -427.79600000 avgGapSell:-3770.64400000 
+17:33:26.950159>  DevSELL (-): -432.47600000 avgGapSell:-3770.64400000 
+17:33:28.976276>  DevSELL (-): -447.93600000 avgGapSell:-3770.64400000 
+17:33:29.667318>  DevSELL (+): -433.31600000 avgGapSell:-3770.64400000 
+17:33:30.796379>  DevSELL (+): -589.37550000 avgGapSell:-3557.12450000 
+17:33:31.120399>  DevSELL (-): -625.48550000 avgGapSell:-3557.12450000 
+17:33:31.666430>  DevSELL (+): -611.07550000 avgGapSell:-3557.12450000 
+17:33:33.148514>  DevSELL (-): -628.20550000 avgGapSell:-3557.12450000 
+17:33:33.662545>  DevSELL (+): -622.57550000 avgGapSell:-3557.12450000 
+17:33:34.068566>  DevSELL (-): -655.87550000 avgGapSell:-3557.12450000 
+17:33:34.128570>  DevSELL (+): -643.52550000 avgGapSell:-3557.12450000 
+17:34:11.001207>  DevSELL (-): -198.31400000 avgGapSell:-3882.32600000 
+17:34:11.093212>  DevSELL (+): -197.19400000 avgGapSell:-3882.32600000 
+17:34:11.245221>  DevSELL (-): -225.19400000 avgGapSell:-3882.32600000 
+17:34:11.534237>  DevSELL (+): -229.79400000 avgGapSell:-3882.32600000 
+17:34:11.785252>  DevSELL (-): -230.09400000 avgGapSell:-3882.32600000 
+17:34:15.075440>  DevSELL (-): -239.31400000 avgGapSell:-3882.32600000 
+17:34:15.215447>  DevSELL (+): -238.06400000 avgGapSell:-3882.32600000 
+17:34:15.668474>  DevSELL (+): -245.13400000 avgGapSell:-3882.32600000 

@@ -1,0 +1,53 @@
+16:50:39.006366> WebSocket connected! Start @depth [Future] process...
+16:50:39.007354> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:50:39.024356> WebSocket connected! Start Partial @depth20 [Future] process...
+16:50:39.441939> WebSocket connected! Start Partial @depth20 [Future] process...
+16:50:40.030424> WebSocket connected! Start Partial @depth20 [Future] process...
+16:50:40.072429> WebSocket connected! Start Partial @depth20 [Future] process...
+16:50:40.075429> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:50:40.077428> WebSocket connected! Start @depth [Future] process...
+16:50:40.577127> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 243.50966342 USDT
+16:50:55.751838> Try Open SellLimit, Ask: 64831.2 Bid:64831.1
+16:50:55.760838> Step Signal open short, StepByStepDN:3 Stk:10 StkImp:0 Lnt:0 Prg:0 Bid: 64831.1 Ask:  64831.2
+16:50:56.041401> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=12.123255813953488372093023256;Price=64824.10;Slippage=64824.1;Execution=277.561 ms;
+16:50:56.042401> Placed Main SellLimit, ticketCustom = 1 ticket = 3976863097 LastSellPrice=64831.2
+16:56:01.375539>  DevSELL (-): -65.40875 avgGapSell:-20.49125 
+16:56:01.416542>  DevSELL (+): -65.60875 avgGapSell:-20.49125 
+16:56:01.558549> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+16:56:01.865567> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+16:56:11.663106> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:56:11.663106> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:56:11.664106> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:56:11.664106> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:56:12.708164> WebSocket connected! Start @depth [Future] process...
+16:56:12.716164> WebSocket connected! Start @depth [Future] process...
+16:56:13.706713> Try Close Sell, Bid: 64803.9 Ask:  64805.0
+16:56:14.545616> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=7.30625;Price=64805.90;Slippage=64805.9;Execution=837.904 ms;
+16:56:14.546612> Close Main Sell ticketCustom = 2 ticket= 3976863097
+16:56:14.549605> Try Close Sell, Bid: 64805.8 Ask:  64805.9
+16:56:14.826617> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=13.40625;Price=64805.90;Slippage=64805.9;Execution=277.012 ms;
+16:56:14.827612> Close Main Sell ticketCustom = 3 ticket= 3977089480
+16:56:14.828613> Try Close Sell, Bid: 64805.8 Ask:  64805.9
+16:56:15.110634> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=10.10625;Price=64805.90;Slippage=64805.9;Execution=282.022 ms;
+16:56:15.111629> Close Main Sell ticketCustom = 4 ticket= 3977089480
+16:56:15.113629> Try Close Sell, Bid: 64805.8 Ask:  64805.9
+16:56:15.398449> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=10.10625;Price=64805.90;Slippage=64805.9;Execution=284.820 ms;
+16:56:15.399435> Close Main Sell ticketCustom = 5 ticket= 3977089480
+16:56:15.400436> Try Close Sell, Bid: 64805.8 Ask:  64805.9
+16:56:15.682491> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=8.20625;Price=64808.00;Slippage=64808.0;Execution=282.055 ms;
+16:56:15.683493> Close Main Sell ticketCustom = 6 ticket= 3977089480
+16:56:15.686504> Try Close Sell, Bid: 64807.9 Ask:  64808.0
+16:56:15.962502> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=10.30625;Price=64808.00;Slippage=64808.0;Execution=275.999 ms;
+16:56:15.962502> Close Main Sell ticketCustom = 7 ticket= 3977089480
+16:56:15.964504> Try Close Sell, Bid: 64807.9 Ask:  64808.0
+16:56:16.248521> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=10.30625;Price=64808.00;Slippage=64808.0;Execution=283.032 ms;
+16:56:16.248521> Close Main Sell ticketCustom = 8 ticket= 3977089480
+16:56:16.250521> Try Close Sell, Bid: 64807.9 Ask:  64808.0
+16:56:16.971307> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=10.30625;Price=64808.00;Slippage=64808.0;Execution=720.786 ms;
+16:56:16.972297> Close Main Sell ticketCustom = 9 ticket= 3977089480
+16:56:17.780309> Try Close Sell, Bid: 64816.4 Ask:  64816.5
+16:56:18.058303> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=5.31875;Price=64816.50;Slippage=64816.5;Execution=277.994 ms;
+16:56:18.059300> Close Main Sell ticketCustom = 10 ticket= 3977089480
+16:56:18.060300> Try Close Sell, Bid: 64816.4 Ask:  64816.5
+16:56:18.343447> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=5.31875;Price=64822.00;Slippage=64822.0;Execution=283.147 ms;
+16:56:18.344447> Close Main Sell ticketCustom = 11 ticket= 3977089480

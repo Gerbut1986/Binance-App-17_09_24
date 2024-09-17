@@ -1,0 +1,66 @@
+21:36:22.358695> WebSocket connected! Start Partial @depth20 [Future] process...
+21:36:22.359696> WebSocket connected! Start Partial @depth20 [Future] process...
+21:36:22.431699> WebSocket connected! Start @depth [Future] process...
+21:36:22.431699> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:36:23.400180> WebSocket connected! Start Partial @depth20 [Future] process...
+21:36:23.415212> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:36:23.424172> WebSocket connected! Start @depth [Future] process...
+21:36:23.428172> WebSocket connected! Start Partial @depth20 [Future] process...
+21:36:23.905474> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 512.16401900 USDT
+22:07:28.277815> Signal 2(s), Bid: 63290.3 Ask:  63290.4
+22:07:28.277815> Try Open BuyLimit, Bid: 63290.3 Ask:  63290.4
+22:07:28.278815> Support: 63290.3 VolS:1.79 Resistence: 63295 VolR:1
+22:07:28.616835> [1Leg]: Buy OK BTCUSDC at 63290.40;Gap=-2.06875;Price=63300.00;Slippage=9.6;Execution=332.021 ms;
+22:07:28.617835> Placed Main BuyLimit, ticketCustom = 1 ticket= 2708387693
+22:07:28.618835> Try Modify main Buy order, 
+22:07:28.618835> Support: 63299.9 VolS:2.075 Resistence: 63301.7 VolR:0.858
+22:07:28.899851> [1Leg]: BUY OK MODIFY BTCUSDC at 0.100 lot;price=63299.90;execution=275.010 ms;
+22:07:28.899851> Modify main BuyLimit (1Leg)
+22:07:29.000858> Try Modify main Buy order, 
+22:07:29.001856> Support: 63299.9 VolS:2.075 Resistence: 63301.7 VolR:0.858
+22:07:30.245965> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+22:07:30.245965> [1Leg]: Buy failed BTCUSDC;price=63301.40
+22:07:30.245965> Error Modify main BuyLimit, ticketCustom=1 ticket=0
+22:07:31.251694> Try Modify main Buy order, 
+22:07:31.251694> Support: 63301.6 VolS:2.162 Resistence: 63307.4 VolR:0.196
+22:07:31.522037> [1Leg]: BUY OK MODIFY BTCUSDC at 0.100 lot;price=63301.60;execution=269.349 ms;
+22:07:31.552037> Modify main BuyLimit (1Leg)
+22:07:33.003708> Try Modify main Buy order, 
+22:07:33.003708> Support: 63301.6 VolS:1.829 Resistence: 63301.9 VolR:0.809
+22:07:33.296718> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+22:07:33.296718> [1Leg]: Buy failed BTCUSDC;price=63301.70
+22:07:33.296718> Error Modify main BuyLimit, ticketCustom=1 ticket=0
+22:07:34.330127> Try Modify main Buy order, 
+22:07:34.330127> Support: 63307.5 VolS:2.332 Resistence: 63310.7 VolR:0.694
+22:07:34.647147> [1Leg]: BUY OK MODIFY BTCUSDC at 0.100 lot;price=63307.50;execution=316.026 ms;
+22:07:34.648141> Modify main BuyLimit (1Leg)
+22:07:34.650151> Try Modify main Buy order, 
+22:07:34.650151> Support: 63309.5 VolS:2.678 Resistence: 63310 VolR:0.16
+22:07:34.905159> [1Leg]: BUY OK MODIFY BTCUSDC at 0.100 lot;price=63309.50;execution=254.019 ms;
+22:07:34.906153> Modify main BuyLimit (1Leg)
+22:07:34.909154> Try Modify main Buy order, 
+22:07:34.909154> Support: 63317.3 VolS:1.465 Resistence: 63317.4 VolR:1.218
+22:07:35.164184> [1Leg]: BUY OK MODIFY BTCUSDC at 0.100 lot;price=63317.30;execution=254.029 ms;
+22:07:35.166188> Modify main BuyLimit (1Leg)
+22:07:35.172178> Try Modify main Buy order, 
+22:07:35.173183> Support: 63317.3 VolS:1.465 Resistence: 63317.4 VolR:1.218
+22:07:35.456185> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+22:07:35.456185> [1Leg]: Buy failed BTCUSDC;price=63317.40
+22:07:35.457185> Error Modify main BuyLimit, ticketCustom=1 ticket=0
+22:07:36.477282> Try Modify main Buy order, 
+22:07:36.478282> Support: 63313.8 VolS:0.701 Resistence: 63314.1 VolR:1.543
+22:07:36.764301> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:07:36.765299> [1Leg]: Buy failed BTCUSDC;price=63314.10
+22:07:36.765299> Error Modify main BuyLimit, ticketCustom=1 ticket=0
+22:07:37.787383> Try Modify main Buy order, 
+22:07:37.787383> Support: 63306 VolS:0.959 Resistence: 63306.1 VolR:2.148
+22:07:38.163576> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+22:07:38.164579> [1Leg]: Buy failed BTCUSDC;price=63306.10
+22:07:38.164579> Error Modify main BuyLimit, ticketCustom=1 ticket=0
+22:07:39.186008> Try place lock SellLimit, Bid: 63306.0 Ask:  63306.1
+22:07:39.445755> [1Leg]: Sell OK BTCUSDC at 63417.30;Gap=2.99875;Price=63307.50;Slippage=-109.8;Execution=259.747 ms;
+22:07:39.446758> Placed lock SellLimit, ticketCustom= 2, ticket= 2708387693 
+22:17:41.652607> Signal 1(s), Bid: 62876.0 Ask:  62876.1
+22:17:41.653609> Try Modify Lock Sell order for Close at now, 
+22:17:41.908630> [1Leg]: SELL OK MODIFY BTCUSDC at 0.100 lot;price=62876.10;execution=255.021 ms;
+22:17:41.909635> Modify Lock SellLimit (1Leg) for Close at now

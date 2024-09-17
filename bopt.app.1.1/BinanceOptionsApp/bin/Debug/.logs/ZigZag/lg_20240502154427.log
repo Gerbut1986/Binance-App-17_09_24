@@ -1,0 +1,179 @@
+15:44:28.110419> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:28.390438> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:44:28.773143> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:29.369288> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:29.377282> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:44:29.758313> WebSocket connected! Start @depth [Future] process...
+15:44:30.355947> WebSocket connected! Start @depth [Future] process...
+15:44:30.377948> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:31.813675> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 623.86530092 USDT
+16:13:08.437646> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:13:08.438641> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:13:09.438195> WebSocket connected! Start @depth [Future] process...
+16:15:30.721762> Signal 2(s), Bid: 58481.9 Ask:  58482.0
+16:15:30.724778> Try Open BuyLimit, Bid: 58481.9 Ask:  58482.0
+16:15:30.725773> Support: 58481.9 VolS:1.316 Resistence: 58482 VolR:0.946
+16:15:39.576823> [1Leg]: Buy OK BTCUSDC at 58481.9000;Gap=0.625;Price=58498.0000;Slippage=16.1;Execution=8842.036 ms;
+16:15:39.577818> Placed Main BuyLimit, ticketCustom = 1 ticket= 2574615328
+16:15:39.577818> Try Modify main Buy order, 
+16:15:39.577818> Support: 58497.9 VolS:1.998 Resistence: 58498.7 VolR:3.553
+16:15:39.837832> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=58497.9000;execution=257.018 ms;
+16:15:39.838832> Modify main BuyLimit (1Leg)
+16:15:39.849833> Try Modify main Buy order, 
+16:15:39.849833> Support: 58497.9 VolS:1.998 Resistence: 58498.7 VolR:3.553
+16:15:44.077320> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:15:44.077320> [1Leg]: Buy failed BTCUSDC;price=58494.1000
+16:15:44.078320> Error Modify main BuyLimit, ticketCustom=1 ticket=2574615328
+16:15:44.079320> Try Modify main Buy order, 
+16:15:44.079320> Support: 58494 VolS:1.297 Resistence: 58498.7 VolR:3.498
+16:15:50.157555> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:15:50.158556> [1Leg]: Buy failed BTCUSDC;price=58494.1000
+16:15:50.158556> Error Modify main BuyLimit, ticketCustom=1 ticket=2574615328
+16:15:50.159556> Try place lock SellLimit, Bid: 58494.0 Ask:  58494.1
+16:15:50.425095> [1Leg]: Sell OK BTCUSDC at 58597.9000;Gap=-1.635;Price=58494.1000;Slippage=-103.8;Execution=264.539 ms;
+16:15:50.426057> Placed lock SellLimit, ticketCustom= 2, ticket= 2574615328 
+16:17:27.148765> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+16:17:32.193146> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:17:32.193146> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:17:33.196092> WebSocket connected! Start @depth [Future] process...
+16:29:03.267940> Signal 1(s), Bid: 58718.0 Ask:  58718.1
+16:29:03.267940> Try Open SellLimit, Ask: 58718.1
+16:29:03.268943> Support: 58711 VolS:0.848 Resistence: 58718.1 VolR:1.213
+16:29:12.635214> [1Leg]: Sell OK BTCUSDC at 58718.1000;Gap=1.205;Price=58694.6000;Slippage=-23.5;Execution=9366.271 ms;
+16:29:12.635214> Placed Main SellLimit, ticketCustom = 3 ticket = 2574960854
+16:29:12.636211> Try Modify main Sell order, 
+16:29:12.885233> [1Leg]: SELL OK MODIFY BTCUSDC at 0.010 lot;price=58694.6000;execution=249.023 ms;
+16:29:12.886238> Modify main SellLimit, ticketCustom=3 ticket=0
+16:29:42.001893> Try place lock BuyLimit, Bid: 58701.9 Ask:  58702.0
+16:29:55.348946> [1Leg]: Buy OK BTCUSDC at 58594.6000;Gap=0.165;Price=58694.0000;Slippage=99.4;Execution=13346.058 ms;
+16:29:55.349946> Placed lock BuyLimit, ticketCustom= 4, ticket= 2574960854 
+16:31:51.004753> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:31:51.004753> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:31:52.028487> WebSocket connected! Start @depth [Future] process...
+16:32:08.615966> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:32:08.616962> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:32:09.634983> WebSocket connected! Start @depth [Future] process...
+16:34:41.233714> Signal 2(s), Bid: 58547.7 Ask:  58547.8
+16:34:41.234713> Try Open BuyLimit, Bid: 58547.7 Ask:  58547.8
+16:34:41.234713> Support: 58547.7 VolS:0.928 Resistence: 58547.8 VolR:1.472
+16:34:52.104608> [1Leg]: Buy OK BTCUSDC at 58547.7000;Gap=2.235;Price=58516.6000;Slippage=-31.1;Execution=10869.894 ms;
+16:34:52.104608> Placed Main BuyLimit, ticketCustom = 5 ticket= 2575149734
+16:34:52.108608> Try Modify main Buy order, 
+16:34:52.108608> Support: 58511.1 VolS:0.207 Resistence: 58518.7 VolR:1.542
+16:35:00.448568> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:35:00.449568> [1Leg]: Buy failed BTCUSDC;price=58451.1000
+16:35:00.450566> Error Modify main BuyLimit, ticketCustom=5 ticket=2575149734
+16:35:00.451568> Try Modify main Buy order, 
+16:35:00.452568> Support: 58451 VolS:3.513 Resistence: 58451.1 VolR:1.609
+16:35:00.756932> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:35:00.757933> [1Leg]: Buy failed BTCUSDC;price=58451.1000
+16:35:00.757933> Error Modify main BuyLimit, ticketCustom=5 ticket=2575149734
+16:35:00.759934> Try Modify main Buy order, 
+16:35:00.759934> Support: 58451 VolS:3.513 Resistence: 58451.1 VolR:1.609
+16:35:01.084951> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:35:01.085950> [1Leg]: Buy failed BTCUSDC;price=58451.1000
+16:35:01.085950> Error Modify main BuyLimit, ticketCustom=5 ticket=2575149734
+16:35:01.087957> Try Modify main Buy order, 
+16:35:01.087957> Support: 58451 VolS:3.491 Resistence: 58451.1 VolR:1.623
+16:35:01.479976> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:35:01.481982> [1Leg]: Buy failed BTCUSDC;price=58451.1000
+16:35:01.482978> Error Modify main BuyLimit, ticketCustom=5 ticket=2575149734
+16:35:01.514993> Try Modify main Buy order, 
+16:35:01.516975> Support: 58445.1 VolS:1.461 Resistence: 58451.1 VolR:1.812
+16:35:01.816992> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:35:01.819001> [1Leg]: Buy failed BTCUSDC;price=58445.9000
+16:35:01.820008> Error Modify main BuyLimit, ticketCustom=5 ticket=2575149734
+16:35:01.875026> Try Modify main Buy order, 
+16:35:01.878019> Support: 58445.1 VolS:1.461 Resistence: 58445.9 VolR:0.885
+16:35:02.234015> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:35:02.235015> [1Leg]: Buy failed BTCUSDC;price=58445.9000
+16:35:02.235015> Error Modify main BuyLimit, ticketCustom=5 ticket=2575149734
+16:35:02.243017> Try Modify main Buy order, 
+16:35:02.249025> Support: 58445.1 VolS:1.461 Resistence: 58445.9 VolR:0.885
+16:35:06.310608> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:35:06.311604> [1Leg]: Buy failed BTCUSDC;price=58450.0000
+16:35:06.311604> Error Modify main BuyLimit, ticketCustom=5 ticket=2575149734
+16:35:06.313596> Try place lock SellLimit, Bid: 58449.9 Ask:  58450.0
+16:35:06.583611> [1Leg]: Sell OK BTCUSDC at 58616.6000;Gap=6.75;Price=58450.0000;Slippage=-166.6;Execution=270.015 ms;
+16:35:06.584613> Placed lock SellLimit, ticketCustom= 6, ticket= 2575149734 
+16:35:12.624271> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+16:35:17.692805> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:35:17.693803> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:35:18.684375> WebSocket connected! Start @depth [Future] process...
+16:35:28.679484> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:35:28.679484> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:35:29.646846> WebSocket connected! Start @depth [Future] process...
+16:37:05.860003> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:37:05.860003> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:37:06.262689> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:37:06.262689> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:37:06.892981> WebSocket connected! Start @depth [Future] process...
+16:37:07.273163> WebSocket connected! Start @depth [Future] process...
+16:39:42.626851> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:39:42.627846> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:39:43.984100> WebSocket connected! Start @depth [Future] process...
+16:39:59.400592> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:39:59.400592> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:40:00.391324> WebSocket connected! Start @depth [Future] process...
+16:42:06.239495> Signal 1(s), Bid: 58460.0 Ask:  58460.1
+16:42:06.239495> Try adding SellLimit, Ask: 58460.1
+16:42:06.239495> Support: 58450 VolS:1 Resistence: 58464.5 VolR:0.982
+16:42:09.046884> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:42:09.046884> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:42:24.804790> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:42:24.805789> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:42:25.825847> [1Leg]: Sell OK BTCUSDC at 58460.1000;Gap=-1.06;Price=58457.8000;Slippage=-2.3;Execution=19586.352 ms;
+16:42:25.826849> adding Sell (1Leg), ticket = 2575492074 ticketCustom = 7
+16:42:25.826849> Try Modify Lock Sell order for Close at now, 
+16:42:26.859239> WebSocket connected! Start @depth [Future] process...
+16:42:27.493364> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:42:27.493364> [1Leg]: Sell failed BTCUSDC;price=58460.0000
+16:42:27.602369> WebSocket connected! Start @depth [Future] process...
+16:44:57.670601> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:44:57.671599> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:44:58.726398> WebSocket connected! Start @depth [Future] process...
+16:45:41.245580> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:45:41.256581> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:45:43.468260> WebSocket connected! Start @depth [Future] process...
+16:48:26.882928> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:48:26.886889> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:48:27.909524> WebSocket connected! Start @depth [Future] process...
+16:49:07.359013> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:49:07.359013> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:49:08.367072> WebSocket connected! Start @depth [Future] process...
+16:51:35.139148> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:51:35.139148> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:51:36.144057> WebSocket connected! Start @depth [Future] process...
+16:51:56.118874> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:51:56.119875> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:51:57.132293> WebSocket connected! Start @depth [Future] process...
+16:54:31.182120> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:54:31.182120> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:54:32.216482> WebSocket connected! Start @depth [Future] process...
+16:55:04.161395> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:55:04.161395> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:55:05.149982> WebSocket connected! Start @depth [Future] process...
+16:57:40.026485> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:57:40.027482> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:58:26.553778> WebSocket connected! Start @depth [Future] process...
+17:01:13.848495> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:01:13.848495> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:01:15.555514> WebSocket connected! Start @depth [Future] process...
+17:01:34.420629> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:01:34.420629> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:01:36.411450> WebSocket connected! Start @depth [Future] process...
+17:03:01.945944> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:03:01.945944> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:03:18.114765> WebSocket connected! Start @depth [Future] process...
+17:04:33.722439> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:04:33.723440> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:05:27.023496> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:05:27.023496> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:09:31.285584> WebSocket connected! Start @depth [Future] process...
+17:09:35.305817> WebSocket connected! Start @depth [Future] process...
+17:11:51.430283> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:11:51.430283> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:11:52.434058> WebSocket connected! Start @depth [Future] process...
+17:11:55.092511> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:11:55.092511> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:11:56.080075> WebSocket connected! Start @depth [Future] process...

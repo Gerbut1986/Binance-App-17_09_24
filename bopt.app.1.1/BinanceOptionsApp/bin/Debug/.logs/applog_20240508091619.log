@@ -1,0 +1,30 @@
+09:16:28.530172> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:16:28.543184> WebSocket connected! Start @depth [Future] process...
+09:16:28.545176> WebSocket connected! Start Partial @depth20 [Future] process...
+09:16:28.552163> WebSocket connected! Start Partial @depth20 [Future] process...
+09:16:29.643723> WebSocket connected! Start Partial @depth20 [Future] process...
+09:16:29.645718> WebSocket connected! Start Partial @depth20 [Future] process...
+09:16:29.656719> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:16:29.666719> WebSocket connected! Start @depth [Future] process...
+09:16:30.183600> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 463.42457052 USDT
+09:35:26.663103> Signal 1(s), Bid: 62265.1 Ask:  62265.2
+10:09:05.500662> Signal 2(s), Bid: 62303.0 Ask:  62303.1
+10:13:22.289976> Signal 2(s), Bid: 62339.7 Ask:  62339.8
+10:28:10.855114> Signal 2(s), Bid: 62163.9 Ask:  62164.0
+10:33:57.947921> Signal 2(s), Bid: 62211.9 Ask:  62212.0
+11:02:22.149057> Signal 1(s), Bid: 62096.0 Ask:  62096.1
+11:06:40.769154> Signal 1(s), Bid: 62215.6 Ask:  62215.7
+11:14:40.878571> Signal 2(s), Bid: 62165.1 Ask:  62165.2
+11:43:59.152910> Signal 1(s), Bid: 62279.9 Ask:  62280.0
+11:55:39.509075> Signal 2(s), Bid: 62168.6 Ask:  62168.7
+12:19:25.914231> Signal 2(s), Bid: 62207.9 Ask:  62208.0
+12:19:47.664059> Signal 2(s), Bid: 62174.1 Ask:  62174.2
+12:20:22.006000> Signal 2(s), Bid: 62159.9 Ask:  62160.0
+12:20:31.219643> Signal 2(s), Bid: 62133.4 Ask:  62133.5
+12:22:22.509449> Signal 2(s), Bid: 62110.0 Ask:  62110.1
+12:22:30.574270> Signal 2(s), Bid: 62105.9 Ask:  62106.0
+12:25:17.709813> Signal 2(s), Bid: 62132.7 Ask:  62132.8
+12:32:20.338168> Signal 1(s), Bid: 62153.8 Ask:  62153.9
+12:40:31.587674> Signal 2(s), Bid: 62143.9 Ask:  62144.0
+12:53:16.980082> Signal 2(s), Bid: 62203.9 Ask:  62204.0
+13:32:48.132788> Signal 1(s), Bid: 62423.5 Ask:  62423.6

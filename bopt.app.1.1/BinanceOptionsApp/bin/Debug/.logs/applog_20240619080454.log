@@ -1,0 +1,37 @@
+08:04:59.002862> WebSocket connected! Start Partial @depth20 [Future] process...
+08:04:59.015861> WebSocket connected! Start @depth [Future] process...
+08:04:59.019863> WebSocket connected! Start Partial @depth20 [Future] process...
+08:04:59.047866> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+08:04:59.952444> WebSocket connected! Start Partial @depth20 [Future] process...
+08:04:59.983445> WebSocket connected! Start @depth [Future] process...
+08:04:59.998455> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+08:05:00.030448> WebSocket connected! Start Partial @depth20 [Future] process...
+08:05:00.983016> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 239.79711706 USDT
+08:10:58.526475> Try Open SellLimit, Ask: 65417.8 Bid:65417.7
+08:10:58.526475> Step Signal open short, StepByStepDN:3 Stk:10 StkImp:0 Lnt:1 Prg:0 Bid: 65417.7 Ask:  65417.8
+08:10:58.778869> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=65417.8;Execution=249.403 ms;
+08:10:58.779869> Placed Main SellLimit, ticketCustom = 1 ticket = 4008717827 LastSellPrice=65417.8
+08:11:04.016667> Try place lock BuyLimit, Bid: 65414.2 Ask:  65414.3 wantPrice:65360.8 EntrPrice:65417.7
+08:11:04.996593> [1Leg]: Buy OK BTCUSDC at 65360.80;Price=65360.8;Slippage=53.5;Execution=977.927 ms;
+08:11:04.996593> Placed lock BuyLimit, ticketCustom= 2, ticket= 4008717827 
+08:11:24.003972> Try Modify Lock Buy order, 
+08:11:24.253751> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65361.20;execution=247.784 ms;
+08:11:24.254746> Modify Lock BuyLimit (1Leg)
+08:11:34.006172> Try Modify Lock Buy order, 
+08:11:34.262183> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65361.60;execution=255.016 ms;
+08:11:34.263181> Modify Lock BuyLimit (1Leg)
+08:11:49.002783> Try Modify Lock Buy order, 
+08:11:49.254721> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65361.70;execution=251.939 ms;
+08:11:49.255718> Modify Lock BuyLimit (1Leg)
+08:12:04.003572> Try Modify Lock Buy order, 
+08:12:04.252670> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65362.10;execution=248.099 ms;
+08:12:04.252670> Modify Lock BuyLimit (1Leg)
+08:12:09.025109> Try Modify Lock Buy order, 
+08:12:09.275535> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65362.20;execution=249.427 ms;
+08:12:09.275535> Modify Lock BuyLimit (1Leg)
+08:12:19.002070> Try Modify Lock Buy order, 
+08:12:19.252069> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65362.30;execution=249.012 ms;
+08:12:19.253018> Modify Lock BuyLimit (1Leg)
+08:12:24.004387> Try Modify Lock Buy order, 
+08:12:24.254736> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65362.50;execution=249.362 ms;
+08:12:24.255734> Modify Lock BuyLimit (1Leg)

@@ -1,0 +1,255 @@
+07:39:49.010502> WebSocket connected! Start @depth [Future] process...
+07:39:49.010502> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+07:39:49.010502> WebSocket connected! Start Partial @depth20 [Future] process...
+07:39:49.010502> WebSocket connected! Start Partial @depth20 [Future] process...
+07:39:50.041767> WebSocket connected! Start @depth [Future] process...
+07:39:50.041767> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+07:39:50.041767> WebSocket connected! Start Partial @depth20 [Future] process...
+07:39:50.057378> WebSocket connected! Start Partial @depth20 [Future] process...
+07:39:51.135908> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 164.12832177 USDT
+07:41:20.723346> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 70963.1 Ask:  70963.2
+07:41:20.723346> Try Open SellLimit, Ask: 70963.2
+07:41:20.723346> Support: 70952.3 VolS:2.248 Resistence: 70977.4 VolR:5.127
+07:41:21.004545> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=13.117857142857142857142857143;Price=70971.60;Slippage=70971.6;Execution=281.199 ms;
+07:41:21.004545> Placed Main SellLimit, ticketCustom = 1 ticket = 3154003682
+07:41:21.035793> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70970.0 Ask:  70971.6
+07:41:23.020183> Try place lock BuyLimit, Bid: 70964.1 Ask:  70964.2
+07:41:23.848309> [1Leg]: Buy OK BTCUSDC at 70820.70;Gap=-1.60;Price=70964.20;Slippage=143.5;Execution=828.126 ms;
+07:41:23.848309> Placed lock BuyLimit, ticketCustom= 2, ticket= 3154003682 
+07:42:08.225475> Try Modify Lock Buy order for close at now, 
+07:42:08.506732> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=71024.50;execution=281.258 ms;
+07:42:08.506732> Modify BuyLimit (1Leg) for Close at now
+07:42:09.006733> Try Modify Lock Buy order, 
+07:42:09.287981> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=70886.20;execution=281.249 ms;
+07:42:09.287981> Modify Lock BuyLimit (1Leg)
+07:44:05.014078> Try Modify Lock Buy order, 
+07:44:06.123438> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=70825.80;execution=1109.359 ms;
+07:44:06.123438> Modify Lock BuyLimit (1Leg)
+07:44:17.014616> Try Modify Lock Buy order, 
+07:44:17.295862> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=70888.20;execution=281.246 ms;
+07:44:17.295862> Modify Lock BuyLimit (1Leg)
+07:44:19.014631> Try Modify Lock Buy order, 
+07:44:19.295868> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=70825.70;execution=281.236 ms;
+07:44:19.295868> Modify Lock BuyLimit (1Leg)
+07:45:39.005538> Try Modify Lock Buy order, 
+07:45:39.834272> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=70887.90;execution=828.734 ms;
+07:45:39.834272> Modify Lock BuyLimit (1Leg)
+07:45:53.006183> Try Modify Lock Buy order, 
+07:45:53.287425> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=70825.10;execution=281.243 ms;
+07:45:53.287425> Modify Lock BuyLimit (1Leg)
+07:53:45.793929> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70932.0 Ask:  70932.1
+07:53:45.840813> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70932.0 Ask:  70932.1
+07:55:17.875325> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70890.0 Ask:  70890.1
+07:55:17.890950> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70890.0 Ask:  70890.1
+07:55:18.031576> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70890.0 Ask:  70890.1
+07:55:18.640954> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70884.9 Ask:  70885.0
+07:55:18.953453> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70855.4 Ask:  70862.1
+07:56:28.721200> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 70930.5 Ask:  70930.6
+07:58:40.732024> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70900.0 Ask:  70900.1
+08:00:16.812653> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70963.4 Ask:  70964.0
+08:06:46.441782> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70963.5 Ask:  70963.6
+08:06:46.457407> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70963.5 Ask:  70963.6
+08:06:46.473023> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70963.5 Ask:  70963.6
+08:08:51.121041> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71048.1 Ask:  71048.2
+08:08:51.699158> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71049.9 Ask:  71050.0
+08:08:57.136678> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71051.5 Ask:  71051.6
+08:08:58.839804> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71051.5 Ask:  71051.6
+08:11:04.765469> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71052.8 Ask:  71052.9
+08:12:51.178844> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71028.0 Ask:  71028.1
+08:14:13.933424> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 70980.0 Ask:  70980.1
+08:14:23.620943> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 70980.0 Ask:  70980.1
+08:15:48.234133> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 70881.9 Ask:  70882.0
+08:18:35.395356> Signal 1(s), Move:1 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 70959.2 Ask:  70959.3
+08:18:51.207884> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70958.0 Ask:  70958.1
+08:20:33.070212> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70935.8 Ask:  70935.9
+08:22:40.922359> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 70970.6 Ask:  70970.7
+08:22:43.578622> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70987.9 Ask:  70988.0
+08:22:43.594232> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70987.9 Ask:  70988.0
+08:27:47.074752> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71004.6 Ask:  71004.7
+08:30:12.610242> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 71022.6 Ask:  71022.7
+08:30:15.328987> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71022.6 Ask:  71022.7
+08:30:15.344613> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71022.6 Ask:  71022.7
+08:30:44.313784> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 71053.1 Ask:  71053.2
+08:30:44.334079> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71053.1 Ask:  71053.2
+08:30:47.302931> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71065.2 Ask:  71065.3
+08:30:47.537212> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71066.5 Ask:  71066.6
+08:32:13.884669> Signal 2(s), Move:2 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 70998.4 Ask:  70998.5
+08:40:23.309411> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71075.0 Ask:  71075.1
+08:40:23.684398> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71075.0 Ask:  71075.1
+08:42:46.928997> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71128.7 Ask:  71128.8
+08:42:47.163380> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71132.7 Ask:  71132.8
+08:42:48.257113> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71145.6 Ask:  71145.7
+08:42:48.319605> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71145.6 Ask:  71145.7
+08:43:07.759692> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71159.5 Ask:  71159.6
+08:44:30.122948> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71193.9 Ask:  71194.0
+08:44:30.138577> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71193.9 Ask:  71194.0
+08:45:21.251536> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 71100.0 Ask:  71116.5
+08:47:08.256376> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71097.9 Ask:  71098.0
+08:47:08.303251> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71097.9 Ask:  71098.0
+08:47:08.428251> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71097.9 Ask:  71098.0
+08:58:45.949845> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71238.6 Ask:  71238.7
+09:02:39.587528> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71247.1 Ask:  71247.2
+09:02:39.603152> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71247.1 Ask:  71247.2
+09:02:39.712528> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71247.1 Ask:  71247.2
+09:04:01.420813> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71265.9 Ask:  71266.0
+09:04:01.764554> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71265.9 Ask:  71266.0
+09:04:51.906802> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 71307.2 Ask:  71307.3
+09:08:10.946565> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71315.5 Ask:  71315.6
+09:08:10.962191> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71315.5 Ask:  71315.6
+09:08:10.977815> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71315.5 Ask:  71315.6
+09:21:18.373920> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71148.3 Ask:  71148.4
+09:22:11.940771> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71198.9 Ask:  71199.0
+09:22:12.393882> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71203.9 Ask:  71204.0
+09:22:13.284503> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71204.6 Ask:  71204.7
+09:25:33.901928> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71214.0 Ask:  71214.1
+09:25:59.794815> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71247.9 Ask:  71248.0
+09:28:23.360666> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 71303.5 Ask:  71303.6
+09:31:53.134562> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 71264.4 Ask:  71264.5
+09:31:53.150207> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71264.4 Ask:  71264.5
+09:32:55.744652> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71246.8 Ask:  71246.9
+09:33:31.199655> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71244.0 Ask:  71244.1
+09:33:31.215272> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71244.0 Ask:  71244.1
+09:33:31.246530> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71250.5 Ask:  71250.6
+09:39:57.411655> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 71374.7 Ask:  71374.8
+09:39:57.442912> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71374.7 Ask:  71374.8
+09:40:02.709584> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71384.3 Ask:  71384.4
+09:40:12.068965> Signal 1(s), Move:2 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 71398.7 Ask:  71398.8
+09:40:12.803339> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71390.0 Ask:  71390.1
+09:40:35.696243> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71398.7 Ask:  71398.8
+09:40:35.711837> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71398.7 Ask:  71398.8
+09:40:35.743087> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71398.7 Ask:  71398.8
+09:40:41.634426> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71399.9 Ask:  71400.0
+09:40:41.650041> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71410.8 Ask:  71414.2
+09:40:47.619243> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71435.5 Ask:  71435.6
+09:40:52.884899> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71426.1 Ask:  71426.2
+09:40:52.963006> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71426.1 Ask:  71426.2
+09:40:58.885391> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71443.9 Ask:  71444.0
+09:40:58.916638> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71443.9 Ask:  71444.0
+09:42:36.438199> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71424.0 Ask:  71424.1
+09:44:14.922765> Signal 1(s), Move:2 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 71408.0 Ask:  71408.1
+09:52:10.303339> Signal 1(s), Move:2 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 71301.0 Ask:  71301.1
+09:52:30.964168> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 71246.9 Ask:  71247.0
+09:52:31.151675> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71241.7 Ask:  71241.8
+09:52:31.886046> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 71238.0 Ask:  71238.1
+10:01:46.199785> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 71197.7 Ask:  71197.8
+10:06:26.958193> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71166.6 Ask:  71167.3
+10:06:27.286368> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71166.6 Ask:  71167.3
+10:08:09.101934> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71145.7 Ask:  71145.8
+10:10:20.360234> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71162.0 Ask:  71162.1
+10:11:49.008615> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71139.0 Ask:  71139.1
+10:11:49.055505> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71139.0 Ask:  71139.1
+10:12:13.916374> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71124.0 Ask:  71124.1
+10:12:43.152796> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 71076.1 Ask:  71076.2
+10:12:47.778226> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71075.3 Ask:  71075.4
+10:13:05.825598> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71074.4 Ask:  71074.5
+10:13:05.841221> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71074.4 Ask:  71074.5
+10:18:25.469878> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71146.4 Ask:  71146.5
+10:23:49.081666> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71133.9 Ask:  71134.0
+10:30:18.784396> Signal 1(s), Move:1 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 71163.8 Ask:  71163.9
+10:30:26.534410> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71163.8 Ask:  71163.9
+10:34:44.793266> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 71047.7 Ask:  71047.8
+10:34:46.387021> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 71045.1 Ask:  71045.2
+10:34:49.918274> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 71042.0 Ask:  71042.1
+10:34:50.043267> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71033.6 Ask:  71038.3
+10:44:40.944446> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70988.0 Ask:  70988.1
+10:44:40.960038> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70988.0 Ask:  70988.1
+10:44:43.256922> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70986.2 Ask:  70986.3
+10:44:44.803812> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70986.2 Ask:  70986.3
+10:48:06.144086> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70950.0 Ask:  70950.1
+10:48:11.255023> Signal 1(s), Move:1 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 70953.9 Ask:  70954.0
+10:50:07.352708> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 71027.0 Ask:  71027.1
+10:50:14.993739> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71036.0 Ask:  71036.1
+10:52:00.190196> Signal 1(s), Move:1 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 71030.8 Ask:  71030.9
+10:52:59.146006> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71021.9 Ask:  71022.0
+10:54:40.466153> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71009.5 Ask:  71009.6
+10:55:20.498174> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71020.5 Ask:  71020.6
+10:55:20.607549> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71004.4 Ask:  71004.5
+10:55:38.816085> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71005.9 Ask:  71006.0
+10:55:38.909824> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71005.9 Ask:  71006.0
+10:57:18.804835> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70976.6 Ask:  70976.7
+10:57:25.398649> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70970.0 Ask:  70970.1
+10:57:42.008018> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70960.0 Ask:  70960.1
+10:58:51.472259> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70952.0 Ask:  70952.1
+10:58:51.487884> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70952.0 Ask:  70952.1
+10:59:22.598413> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70942.0 Ask:  70942.1
+10:59:22.817172> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70938.0 Ask:  70938.1
+11:00:21.379784> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70935.0 Ask:  70935.1
+11:00:21.411027> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70935.0 Ask:  70935.1
+11:01:45.787392> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70975.9 Ask:  70976.0
+11:02:58.756254> Signal 1(s), Move:1 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 70976.2 Ask:  70976.3
+11:06:00.855693> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71007.9 Ask:  71008.0
+11:06:06.340583> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71014.5 Ask:  71014.6
+11:06:06.684340> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71014.5 Ask:  71014.6
+11:06:33.671140> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71035.9 Ask:  71036.0
+11:06:56.093056> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71025.7 Ask:  71025.8
+11:07:12.343088> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71027.9 Ask:  71028.0
+11:07:13.124331> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71037.9 Ask:  71038.0
+11:07:39.249864> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71058.3 Ask:  71058.4
+11:07:39.312362> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71058.3 Ask:  71058.4
+11:07:39.484238> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71070.0 Ask:  71070.1
+11:08:53.203152> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71079.2 Ask:  71080.1
+11:08:56.421900> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71076.0 Ask:  71076.1
+11:08:56.656277> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71099.9 Ask:  71100.0
+11:08:57.093785> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71099.9 Ask:  71100.0
+11:08:57.359394> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71099.9 Ask:  71100.0
+11:08:57.515645> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71102.7 Ask:  71102.8
+11:12:45.398722> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71064.4 Ask:  71064.5
+11:22:19.121792> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71058.5 Ask:  71058.6
+11:22:19.246785> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71063.7 Ask:  71063.8
+11:22:20.121785> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71063.7 Ask:  71063.8
+11:23:14.311877> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71028.9 Ask:  71029.0
+11:25:19.266432> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71002.5 Ask:  71002.6
+11:25:24.829686> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71002.5 Ask:  71002.6
+11:25:27.423442> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71002.5 Ask:  71002.6
+11:30:57.647848> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 71078.6 Ask:  71078.7
+11:30:57.663471> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71078.6 Ask:  71078.7
+11:33:10.870412> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70999.6 Ask:  70999.7
+11:37:28.634187> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 70940.0 Ask:  70940.1
+11:37:36.604224> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70951.9 Ask:  70952.0
+11:37:44.245207> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70946.7 Ask:  70946.8
+11:37:50.651706> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70946.7 Ask:  70946.8
+11:37:50.667331> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70946.7 Ask:  70946.8
+11:41:02.704554> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70930.0 Ask:  70930.1
+11:41:04.126426> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70930.0 Ask:  70930.1
+11:41:04.329550> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70928.9 Ask:  70929.0
+11:41:50.425077> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70920.0 Ask:  70920.1
+11:41:50.440689> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70920.0 Ask:  70920.1
+11:41:52.581331> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70919.1 Ask:  70919.2
+11:42:03.081340> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70908.3 Ask:  70908.4
+11:42:15.332026> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70908.3 Ask:  70908.4
+11:42:20.020282> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70894.5 Ask:  70895.3
+11:42:20.035905> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70894.5 Ask:  70895.3
+11:42:22.067157> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70896.2 Ask:  70896.3
+11:42:22.254667> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70896.2 Ask:  70896.3
+11:42:22.317159> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70896.2 Ask:  70896.3
+11:42:22.348407> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70896.2 Ask:  70896.3
+11:42:22.410907> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70902.0 Ask:  70902.1
+11:48:17.571930> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 70928.4 Ask:  70928.5
+11:56:42.255945> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 70931.9 Ask:  70932.0
+11:56:42.412195> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70931.9 Ask:  70932.0
+11:56:42.537199> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70931.9 Ask:  70932.0
+11:56:47.162205> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70941.9 Ask:  70942.0
+11:57:05.787246> Signal 2(s), Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 70990.7 Ask:  70990.8
+11:57:08.490381> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70990.7 Ask:  70990.8
+12:00:18.358858> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70980.9 Ask:  70981.0
+12:03:29.387654> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70935.9 Ask:  70936.0
+12:03:30.247282> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70935.9 Ask:  70936.0
+12:05:46.220238> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 71058.3 Ask:  71058.4
+12:05:47.532729> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71058.3 Ask:  71058.4
+12:05:47.548361> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71058.3 Ask:  71058.4
+12:05:47.579602> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71058.3 Ask:  71058.4
+12:07:46.849180> Signal 2(s), Move:2 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 71085.2 Ask:  71085.3
+12:07:46.880430> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71085.2 Ask:  71085.3
+12:07:47.067938> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71089.9 Ask:  71090.0
+12:07:53.271539> Signal 2(s), Move:2 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 71072.0 Ask:  71072.1
+12:07:56.365283> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 71083.4 Ask:  71083.5
+12:09:54.089256> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:1 Bid: 71089.4 Ask:  71089.5
+12:09:54.183009> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 71089.4 Ask:  71089.5
+12:23:09.406651> Signal 1(s), Move:1 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 71041.1 Ask:  71041.2
+12:26:33.527271> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 70993.5 Ask:  70993.6
+12:40:24.070830> Signal 1(s), Move:1 Stk:2 Lnt:1 Prg:0 Fon:0 Bid: 71018.0 Ask:  71018.1
+12:57:04.213645> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 70971.9 Ask:  70972.0
+12:57:04.385520> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70956.0 Ask:  70956.1
+12:57:24.604313> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70983.5 Ask:  70983.6
+12:57:28.104315> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70991.9 Ask:  70992.0
+12:57:28.651189> Signal 2(s), Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70991.9 Ask:  70992.0

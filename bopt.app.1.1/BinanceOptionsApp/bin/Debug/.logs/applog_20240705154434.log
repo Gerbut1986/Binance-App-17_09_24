@@ -1,0 +1,65 @@
+15:44:56.258708> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:56.260708> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:44:56.276709> WebSocket connected! Start @depth [Future] process...
+15:44:56.300712> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:57.079434> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:57.087433> WebSocket connected! Start @depth [Future] process...
+15:44:57.112435> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:57.149438> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:44:57.547281> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 56.40042962 USDT
+15:51:36.062314> Try Open SellLimit, Ask: 55219.3 Bid:55219.2
+15:51:36.062314> Order Signal open short, Order=1 StepByStepDN:0 Stk:2 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 55219.2 Ask:  55219.3
+15:51:36.316239> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=55219.3;Execution=248.931 ms;
+15:51:36.317237> Placed Main SellLimit, ticketCustom = 1 ticket = 4506679888 LastSellPrice=55219.3
+16:03:09.207209> Try Close Sell, Bid: 54949.2 Ask:  54949.3
+16:03:09.207209> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:1 Prg:0 Bid: 54949.2 Ask:  54949.3
+16:03:09.453624> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54949.3;Execution=246.415 ms;
+16:03:09.454623> Close Main Sell ticketCustom = 2 ticket= 4506679888
+16:03:09.455625> Try Close Sell, Bid: 54949.2 Ask:  54949.3
+16:03:09.455625> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54949.2 Ask:  54949.3
+16:03:09.697637> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54949.3;Execution=242.012 ms;
+16:03:09.697637> Close Main Sell ticketCustom = 3 ticket= 4507090336
+16:03:09.700639> Try Close Sell, Bid: 54949.2 Ask:  54949.3
+16:03:09.700639> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54949.2 Ask:  54949.3
+16:03:09.941653> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54956.9;Execution=241.014 ms;
+16:03:09.941653> Close Main Sell ticketCustom = 4 ticket= 4507090336
+16:03:09.955653> Try Close Sell, Bid: 54956.8 Ask:  54956.9
+16:03:09.956653> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54956.8 Ask:  54956.9
+16:03:10.202453> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54956.9;Execution=245.800 ms;
+16:03:10.202453> Close Main Sell ticketCustom = 5 ticket= 4507090336
+16:03:10.204463> Try Close Sell, Bid: 54956.8 Ask:  54956.9
+16:03:10.204463> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54956.8 Ask:  54956.9
+16:03:11.179859> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54949.4;Execution=974.397 ms;
+16:03:11.179859> Close Main Sell ticketCustom = 6 ticket= 4507090336
+16:03:11.181857> Try Close Sell, Bid: 54949.3 Ask:  54949.4
+16:03:11.181857> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54949.3 Ask:  54949.4
+16:03:11.421870> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54957.0;Execution=240.013 ms;
+16:03:11.421870> Close Main Sell ticketCustom = 7 ticket= 4507090336
+16:03:11.424870> Try Close Sell, Bid: 54956.9 Ask:  54957.0
+16:03:11.425869> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54956.9 Ask:  54957.0
+16:03:11.665885> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54957.0;Execution=240.015 ms;
+16:03:11.665885> Close Main Sell ticketCustom = 8 ticket= 4507090336
+16:03:11.667884> Try Close Sell, Bid: 54956.9 Ask:  54957.0
+16:03:11.668884> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54956.9 Ask:  54957.0
+16:03:11.910904> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54949.3;Execution=242.020 ms;
+16:03:11.911898> Close Main Sell ticketCustom = 9 ticket= 4507090336
+16:03:11.913898> Try Close Sell, Bid: 54949.2 Ask:  54949.3
+16:03:11.913898> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54949.2 Ask:  54949.3
+16:03:12.160923> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54949.3;Execution=247.025 ms;
+16:03:12.161921> Close Main Sell ticketCustom = 10 ticket= 4507090336
+16:03:12.163913> Try Close Sell, Bid: 54949.2 Ask:  54949.3
+16:03:12.163913> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54949.2 Ask:  54949.3
+16:03:12.407938> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54949.3;Execution=244.025 ms;
+16:03:12.408926> Close Main Sell ticketCustom = 11 ticket= 4507090336
+16:03:12.409927> Try Close Sell, Bid: 54949.2 Ask:  54949.3
+16:03:12.409927> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54949.2 Ask:  54949.3
+16:03:12.654940> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54949.3;Execution=245.014 ms;
+16:03:12.654940> Close Main Sell ticketCustom = 12 ticket= 4507090336
+16:03:12.656941> Try Close Sell, Bid: 54949.2 Ask:  54949.3
+16:03:12.656941> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54949.2 Ask:  54949.3
+16:03:12.897966> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54949.3;Execution=241.025 ms;
+16:03:12.898963> Close Main Sell ticketCustom = 13 ticket= 4507090336
+16:03:12.901955> Try Close Sell, Bid: 54949.2 Ask:  54949.3
+16:03:12.901955> TakeProfit Signal close short, stoploss=55759.9 TotalVal=0.002 pos:-0.002 EntrPrice=55209.9 Stk:20 Lnt:0 Prg:0 Bid: 54949.2 Ask:  54949.3
+16:03:13.140969> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=54949.3;Execution=239.014 ms;
+16:03:13.141969> Close Main Sell ticketCustom = 14 ticket= 4507090336

@@ -1,0 +1,48 @@
+13:44:30.188378> WebSocket connected! Start @depth [Future] process...
+13:44:30.189377> WebSocket connected! Start Partial @depth20 [Future] process...
+13:44:30.219378> WebSocket connected! Start Partial @depth20 [Future] process...
+13:44:30.243377> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:44:31.266030> WebSocket connected! Start Partial @depth20 [Future] process...
+13:44:31.299038> WebSocket connected! Start @depth [Future] process...
+13:44:31.317026> WebSocket connected! Start Partial @depth20 [Future] process...
+13:44:31.318025> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:44:31.318025> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 242.30104471 USDT
+13:49:45.115261> Try Open BuyLimit, Bid: 65427.3 Ask:  65427.4
+13:49:45.115261> Step Signal open long, StepByStepUP:3 Stk:20 StkImp:0 Lnt:1 Prg:0 Tide:10 Bid: 65427.3 Ask:  65427.4
+13:49:45.395373> [1Leg]: Buy OK BTCUSDC at 65427.30;Gap=0.5575;Price=65427.40;Slippage=0.1;Execution=276.160 ms;
+13:49:45.396369> Placed Main BuyLimit, ticketCustom = 1 ticket= 3969929608 LastBuyPrice=65427.3
+13:49:47.168165> Try Modify main Buy order, 
+13:49:47.168165> Support: 65433.9 VolS:2.594 Resistence: 65440.2 VolR:1.177
+13:49:47.425312> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65433.90;execution=254.145 ms;
+13:49:47.425312> Modify main BuyLimit (1Leg) ticketCustom=1 ticket=3969929608
+13:49:50.598252> Try Modify main Buy order, 
+13:49:50.598252> Support: 65434.8 VolS:2.102 Resistence: 65440.2 VolR:1.177
+13:49:50.851187> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65434.80;execution=251.944 ms;
+13:49:50.852205> Modify main BuyLimit (1Leg) ticketCustom=1 ticket=3969929608
+13:49:51.136327> Try Modify main Buy order, 
+13:49:51.136327> Support: 65439.9 VolS:1.701 Resistence: 65440.2 VolR:1.177
+13:49:51.393728> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65439.90;execution=257.401 ms;
+13:49:51.394743> Modify main BuyLimit (1Leg) ticketCustom=1 ticket=3969929608
+13:49:52.194913> Try Modify main Buy order, 
+13:49:52.194913> Support: 65441.2 VolS:3.14 Resistence: 65441.3 VolR:0.238
+13:49:52.447471> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65441.20;execution=252.559 ms;
+13:49:52.447471> Modify main BuyLimit (1Leg) ticketCustom=1 ticket=3969929608
+13:50:09.084117> Try place lock SellLimit, Bid: 65434.7 Ask:  65434.8
+13:50:11.110473> [1Leg]: Sell OK BTCUSDC at 65434.80;Gap=-1.23375;Price=65434.80;Slippage=0.0;Execution=2020.355 ms;
+13:50:11.110473> Placed lock SellLimit, ticketCustom= 2, ticket= 3969929608 
+13:50:22.733585> Try Modify Lock Sell order, 
+13:50:22.994587> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=65430.10;execution=260.010 ms;
+13:50:22.995587> Modify Lock SellLimit (1Leg)
+13:51:38.076348> Try adding SellLimit, Ask: 65405.1
+13:51:38.076348> Support: 65404 VolS:0.488 Resistence: 65405.1 VolR:2.304
+13:51:38.350363> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-3.22875;Price=65405.10;Slippage=65405.1;Execution=274.015 ms;
+13:51:38.351364> adding Sell (1Leg), ticket = 3969958670 ticketCustom = 3
+13:51:44.035243> Try place lock BuyLimit, Bid: 65402.3 Ask:  65402.4
+13:51:45.797611> [1Leg]: Buy OK BTCUSDC at 65402.30;Gap=-2.405;Price=65402.40;Slippage=0.1;Execution=1761.368 ms;
+13:51:45.797611> Placed lock BuyLimit, ticketCustom= 4, ticket= 3969958670 
+13:52:00.644647> Try Modify Lock Buy order, 
+13:52:01.092672> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:52:01.111681> [1Leg]: Buy failed BTCUSDC;price=65405.10
+13:52:03.133568> Try Modify Lock Buy order, 
+13:52:03.474585> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:52:03.474585> [1Leg]: Buy failed BTCUSDC;price=65405.10

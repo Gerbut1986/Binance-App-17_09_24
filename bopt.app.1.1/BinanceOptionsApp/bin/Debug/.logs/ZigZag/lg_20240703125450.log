@@ -1,0 +1,758 @@
+12:54:51.160304> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:54:51.162305> WebSocket connected! Start @depth [Future] process...
+12:54:51.162305> WebSocket connected! Start Partial @depth20 [Future] process...
+12:54:51.174302> WebSocket connected! Start Partial @depth20 [Future] process...
+12:54:52.154545> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:54:52.159546> WebSocket connected! Start Partial @depth20 [Future] process...
+12:54:52.162554> WebSocket connected! Start Partial @depth20 [Future] process...
+12:54:52.180557> WebSocket connected! Start @depth [Future] process...
+12:54:52.555385> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 367.04544377 USDT
+13:13:10.623359> Try Open BuyLimit, Bid: 60349.4 Ask:  60349.5
+13:13:10.624359> Order Signal open long, Order=2 StepByStepUP:0 Stk:20 StkImp:1 Lnt:2 Prg:0 Tide:10 Bid: 60349.4 Ask:  60349.5
+13:13:10.892374> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=60349.5;Execution=265.015 ms;
+13:13:10.893374> Placed Main BuyLimit, ticketCustom = 1 ticket= 4395556580 LastBuyPrice=60349.4
+13:13:14.004555> Try adding BuyLimit, Bid: 60342.4 Ask:  60342.5
+13:13:15.419634> [1Leg]: Buy OK BTCUSDC at 60340.40;Price=60340.4;Slippage=-20.9;Execution=1408.080 ms;
+13:13:15.419634> adding BuyLimit, ticket = 4395556580 ticketCustom = 2 
+13:13:15.421635> Try adding BuyLimit, Bid: 60318.6 Ask:  60319.5
+13:13:15.849662> [1Leg]: Buy OK BTCUSDC at 60316.60;Price=60316.6;Slippage=2.9;Execution=427.027 ms;
+13:13:15.850661> adding BuyLimit, ticket = 4395556580 ticketCustom = 3 
+13:13:23.601104> Try adding BuyLimit, Bid: 60303.5 Ask:  60303.6
+13:13:23.893122> [1Leg]: Buy OK BTCUSDC at 60301.50;Price=60301.5;Slippage=2.1;Execution=292.019 ms;
+13:13:23.894120> adding BuyLimit, ticket = 4395556580 ticketCustom = 4 
+13:13:25.037187> Try adding BuyLimit, Bid: 60300.0 Ask:  60300.1
+13:13:25.463210> [1Leg]: Buy OK BTCUSDC at 60298.00;Price=60298.0;Slippage=2.1;Execution=425.024 ms;
+13:13:25.463210> adding BuyLimit, ticket = 4395556580 ticketCustom = 5 
+13:13:38.600432> Try Close Buy, Ask: 60159.0 Bid:60156.3 
+13:13:38.601431> Stop Signal close long, stoploss=60165.46 TotalVal=0.050 pos:0.050 EntrPrice=60315.46 Stk:10 Lnt:1 Prg:0 Bid: 60156.3 Ask:  60159.0
+13:13:39.234469> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=60171.8;Execution=633.038 ms;
+13:13:39.236467> Close Main Buy, ticketCustom = 6 ticket = 4395556580
+13:13:45.928852> Try Open BuyLimit, Bid: 60232.4 Ask:  60232.5
+13:13:46.156865> Order Signal open long, Order=2 StepByStepUP:0 Stk:20 StkImp:1 Lnt:1 Prg:0 Tide:20 Bid: 60232.4 Ask:  60232.5
+13:13:46.592889> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=60233.3;Execution=436.024 ms;
+13:13:46.592889> Placed Main BuyLimit, ticketCustom = 7 ticket= 4395606008 LastBuyPrice=60232.4
+13:13:50.048087> Try place lock SellLimit, Bid: 60209.6 Ask:60209.7 wantPrice:60359.7  EntrPrice:60238.5
+13:13:50.556124> [1Leg]: Sell OK BTCUSDC at 60359.70;Price=60359.7;Slippage=-150.7;Execution=507.036 ms;
+13:13:50.581118> Placed lock SellLimit, ticketCustom= 8, ticket= 4395606008 
+13:13:50.606118> Order Signal open adding long, Order=2 StepByStepUP:0 , stoploss=60165.46 TotalVal=0.010 pos:0.010 EntrPrice=60238.5 Stk:20 StkImp:1 Lnt:1 Prg:0
+13:13:50.607120> Try Delete lock Sell order,  ticket = 4395606008 ticketCustom = 8
+13:13:50.607120> Order Signal open adding long, Order=2 StepByStepUP:0 , stoploss=60165.46 TotalVal=0.010 pos:0.010 EntrPrice=60238.5 Stk:20 StkImp:1 Lnt:1 Prg:0
+13:13:51.145152> OrderId: [4395612208]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=537.032 ms;
+13:13:51.145152> Delete lock SellLimit (1Leg)
+13:13:51.146150> Try adding BuyLimit, Bid: 60212.7 Ask:  60212.8
+13:13:51.571175> [1Leg]: Buy OK BTCUSDC at 60210.70;Price=60210.7;Slippage=-2.5;Execution=425.024 ms;
+13:13:51.571175> adding BuyLimit, ticket = 4395613577 ticketCustom = 9 
+13:13:51.572176> Try adding BuyLimit, Bid: 60208.1 Ask:  60208.2
+13:13:51.823189> [1Leg]: Buy OK BTCUSDC at 60206.10;Price=60206.1;Slippage=1.7;Execution=251.013 ms;
+13:13:51.823189> adding BuyLimit, ticket = 4395613577 ticketCustom = 10 
+13:14:52.672070> Try adding BuyLimit, Bid: 60201.2 Ask:  60201.3
+13:14:52.926085> [1Leg]: Buy OK BTCUSDC at 60199.20;Price=60199.2;Slippage=2.1;Execution=254.015 ms;
+13:14:52.926085> adding BuyLimit, ticket = 4395613577 ticketCustom = 11 
+13:16:45.026352> Try adding BuyLimit, Bid: 60191.9 Ask:  60192.0
+13:16:45.284525> [1Leg]: Buy OK BTCUSDC at 60189.90;Price=60189.9;Slippage=2.1;Execution=258.173 ms;
+13:16:45.284525> adding BuyLimit, ticket = 4395613577 ticketCustom = 12 
+13:16:47.093414> Try adding BuyLimit, Bid: 60180.0 Ask:  60180.1
+13:16:48.072830> [1Leg]: Buy OK BTCUSDC at 60178.00;Price=60178.0;Slippage=2.1;Execution=979.416 ms;
+13:16:48.073829> adding BuyLimit, ticket = 4395613577 ticketCustom = 13 
+13:17:38.609315> Try Close Buy, Ask: 60050.4 Bid:60048.0 
+13:17:38.611317> Stop Signal close long, stoploss=60053.25 TotalVal=0.060 pos:0.060 EntrPrice=60203.25 Stk:1 Lnt:1 Prg:0 Bid: 60048.0 Ask:  60050.4
+13:17:38.951336> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=60050.4;Execution=339.018 ms;
+13:17:38.957336> Close Main Buy, ticketCustom = 14 ticket = 4395613577
+13:22:57.032820> Try Open SellLimit, Ask: 60089.3 Bid:60089.2
+13:22:57.032820> Order Signal open short, Order=1 StepByStepDN:0 Stk:10 StkImp:1 Lnt:1 Prg:0 Bid: 60089.2 Ask:  60089.3
+13:22:57.348837> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=60088.1;Execution=315.015 ms;
+13:22:57.349837> Placed Main SellLimit, ticketCustom = 15 ticket = 4396092531 LastSellPrice=60089.3
+13:23:02.001406> Try adding SellLimit, Ask: 60094.1
+13:23:02.002406> Support: 60094 VolS:1.546 Resistence: 60098.6 VolR:1.5
+13:23:03.023465> [1Leg]: Sell OK BTCUSDC at 60096.10;Price=60096.1;Slippage=-2.0;Execution=1020.059 ms;
+13:23:03.023465> adding Sell (1Leg), ticket = 4396092531 ticketCustom = 16
+13:23:04.663095> Try adding SellLimit, Ask: 60100.1
+13:23:04.663095> Support: 60100 VolS:5.187 Resistence: 60100.1 VolR:0.423
+13:23:04.917110> [1Leg]: Sell OK BTCUSDC at 60102.10;Price=60102.1;Slippage=-2.0;Execution=253.015 ms;
+13:23:04.918114> adding Sell (1Leg), ticket = 4396092531 ticketCustom = 17
+13:23:06.219183> Try adding SellLimit, Ask: 60107.2
+13:23:06.223185> Support: 60107.1 VolS:5.11 Resistence: 60108.7 VolR:0.834
+13:23:06.483197> [1Leg]: Sell OK BTCUSDC at 60109.20;Price=60109.2;Slippage=-2.0;Execution=259.014 ms;
+13:23:06.485199> adding Sell (1Leg), ticket = 4396092531 ticketCustom = 18
+13:23:06.727213> Try adding SellLimit, Ask: 60110.3
+13:23:06.727213> Support: 60110.2 VolS:3.668 Resistence: 60110.3 VolR:0.722
+13:23:06.983226> [1Leg]: Sell OK BTCUSDC at 60112.30;Price=60112.3;Slippage=-2.0;Execution=255.014 ms;
+13:23:06.984226> adding Sell (1Leg), ticket = 4396092531 ticketCustom = 19
+13:26:30.493968> Try Close Sell, Bid: 60157.7 Ask:  60157.8
+13:26:30.495968> Natiag Signal close short, stoploss=60251.74 TotalVal=0.050 pos:-0.050 EntrPrice=60101.74 Stk:20 Lnt:2 Prg:0 Bid: 60157.7 Ask:  60157.8
+13:26:30.768982> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=60157.8;Execution=273.015 ms;
+13:26:30.769984> Close Main Sell ticketCustom = 20 ticket= 4396092531
+13:33:27.854606>  DevBUY (-): 132.65375 avgGapBuy:-43.45375 
+13:33:30.398752>  DevSELL (-): -74.53875 avgGapSell:-39.06125 
+13:33:38.668229> Try Open SellLimit, Ask: 59820.2 Bid:59820.1
+13:33:38.680229> Order Signal open short, Order=1 StepByStepDN:0 Stk:10 StkImp:1 Lnt:1 Prg:0 Bid: 59820.1 Ask:  59820.2
+13:33:39.094250> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=59808.8;Execution=412.020 ms;
+13:33:39.095251> Placed Main SellLimit, ticketCustom = 21 ticket = 4396489233 LastSellPrice=59820.2
+13:33:44.431558> Try adding SellLimit, Ask: 59832.6
+13:33:44.431558> Support: 59826.6 VolS:22.175 Resistence: 59837.4 VolR:1.228
+13:33:46.583681> [1Leg]: Sell OK BTCUSDC at 59834.60;Price=59834.6;Slippage=3.5;Execution=2152.123 ms;
+13:33:46.584682> adding Sell (1Leg), ticket = 4396489233 ticketCustom = 22
+13:33:46.678685> Try adding SellLimit, Ask: 59838.1
+13:33:46.679687> Support: 59838 VolS:2.802 Resistence: 59840.6 VolR:1.165
+13:33:46.986705> [1Leg]: Sell OK BTCUSDC at 59840.10;Price=59840.1;Slippage=-2.0;Execution=307.018 ms;
+13:33:46.987705> adding Sell (1Leg), ticket = 4396489233 ticketCustom = 23
+13:33:50.265891> Try adding SellLimit, Ask: 59846.1
+13:33:50.287896> Support: 59842.5 VolS:1.203 Resistence: 59851 VolR:1.6
+13:33:50.539909> [1Leg]: Sell OK BTCUSDC at 59848.10;Price=59848.1;Slippage=-2.0;Execution=251.013 ms;
+13:33:50.539909> adding Sell (1Leg), ticket = 4396489233 ticketCustom = 24
+13:33:57.861328> Try Delete main Sell order, 
+13:33:57.861328>  
+13:33:58.421362> OrderId: [4396516696]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=559.033 ms;
+13:33:58.434362> Delete main SellLimit (1Leg)
+13:33:58.912388>  DevSELL (+): -63.90375 avgGapSell:-26.79625 
+13:34:01.669547>  DevBUY (-): 64.6225 avgGapBuy:-25.0225 
+13:34:02.070570>  DevBUY (-): 67.42 avgGapBuy:-27.82 
+13:34:03.550655>  DevBUY (+): 74.32 avgGapBuy:-27.82 
+13:34:32.591320> Try adding SellLimit, Ask: 59866.1
+13:34:32.592320> Support: 59863.8 VolS:1.253 Resistence: 59869.6 VolR:1.5
+13:34:32.948340> [1Leg]: Sell OK BTCUSDC at 59868.10;Price=59868.1;Slippage=10.0;Execution=356.020 ms;
+13:34:32.948340> adding Sell (1Leg), ticket = 4396489233 ticketCustom = 25
+13:34:32.948340> Try Delete main Sell order, 
+13:34:32.949340> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59980.66666666 TotalVal=0.030 pos:-0.030 EntrPrice=59830.66666666 Stk:20 StkImp:1 Lnt:1 Prg:0
+13:34:34.149409> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:34.149409> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:35.494505> Try Delete main Sell order, 
+13:34:35.543493> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59980.66666666 TotalVal=0.030 pos:-0.030 EntrPrice=59830.66666666 Stk:20 StkImp:1 Lnt:1 Prg:0
+13:34:36.548544> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:36.665553> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:37.681611> Try Delete main Sell order, 
+13:34:37.681611> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59980.66666666 TotalVal=0.030 pos:-0.030 EntrPrice=59830.66666666 Stk:20 StkImp:1 Lnt:1 Prg:0
+13:34:38.442653> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:38.443656> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:39.734728> Try Delete main Sell order, 
+13:34:39.734728>  
+13:34:40.277759> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:40.437768> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:41.890851> Try Delete main Sell order, 
+13:34:42.019859>  
+13:34:42.456883> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:42.461884> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:43.711956> Try Delete main Sell order, 
+13:34:43.712961>  
+13:34:44.276991> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:44.335993> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:45.466056> Try Delete main Sell order, 
+13:34:45.476057>  
+13:34:47.814191> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:47.815192> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:49.219275> Try Delete main Sell order, 
+13:34:49.219275>  
+13:34:50.787364> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:50.846367> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:51.854423> Try Delete main Sell order, 
+13:34:51.854423>  
+13:34:53.304507> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:53.328510> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:54.448572> Try Delete main Sell order, 
+13:34:54.449573>  
+13:34:55.953659> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:55.953659> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:57.178727> Try Delete main Sell order, 
+13:34:57.179729>  
+13:34:58.731819> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:34:58.766819> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:34:59.818882> Try Delete main Sell order, 
+13:34:59.819884>  
+13:35:01.225961> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:01.321968> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:02.886054> Try Delete main Sell order, 
+13:35:02.887056>  
+13:35:03.564095> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:03.565095> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:04.946175> Try Delete main Sell order, 
+13:35:04.947174>  
+13:35:06.024236> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:06.061239> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:07.411318> Try Delete main Sell order, 
+13:35:07.597325>  
+13:35:08.835398> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:08.870400> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:09.880458> Try Delete main Sell order, 
+13:35:09.881457>  
+13:35:10.999522> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:11.005522> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:12.084584> Try Delete main Sell order, 
+13:35:12.084584>  
+13:35:13.209648> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:13.235650> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:14.311712> Try Delete main Sell order, 
+13:35:14.311712>  
+13:35:15.671789> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:15.671789> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:17.037867> Try Delete main Sell order, 
+13:35:17.149874>  
+13:35:17.991922> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:17.992922> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:19.050984> Try Delete main Sell order, 
+13:35:19.050984>  
+13:35:19.915033> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:20.087043> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:21.236120> Try Delete main Sell order, 
+13:35:21.237111>  
+13:35:21.888148> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:21.889148> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:23.543242> Try Delete main Sell order, 
+13:35:23.556243>  
+13:35:25.655362> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:25.889376> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:27.219452> Try Delete main Sell order, 
+13:35:27.219452>  
+13:35:28.797543> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:28.830543> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:29.880605> Try Delete main Sell order, 
+13:35:29.881606>  
+13:35:31.519698> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:31.555701> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:32.926778> Try Delete main Sell order, 
+13:35:33.000783>  
+13:35:34.976898> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:34.977898> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:36.115962> Try Delete main Sell order, 
+13:35:36.115962>  
+13:35:37.478040> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:37.511039> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:38.578102> Try Delete main Sell order, 
+13:35:38.578102>  
+13:35:39.793172> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:39.899180> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:41.267257> Try Delete main Sell order, 
+13:35:41.268259> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:1 StkImp:1 Lnt:2 Prg:0
+13:35:42.375323> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:42.479328> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:43.711397> Try Delete main Sell order, 
+13:35:43.712398> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:1 StkImp:1 Lnt:2 Prg:0
+13:35:44.867462> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:44.906466> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:46.009528> Try Delete main Sell order, 
+13:35:46.216539>  
+13:35:47.523617> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:47.546616> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:48.709680> Try Delete main Sell order, 
+13:35:48.709680> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:1 StkImp:1 Lnt:2 Prg:0
+13:35:50.023769> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:50.204769> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:51.520846> Try Delete main Sell order, 
+13:35:51.520846> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:1 StkImp:1 Lnt:2 Prg:0
+13:35:52.520902> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:52.570906> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:53.643968> Try Delete main Sell order, 
+13:35:53.644968> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:1 StkImp:1 Lnt:2 Prg:0
+13:35:54.414012> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:54.415011> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:56.133112> Try Delete main Sell order, 
+13:35:56.141111>  
+13:35:56.918155> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:56.964156> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:35:58.431240> Try Delete main Sell order, 
+13:35:58.433240> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:35:58.878268> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:35:58.879268> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:00.221345> Try Delete main Sell order, 
+13:36:00.222346> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:36:01.474417> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:01.591422> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:02.779490> Try Delete main Sell order, 
+13:36:02.793493> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:36:03.796549> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:03.888554> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:04.990631> Try Delete main Sell order, 
+13:36:05.012619> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:36:06.064678> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:06.150693> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:07.393755> Try Delete main Sell order, 
+13:36:07.398755> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:36:07.809780> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:07.809780> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:08.825837> Try Delete main Sell order, 
+13:36:08.825837> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:36:09.644883> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:09.674885> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:10.696944> Try Delete main Sell order, 
+13:36:10.697945> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:36:11.789005> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:11.976016> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:13.692116> Try Delete main Sell order, 
+13:36:13.692116> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:36:14.710176> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:14.711176> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:15.868241> Try Delete main Sell order, 
+13:36:15.969247> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:36:17.544336> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:17.579340> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:18.659402> Try Delete main Sell order, 
+13:36:18.659402>  
+13:36:19.535452> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:19.552460> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:20.648529> Try Delete main Sell order, 
+13:36:20.648529>  
+13:36:21.186546> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:21.186546> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:22.422625> Try Delete main Sell order, 
+13:36:22.422625> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:36:22.864643> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:22.900647> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:23.980705> Try Delete main Sell order, 
+13:36:24.019709>  
+13:36:24.507738> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:24.516507> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:25.787809> Try Delete main Sell order, 
+13:36:25.788810>  
+13:36:26.563855> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:26.563855> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:27.702918> Try Delete main Sell order, 
+13:36:27.702918>  
+13:36:28.101945> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:28.105945> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:29.183013> Try Delete main Sell order, 
+13:36:29.184005>  
+13:36:29.536025> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:29.536025> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:30.576824> Try Delete main Sell order, 
+13:36:30.576824>  
+13:36:30.889844> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:30.890844> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:32.122916> Try Delete main Sell order, 
+13:36:32.123916>  
+13:36:33.178974> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:33.182975> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:34.985079> Try Delete main Sell order, 
+13:36:35.391103>  
+13:36:35.961135> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:35.982135> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:37.201205> Try Delete main Sell order, 
+13:36:37.201205>  
+13:36:37.616231> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:37.617229> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:39.162318> Try Delete main Sell order, 
+13:36:39.162318>  
+13:36:39.991365> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:40.005366> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:41.206435> Try Delete main Sell order, 
+13:36:41.207435> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:36:41.567457> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:41.567457> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:42.829536> Try Delete main Sell order, 
+13:36:42.829536> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:36:43.124550> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:43.127545> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:44.258110> Try Delete main Sell order, 
+13:36:44.259113> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:36:44.595131> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:44.596133> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:45.654192> Try Delete main Sell order, 
+13:36:45.654192> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:36:45.957209> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:45.961215> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:47.003270> Try Delete main Sell order, 
+13:36:47.003270>  
+13:36:47.608306> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:47.864319> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:49.103397> Try Delete main Sell order, 
+13:36:49.103397> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:36:49.691424> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:49.691424> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:51.147506> Try Delete main Sell order, 
+13:36:51.147506> Order Signal open adding short, Order=1  StepByStepDN:1 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:36:51.457526> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:51.457526> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:52.698597> Try Delete main Sell order, 
+13:36:52.698597>  
+13:36:53.200626> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:53.200626> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:54.491699> Try Delete main Sell order, 
+13:36:54.492699>  
+13:36:55.411752> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:55.439753> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:56.599833> Try Delete main Sell order, 
+13:36:56.599833>  
+13:36:57.075848> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:57.076846> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:58.167947> Try Delete main Sell order, 
+13:36:58.168910>  
+13:36:58.524932> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:36:58.525934> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:36:59.692998> Try Delete main Sell order, 
+13:36:59.692998>  
+13:37:00.302035> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:00.304033> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:01.508102> Try Delete main Sell order, 
+13:37:01.509103>  
+13:37:01.852123> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:01.988128> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:03.243203> Try Delete main Sell order, 
+13:37:03.257202>  
+13:37:04.228257> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:04.228257> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:05.387324> Try Delete main Sell order, 
+13:37:05.388324>  
+13:37:05.757346> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:05.758346> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:06.817405> Try Delete main Sell order, 
+13:37:06.818407>  
+13:37:07.511446> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:07.617451> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:08.712518> Try Delete main Sell order, 
+13:37:08.713515>  
+13:37:09.110539> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:09.111539> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:10.214601> Try Delete main Sell order, 
+13:37:10.215602>  
+13:37:11.746688> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:11.746688> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:13.213774> Try Delete main Sell order, 
+13:37:13.268775>  
+13:37:14.376840> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:14.405842> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:15.658913> Try Delete main Sell order, 
+13:37:15.659913>  
+13:37:16.062936> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:16.068937> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:17.602025> Try Delete main Sell order, 
+13:37:17.602025>  
+13:37:18.321065> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:18.424069> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:19.529140> Try Delete main Sell order, 
+13:37:19.530135>  
+13:37:19.887156> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:19.887156> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:21.128227> Try Delete main Sell order, 
+13:37:21.130228>  
+13:37:22.309292> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:22.309292> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:23.387358> Try Delete main Sell order, 
+13:37:23.387358>  
+13:37:24.562426> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:24.627428> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:25.783495> Try Delete main Sell order, 
+13:37:25.854498>  
+13:37:26.810552> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:26.852556> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:27.952618> Try Delete main Sell order, 
+13:37:27.952618> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:28.857706> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:28.858670> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:30.078739> Try Delete main Sell order, 
+13:37:30.079741> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:30.788780> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:30.817783> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:31.892864> Try Delete main Sell order, 
+13:37:31.893845> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:33.538940> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:33.570942> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:34.950019> Try Delete main Sell order, 
+13:37:34.950019> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:36.674119> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:36.745121> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:38.127201> Try Delete main Sell order, 
+13:37:38.229207> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:38.860244> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:38.925247> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:40.085325> Try Delete main Sell order, 
+13:37:40.086320> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:40.821356> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:40.973364> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:42.004422> Try Delete main Sell order, 
+13:37:42.005424> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:43.264497> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:43.492509> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:44.737588> Try Delete main Sell order, 
+13:37:44.738580> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:45.566628> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:45.579628> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:47.195721> Try Delete main Sell order, 
+13:37:47.196721> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:48.395791> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:48.422794> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:49.454849> Try Delete main Sell order, 
+13:37:49.462850> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:50.436909> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:50.495912> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:51.711983> Try Delete main Sell order, 
+13:37:51.711983> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:52.464023> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:52.502026> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:53.549096> Try Delete main Sell order, 
+13:37:53.549096> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:53.867104> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:53.867104> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:54.990707> Try Delete main Sell order, 
+13:37:54.990707> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:55.354725> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:55.358727> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:56.626797> Try Delete main Sell order, 
+13:37:56.635799> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:57.371843> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:57.371843> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:37:58.664916> Try Delete main Sell order, 
+13:37:58.665915> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:37:59.352956> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:37:59.376957> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:00.486019> Try Delete main Sell order, 
+13:38:00.486019> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:01.005048> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:01.005048> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:02.128114> Try Delete main Sell order, 
+13:38:02.129116> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:02.704149> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:02.705162> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:03.942220> Try Delete main Sell order, 
+13:38:03.942220> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:04.365241> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:04.368241> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:05.927332> Try Delete main Sell order, 
+13:38:05.999335> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:07.014394> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:07.098398> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:08.139460> Try Delete main Sell order, 
+13:38:08.140460> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:10.227578> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:10.248590> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:11.327652> Try Delete main Sell order, 
+13:38:11.328644> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:12.191688> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:12.282696> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:13.780783> Try Delete main Sell order, 
+13:38:13.781782> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:14.720836> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:14.762837> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:15.871900> Try Delete main Sell order, 
+13:38:15.991909> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:16.591944> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:16.592943> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:17.900031> Try Delete main Sell order, 
+13:38:17.900031> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:18.977081> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:19.235096> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:20.361159> Try Delete main Sell order, 
+13:38:20.362160> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:21.753241> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:21.790242> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:23.075317> Try Delete main Sell order, 
+13:38:23.076317> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:24.868418> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:24.893422> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:26.886535> Try Delete main Sell order, 
+13:38:26.887533> Order Signal open adding short, Order=2  StepByStepDN:1 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:27.787586> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:27.788588> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:29.230667> Try Delete main Sell order, 
+13:38:29.243669> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:30.372734> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:30.762758> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:31.918823> Try Delete main Sell order, 
+13:38:31.918823> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:32.517855> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:32.522857> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:33.583918> Try Delete main Sell order, 
+13:38:33.584919> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:34.028944> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:34.028944> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:35.556038> Try Delete main Sell order, 
+13:38:35.556038> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:35.882054> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:35.882054> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:37.304132> Try Delete main Sell order, 
+13:38:37.305133> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:37.727156> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:37.764158> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:38.829219> Try Delete main Sell order, 
+13:38:38.830219> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:10 StkImp:1 Lnt:2 Prg:0
+13:38:39.387252> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:39.443254> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:40.635322> Try Delete main Sell order, 
+13:38:40.636322> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:41.724385> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:41.757387> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:42.889451> Try Delete main Sell order, 
+13:38:42.918454> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:43.758503> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:43.879509> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:45.733628> Try Delete main Sell order, 
+13:38:45.734614> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:46.125637> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:46.125637> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:47.500716> Try Delete main Sell order, 
+13:38:47.501716> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:48.018746> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:48.018746> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:49.938858> Try Delete main Sell order, 
+13:38:50.143866> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:50.614895> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:50.614895> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:51.790962> Try Delete main Sell order, 
+13:38:51.790962> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:53.488059> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:53.501061> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:54.803134> Try Delete main Sell order, 
+13:38:54.804135> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:55.860196> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:55.897201> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:57.032263> Try Delete main Sell order, 
+13:38:57.033263> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:38:58.232330> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:38:58.314338> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:38:59.534406> Try Delete main Sell order, 
+13:38:59.534406> Order Signal open adding short, Order=2  StepByStepDN:0 , stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 StkImp:1 Lnt:2 Prg:0
+13:39:00.971489> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:39:00.972490> Error Delete main SellLimit, ticketCustom=25 ticket=4396609884
+13:39:02.031550> Try Close Sell, Bid: 59999.9 Ask:  60000.0
+13:39:02.032549> Stop Signal close short, stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 Lnt:2 Prg:0 Bid: 59999.9 Ask:  60000.0
+13:39:02.338569> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=60000.0;Execution=306.020 ms;
+13:39:02.338569> Close Main Sell ticketCustom = 26 ticket= 4396489233
+13:39:02.339567> Try Delete main Sell order, 
+13:39:02.339567> Stop Signal close short, stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 Lnt:2 Prg:0 Bid: 59999.9 Ask:  60000.0
+13:39:03.856655> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:39:03.914673> Error Delete main SellLimit, ticketCustom=26 ticket=4396941331
+13:39:04.989716> Try Delete main Sell order, 
+13:39:04.990719> Stop Signal close short, stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 Lnt:0 Prg:0 Bid: 59998.6 Ask:  59998.7
+13:39:05.880769> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:39:05.929797> Error Delete main SellLimit, ticketCustom=26 ticket=4396941331
+13:39:07.415858> Try Delete main Sell order, 
+13:39:07.416858> Stop Signal close short, stoploss=59992.49999999 TotalVal=0.040 pos:-0.040 EntrPrice=59842.49999999 Stk:20 Lnt:1 Prg:0 Bid: 60003.6 Ask:  60003.7
+13:39:09.094954> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:39:09.135957> Error Delete main SellLimit, ticketCustom=26 ticket=4396941331
+13:45:35.133085> Try Open SellLimit, Ask: 60130.8 Bid:60130.7
+13:45:35.134084> Order Signal open short, Order=1 StepByStepDN:0 Stk:2 StkImp:1 Lnt:2 Prg:0 Bid: 60130.7 Ask:  60130.8
+13:45:35.395099> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=60130.8;Execution=260.015 ms;
+13:45:35.395099> Placed Main SellLimit, ticketCustom = 27 ticket = 4397280376 LastSellPrice=60130.8
+13:45:35.396099> Try Delete main Sell order, 
+13:45:35.396099> Order Signal open short, Order=1 StepByStepDN:0 Stk:2 StkImp:1 Lnt:2 Prg:0 Bid: 60130.7 Ask:  60130.8
+13:45:35.714117> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:45:35.714117> Error Delete main SellLimit, ticketCustom=27 ticket=4397280376
+13:45:37.035193> Try Delete main Sell order, 
+13:45:37.036193>  
+13:45:39.019305> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:45:39.019305> Error Delete main SellLimit, ticketCustom=27 ticket=4397280376
+13:45:40.029365> Try Delete main Sell order, 
+13:45:40.030364>  
+13:45:40.803410> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:45:40.803410> Error Delete main SellLimit, ticketCustom=27 ticket=4397280376
+13:45:42.308494> Try Delete main Sell order, 
+13:45:42.308494>  
+13:45:42.983534> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:45:43.022536> Error Delete main SellLimit, ticketCustom=27 ticket=4397280376
+13:45:44.196605> Try Delete main Sell order, 
+13:45:44.197603>  
+13:45:44.874649> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:45:44.897645> Error Delete main SellLimit, ticketCustom=27 ticket=4397280376
+13:45:46.101713> Try Delete main Sell order, 
+13:45:46.103713>  
+13:45:47.191776> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:45:47.250780> Error Delete main SellLimit, ticketCustom=27 ticket=4397280376
+13:45:48.835868> Try Delete main Sell order, 
+13:45:48.836870>  
+13:45:49.670926> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:45:49.671918> Error Delete main SellLimit, ticketCustom=27 ticket=4397280376
+13:45:50.747980> Try Delete main Sell order, 
+13:45:50.748979>  
+13:45:52.435074> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:45:52.532082> Error Delete main SellLimit, ticketCustom=27 ticket=4397280376
+13:45:53.917160> Try adding SellLimit, Ask: 60138.6
+13:45:53.918160> Support: 60138.5 VolS:1.243 Resistence: 60138.6 VolR:2.534
+13:45:54.189176> [1Leg]: Sell OK BTCUSDC at 60140.60;Price=60140.6;Slippage=-2.0;Execution=271.015 ms;
+13:45:54.190176> adding Sell (1Leg), ticket = 4397280376 ticketCustom = 28
+13:45:54.190176> Try Delete main Sell order, 
+13:45:54.191176> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=60279.8 TotalVal=0.010 pos:-0.010 EntrPrice=60129.8 Stk:2 StkImp:1 Lnt:2 Prg:0
+13:45:54.611200> OrderId: [4397294005]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=420.024 ms;
+13:45:54.612202> Delete main SellLimit (1Leg)
+13:46:16.502230> Try adding SellLimit, Ask: 60142.0
+13:46:16.502230> Support: 60141.1 VolS:2.335 Resistence: 60142 VolR:0.311
+13:46:16.763247> [1Leg]: Sell OK BTCUSDC at 60144.00;Price=60144.0;Slippage=-2.0;Execution=257.015 ms;
+13:46:16.767247> adding Sell (1Leg), ticket = 4397280376 ticketCustom = 29
+13:46:16.787247> Try Delete main Sell order, 
+13:46:16.787247> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=60279.8 TotalVal=0.010 pos:-0.010 EntrPrice=60129.8 Stk:2 StkImp:1 Lnt:2 Prg:0
+13:46:17.116268> OrderId: [4397302391]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=328.022 ms;
+13:46:17.117266> Delete main SellLimit (1Leg)
+13:46:17.610294> Try adding SellLimit, Ask: 60146.6
+13:46:17.616296> Support: 60146.5 VolS:3.885 Resistence: 60149.2 VolR:1.192
+13:46:17.882310> [1Leg]: Sell OK BTCUSDC at 60148.60;Price=60148.6;Slippage=-2.0;Execution=265.015 ms;
+13:46:17.883310> adding Sell (1Leg), ticket = 4397280376 ticketCustom = 30
+13:46:17.883310> Try Delete main Sell order, 
+13:46:17.883310> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=60279.8 TotalVal=0.010 pos:-0.010 EntrPrice=60129.8 Stk:2 StkImp:2 Lnt:2 Prg:0
+13:46:18.131333> OrderId: [4397303349]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=247.023 ms;
+13:46:18.132323> Delete main SellLimit (1Leg)
+13:46:19.868423> Try adding SellLimit, Ask: 60157.2
+13:46:19.869423> Support: 60157.1 VolS:3.848 Resistence: 60157.2 VolR:0.615
+13:46:20.260447> [1Leg]: Sell OK BTCUSDC at 60159.20;Price=60159.2;Slippage=-2.0;Execution=391.024 ms;
+13:46:20.261445> adding Sell (1Leg), ticket = 4397280376 ticketCustom = 31
+13:46:20.261445> Try Delete main Sell order, 
+13:46:20.261445> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=60279.8 TotalVal=0.010 pos:-0.010 EntrPrice=60129.8 Stk:2 StkImp:2 Lnt:2 Prg:0
+13:46:20.572464> OrderId: [4397305217]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=311.019 ms;
+13:46:20.572464> Delete main SellLimit (1Leg)
+13:54:49.712051> Try Close Sell, Bid: 60281.4 Ask:  60281.8
+13:54:49.714051> Stop Signal close short, stoploss=60279.8 TotalVal=0.010 pos:-0.010 EntrPrice=60129.8 Stk:10 Lnt:2 Prg:0 Bid: 60281.4 Ask:  60281.8
+13:54:50.016070> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=60281.8;Execution=301.019 ms;
+13:54:50.018069> Close Main Sell ticketCustom = 32 ticket= 4397280376
+14:11:04.221770> Try Open SellLimit, Ask: 60252.1 Bid:60252.0
+14:11:04.223767> Order Signal open short, Order=1 StepByStepDN:0 Stk:10 StkImp:2 Lnt:1 Prg:0 Bid: 60252.0 Ask:  60252.1
+14:11:04.504785> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=60249.7;Execution=259.014 ms;
+14:11:04.504785> Placed Main SellLimit, ticketCustom = 33 ticket = 4398075315 LastSellPrice=60249.7
+14:11:04.505786> Try Delete main Sell order, 
+14:11:04.505786> Order Signal open short, Order=1 StepByStepDN:0 Stk:10 StkImp:2 Lnt:1 Prg:0 Bid: 60252.0 Ask:  60252.1
+14:11:04.802803> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:11:04.802803> Error Delete main SellLimit, ticketCustom=33 ticket=4398075315
+14:11:06.031882> Try Delete main Sell order, 
+14:11:06.032874>  
+14:11:07.103935> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:11:07.104935> Error Delete main SellLimit, ticketCustom=33 ticket=4398075315
+14:11:08.133834> Try Delete main Sell order, 
+14:11:08.133834>  
+14:11:08.435840> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:11:08.436841> Error Delete main SellLimit, ticketCustom=33 ticket=4398075315
+14:11:09.495203> Try Delete main Sell order, 
+14:11:09.495203>  
+14:11:09.821222> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:11:09.823223> Error Delete main SellLimit, ticketCustom=33 ticket=4398075315
+14:11:10.891578> Try Delete main Sell order, 
+14:11:10.891578>  
+14:11:11.466613> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:11:11.509615> Error Delete main SellLimit, ticketCustom=33 ticket=4398075315
+14:11:12.741685> Try Delete main Sell order, 
+14:11:12.742687>  
+14:11:14.097763> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:11:14.258773> Error Delete main SellLimit, ticketCustom=33 ticket=4398075315
+14:11:15.535846> Try Delete main Sell order, 
+14:11:15.555846>  
+14:11:16.559917> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:11:16.593907> Error Delete main SellLimit, ticketCustom=33 ticket=4398075315
+14:11:18.103995> Try adding SellLimit, Ask: 60251.4
+14:11:18.103995> Support: 60251.3 VolS:2.306 Resistence: 60255.3 VolR:0.451
+14:11:18.433010> [1Leg]: Sell OK BTCUSDC at 60253.40;Price=60253.4;Slippage=2.5;Execution=328.017 ms;
+14:11:18.433010> adding Sell (1Leg), ticket = 4398075315 ticketCustom = 34
+14:11:18.434012> Try Delete main Sell order, 
+14:11:18.434012> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=60399.6 TotalVal=0.010 pos:-0.010 EntrPrice=60249.6 Stk:10 StkImp:2 Lnt:1 Prg:0
+14:11:18.974044> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:11:18.993043> Error Delete main SellLimit, ticketCustom=34 ticket=4398083306
+14:11:20.096106> Try adding SellLimit, Ask: 60262.8
+14:11:20.120129> Support: 60262.7 VolS:5.806 Resistence: 60267.2 VolR:0.662
+14:11:20.382125> [1Leg]: Sell OK BTCUSDC at 60264.80;Price=60264.8;Slippage=-2.0;Execution=261.015 ms;
+14:11:20.382125> adding Sell (1Leg), ticket = 4398075315 ticketCustom = 35
+14:11:20.383125> Try Delete main Sell order, 
+14:11:20.383125> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=60399.6 TotalVal=0.010 pos:-0.010 EntrPrice=60249.6 Stk:20 StkImp:2 Lnt:1 Prg:0
+14:11:20.885152> OrderId: [4398085192]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=502.028 ms;
+14:11:20.886153> Delete main SellLimit (1Leg)
+14:15:39.353171> Try adding SellLimit, Ask: 60268.1
+14:15:39.353171> Support: 60268 VolS:3.313 Resistence: 60272.8 VolR:1.074
+14:15:39.633170> [1Leg]: Sell OK BTCUSDC at 60270.10;Price=60270.1;Slippage=-2.0;Execution=279.999 ms;
+14:15:39.633170> adding Sell (1Leg), ticket = 4398075315 ticketCustom = 36
+14:15:39.635171> Try Delete main Sell order, 
+14:15:39.635171> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=60402.7 TotalVal=0.020 pos:-0.020 EntrPrice=60252.7 Stk:20 StkImp:2 Lnt:2 Prg:0
+14:15:39.894296> OrderId: [4398195123]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=259.125 ms;
+14:15:39.895296> Delete main SellLimit (1Leg)
+14:15:47.671741> Try adding SellLimit, Ask: 60274.1
+14:15:47.672741> Support: 60274 VolS:4.575 Resistence: 60274.1 VolR:0.668
+14:15:48.035763> [1Leg]: Sell OK BTCUSDC at 60276.10;Price=60276.1;Slippage=-2.0;Execution=362.021 ms;
+14:15:48.041764> adding Sell (1Leg), ticket = 4398075315 ticketCustom = 37
+14:15:48.042763> Try Delete main Sell order, 
+14:15:48.042763> Order Signal open adding short, Order=1  StepByStepDN:0 , stoploss=60402.7 TotalVal=0.020 pos:-0.020 EntrPrice=60252.7 Stk:20 StkImp:2 Lnt:2 Prg:0
+14:15:48.305777> OrderId: [4398197781]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=263.014 ms;
+14:15:48.305777> Delete main SellLimit (1Leg)
+14:19:51.362741> Try Close Sell, Bid: 60292.8 Ask:  60292.9
+14:19:51.362741> Natiag Signal close short, stoploss=60402.7 TotalVal=0.020 pos:-0.020 EntrPrice=60252.7 Stk:2 Lnt:1 Prg:0 Bid: 60292.8 Ask:  60292.9
+14:19:51.650756> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=60292.9;Execution=287.015 ms;
+14:19:51.650756> Close Main Sell ticketCustom = 38 ticket= 4398075315

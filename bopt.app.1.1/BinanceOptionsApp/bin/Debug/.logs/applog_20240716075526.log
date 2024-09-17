@@ -1,0 +1,145 @@
+07:55:43.823180> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+07:55:43.825179> WebSocket connected! Start Partial @depth20 [Future] process...
+07:55:43.825179> WebSocket connected! Start Partial @depth20 [Future] process...
+07:55:43.885183> WebSocket connected! Start @depth [Future] process...
+07:55:44.874206> WebSocket connected! Start Partial @depth20 [Future] process...
+07:55:44.876209> WebSocket connected! Start Partial @depth20 [Future] process...
+07:55:44.881202> WebSocket connected! Start @depth [Future] process...
+07:55:44.912199> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+07:55:45.368458> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 258.34957153 USDT
+08:37:08.475056>  DevBUY (-): 146.00875 avgGapBuy:35.29125 
+08:37:09.516118>  DevBUY (+): 62.10875 avgGapBuy:35.29125 
+08:50:06.653301> Try Open BuyLimit, Bid: 63660.0 Ask:  63660.1
+08:50:06.654302> Order Signal open long, OrdStep=2 Order=2 StepByStepUP:3 Stk:20 StkImp:2 Lnt:2 Prg:0 Tide:20 Natiag:1 Bid: 63660.0 Ask:  63660.1
+08:50:06.962320> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=63660.1;Execution=304.017 ms;
+08:50:06.963319> Placed Main BuyLimit, ticketCustom = 1 ticket= 4916721582 LastBuyPrice=63660.0
+08:50:12.000181> Try place lock SellLimit, Bid: 63658.3 Ask:63658.4 wantPrice:64050.1  EntrPrice:63660.1
+08:50:12.976821> [1Leg]: Sell OK BTCUSDC at 64050.10;Price=64050.1;Slippage=-392.3;Execution=975.655 ms;
+08:50:12.977821> Placed lock SellLimit, ticketCustom= 2, ticket= 4916721582 
+08:50:12.977821> TakeProfit Signal close long, stoploss=63480.1 TotalVal=0.010 pos:0.010 EntrPrice=63660.1 Stk:2 Lnt:2 Prg:0 Bid: 63658.3 Ask:  63658.4
+08:53:33.355345> Try Delete lock Sell order,  ticket = 4916721582 ticketCustom = 2
+08:53:33.356335> Stop Signal close long, stoploss=63480.1 TotalVal=0.010 pos:0.010 EntrPrice=63660.1 Stk:10 Lnt:1 Prg:0 Bid: 63477.7 Ask:  63477.8
+08:53:33.616847> OrderId: [4916724616]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=259.511 ms;
+08:53:33.616847> Delete lock SellLimit (1Leg)
+08:53:33.617836> Try Close Buy urgently, Ask: 63477.8 Bid:63477.7 
+08:53:33.617836> Stop Signal close long, stoploss=63480.1 TotalVal=0.010 pos:0.010 EntrPrice=63660.1 Stk:10 Lnt:1 Prg:0 Bid: 63477.7 Ask:  63477.8
+08:53:33.874853> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=63489.2;Execution=257.018 ms;
+08:53:33.874853> Close Main Buy, ticketCustom = 3 ticket = 4916912558
+09:31:30.609478> Try Open SellLimit, Ask: 63848.1 Bid:63848.0
+09:31:30.610477> Order Signal open short, OrdStep=1 Order=1 StepByStepDN:3 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 63848.0 Ask:  63848.1
+09:31:30.847491> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=63848.1;Execution=237.014 ms;
+09:31:30.848493> Placed Main SellLimit, ticketCustom = 4 ticket = 4916912558 LastSellPrice=63848.1
+09:31:36.001444> Try place lock BuyLimit, Bid: 63846.4 Ask:  63846.5 wantPrice:63458.0 EntrPrice:63848.0
+09:31:37.010157> [1Leg]: Buy OK BTCUSDC at 63458.00;Price=63458.0;Slippage=388.5;Execution=1007.715 ms;
+09:31:37.011158> TakeProfit Signal close short, stoploss=64028.0 TotalVal=0.010 pos:-0.010 EntrPrice=63848.0 Stk:1 Lnt:1 Prg:0 Bid: 63846.4 Ask:  63846.5
+09:31:37.011158> Placed lock BuyLimit, ticketCustom= 5, ticket= 4916912558 
+09:34:09.051311> Try Modify Lock Buy order for close at now, 
+09:34:09.051311> TakeProfit Signal close short, stoploss=64028.0 TotalVal=0.010 pos:-0.010 EntrPrice=63848.0 Stk:2 Lnt:1 Prg:0 Bid: 63839.7 Ask:  63839.8
+09:34:10.052597> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63814.70;execution=996.309 ms;
+09:34:10.054598> Modify BuyLimit (1Leg) for Close at now
+09:34:10.061599> Try Modify Lock Buy order for close at now, 
+09:34:10.062600> TakeProfit Signal close short, stoploss=64028.0 TotalVal=0.010 pos:-0.010 EntrPrice=63848.0 Stk:2 Lnt:1 Prg:0 Bid: 63842.2 Ask:  63842.3
+09:34:10.321613> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63817.20;execution=259.013 ms;
+09:34:10.321613> Modify BuyLimit (1Leg) for Close at now
+09:34:11.131594> Try Modify Lock Buy order for close at now, 
+09:34:11.131594> TakeProfit Signal close short, stoploss=64028.0 TotalVal=0.010 pos:-0.010 EntrPrice=63848.0 Stk:2 Lnt:1 Prg:0 Bid: 63851.2 Ask:  63851.3
+09:34:11.370607> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63826.20;execution=238.014 ms;
+09:34:11.371607> Modify BuyLimit (1Leg) for Close at now
+09:34:12.908280> Try Modify Lock Buy order for close at now, 
+09:34:12.909281> TakeProfit Signal close short, stoploss=64028.0 TotalVal=0.010 pos:-0.010 EntrPrice=63848.0 Stk:2 Lnt:1 Prg:0 Bid: 63855.2 Ask:  63855.3
+09:34:13.145295> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63830.20;execution=236.014 ms;
+09:34:13.146296> Modify BuyLimit (1Leg) for Close at now
+09:34:13.429356> Try Modify Lock Buy order for close at now, 
+09:34:13.432309> TakeProfit Signal close short, stoploss=64028.0 TotalVal=0.010 pos:-0.010 EntrPrice=63848.0 Stk:2 Lnt:1 Prg:0 Bid: 63858.4 Ask:  63858.5
+09:34:13.671326> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63833.40;execution=236.015 ms;
+09:34:13.672324> Modify BuyLimit (1Leg) for Close at now
+09:34:13.945376> Try Modify Lock Buy order for close at now, 
+09:34:13.945376> TakeProfit Signal close short, stoploss=64028.0 TotalVal=0.010 pos:-0.010 EntrPrice=63848.0 Stk:2 Lnt:1 Prg:0 Bid: 63859.7 Ask:  63859.8
+09:34:14.182389> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63834.70;execution=236.048 ms;
+09:34:14.183356> Modify BuyLimit (1Leg) for Close at now
+09:34:15.234554> Try Modify Lock Buy order for close at now, 
+09:34:15.234554> TakeProfit Signal close short, stoploss=64028.0 TotalVal=0.010 pos:-0.010 EntrPrice=63848.0 Stk:2 Lnt:1 Prg:0 Bid: 63860.8 Ask:  63860.9
+09:34:15.489563> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63835.80;execution=255.009 ms;
+09:34:15.490564> Modify BuyLimit (1Leg) for Close at now
+10:00:24.123970>  DevBUY (+): 61.90875 avgGapBuy:40.99125 
+10:19:56.778353>  DevBUY (-): 69.53375 avgGapBuy:32.66625 
+10:30:07.675954> Try Open SellLimit, Ask: 62977.7 Bid:62977.6
+10:30:07.683955> Order Signal open short, OrdStep=1 Order=2 StepByStepDN:3 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 62977.6 Ask:  62977.7
+10:30:07.959971> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=62977.7;Execution=276.016 ms;
+10:30:07.960972> Placed Main SellLimit, ticketCustom = 6 ticket = 4921165160 LastSellPrice=62977.7
+10:30:12.002134> Try place lock BuyLimit, Bid: 62972.4 Ask:  62972.5 wantPrice:62482.74 EntrPrice:62972.74
+10:30:13.085528> [1Leg]: Buy OK BTCUSDC at 62482.70;Price=62482.7;Slippage=489.8;Execution=1082.402 ms;
+10:30:13.086528> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:10 Lnt:2 Prg:0 Bid: 62972.4 Ask:  62972.5
+10:30:13.086528> Placed lock BuyLimit, ticketCustom= 7, ticket= 4921165160 
+10:33:19.292113> Try Modify Lock Buy order for close at now, 
+10:33:19.292113> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 62996.2 Ask:  62996.3
+10:33:19.545123> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=62971.20;execution=252.020 ms;
+10:33:19.549116> Modify BuyLimit (1Leg) for Close at now
+10:33:24.906195> Try Modify Lock Buy order for close at now, 
+10:33:24.906195> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63004.4 Ask:  63004.5
+10:33:25.162210> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=62979.40;execution=255.015 ms;
+10:33:25.163210> Modify BuyLimit (1Leg) for Close at now
+10:33:25.483229> Try Modify Lock Buy order for close at now, 
+10:33:25.485229> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63006.9 Ask:  63007.0
+10:33:25.756243> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=62981.90;execution=271.015 ms;
+10:33:25.759243> Modify BuyLimit (1Leg) for Close at now
+10:33:27.100428> Try Modify Lock Buy order for close at now, 
+10:33:27.100428> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63010.9 Ask:  63011.0
+10:33:28.142333> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=62985.90;execution=1040.904 ms;
+10:33:28.143335> Modify BuyLimit (1Leg) for Close at now
+10:33:28.145343> Try Modify Lock Buy order for close at now, 
+10:33:28.145343> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63015.8 Ask:  63015.9
+10:33:28.393347> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=62990.80;execution=248.004 ms;
+10:33:28.397347> Modify BuyLimit (1Leg) for Close at now
+10:33:31.618072> Try Modify Lock Buy order for close at now, 
+10:33:31.619071> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63022.4 Ask:  63022.5
+10:33:31.873390> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=62997.40;execution=254.318 ms;
+10:33:31.874383> Modify BuyLimit (1Leg) for Close at now
+10:33:32.144399> Try Modify Lock Buy order for close at now, 
+10:33:32.145400> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63030.5 Ask:  63030.6
+10:33:32.396412> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63005.50;execution=251.013 ms;
+10:33:32.396412> Modify BuyLimit (1Leg) for Close at now
+10:33:33.424979> Try Modify Lock Buy order for close at now, 
+10:33:33.424979> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63039.1 Ask:  63039.2
+10:33:33.673980> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63014.10;execution=249.000 ms;
+10:33:33.674980> Modify BuyLimit (1Leg) for Close at now
+10:33:34.027999> Try Modify Lock Buy order for close at now, 
+10:33:34.027999> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63042.9 Ask:  63043.0
+10:33:34.312015> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63017.90;execution=283.016 ms;
+10:33:34.312015> Modify BuyLimit (1Leg) for Close at now
+10:33:34.696038> Try Modify Lock Buy order for close at now, 
+10:33:34.701037> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63077.1 Ask:  63077.5
+10:33:35.046067> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63052.10;execution=304.027 ms;
+10:33:35.047058> Modify BuyLimit (1Leg) for Close at now
+10:33:35.146064> Try Modify Lock Buy order for close at now, 
+10:33:35.147064> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63077.4 Ask:  63077.5
+10:33:35.400079> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63052.40;execution=253.015 ms;
+10:33:35.400079> Modify BuyLimit (1Leg) for Close at now
+10:33:36.262126> Try Modify Lock Buy order for close at now, 
+10:33:36.263128> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63080.0 Ask:  63080.1
+10:33:36.683150> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63055.00;execution=420.022 ms;
+10:33:36.683150> Modify BuyLimit (1Leg) for Close at now
+10:33:39.032134> Try Modify Lock Buy order for close at now, 
+10:33:39.032134> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63082.6 Ask:  63082.7
+10:33:39.303151> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63057.60;execution=271.017 ms;
+10:33:39.304153> Modify BuyLimit (1Leg) for Close at now
+10:33:40.054421> Try Modify Lock Buy order for close at now, 
+10:33:40.054421> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63084.5 Ask:  63084.6
+10:33:40.302441> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63059.50;execution=247.018 ms;
+10:33:40.303439> Modify BuyLimit (1Leg) for Close at now
+10:33:43.080117> Try Modify Lock Buy order for close at now, 
+10:33:43.085118> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63094.0 Ask:  63096.0
+10:33:43.381135> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63069.00;execution=296.017 ms;
+10:33:43.381135> Modify BuyLimit (1Leg) for Close at now
+10:33:43.586143> Try Modify Lock Buy order for close at now, 
+10:33:43.586143> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:1 Prg:0 Bid: 63095.9 Ask:  63096.0
+10:33:43.838171> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63070.90;execution=251.025 ms;
+10:33:43.839169> Modify BuyLimit (1Leg) for Close at now
+10:33:44.666809> Try Modify Lock Buy order for close at now, 
+10:33:44.667811> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:2 Prg:0 Bid: 63099.0 Ask:  63099.1
+10:33:44.956832> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63074.00;execution=254.028 ms;
+10:33:44.956832> Modify BuyLimit (1Leg) for Close at now
+10:33:54.404128> Try Modify Lock Buy order for close at now, 
+10:33:54.404128> TakeProfit Signal close short, stoploss=63252.74 TotalVal=0.010 pos:-0.010 EntrPrice=62972.74 Stk:20 Lnt:2 Prg:0 Bid: 63102.8 Ask:  63102.9
+10:33:54.697139> [1Leg]: BUY OK MODIFY BTCUSDC at 0.010 lot;price=63077.80;execution=291.026 ms;
+10:33:54.697139> Modify BuyLimit (1Leg) for Close at now

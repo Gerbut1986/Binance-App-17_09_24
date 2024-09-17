@@ -1,0 +1,96 @@
+15:16:23.582570> WebSocket connected! Start @depth [Future] process...
+15:16:23.588564> WebSocket connected! Start Partial @depth20 [Future] process...
+15:16:23.590564> WebSocket connected! Start Partial @depth20 [Future] process...
+15:16:23.697562> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:16:24.658275> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:16:24.667264> WebSocket connected! Start Partial @depth20 [Future] process...
+15:16:24.680275> WebSocket connected! Start Partial @depth20 [Future] process...
+15:16:24.702259> WebSocket connected! Start @depth [Future] process...
+15:16:25.217302> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 55.21100070 USDT
+15:19:39.043611> Try Open SellLimit, Ask: 55366.8 Bid:55366.7
+15:19:39.044605> Order Signal open short, Order=0 StepByStepDN:0 Stk:20 StkImp:0 Lnt:2 Prg:0 Natiag:1 Bid: 55366.7 Ask:  55366.8
+15:19:39.307620> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=55357.9;Execution=253.016 ms;
+15:19:39.308619> Placed Main SellLimit, ticketCustom = 1 ticket = 4504888518 LastSellPrice=55366.8
+15:20:11.224677> Try adding SellLimit, Ask: 55449.3
+15:20:11.224677> Support: 55437.9 VolS:0.637 Resistence: 55456.5 VolR:0.576
+15:20:11.575702> [1Leg]: Sell OK BTCUSDC at 55451.30;Price=55451.3;Slippage=-2.0;Execution=350.026 ms;
+15:20:11.576696> adding Sell (1Leg), ticket = 4504888518 ticketCustom = 2
+15:29:55.736222> Try adding SellLimit, Ask: 55611.4
+15:29:55.736222> Support: 55611.3 VolS:0.615 Resistence: 55611.4 VolR:0.685
+15:29:55.980245> [1Leg]: Sell OK BTCUSDC at 55613.40;Price=55613.4;Slippage=-2.0;Execution=243.023 ms;
+15:29:55.982236> adding Sell (1Leg), ticket = 4504888518 ticketCustom = 3
+15:30:14.628975> Try adding SellLimit, Ask: 55639.3
+15:30:14.629975> Support: 55622.1 VolS:0.443 Resistence: 55639.3 VolR:0.17
+15:30:15.076474> [1Leg]: Sell OK BTCUSDC at 55641.30;Price=55641.3;Slippage=-41.0;Execution=445.500 ms;
+15:30:15.077474> adding Sell (1Leg), ticket = 4504888518 ticketCustom = 4
+15:30:15.438507> Try Delete main Sell order, Ord=True
+15:30:15.438507>  
+15:30:16.090073> OrderId: [4505295914]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=650.579 ms;
+15:30:16.091045> Delete main SellLimit (1Leg)
+15:30:16.257056>  DevBUY (-): 112.2375 avgGapBuy:-11.2375 
+15:30:16.448083>  DevBUY (+): 67.1375 avgGapBuy:-11.2375 
+15:30:16.760788>  DevBUY (-): 160.5375 avgGapBuy:-11.2375 
+15:30:16.959626>  DevBUY (+): 105.2375 avgGapBuy:-11.2375 
+15:30:17.766478>  DevBUY (-): 173.2375 avgGapBuy:-11.2375 
+15:30:18.481240>  DevSELL (+): -143.605 avgGapSell:-1.795 
+15:30:18.991270>  DevBUY (+): 123.2575 avgGapBuy:0.6425 
+15:30:19.282471>  DevBUY (-): 232.7575 avgGapBuy:0.6425 
+15:30:21.288289>  DevSELL (-): -84.105 avgGapSell:-1.795 
+15:30:23.305270>  DevSELL (-): -86.5475 avgGapSell:-1.0525 
+15:30:24.316172>  DevSELL (-): -65.3475 avgGapSell:-1.0525 
+15:30:31.441993>  DevSELL (-): -69.75375 avgGapSell:1.45375 
+15:30:31.968378>  DevSELL (-): -93.15375 avgGapSell:1.45375 
+15:30:32.163377>  DevSELL (+): -67.75375 avgGapSell:1.45375 
+15:30:33.202117>  DevSELL (+): -79.95 avgGapSell:-1.55 
+15:30:33.978163>  DevSELL (-): -73.35 avgGapSell:-1.55 
+15:30:34.594056> Try adding SellLimit, Ask: 55768.7
+15:30:34.595055> Support: 55748.2 VolS:1.036 Resistence: 55779.7 VolR:0.568
+15:30:35.165893> [1Leg]: Sell OK BTCUSDC at 55770.70;Price=55770.7;Slippage=-7.6;Execution=569.839 ms;
+15:30:35.165893> adding Sell (1Leg), ticket = 4504888518 ticketCustom = 5
+15:30:35.740822>  DevSELL (+): -130.65 avgGapSell:-1.55 
+15:30:35.740822> Try Delete main Sell order, Ord=True
+15:30:35.741807>  
+15:30:36.420974> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:30:36.427975> Error Delete main SellLimit, ticketCustom=5 ticket=4505323771
+15:30:37.558988>  DevSELL (-): -87.45 avgGapSell:-1.55 
+15:30:38.275030> Try adding SellLimit, Ask: 55820.2
+15:30:38.276028> Support: 55781.4 VolS:2.288 Resistence: 55820.2 VolR:2.061
+15:30:38.656049> [1Leg]: Sell OK BTCUSDC at 55822.20;Price=55822.2;Slippage=-2.0;Execution=379.022 ms;
+15:30:38.665057> adding Sell (1Leg), ticket = 4504888518 ticketCustom = 6
+15:30:38.779055>  DevSELL (+): -79.17625 avgGapSell:-10.02375 
+15:30:39.293703>  DevBUY (+): 62.29625 avgGapBuy:4.40375 
+15:30:40.808781>  DevSELL (+): -62.57625 avgGapSell:-10.02375 
+15:30:52.925038>  DevBUY (+): 63.94375 avgGapBuy:-16.34375 
+15:30:53.124053>  DevBUY (+): 64.64875 avgGapBuy:-17.04875 
+15:30:53.167047>  DevBUY (-): 74.64875 avgGapBuy:-17.04875 
+15:30:53.931211>  DevSELL (+): -81.275 avgGapSell:-18.025 
+15:30:55.920741>  DevSELL (+): -94.375 avgGapSell:-18.025 
+15:31:01.489407>  DevBUY (+): 66.92625 avgGapBuy:-16.72625 
+15:31:01.751420>  DevBUY (-): 88.82625 avgGapBuy:-16.72625 
+15:31:01.988443>  DevBUY (+): 154.22625 avgGapBuy:-16.72625 
+15:31:02.250450>  DevBUY (-): 163.22625 avgGapBuy:-16.72625 
+15:31:03.000593>  DevBUY (+): 156.52625 avgGapBuy:-16.72625 
+15:31:19.710264>  DevBUY (+): 68.12625 avgGapBuy:-0.82625 
+15:31:20.220748>  DevSELL (+): -74.5625 avgGapSell:-0.3375 
+15:31:21.729273>  DevSELL (+): -70.6625 avgGapSell:-0.3375 
+15:31:22.220089>  DevSELL (+): -100.8625 avgGapSell:-0.3375 
+15:31:23.734108>  DevBUY (+): 151.7725 avgGapBuy:-12.4725 
+15:31:23.944131>  DevBUY (-): 81.2725 avgGapBuy:-12.4725 
+15:31:26.275145>  DevSELL (+): -81.98875 avgGapSell:-14.11125 
+15:31:26.489467>  DevBUY (-): 63.1725 avgGapBuy:-12.4725 
+15:31:26.764488>  DevSELL (+): -63.28875 avgGapSell:-14.11125 
+15:31:27.289416>  DevSELL (+): -64.38875 avgGapSell:-14.11125 
+15:31:28.299410>  DevBUY (+): 125.45375 avgGapBuy:-12.75375 
+15:31:28.508419>  DevBUY (-): 66.65375 avgGapBuy:-12.75375 
+15:31:29.824786>  DevSELL (+): -82.16625 avgGapSell:-18.53375 
+15:31:30.305282>  DevSELL (+): -101.36625 avgGapSell:-18.53375 
+15:31:30.532293>  DevSELL (-): -72.06625 avgGapSell:-18.53375 
+15:31:32.053920>  DevBUY (-): 65.55375 avgGapBuy:-12.75375 
+15:31:32.337585>  DevBUY (+): 116.95375 avgGapBuy:-12.75375 
+15:31:32.555604>  DevBUY (-): 100.95375 avgGapBuy:-12.75375 
+15:31:35.861940>  DevSELL (+): -75.58875 avgGapSell:-11.81125 
+15:31:39.392885>  DevBUY (+): 85.4775 avgGapBuy:-0.7775 
+15:31:40.921479>  DevSELL (+): -91.32375 avgGapSell:-7.47625 
+15:31:42.918188>  DevBUY (+): 66.0775 avgGapBuy:-0.7775 
+15:31:44.935297>  DevSELL (+): -78.5775 avgGapSell:3.3775 
+15:31:46.457064>  DevBUY (+): 85.09125 avgGapBuy:10.10875 

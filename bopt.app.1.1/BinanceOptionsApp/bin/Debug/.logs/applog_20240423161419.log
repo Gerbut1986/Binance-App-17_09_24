@@ -1,0 +1,2476 @@
+16:14:37.497200> WebSocket connected! Start @depth [Future] process...
+16:14:37.557192> WebSocket connected! Start @depth [Future] process...
+16:14:37.631195> WebSocket connected! Start Partial @depth20 [Future] process...
+16:14:37.631195> WebSocket connected! Start Partial @depth20 [Future] process...
+16:14:38.029276> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:14:38.035235> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:14:38.655834> WebSocket connected! Start @depth [Future] process...
+16:14:38.660853> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:14:38.716833> WebSocket connected! Start Partial @depth20 [Future] process...
+16:14:38.721829> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:14:38.993176> WebSocket connected! Start Partial @depth20 [Future] process...
+16:14:38.993176> WebSocket connected! Start @depth [Future] process...
+16:14:39.296610> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 751.51232701 USDT
+16:17:58.920907> Try Open Sell Pos, deviationSell: -1.61 Ask: 66074.20
+16:17:58.921907> Support: 66074.1 VolS:0.534 Resistence: 66074.2 VolR:6.31
+16:17:59.202925> [1Leg]: Sell OK BTCUSDT at 66121.8000;Gap=-1.61;Price=66074.2000;Slippage=-47.6;Execution=278.016 ms;
+16:17:59.203925> Elapsted Open Sell (1Leg)
+16:18:15.951806> Try Modify Sell order, 
+16:18:15.955804> Support: 66055.9 VolS:0.361 Resistence: 66061.1 VolR:11.305
+16:18:16.235823> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66109.4000;execution=277.959 ms;
+16:18:16.236826> Modify SellLimit (1Leg)
+16:18:16.470578> Try Modify Sell order, 
+16:18:16.471577> Support: 66052.5 VolS:0.803 Resistence: 66056.4 VolR:8.096
+16:18:17.853467> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:18:17.854470> [1Leg]: Sell failed BTCUSDT;price=66055.0000
+16:18:18.582060> Try Modify Sell order, 
+16:18:18.583066> Support: 66048.5 VolS:0.34 Resistence: 66053 VolR:7.654
+16:18:18.868078> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66103.2000;execution=285.011 ms;
+16:18:18.869076> Modify SellLimit (1Leg)
+16:18:37.628570> Try Modify Sell order, 
+16:18:37.629572> Support: 66041.1 VolS:0.386 Resistence: 66044.5 VolR:9.849
+16:18:37.899591> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66096.2000;execution=270.019 ms;
+16:18:37.900591> Modify SellLimit (1Leg)
+16:19:21.219359> Try Modify Sell order, 
+16:19:21.220358> Support: 66032 VolS:0.543 Resistence: 66032.1 VolR:14.628
+16:19:22.163999> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66082.8000;execution=943.641 ms;
+16:19:22.163999> Modify SellLimit (1Leg)
+16:19:37.112219> Try Modify Sell order, 
+16:19:37.116235> Support: 66040 VolS:0.944 Resistence: 66040.6 VolR:10.463
+16:19:37.403237> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66091.9000;execution=284.020 ms;
+16:19:37.404242> Modify SellLimit (1Leg)
+16:19:42.495581> Try Modify Sell order, 
+16:19:42.497578> Support: 66040 VolS:0.831 Resistence: 66040.1 VolR:12.339
+16:19:42.983600> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66087.3000;execution=485.013 ms;
+16:19:42.984602> Modify SellLimit (1Leg)
+16:20:17.230594> Try Modify Sell order, 
+16:20:17.230594> Support: 66043 VolS:0.231 Resistence: 66043.1 VolR:6.452
+16:20:17.502609> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66089.3000;execution=271.013 ms;
+16:20:17.503609> Modify SellLimit (1Leg)
+16:21:41.291968> Try Modify Sell order, 
+16:21:41.291968> Support: 66043.3 VolS:0.216 Resistence: 66048.4 VolR:16.287
+16:21:41.558959> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66100.9000;execution=265.990 ms;
+16:21:41.559957> Modify SellLimit (1Leg)
+16:21:41.772968> Try Modify Sell order, 
+16:21:41.772968> Support: 66043.3 VolS:0.216 Resistence: 66046.8 VolR:8.578
+16:21:42.035982> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66093.7000;execution=262.014 ms;
+16:21:42.036984> Modify SellLimit (1Leg)
+16:21:43.303265> Try Modify Sell order, 
+16:21:43.307276> Support: 66038.6 VolS:0.968 Resistence: 66043.2 VolR:9.69
+16:21:43.583304> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66091.5000;execution=273.039 ms;
+16:21:43.584281> Modify SellLimit (1Leg)
+16:22:06.007837> Try place BuyLimit, Bid: 66077.50 Ask:  66077.60
+16:22:07.056452> [1Leg]: Buy OK BTCUSDT at 66033.9000;Gap=-3.505;Price=66077.6000;Slippage=43.7;Execution=1047.616 ms;
+16:22:07.057441> Placed lock BuyLimit 
+16:22:07.058441> Try Modify Lock Buy order, 
+16:22:07.488470> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:07.490469> [1Leg]: Buy failed BTCUSDT;price=66077.6000
+16:22:07.492479> Try Modify Lock Buy order, 
+16:22:07.804487> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:07.805489> [1Leg]: Buy failed BTCUSDT;price=66077.6000
+16:22:07.807489> Try Modify Lock Buy order, 
+16:22:08.099505> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:08.112504> [1Leg]: Buy failed BTCUSDT;price=66077.6000
+16:22:08.123504> Try Modify Lock Buy order, 
+16:22:08.407844> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:08.408842> [1Leg]: Buy failed BTCUSDT;price=66077.6000
+16:22:08.409842> Try Modify Lock Buy order, 
+16:22:08.691858> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:08.692857> [1Leg]: Buy failed BTCUSDT;price=66077.6000
+16:22:08.693865> Try Modify Lock Buy order, 
+16:22:09.023877> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:09.023877> [1Leg]: Buy failed BTCUSDT;price=66077.6000
+16:22:09.025876> Try Modify Lock Buy order, 
+16:22:09.307896> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:09.308893> [1Leg]: Buy failed BTCUSDT;price=66077.6000
+16:22:09.323893> Try Modify Lock Buy order, 
+16:22:09.614911> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:09.615910> [1Leg]: Buy failed BTCUSDT;price=66077.6000
+16:22:09.638913> Try Modify Lock Buy order, 
+16:22:09.920929> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:09.920929> [1Leg]: Buy failed BTCUSDT;price=66077.6000
+16:22:09.956930> Try Modify Lock Buy order, 
+16:22:10.241947> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:10.241947> [1Leg]: Buy failed BTCUSDT;price=66076.0000
+16:22:10.243955> Try Modify Lock Buy order, 
+16:22:10.541971> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:10.542966> [1Leg]: Buy failed BTCUSDT;price=66076.0000
+16:22:10.558964> Try Modify Lock Buy order, 
+16:22:10.931986> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:10.932986> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:10.933987> Try Modify Lock Buy order, 
+16:22:11.219003> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:11.220004> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:11.240005> Try Modify Lock Buy order, 
+16:22:11.538021> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:11.538021> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:11.549023> Try Modify Lock Buy order, 
+16:22:11.828038> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:11.829040> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:11.841036> Try Modify Lock Buy order, 
+16:22:12.127053> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:12.128059> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:12.149054> Try Modify Lock Buy order, 
+16:22:12.430073> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:12.431072> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:12.432073> Try Modify Lock Buy order, 
+16:22:12.724087> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:12.725089> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:12.726089> Try Modify Lock Buy order, 
+16:22:13.026109> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:13.038108> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:13.042107> Try Modify Lock Buy order, 
+16:22:13.332126> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:13.333124> [1Leg]: Buy failed BTCUSDT;price=66072.7000
+16:22:13.334132> Try Modify Lock Buy order, 
+16:22:13.622141> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:13.622141> [1Leg]: Buy failed BTCUSDT;price=66072.7000
+16:22:13.623142> Try Modify Lock Buy order, 
+16:22:13.973247> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:13.974250> [1Leg]: Buy failed BTCUSDT;price=66072.7000
+16:22:13.976244> Try Modify Lock Buy order, 
+16:22:14.260257> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:14.260257> [1Leg]: Buy failed BTCUSDT;price=66072.7000
+16:22:14.262263> Try Modify Lock Buy order, 
+16:22:14.559274> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:14.571273> [1Leg]: Buy failed BTCUSDT;price=66072.7000
+16:22:14.573276> Try Modify Lock Buy order, 
+16:22:14.879293> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:14.879293> [1Leg]: Buy failed BTCUSDT;price=66072.7000
+16:22:14.880293> Try Modify Lock Buy order, 
+16:22:15.176562> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:15.176562> [1Leg]: Buy failed BTCUSDT;price=66072.7000
+16:22:15.179562> Try Modify Lock Buy order, 
+16:22:15.465874> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:15.465874> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:15.467846> Try Modify Lock Buy order, 
+16:22:15.750855> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:15.751856> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:15.752856> Try Modify Lock Buy order, 
+16:22:16.053873> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:16.053873> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:16.059873> Try Modify Lock Buy order, 
+16:22:16.397903> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:16.399897> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:16.401904> Try Modify Lock Buy order, 
+16:22:16.691910> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:16.692909> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:16.693920> Try Modify Lock Buy order, 
+16:22:16.973927> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:16.974926> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:16.976927> Try Modify Lock Buy order, 
+16:22:17.256942> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:17.257941> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:17.258942> Try Modify Lock Buy order, 
+16:22:17.538958> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:17.539959> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:17.541960> Try Modify Lock Buy order, 
+16:22:17.820974> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:17.820974> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:17.821974> Try Modify Lock Buy order, 
+16:22:18.119486> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:18.120492> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:18.122493> Try Modify Lock Buy order, 
+16:22:18.403501> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:18.404504> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:18.406504> Try Modify Lock Buy order, 
+16:22:18.749530> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:18.750529> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:18.753545> Try Modify Lock Buy order, 
+16:22:19.043538> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:19.044537> [1Leg]: Buy failed BTCUSDT;price=66070.4000
+16:22:19.056553> Try Modify Lock Buy order, 
+16:22:19.348556> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:19.349555> [1Leg]: Buy failed BTCUSDT;price=66075.7000
+16:22:19.350563> Try Modify Lock Buy order, 
+16:22:19.631573> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:19.631573> [1Leg]: Buy failed BTCUSDT;price=66072.7000
+16:22:19.678574> Try Modify Lock Buy order, 
+16:22:20.013595> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:20.013595> [1Leg]: Buy failed BTCUSDT;price=66072.7000
+16:22:20.015600> Try Modify Lock Buy order, 
+16:22:20.299609> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:20.299609> [1Leg]: Buy failed BTCUSDT;price=66072.7000
+16:22:20.300609> Try Modify Lock Buy order, 
+16:22:20.601834> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:20.602836> [1Leg]: Buy failed BTCUSDT;price=66068.5000
+16:22:20.626836> Try Modify Lock Buy order, 
+16:22:20.921853> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:20.922853> [1Leg]: Buy failed BTCUSDT;price=66068.5000
+16:22:20.924854> Try Modify Lock Buy order, 
+16:22:21.240870> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:21.241870> [1Leg]: Buy failed BTCUSDT;price=66068.5000
+16:22:21.247871> Try Modify Lock Buy order, 
+16:22:21.541886> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:21.541886> [1Leg]: Buy failed BTCUSDT;price=66068.5000
+16:22:21.543895> Try Modify Lock Buy order, 
+16:22:21.831904> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:21.831904> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:21.833913> Try Modify Lock Buy order, 
+16:22:22.117919> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:22.118921> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:22.119928> Try Modify Lock Buy order, 
+16:22:22.403936> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:22.404937> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:22.405939> Try Modify Lock Buy order, 
+16:22:22.707784> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:22.721779> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:22.723779> Try Modify Lock Buy order, 
+16:22:23.004797> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:23.005795> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:23.006796> Try Modify Lock Buy order, 
+16:22:23.307814> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:23.323815> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:23.325814> Try Modify Lock Buy order, 
+16:22:23.617969> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:23.618969> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:23.620969> Try Modify Lock Buy order, 
+16:22:23.951987> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:23.952986> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:23.954987> Try Modify Lock Buy order, 
+16:22:24.301006> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:24.302007> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:24.311005> Try Modify Lock Buy order, 
+16:22:24.625026> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:24.626025> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:24.627026> Try Modify Lock Buy order, 
+16:22:24.932043> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:24.932043> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:24.934043> Try Modify Lock Buy order, 
+16:22:25.250062> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:25.251060> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:25.282063> Try Modify Lock Buy order, 
+16:22:25.565079> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:25.565079> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:25.567077> Try Modify Lock Buy order, 
+16:22:25.863096> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:25.865094> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:25.866105> Try Modify Lock Buy order, 
+16:22:26.153295> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:26.154287> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:26.175288> Try Modify Lock Buy order, 
+16:22:26.474304> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:26.474304> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:26.475306> Try Modify Lock Buy order, 
+16:22:26.757306> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:26.758306> [1Leg]: Buy failed BTCUSDT;price=66068.4000
+16:22:26.759312> Try Modify Lock Buy order, 
+16:22:27.045573> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:27.046574> [1Leg]: Buy failed BTCUSDT;price=66072.6000
+16:22:27.061576> Try Modify Lock Buy order, 
+16:22:27.351591> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:27.352590> [1Leg]: Buy failed BTCUSDT;price=66072.6000
+16:22:27.353592> Try Modify Lock Buy order, 
+16:22:27.634607> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:27.634607> [1Leg]: Buy failed BTCUSDT;price=66072.6000
+16:22:27.636611> Try Modify Lock Buy order, 
+16:22:27.922857> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:27.922857> [1Leg]: Buy failed BTCUSDT;price=66072.6000
+16:22:27.924865> Try Modify Lock Buy order, 
+16:22:28.207870> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:28.207870> [1Leg]: Buy failed BTCUSDT;price=66072.6000
+16:22:28.232872> Try Modify Lock Buy order, 
+16:22:28.533891> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:28.533891> [1Leg]: Buy failed BTCUSDT;price=66072.6000
+16:22:28.535906> Try Modify Lock Buy order, 
+16:22:28.846910> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:28.847909> [1Leg]: Buy failed BTCUSDT;price=66072.6000
+16:22:28.848917> Try Modify Lock Buy order, 
+16:22:29.129928> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:29.130929> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:29.132935> Try Modify Lock Buy order, 
+16:22:29.418943> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:29.419943> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:29.420943> Try Modify Lock Buy order, 
+16:22:29.704668> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:29.705668> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:29.706669> Try Modify Lock Buy order, 
+16:22:30.006685> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:30.007686> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:30.008692> Try Modify Lock Buy order, 
+16:22:30.322704> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:30.322704> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:30.323705> Try Modify Lock Buy order, 
+16:22:30.621729> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:30.621729> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:30.623729> Try Modify Lock Buy order, 
+16:22:30.933694> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:30.933694> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:30.941694> Try Modify Lock Buy order, 
+16:22:31.234891> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:31.234891> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:31.279895> Try Modify Lock Buy order, 
+16:22:31.586908> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:31.586908> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:31.602911> Try Modify Lock Buy order, 
+16:22:31.887927> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:31.898924> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:31.906928> Try Modify Lock Buy order, 
+16:22:32.207946> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:32.208946> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:32.209953> Try Modify Lock Buy order, 
+16:22:32.525963> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:32.525963> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:32.527971> Try Modify Lock Buy order, 
+16:22:32.812530> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:32.813530> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:32.814538> Try Modify Lock Buy order, 
+16:22:33.117615> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:33.117615> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:33.120613> Try Modify Lock Buy order, 
+16:22:33.404635> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:33.405632> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:33.406640> Try Modify Lock Buy order, 
+16:22:33.689602> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:33.689602> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:33.691614> Try Modify Lock Buy order, 
+16:22:34.028622> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:34.030623> [1Leg]: Buy failed BTCUSDT;price=66069.3000
+16:22:34.047625> Try Modify Lock Buy order, 
+16:22:34.331640> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:34.331640> [1Leg]: Buy failed BTCUSDT;price=66072.6000
+16:22:34.339641> Try Modify Lock Buy order, 
+16:22:34.622659> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:34.623657> [1Leg]: Buy failed BTCUSDT;price=66075.0000
+16:22:34.624663> Try Modify Lock Buy order, 
+16:22:34.965900> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:34.972913> [1Leg]: Buy failed BTCUSDT;price=66075.0000
+16:22:34.993908> Try Modify Lock Buy order, 
+16:22:35.291908> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:35.292911> [1Leg]: Buy failed BTCUSDT;price=66075.0000
+16:22:35.309915> Try Modify Lock Buy order, 
+16:22:35.600913> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:35.600913> [1Leg]: Buy failed BTCUSDT;price=66075.0000
+16:22:35.621914> Try Modify Lock Buy order, 
+16:22:35.912932> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:35.912932> [1Leg]: Buy failed BTCUSDT;price=66075.0000
+16:22:35.915930> Try Modify Lock Buy order, 
+16:22:36.205987> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:36.206985> [1Leg]: Buy failed BTCUSDT;price=66075.0000
+16:22:36.305990> Try Modify Lock Buy order, 
+16:22:36.606006> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:36.607007> [1Leg]: Buy failed BTCUSDT;price=66075.0000
+16:22:36.609008> Try Modify Lock Buy order, 
+16:22:36.891021> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:36.892024> [1Leg]: Buy failed BTCUSDT;price=66075.0000
+16:22:36.893024> Try Modify Lock Buy order, 
+16:22:37.176039> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:37.178040> [1Leg]: Buy failed BTCUSDT;price=66075.0000
+16:22:37.241048> Try Modify Lock Buy order, 
+16:22:37.525062> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:37.526060> [1Leg]: Buy failed BTCUSDT;price=66074.9000
+16:22:37.527061> Try Modify Lock Buy order, 
+16:22:37.810074> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:37.840078> [1Leg]: Buy failed BTCUSDT;price=66074.9000
+16:22:37.845080> Try Modify Lock Buy order, 
+16:22:38.137096> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:38.138095> [1Leg]: Buy failed BTCUSDT;price=66074.9000
+16:22:38.139096> Try Modify Lock Buy order, 
+16:22:38.419111> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:38.420121> [1Leg]: Buy failed BTCUSDT;price=66074.9000
+16:22:38.422112> Try Modify Lock Buy order, 
+16:22:38.717977> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:38.719979> [1Leg]: Buy failed BTCUSDT;price=66074.9000
+16:22:38.738981> Try Modify Lock Buy order, 
+16:22:39.019995> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:39.019995> [1Leg]: Buy failed BTCUSDT;price=66072.1000
+16:22:39.020995> Try Modify Lock Buy order, 
+16:22:39.357014> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:39.357014> [1Leg]: Buy failed BTCUSDT;price=66072.1000
+16:22:39.364015> Try Modify Lock Buy order, 
+16:22:39.685035> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:39.685035> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:39.688044> Try Modify Lock Buy order, 
+16:22:39.973544> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:39.974537> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:39.975544> Try Modify Lock Buy order, 
+16:22:40.256554> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:40.257553> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:40.258553> Try Modify Lock Buy order, 
+16:22:40.537983> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:40.537983> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:40.538983> Try Modify Lock Buy order, 
+16:22:40.845925> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:40.851922> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:40.852925> Try Modify Lock Buy order, 
+16:22:41.139928> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:41.141930> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:41.158935> Try Modify Lock Buy order, 
+16:22:41.458945> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:41.459943> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:41.461951> Try Modify Lock Buy order, 
+16:22:41.743960> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:41.743960> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:41.744960> Try Modify Lock Buy order, 
+16:22:42.049977> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:42.050978> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:42.051979> Try Modify Lock Buy order, 
+16:22:42.359573> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:42.373575> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:42.378575> Try Modify Lock Buy order, 
+16:22:42.664359> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:42.664359> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:42.667358> Try Modify Lock Buy order, 
+16:22:42.961374> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:42.962376> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:42.971373> Try Modify Lock Buy order, 
+16:22:43.253392> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:43.253392> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:43.255393> Try Modify Lock Buy order, 
+16:22:43.542409> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:43.542409> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:43.544407> Try Modify Lock Buy order, 
+16:22:43.831427> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:43.832426> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:43.849429> Try Modify Lock Buy order, 
+16:22:44.137675> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:44.137675> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:44.138677> Try Modify Lock Buy order, 
+16:22:44.431693> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:44.432693> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:44.433694> Try Modify Lock Buy order, 
+16:22:44.714915> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:44.715915> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:44.716916> Try Modify Lock Buy order, 
+16:22:45.019934> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:45.020934> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:45.027943> Try Modify Lock Buy order, 
+16:22:45.313960> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:45.315951> [1Leg]: Buy failed BTCUSDT;price=66074.0000
+16:22:45.369954> Try Modify Lock Buy order, 
+16:22:45.692970> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:45.693972> [1Leg]: Buy failed BTCUSDT;price=66071.6000
+16:22:45.694973> Try Modify Lock Buy order, 
+16:22:45.981990> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:45.982989> [1Leg]: Buy failed BTCUSDT;price=66071.6000
+16:22:45.983990> Try Modify Lock Buy order, 
+16:22:46.269005> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:46.269005> [1Leg]: Buy failed BTCUSDT;price=66071.6000
+16:22:46.298008> Try Modify Lock Buy order, 
+16:22:46.595023> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:46.595023> [1Leg]: Buy failed BTCUSDT;price=66068.3000
+16:22:46.597032> Try Modify Lock Buy order, 
+16:22:46.894611> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:46.894611> [1Leg]: Buy failed BTCUSDT;price=66068.3000
+16:22:46.896620> Try Modify Lock Buy order, 
+16:22:47.226639> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:47.227630> [1Leg]: Buy failed BTCUSDT;price=66067.4000
+16:22:47.230659> Try Modify Lock Buy order, 
+16:22:47.515646> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:47.515646> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:47.516650> Try Modify Lock Buy order, 
+16:22:47.820668> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:47.821664> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:47.822665> Try Modify Lock Buy order, 
+16:22:48.106681> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:48.107682> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:48.109689> Try Modify Lock Buy order, 
+16:22:48.410878> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:48.428879> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:48.431878> Try Modify Lock Buy order, 
+16:22:48.757151> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:48.758143> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:48.761170> Try Modify Lock Buy order, 
+16:22:49.052151> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:49.065151> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:49.067153> Try Modify Lock Buy order, 
+16:22:49.352395> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:49.352395> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:49.353396> Try Modify Lock Buy order, 
+16:22:49.643682> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:49.644682> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:49.645685> Try Modify Lock Buy order, 
+16:22:49.928087> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:49.929088> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:49.930096> Try Modify Lock Buy order, 
+16:22:50.210124> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:50.211138> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:50.213132> Try Modify Lock Buy order, 
+16:22:50.544143> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:50.544143> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:50.545144> Try Modify Lock Buy order, 
+16:22:50.845295> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:50.846284> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:50.847285> Try Modify Lock Buy order, 
+16:22:51.129299> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:51.130300> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:51.153299> Try Modify Lock Buy order, 
+16:22:51.446321> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:51.447318> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:51.448326> Try Modify Lock Buy order, 
+16:22:51.733576> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:51.734574> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:51.744573> Try Modify Lock Buy order, 
+16:22:52.065117> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:52.065117> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:52.067126> Try Modify Lock Buy order, 
+16:22:52.351030> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:52.352030> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:52.353038> Try Modify Lock Buy order, 
+16:22:52.720929> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:52.721930> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:52.723937> Try Modify Lock Buy order, 
+16:22:53.008048> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:53.009045> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:53.010046> Try Modify Lock Buy order, 
+16:22:53.357078> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:53.358065> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:53.359065> Try Modify Lock Buy order, 
+16:22:53.647083> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:53.647083> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:53.649092> Try Modify Lock Buy order, 
+16:22:53.937056> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:53.952055> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:53.962052> Try Modify Lock Buy order, 
+16:22:54.336075> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:54.336075> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:54.338088> Try Modify Lock Buy order, 
+16:22:54.621122> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:54.622123> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:54.623123> Try Modify Lock Buy order, 
+16:22:54.905139> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:54.906139> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:54.907148> Try Modify Lock Buy order, 
+16:22:55.190792> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:55.190792> [1Leg]: Buy failed BTCUSDT;price=66064.2000
+16:22:55.192793> Try Modify Lock Buy order, 
+16:22:55.474799> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:55.475799> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:55.476807> Try Modify Lock Buy order, 
+16:22:55.757553> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:55.758554> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:55.759562> Try Modify Lock Buy order, 
+16:22:56.039570> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:56.040569> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:56.047570> Try Modify Lock Buy order, 
+16:22:56.369843> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:22:56.369843> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:56.371849> Try Modify Lock Buy order, 
+16:22:56.654828> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:56.655829> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:56.657836> Try Modify Lock Buy order, 
+16:22:56.943842> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:56.962844> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:56.980847> Try Modify Lock Buy order, 
+16:22:57.265774> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:57.265774> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:57.267780> Try Modify Lock Buy order, 
+16:22:57.549283> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:57.549283> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:57.551282> Try Modify Lock Buy order, 
+16:22:57.836297> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:57.836297> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:57.852323> Try Modify Lock Buy order, 
+16:22:58.131314> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:58.132314> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:58.133322> Try Modify Lock Buy order, 
+16:22:58.413330> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:58.414338> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:58.416345> Try Modify Lock Buy order, 
+16:22:58.754588> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:58.755588> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:58.756589> Try Modify Lock Buy order, 
+16:22:59.125610> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:59.126609> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:59.140608> Try Modify Lock Buy order, 
+16:22:59.481630> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:59.492632> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:59.494631> Try Modify Lock Buy order, 
+16:22:59.776656> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:22:59.778647> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:22:59.780655> Try Modify Lock Buy order, 
+16:23:00.069724> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:00.070724> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:00.077727> Try Modify Lock Buy order, 
+16:23:00.362743> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:00.362743> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:00.363743> Try Modify Lock Buy order, 
+16:23:00.659417> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:00.659417> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:00.670418> Try Modify Lock Buy order, 
+16:23:00.952484> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:00.952484> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:00.954491> Try Modify Lock Buy order, 
+16:23:01.238500> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:01.239501> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:01.254526> Try Modify Lock Buy order, 
+16:23:01.547519> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:01.548518> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:01.549519> Try Modify Lock Buy order, 
+16:23:01.837538> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:01.838535> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:01.839538> Try Modify Lock Buy order, 
+16:23:02.153552> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:02.156552> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:02.159551> Try Modify Lock Buy order, 
+16:23:02.466572> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:02.467571> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:02.492571> Try Modify Lock Buy order, 
+16:23:02.781589> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:02.781589> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:02.807590> Try Modify Lock Buy order, 
+16:23:03.093605> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:03.093605> [1Leg]: Buy failed BTCUSDT;price=66057.6000
+16:23:03.095613> Try Modify Lock Buy order, 
+16:23:03.389623> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:03.390623> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:03.391623> Try Modify Lock Buy order, 
+16:23:03.687641> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:03.687641> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:03.689649> Try Modify Lock Buy order, 
+16:23:03.972657> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:03.973657> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:03.974657> Try Modify Lock Buy order, 
+16:23:04.265674> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:04.266691> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:04.272674> Try Modify Lock Buy order, 
+16:23:04.663695> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:04.664698> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:04.666696> Try Modify Lock Buy order, 
+16:23:04.959714> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:04.959714> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:04.960714> Try Modify Lock Buy order, 
+16:23:05.252635> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:05.253626> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:05.255625> Try Modify Lock Buy order, 
+16:23:05.568517> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:05.569518> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:05.608520> Try Modify Lock Buy order, 
+16:23:05.894537> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:05.894537> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:05.895537> Try Modify Lock Buy order, 
+16:23:06.185553> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:06.185553> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:06.221553> Try Modify Lock Buy order, 
+16:23:06.528573> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:06.530573> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:06.550575> Try Modify Lock Buy order, 
+16:23:06.850591> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:06.851590> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:06.854593> Try Modify Lock Buy order, 
+16:23:07.142607> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:07.143608> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:07.145628> Try Modify Lock Buy order, 
+16:23:07.431969> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:07.432967> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:07.433969> Try Modify Lock Buy order, 
+16:23:07.717485> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:07.718486> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:07.731486> Try Modify Lock Buy order, 
+16:23:08.015501> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:08.017501> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:08.036504> Try Modify Lock Buy order, 
+16:23:08.316522> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:08.318518> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:08.334528> Try Modify Lock Buy order, 
+16:23:08.618537> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:08.619556> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:08.621538> Try Modify Lock Buy order, 
+16:23:08.907981> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:08.908983> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:08.909990> Try Modify Lock Buy order, 
+16:23:09.223126> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:09.223126> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:09.225135> Try Modify Lock Buy order, 
+16:23:09.516162> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:09.517145> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:09.550146> Try Modify Lock Buy order, 
+16:23:09.853165> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:09.854164> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:09.858164> Try Modify Lock Buy order, 
+16:23:10.197183> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:10.197183> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:10.199191> Try Modify Lock Buy order, 
+16:23:10.541203> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:10.557202> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:10.572205> Try Modify Lock Buy order, 
+16:23:10.854221> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:10.854221> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:10.855221> Try Modify Lock Buy order, 
+16:23:11.143239> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:11.144238> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:11.168238> Try Modify Lock Buy order, 
+16:23:11.508257> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:11.509258> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:11.510259> Try Modify Lock Buy order, 
+16:23:11.799275> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:11.799275> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:11.801276> Try Modify Lock Buy order, 
+16:23:12.109387> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:12.112386> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:12.137391> Try Modify Lock Buy order, 
+16:23:12.435406> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:12.436406> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:12.450404> Try Modify Lock Buy order, 
+16:23:12.732423> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:12.733424> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:12.734424> Try Modify Lock Buy order, 
+16:23:13.020438> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:13.020438> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:13.041440> Try Modify Lock Buy order, 
+16:23:13.325456> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:13.326463> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:13.328468> Try Modify Lock Buy order, 
+16:23:13.738154> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:13.739152> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:13.740158> Try Modify Lock Buy order, 
+16:23:14.023169> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:14.023169> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:14.025169> Try Modify Lock Buy order, 
+16:23:14.308185> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:14.309185> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:14.310185> Try Modify Lock Buy order, 
+16:23:14.591202> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:14.591202> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:14.593200> Try Modify Lock Buy order, 
+16:23:14.887648> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:14.888649> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:14.889657> Try Modify Lock Buy order, 
+16:23:15.186666> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:15.186666> [1Leg]: Buy failed BTCUSDT;price=66063.0000
+16:23:15.187666> Try Modify Lock Buy order, 
+16:23:15.478683> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:15.479683> [1Leg]: Buy failed BTCUSDT;price=66058.0000
+16:23:15.481691> Try Modify Lock Buy order, 
+16:23:15.793700> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:15.794703> [1Leg]: Buy failed BTCUSDT;price=66058.0000
+16:23:15.795703> Try Modify Lock Buy order, 
+16:23:16.086718> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:16.086718> [1Leg]: Buy failed BTCUSDT;price=66056.0000
+16:23:16.109717> Try Modify Lock Buy order, 
+16:23:16.416739> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:16.417737> [1Leg]: Buy failed BTCUSDT;price=66052.7000
+16:23:16.418747> Try Modify Lock Buy order, 
+16:23:16.704754> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:16.705753> [1Leg]: Buy failed BTCUSDT;price=66052.7000
+16:23:16.710754> Try Modify Lock Buy order, 
+16:23:17.040772> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:17.041771> [1Leg]: Buy failed BTCUSDT;price=66052.1000
+16:23:17.042773> Try Modify Lock Buy order, 
+16:23:17.333792> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:17.334791> [1Leg]: Buy failed BTCUSDT;price=66052.1000
+16:23:17.359794> Try Modify Lock Buy order, 
+16:23:17.644809> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:17.645810> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:17.679811> Try Modify Lock Buy order, 
+16:23:17.967828> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:17.967828> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:17.968828> Try Modify Lock Buy order, 
+16:23:18.250844> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:18.251845> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:18.252852> Try Modify Lock Buy order, 
+16:23:18.535859> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:18.536861> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:18.550861> Try Modify Lock Buy order, 
+16:23:18.868054> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:18.869058> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:18.872045> Try Modify Lock Buy order, 
+16:23:19.163057> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:19.164489> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:19.182053> Try Modify Lock Buy order, 
+16:23:19.483071> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:19.483071> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:19.484072> Try Modify Lock Buy order, 
+16:23:19.769940> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:19.769940> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:19.771949> Try Modify Lock Buy order, 
+16:23:20.065195> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:20.067193> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:20.103194> Try Modify Lock Buy order, 
+16:23:20.386212> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:20.387211> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:20.388213> Try Modify Lock Buy order, 
+16:23:20.676241> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:20.677229> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:20.693231> Try Modify Lock Buy order, 
+16:23:20.996246> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:20.997246> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:20.998247> Try Modify Lock Buy order, 
+16:23:21.286272> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:21.287265> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:21.295265> Try Modify Lock Buy order, 
+16:23:21.589876> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:21.590861> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:21.591861> Try Modify Lock Buy order, 
+16:23:21.873877> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:21.874876> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:21.875883> Try Modify Lock Buy order, 
+16:23:22.215720> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:22.217720> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:22.265721> Try Modify Lock Buy order, 
+16:23:22.611753> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:22.614750> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:22.622754> Try Modify Lock Buy order, 
+16:23:22.912759> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:22.912759> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:22.914760> Try Modify Lock Buy order, 
+16:23:23.233778> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:23.234778> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:23.246780> Try Modify Lock Buy order, 
+16:23:23.533797> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:23.534798> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:23.536804> Try Modify Lock Buy order, 
+16:23:23.835811> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:23.836813> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:23.838814> Try Modify Lock Buy order, 
+16:23:24.193349> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:24.195393> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:24.199355> Try Modify Lock Buy order, 
+16:23:24.504356> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:24.504356> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:24.506366> Try Modify Lock Buy order, 
+16:23:24.798324> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:24.799323> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:24.800325> Try Modify Lock Buy order, 
+16:23:25.090337> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:25.091339> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:25.092339> Try Modify Lock Buy order, 
+16:23:25.389354> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:25.390356> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:25.403354> Try Modify Lock Buy order, 
+16:23:25.704887> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:25.716887> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:25.719887> Try Modify Lock Buy order, 
+16:23:26.011773> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:26.011773> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:26.029774> Try Modify Lock Buy order, 
+16:23:26.326792> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:26.326792> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:26.328841> Try Modify Lock Buy order, 
+16:23:26.618809> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:26.619808> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:26.620809> Try Modify Lock Buy order, 
+16:23:26.924257> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:26.926256> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:26.942256> Try Modify Lock Buy order, 
+16:23:27.257276> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:27.270277> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:27.271277> Try Modify Lock Buy order, 
+16:23:27.561296> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:27.561296> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:27.607296> Try Modify Lock Buy order, 
+16:23:27.992548> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:27.993542> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:27.995545> Try Modify Lock Buy order, 
+16:23:28.286552> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:28.287553> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:28.288561> Try Modify Lock Buy order, 
+16:23:28.574578> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:28.580570> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:28.588571> Try Modify Lock Buy order, 
+16:23:28.872588> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:28.874587> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:28.875595> Try Modify Lock Buy order, 
+16:23:29.154486> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:29.155487> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:29.156487> Try Modify Lock Buy order, 
+16:23:29.443504> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:29.443504> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:29.445501> Try Modify Lock Buy order, 
+16:23:29.751783> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:29.752785> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:29.753791> Try Modify Lock Buy order, 
+16:23:30.038779> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:30.038779> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:30.058782> Try Modify Lock Buy order, 
+16:23:30.340798> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:30.340798> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:30.341798> Try Modify Lock Buy order, 
+16:23:30.623703> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:30.624702> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:30.625703> Try Modify Lock Buy order, 
+16:23:30.910718> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:30.910718> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:30.911719> Try Modify Lock Buy order, 
+16:23:31.192736> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:31.193734> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:31.250735> Try Modify Lock Buy order, 
+16:23:31.548756> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:31.548756> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:31.579756> Try Modify Lock Buy order, 
+16:23:31.868772> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:31.869782> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:31.871780> Try Modify Lock Buy order, 
+16:23:32.159144> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:32.160143> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:32.168145> Try Modify Lock Buy order, 
+16:23:32.449160> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:32.449160> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:32.451166> Try Modify Lock Buy order, 
+16:23:32.742183> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:32.743176> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:32.788180> Try Modify Lock Buy order, 
+16:23:33.071195> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:33.072196> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:33.073226> Try Modify Lock Buy order, 
+16:23:33.356212> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:33.357213> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:33.359213> Try Modify Lock Buy order, 
+16:23:33.719463> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:33.720247> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:33.790247> Try Modify Lock Buy order, 
+16:23:34.076253> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:34.076253> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:34.077254> Try Modify Lock Buy order, 
+16:23:34.361269> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:34.363270> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:34.364278> Try Modify Lock Buy order, 
+16:23:34.649913> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:34.650913> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:34.666914> Try Modify Lock Buy order, 
+16:23:34.949930> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:34.950930> [1Leg]: Buy failed BTCUSDT;price=66056.1000
+16:23:34.951941> Try Modify Lock Buy order, 
+16:23:35.242007> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:35.244010> [1Leg]: Buy failed BTCUSDT;price=66051.1000
+16:23:35.264008> Try Modify Lock Buy order, 
+16:23:35.570028> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:35.571028> [1Leg]: Buy failed BTCUSDT;price=66051.1000
+16:23:35.608028> Try Modify Lock Buy order, 
+16:23:35.893050> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:35.894047> [1Leg]: Buy failed BTCUSDT;price=66046.6000
+16:23:35.912048> Try Modify Lock Buy order, 
+16:23:36.204064> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:36.205064> [1Leg]: Buy failed BTCUSDT;price=66046.6000
+16:23:36.223065> Try Modify Lock Buy order, 
+16:23:36.519952> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:36.520952> [1Leg]: Buy failed BTCUSDT;price=66046.6000
+16:23:36.521952> Try Modify Lock Buy order, 
+16:23:36.810970> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:36.810970> [1Leg]: Buy failed BTCUSDT;price=66046.6000
+16:23:36.814969> Try Modify Lock Buy order, 
+16:23:37.095660> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:37.096659> [1Leg]: Buy failed BTCUSDT;price=66046.6000
+16:23:37.097660> Try Modify Lock Buy order, 
+16:23:37.379808> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:37.380806> [1Leg]: Buy failed BTCUSDT;price=66046.6000
+16:23:37.381806> Try Modify Lock Buy order, 
+16:23:37.663869> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:37.664869> [1Leg]: Buy failed BTCUSDT;price=66046.6000
+16:23:37.666878> Try Modify Lock Buy order, 
+16:23:37.955521> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:37.955521> [1Leg]: Buy failed BTCUSDT;price=66046.6000
+16:23:37.956522> Try Modify Lock Buy order, 
+16:23:38.289538> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:38.290539> [1Leg]: Buy failed BTCUSDT;price=66046.6000
+16:23:38.308540> Try Modify Lock Buy order, 
+16:23:38.597561> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:38.598561> [1Leg]: Buy failed BTCUSDT;price=66045.9000
+16:23:38.601566> Try Modify Lock Buy order, 
+16:23:38.942578> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:38.943581> [1Leg]: Buy failed BTCUSDT;price=66045.9000
+16:23:38.945589> Try Modify Lock Buy order, 
+16:23:39.284736> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:39.285740> [1Leg]: Buy failed BTCUSDT;price=66045.9000
+16:23:39.293737> Try Modify Lock Buy order, 
+16:23:39.590755> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:39.591755> [1Leg]: Buy failed BTCUSDT;price=66045.9000
+16:23:39.592756> Try Modify Lock Buy order, 
+16:23:39.877774> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:39.878772> [1Leg]: Buy failed BTCUSDT;price=66045.9000
+16:23:39.880777> Try Modify Lock Buy order, 
+16:23:40.166804> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:40.167793> [1Leg]: Buy failed BTCUSDT;price=66045.9000
+16:23:40.168793> Try Modify Lock Buy order, 
+16:23:40.448807> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:40.449808> [1Leg]: Buy failed BTCUSDT;price=66045.9000
+16:23:40.472810> Try Modify Lock Buy order, 
+16:23:40.755825> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:40.755825> [1Leg]: Buy failed BTCUSDT;price=66045.9000
+16:23:40.756826> Try Modify Lock Buy order, 
+16:23:41.037841> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:41.037841> [1Leg]: Buy failed BTCUSDT;price=66045.9000
+16:23:41.045842> Try Modify Lock Buy order, 
+16:23:41.340386> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:41.341387> [1Leg]: Buy failed BTCUSDT;price=66045.9000
+16:23:41.342393> Try Modify Lock Buy order, 
+16:23:41.633403> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:41.634403> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:41.636413> Try Modify Lock Buy order, 
+16:23:41.916715> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:41.917715> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:41.919713> Try Modify Lock Buy order, 
+16:23:42.205278> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:42.205278> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:42.206280> Try Modify Lock Buy order, 
+16:23:42.489869> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:42.509867> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:42.510870> Try Modify Lock Buy order, 
+16:23:42.841888> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:42.843890> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:42.846890> Try Modify Lock Buy order, 
+16:23:43.132906> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:43.133905> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:43.134906> Try Modify Lock Buy order, 
+16:23:43.418191> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:43.418191> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:43.420200> Try Modify Lock Buy order, 
+16:23:43.707209> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:43.707209> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:43.709393> Try Modify Lock Buy order, 
+16:23:44.005227> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:44.006225> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:44.042238> Try Modify Lock Buy order, 
+16:23:44.366248> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:44.367247> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:44.368247> Try Modify Lock Buy order, 
+16:23:44.655263> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:44.656264> [1Leg]: Buy failed BTCUSDT;price=66044.9000
+16:23:44.658273> Try Modify Lock Buy order, 
+16:23:44.956281> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:44.956281> [1Leg]: Buy failed BTCUSDT;price=66043.7000
+16:23:44.957281> Try Modify Lock Buy order, 
+16:23:45.303301> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:45.303301> [1Leg]: Buy failed BTCUSDT;price=66043.7000
+16:23:45.319305> Try Modify Lock Buy order, 
+16:23:45.622342> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:45.623318> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:45.624319> Try Modify Lock Buy order, 
+16:23:45.909335> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:45.909335> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:45.912337> Try Modify Lock Buy order, 
+16:23:46.200353> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:46.202352> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:46.209353> Try Modify Lock Buy order, 
+16:23:46.509369> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:46.510370> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:46.512378> Try Modify Lock Buy order, 
+16:23:46.795389> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:46.796393> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:46.798394> Try Modify Lock Buy order, 
+16:23:47.101162> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:47.102162> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:47.103163> Try Modify Lock Buy order, 
+16:23:47.388181> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:47.389179> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:47.412180> Try Modify Lock Buy order, 
+16:23:47.730012> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:47.731013> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:47.733021> Try Modify Lock Buy order, 
+16:23:48.015029> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:48.015029> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:48.017037> Try Modify Lock Buy order, 
+16:23:48.299050> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:48.300046> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:48.301046> Try Modify Lock Buy order, 
+16:23:48.584156> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:48.585154> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:48.587153> Try Modify Lock Buy order, 
+16:23:48.875172> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:48.876173> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:48.882172> Try Modify Lock Buy order, 
+16:23:49.170189> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:49.170189> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:49.172197> Try Modify Lock Buy order, 
+16:23:49.454204> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:49.454204> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:49.455205> Try Modify Lock Buy order, 
+16:23:49.661236> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+16:23:49.662219> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+16:23:49.838225> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:49.838225> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:49.839228> Try Modify Lock Buy order, 
+16:23:50.123250> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:50.124243> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:50.125244> Try Modify Lock Buy order, 
+16:23:50.496265> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:50.496265> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:23:50.497265> Try Modify Lock Buy order, 
+16:23:50.714316> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:23:50.895286> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:50.896288> [1Leg]: Buy failed BTCUSDT;price=66050.0000
+16:23:50.897288> Try Modify Lock Buy order, 
+16:23:51.179303> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:51.179303> [1Leg]: Buy failed BTCUSDT;price=66050.0000
+16:23:51.200305> Try Modify Lock Buy order, 
+16:23:51.563327> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:51.564326> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:51.568327> Try Modify Lock Buy order, 
+16:23:51.874342> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:51.875346> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:51.877344> Try Modify Lock Buy order, 
+16:23:52.177309> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:52.178310> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:52.196311> Try Modify Lock Buy order, 
+16:23:52.481327> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:52.482327> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:52.483327> Try Modify Lock Buy order, 
+16:23:52.781671> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:52.782670> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:52.786670> Try Modify Lock Buy order, 
+16:23:53.081685> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:53.082687> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:53.083687> Try Modify Lock Buy order, 
+16:23:53.374707> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:53.389704> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:53.397705> Try Modify Lock Buy order, 
+16:23:53.677989> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:53.677989> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:53.678989> Try Modify Lock Buy order, 
+16:23:53.961005> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:53.961005> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:53.963013> Try Modify Lock Buy order, 
+16:23:54.247824> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:54.247824> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:54.272827> Try Modify Lock Buy order, 
+16:23:54.554844> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:54.554844> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:54.555860> Try Modify Lock Buy order, 
+16:23:54.857861> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:54.871861> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:54.874861> Try Modify Lock Buy order, 
+16:23:55.155393> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:55.155393> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:55.157402> Try Modify Lock Buy order, 
+16:23:55.485413> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:55.486414> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:55.487414> Try Modify Lock Buy order, 
+16:23:55.772334> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:55.772334> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:55.774342> Try Modify Lock Buy order, 
+16:23:56.088351> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:56.090351> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:56.100349> Try Modify Lock Buy order, 
+16:23:56.450373> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:23:56.451371> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:56.469371> Try Modify Lock Buy order, 
+16:23:56.752386> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:56.753390> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:56.754395> Try Modify Lock Buy order, 
+16:23:57.035406> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:57.035406> [1Leg]: Buy failed BTCUSDT;price=66051.0000
+16:23:57.037413> Try Modify Lock Buy order, 
+16:23:57.326975> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:57.326975> [1Leg]: Buy failed BTCUSDT;price=66050.8000
+16:23:57.328991> Try Modify Lock Buy order, 
+16:23:57.621994> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:57.621994> [1Leg]: Buy failed BTCUSDT;price=66050.8000
+16:23:57.624000> Try Modify Lock Buy order, 
+16:23:58.068157> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:58.086158> [1Leg]: Buy failed BTCUSDT;price=66050.8000
+16:23:58.114159> Try Modify Lock Buy order, 
+16:23:58.406755> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:58.406755> [1Leg]: Buy failed BTCUSDT;price=66050.8000
+16:23:58.420754> Try Modify Lock Buy order, 
+16:23:58.714772> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:58.714772> [1Leg]: Buy failed BTCUSDT;price=66050.8000
+16:23:58.715773> Try Modify Lock Buy order, 
+16:23:59.003680> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:59.004680> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:23:59.102687> Try Modify Lock Buy order, 
+16:23:59.385704> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:59.386703> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:23:59.387711> Try Modify Lock Buy order, 
+16:23:59.687054> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:59.689054> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:23:59.699057> Try Modify Lock Buy order, 
+16:23:59.984069> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:23:59.984069> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:23:59.986076> Try Modify Lock Buy order, 
+16:24:00.269201> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:00.270189> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:00.272196> Try Modify Lock Buy order, 
+16:24:00.572207> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:00.573206> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:00.579205> Try Modify Lock Buy order, 
+16:24:01.358343> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:01.358343> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:01.379342> Try Modify Lock Buy order, 
+16:24:01.675368> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:01.676362> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:01.677362> Try Modify Lock Buy order, 
+16:24:02.026401> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:02.028386> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:02.047392> Try Modify Lock Buy order, 
+16:24:02.405404> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:02.413406> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:02.415405> Try Modify Lock Buy order, 
+16:24:02.699420> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:02.701418> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:02.702421> Try Modify Lock Buy order, 
+16:24:02.993442> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:02.994438> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:02.996446> Try Modify Lock Buy order, 
+16:24:03.280455> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:03.281460> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:03.284452> Try Modify Lock Buy order, 
+16:24:03.660474> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:03.680478> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:03.682476> Try Modify Lock Buy order, 
+16:24:03.992574> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:03.993572> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:03.997574> Try Modify Lock Buy order, 
+16:24:04.294592> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:04.295591> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:04.297599> Try Modify Lock Buy order, 
+16:24:04.582607> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:04.583607> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:04.584615> Try Modify Lock Buy order, 
+16:24:04.865184> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:04.866184> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:04.869182> Try Modify Lock Buy order, 
+16:24:05.156653> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:05.156653> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:05.177654> Try Modify Lock Buy order, 
+16:24:05.488672> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:05.504673> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:05.511674> Try Modify Lock Buy order, 
+16:24:05.794689> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:05.795689> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:05.796697> Try Modify Lock Buy order, 
+16:24:06.115708> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:06.116709> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:06.131710> Try Modify Lock Buy order, 
+16:24:06.438726> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:06.442725> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:06.446725> Try Modify Lock Buy order, 
+16:24:06.729743> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:06.730744> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:06.731751> Try Modify Lock Buy order, 
+16:24:07.015761> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:07.017759> [1Leg]: Buy failed BTCUSDT;price=66049.5000
+16:24:07.040759> Try Modify Lock Buy order, 
+16:24:07.388781> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:07.388781> [1Leg]: Buy failed BTCUSDT;price=66043.0000
+16:24:07.390790> Try Modify Lock Buy order, 
+16:24:07.674314> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:07.675313> [1Leg]: Buy failed BTCUSDT;price=66043.0000
+16:24:07.677319> Try Modify Lock Buy order, 
+16:24:07.960332> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:07.976330> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:08.010332> Try Modify Lock Buy order, 
+16:24:08.318796> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:08.319796> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:08.321797> Try Modify Lock Buy order, 
+16:24:08.736385> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:08.738386> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:08.747385> Try Modify Lock Buy order, 
+16:24:09.033405> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:09.034404> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:09.036411> Try Modify Lock Buy order, 
+16:24:09.323420> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:09.323420> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:09.326419> Try Modify Lock Buy order, 
+16:24:09.610638> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:09.610638> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:09.612644> Try Modify Lock Buy order, 
+16:24:09.901887> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:09.904888> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:09.926894> Try Modify Lock Buy order, 
+16:24:10.212907> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:10.213905> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:10.214911> Try Modify Lock Buy order, 
+16:24:10.526810> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:10.527811> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:10.528811> Try Modify Lock Buy order, 
+16:24:10.818738> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:10.819737> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:10.852741> Try Modify Lock Buy order, 
+16:24:11.136754> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:11.140756> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:11.153756> Try Modify Lock Buy order, 
+16:24:11.445772> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:11.445772> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:11.446773> Try Modify Lock Buy order, 
+16:24:11.725896> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:11.725896> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:11.727898> Try Modify Lock Buy order, 
+16:24:12.014426> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:12.032426> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:12.059426> Try Modify Lock Buy order, 
+16:24:12.343444> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:12.343444> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:12.344445> Try Modify Lock Buy order, 
+16:24:12.625462> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:12.626460> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:12.627468> Try Modify Lock Buy order, 
+16:24:12.913323> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:12.914320> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:12.915328> Try Modify Lock Buy order, 
+16:24:13.234006> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:13.235006> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:13.236011> Try Modify Lock Buy order, 
+16:24:13.529100> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:13.540110> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:13.564106> Try Modify Lock Buy order, 
+16:24:13.888264> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:13.890261> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:13.905265> Try Modify Lock Buy order, 
+16:24:14.198271> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:14.198271> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:14.201269> Try Modify Lock Buy order, 
+16:24:14.654294> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:14.680297> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:14.688298> Try Modify Lock Buy order, 
+16:24:14.971313> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:14.972314> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:14.973321> Try Modify Lock Buy order, 
+16:24:15.255084> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:15.255084> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:15.257089> Try Modify Lock Buy order, 
+16:24:15.609103> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:15.610104> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:15.630102> Try Modify Lock Buy order, 
+16:24:15.917221> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:15.918121> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:15.920121> Try Modify Lock Buy order, 
+16:24:16.210137> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:16.210137> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:16.216136> Try Modify Lock Buy order, 
+16:24:16.511154> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:16.512154> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:16.514151> Try Modify Lock Buy order, 
+16:24:16.800049> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:16.801050> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:16.802050> Try Modify Lock Buy order, 
+16:24:17.081985> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:17.082988> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:17.083993> Try Modify Lock Buy order, 
+16:24:17.363982> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:17.364979> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:17.365987> Try Modify Lock Buy order, 
+16:24:17.680999> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:17.680999> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:17.681999> Try Modify Lock Buy order, 
+16:24:17.961907> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:17.962906> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:17.964906> Try Modify Lock Buy order, 
+16:24:18.252840> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:18.253844> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:18.255853> Try Modify Lock Buy order, 
+16:24:18.580019> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:18.601019> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:18.609017> Try Modify Lock Buy order, 
+16:24:18.938037> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:18.938037> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:18.939038> Try Modify Lock Buy order, 
+16:24:19.226063> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:19.227055> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:19.228062> Try Modify Lock Buy order, 
+16:24:19.620429> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:19.623439> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:19.675415> Try Modify Lock Buy order, 
+16:24:19.963432> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:19.966433> [1Leg]: Buy failed BTCUSDT;price=66038.6000
+16:24:19.969575> Try Modify Lock Buy order, 
+16:24:20.301451> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:20.302451> [1Leg]: Buy failed BTCUSDT;price=66038.6000
+16:24:20.304466> Try Modify Lock Buy order, 
+16:24:20.603352> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:20.625355> [1Leg]: Buy failed BTCUSDT;price=66038.6000
+16:24:20.628356> Try Modify Lock Buy order, 
+16:24:20.908930> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:20.909931> [1Leg]: Buy failed BTCUSDT;price=66038.6000
+16:24:20.918932> Try Modify Lock Buy order, 
+16:24:21.249947> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:21.250949> [1Leg]: Buy failed BTCUSDT;price=66038.6000
+16:24:21.257951> Try Modify Lock Buy order, 
+16:24:21.556968> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:21.556968> [1Leg]: Buy failed BTCUSDT;price=66038.6000
+16:24:21.558966> Try Modify Lock Buy order, 
+16:24:21.839042> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:21.839042> [1Leg]: Buy failed BTCUSDT;price=66038.6000
+16:24:21.840043> Try Modify Lock Buy order, 
+16:24:22.129060> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:22.130059> [1Leg]: Buy failed BTCUSDT;price=66038.5000
+16:24:22.131059> Try Modify Lock Buy order, 
+16:24:22.419075> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:22.419075> [1Leg]: Buy failed BTCUSDT;price=66038.5000
+16:24:22.421076> Try Modify Lock Buy order, 
+16:24:22.704092> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:22.705092> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:22.707100> Try Modify Lock Buy order, 
+16:24:22.992647> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:22.993649> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:22.994650> Try Modify Lock Buy order, 
+16:24:23.285664> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:23.287664> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:23.289663> Try Modify Lock Buy order, 
+16:24:23.573681> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:23.577678> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:23.610682> Try Modify Lock Buy order, 
+16:24:23.896702> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:23.897700> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:23.899703> Try Modify Lock Buy order, 
+16:24:24.267720> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:24.267720> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:24.269726> Try Modify Lock Buy order, 
+16:24:24.565736> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:24.566737> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:24.567737> Try Modify Lock Buy order, 
+16:24:24.856755> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:24.857755> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:24.858761> Try Modify Lock Buy order, 
+16:24:25.180772> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:25.187775> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:25.199772> Try Modify Lock Buy order, 
+16:24:25.488790> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:25.489790> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:25.490791> Try Modify Lock Buy order, 
+16:24:25.912817> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:25.913814> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:25.918815> Try Modify Lock Buy order, 
+16:24:26.207831> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:26.208832> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:26.220831> Try Modify Lock Buy order, 
+16:24:26.527849> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:26.528850> [1Leg]: Buy failed BTCUSDT;price=66035.4000
+16:24:26.530851> Try Modify Lock Buy order, 
+16:24:26.817865> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:26.819869> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:26.845867> Try Modify Lock Buy order, 
+16:24:27.152887> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:27.153886> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:27.155892> Try Modify Lock Buy order, 
+16:24:27.453903> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:27.453903> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:27.461903> Try Modify Lock Buy order, 
+16:24:27.743918> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:27.743918> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:27.745919> Try Modify Lock Buy order, 
+16:24:28.026356> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:28.027353> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:28.028354> Try Modify Lock Buy order, 
+16:24:28.310369> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:28.310369> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:28.312369> Try Modify Lock Buy order, 
+16:24:28.596385> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:28.596385> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:28.631387> Try Modify Lock Buy order, 
+16:24:28.941403> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:28.942407> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:28.963406> Try Modify Lock Buy order, 
+16:24:29.268316> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:29.269322> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:29.271321> Try Modify Lock Buy order, 
+16:24:29.560686> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:29.560686> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:29.564685> Try Modify Lock Buy order, 
+16:24:29.851703> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:29.852703> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:29.854702> Try Modify Lock Buy order, 
+16:24:30.161118> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:30.162118> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:30.166118> Try Modify Lock Buy order, 
+16:24:30.447354> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:30.485133> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:30.496133> Try Modify Lock Buy order, 
+16:24:30.794170> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:30.795166> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:30.799161> Try Modify Lock Buy order, 
+16:24:31.082168> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:31.082168> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:31.102168> Try Modify Lock Buy order, 
+16:24:31.494193> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:31.506191> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:31.507193> Try Modify Lock Buy order, 
+16:24:31.793210> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:31.794217> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:31.817212> Try Modify Lock Buy order, 
+16:24:32.103481> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:32.103481> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:32.104481> Try Modify Lock Buy order, 
+16:24:32.385841> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:32.386838> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:32.387838> Try Modify Lock Buy order, 
+16:24:32.703855> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:32.704856> [1Leg]: Buy failed BTCUSDT;price=66040.1000
+16:24:32.726855> Try Modify Lock Buy order, 
+16:24:33.008874> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:33.009873> [1Leg]: Buy failed BTCUSDT;price=66042.5000
+16:24:33.010881> Try Modify Lock Buy order, 
+16:24:33.292892> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:33.293889> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:33.294897> Try Modify Lock Buy order, 
+16:24:33.578744> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:33.579747> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:33.580752> Try Modify Lock Buy order, 
+16:24:33.871658> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:33.873656> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:33.874673> Try Modify Lock Buy order, 
+16:24:34.164670> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:34.182671> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:34.192675> Try Modify Lock Buy order, 
+16:24:34.473692> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:34.474690> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:34.475695> Try Modify Lock Buy order, 
+16:24:34.770757> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:34.771755> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:34.772762> Try Modify Lock Buy order, 
+16:24:35.054701> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:35.055700> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:35.056707> Try Modify Lock Buy order, 
+16:24:35.387652> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:35.388660> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:35.395638> Try Modify Lock Buy order, 
+16:24:35.682445> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:35.690452> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:35.692443> Try Modify Lock Buy order, 
+16:24:35.977994> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:35.978995> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:35.980004> Try Modify Lock Buy order, 
+16:24:36.278014> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:36.278014> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:36.291018> Try Modify Lock Buy order, 
+16:24:36.608033> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:36.608033> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:36.610033> Try Modify Lock Buy order, 
+16:24:36.934051> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:36.935049> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:36.946053> Try Modify Lock Buy order, 
+16:24:37.311072> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:37.313072> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:37.316086> Try Modify Lock Buy order, 
+16:24:37.609089> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:37.610101> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:37.612096> Try Modify Lock Buy order, 
+16:24:37.898427> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:37.899427> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:37.901428> Try Modify Lock Buy order, 
+16:24:38.235932> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:38.235932> [1Leg]: Buy failed BTCUSDT;price=66044.6000
+16:24:38.266934> Try Modify Lock Buy order, 
+16:24:38.549218> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:38.549218> [1Leg]: Buy failed BTCUSDT;price=66040.0000
+16:24:38.550219> Try Modify Lock Buy order, 
+16:24:38.847235> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:38.848235> [1Leg]: Buy failed BTCUSDT;price=66040.0000
+16:24:38.849236> Try Modify Lock Buy order, 
+16:24:39.152149> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:39.152149> [1Leg]: Buy failed BTCUSDT;price=66040.0000
+16:24:39.154158> Try Modify Lock Buy order, 
+16:24:39.436169> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:39.437173> [1Leg]: Buy failed BTCUSDT;price=66040.0000
+16:24:39.439183> Try Modify Lock Buy order, 
+16:24:39.766655> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:39.768654> [1Leg]: Buy failed BTCUSDT;price=66040.0000
+16:24:39.809667> Try Modify Lock Buy order, 
+16:24:40.090675> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:40.100673> [1Leg]: Buy failed BTCUSDT;price=66040.0000
+16:24:40.114675> Try Modify Lock Buy order, 
+16:24:40.408701> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:40.409700> [1Leg]: Buy failed BTCUSDT;price=66046.4000
+16:24:40.411704> Try Modify Lock Buy order, 
+16:24:40.706712> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:40.707714> [1Leg]: Buy failed BTCUSDT;price=66049.4000
+16:24:40.727713> Try Modify Lock Buy order, 
+16:24:41.014728> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:41.014728> [1Leg]: Buy failed BTCUSDT;price=66049.4000
+16:24:41.022728> Try Modify Lock Buy order, 
+16:24:41.317744> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:41.317744> [1Leg]: Buy failed BTCUSDT;price=66061.7000
+16:24:41.321747> Try Modify Lock Buy order, 
+16:24:41.608043> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:41.608043> [1Leg]: Buy failed BTCUSDT;price=66061.7000
+16:24:41.610055> Try Modify Lock Buy order, 
+16:24:42.028513> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:42.028513> [1Leg]: Buy failed BTCUSDT;price=66064.0000
+16:24:42.030521> Try Modify Lock Buy order, 
+16:24:42.367533> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:42.368541> [1Leg]: Buy failed BTCUSDT;price=66064.0000
+16:24:42.370555> Try Modify Lock Buy order, 
+16:24:42.683550> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:42.683550> [1Leg]: Buy failed BTCUSDT;price=66064.0000
+16:24:42.732555> Try Modify Lock Buy order, 
+16:24:43.025571> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:43.026571> [1Leg]: Buy failed BTCUSDT;price=66064.0000
+16:24:43.040571> Try Modify Lock Buy order, 
+16:24:43.323588> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:43.324588> [1Leg]: Buy failed BTCUSDT;price=66064.0000
+16:24:43.327589> Try Modify Lock Buy order, 
+16:24:43.676194> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:43.678200> [1Leg]: Buy failed BTCUSDT;price=66064.0000
+16:24:43.680206> Try Modify Lock Buy order, 
+16:24:43.966195> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:43.967196> [1Leg]: Buy failed BTCUSDT;price=66061.9000
+16:24:43.969203> Try Modify Lock Buy order, 
+16:24:44.290545> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:44.291546> [1Leg]: Buy failed BTCUSDT;price=66061.9000
+16:24:44.302547> Try Modify Lock Buy order, 
+16:24:44.591562> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:44.592563> [1Leg]: Buy failed BTCUSDT;price=66061.9000
+16:24:44.613565> Try Modify Lock Buy order, 
+16:24:44.897580> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:44.897580> [1Leg]: Buy failed BTCUSDT;price=66061.9000
+16:24:44.899587> Try Modify Lock Buy order, 
+16:24:45.179595> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:45.179595> [1Leg]: Buy failed BTCUSDT;price=66061.9000
+16:24:45.181604> Try Modify Lock Buy order, 
+16:24:45.468817> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:45.469817> [1Leg]: Buy failed BTCUSDT;price=66061.7000
+16:24:45.483817> Try Modify Lock Buy order, 
+16:24:45.765849> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:45.766835> [1Leg]: Buy failed BTCUSDT;price=66061.7000
+16:24:45.768839> Try Modify Lock Buy order, 
+16:24:46.056360> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:46.056360> [1Leg]: Buy failed BTCUSDT;price=66039.2000
+16:24:46.064357> Try Modify Lock Buy order, 
+16:24:46.403379> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:46.403379> [1Leg]: Buy failed BTCUSDT;price=66043.6000
+16:24:46.406378> Try Modify Lock Buy order, 
+16:24:46.694331> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:46.695327> [1Leg]: Buy failed BTCUSDT;price=66043.6000
+16:24:46.696327> Try Modify Lock Buy order, 
+16:24:46.988345> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:46.989344> [1Leg]: Buy failed BTCUSDT;price=66043.6000
+16:24:46.990345> Try Modify Lock Buy order, 
+16:24:47.275361> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:47.276363> [1Leg]: Buy failed BTCUSDT;price=66043.6000
+16:24:47.278411> Try Modify Lock Buy order, 
+16:24:47.598381> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:47.600380> [1Leg]: Buy failed BTCUSDT;price=66043.6000
+16:24:47.603380> Try Modify Lock Buy order, 
+16:24:47.973401> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:47.973401> [1Leg]: Buy failed BTCUSDT;price=66040.5000
+16:24:47.974401> Try Modify Lock Buy order, 
+16:24:48.296419> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:48.297420> [1Leg]: Buy failed BTCUSDT;price=66040.5000
+16:24:48.311420> Try Modify Lock Buy order, 
+16:24:48.592436> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:48.592436> [1Leg]: Buy failed BTCUSDT;price=66040.5000
+16:24:48.595445> Try Modify Lock Buy order, 
+16:24:48.990496> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:49.008470> [1Leg]: Buy failed BTCUSDT;price=66040.5000
+16:24:49.012476> Try Modify Lock Buy order, 
+16:24:49.297477> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:49.298476> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:24:49.299477> Try Modify Lock Buy order, 
+16:24:49.585492> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:49.585492> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:24:49.586493> Try Modify Lock Buy order, 
+16:24:49.872887> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:49.885885> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:24:49.914888> Try Modify Lock Buy order, 
+16:24:50.197906> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:50.198905> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:24:50.199912> Try Modify Lock Buy order, 
+16:24:50.483921> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:50.487920> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:24:50.490922> Try Modify Lock Buy order, 
+16:24:50.780577> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:50.781576> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:24:50.782577> Try Modify Lock Buy order, 
+16:24:51.063494> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:51.064492> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:24:51.071490> Try Modify Lock Buy order, 
+16:24:51.356508> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:51.357508> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:24:51.358508> Try Modify Lock Buy order, 
+16:24:51.641525> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:51.642525> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:24:51.644532> Try Modify Lock Buy order, 
+16:24:51.945543> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:51.959541> [1Leg]: Buy failed BTCUSDT;price=66044.0000
+16:24:51.963543> Try Modify Lock Buy order, 
+16:24:52.257560> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:52.257560> [1Leg]: Buy failed BTCUSDT;price=66044.0000
+16:24:52.274558> Try Modify Lock Buy order, 
+16:24:52.579711> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:52.581711> [1Leg]: Buy failed BTCUSDT;price=66040.5000
+16:24:52.619713> Try Modify Lock Buy order, 
+16:24:52.900585> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:52.901584> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:52.902585> Try Modify Lock Buy order, 
+16:24:53.219746> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:53.220737> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:53.222746> Try Modify Lock Buy order, 
+16:24:53.533747> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:53.533747> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:53.535747> Try Modify Lock Buy order, 
+16:24:53.822092> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:53.823093> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:53.824100> Try Modify Lock Buy order, 
+16:24:54.106111> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:54.107108> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:54.108122> Try Modify Lock Buy order, 
+16:24:54.388127> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:54.389124> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:54.390132> Try Modify Lock Buy order, 
+16:24:54.672460> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:54.673461> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:54.691469> Try Modify Lock Buy order, 
+16:24:55.090484> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:55.091485> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:55.106484> Try Modify Lock Buy order, 
+16:24:55.387501> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:55.387501> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:55.389507> Try Modify Lock Buy order, 
+16:24:55.670189> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:55.671189> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:55.672189> Try Modify Lock Buy order, 
+16:24:55.964368> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:55.965368> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:55.966368> Try Modify Lock Buy order, 
+16:24:56.290525> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:56.291525> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:56.324527> Try Modify Lock Buy order, 
+16:24:56.642544> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:24:56.642544> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:56.645543> Try Modify Lock Buy order, 
+16:24:56.926563> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:56.926563> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:56.927563> Try Modify Lock Buy order, 
+16:24:57.220929> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:57.220929> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:57.222937> Try Modify Lock Buy order, 
+16:24:57.502883> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:57.502883> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:57.504892> Try Modify Lock Buy order, 
+16:24:57.847904> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:57.847904> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:57.859902> Try Modify Lock Buy order, 
+16:24:58.143075> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:58.143075> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:58.146078> Try Modify Lock Buy order, 
+16:24:58.452730> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:58.452730> [1Leg]: Buy failed BTCUSDT;price=66034.1000
+16:24:58.457730> Try Modify Lock Buy order, 
+16:24:58.833995> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:58.852978> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:24:58.858981> Try Modify Lock Buy order, 
+16:24:59.141997> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:59.142996> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:24:59.145054> Try Modify Lock Buy order, 
+16:24:59.428872> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:59.429873> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:24:59.431881> Try Modify Lock Buy order, 
+16:24:59.716489> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:24:59.717487> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:24:59.718494> Try Modify Lock Buy order, 
+16:25:00.001384> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:00.002384> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:00.045392> Try Modify Lock Buy order, 
+16:25:00.338416> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:00.339404> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:00.341404> Try Modify Lock Buy order, 
+16:25:00.639421> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:00.640421> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:00.642428> Try Modify Lock Buy order, 
+16:25:00.931437> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:00.932438> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:00.935438> Try Modify Lock Buy order, 
+16:25:01.216454> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:01.216454> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:01.223452> Try Modify Lock Buy order, 
+16:25:01.523705> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:01.524702> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:01.525703> Try Modify Lock Buy order, 
+16:25:01.866392> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:01.867390> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:01.868392> Try Modify Lock Buy order, 
+16:25:02.198191> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:02.198191> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:02.207188> Try Modify Lock Buy order, 
+16:25:02.489203> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:02.490203> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:02.491211> Try Modify Lock Buy order, 
+16:25:02.774220> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:02.774220> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:02.777234> Try Modify Lock Buy order, 
+16:25:03.066237> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:03.067237> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:03.068238> Try Modify Lock Buy order, 
+16:25:03.375255> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:03.376255> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:03.379255> Try Modify Lock Buy order, 
+16:25:03.704770> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:03.705770> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:03.706771> Try Modify Lock Buy order, 
+16:25:03.998787> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:03.998787> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:04.000795> Try Modify Lock Buy order, 
+16:25:04.329806> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:04.344805> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:04.345806> Try Modify Lock Buy order, 
+16:25:04.632917> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:04.633920> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:04.669921> Try Modify Lock Buy order, 
+16:25:04.966943> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:04.967938> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:04.968939> Try Modify Lock Buy order, 
+16:25:05.255651> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:05.255651> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:05.256652> Try Modify Lock Buy order, 
+16:25:05.597852> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:05.599843> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:05.602890> Try Modify Lock Buy order, 
+16:25:05.918862> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:05.918862> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:05.954864> Try Modify Lock Buy order, 
+16:25:06.241881> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:06.242881> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:06.266880> Try Modify Lock Buy order, 
+16:25:06.564901> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:06.566900> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:06.568900> Try Modify Lock Buy order, 
+16:25:06.878502> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:06.879499> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:06.883498> Try Modify Lock Buy order, 
+16:25:07.179518> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:07.180537> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:07.182585> Try Modify Lock Buy order, 
+16:25:07.466533> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:07.467533> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:07.468540> Try Modify Lock Buy order, 
+16:25:07.754060> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:07.774061> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:07.780120> Try Modify Lock Buy order, 
+16:25:08.075079> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:08.075079> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:08.154082> Try Modify Lock Buy order, 
+16:25:08.477102> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:08.478102> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:08.479103> Try Modify Lock Buy order, 
+16:25:08.759484> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:08.760482> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:08.768483> Try Modify Lock Buy order, 
+16:25:09.048498> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:09.048498> [1Leg]: Buy failed BTCUSDT;price=66042.1000
+16:25:09.050506> Try Modify Lock Buy order, 
+16:25:09.336525> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:09.337521> [1Leg]: Buy failed BTCUSDT;price=66038.9000
+16:25:09.339525> Try Modify Lock Buy order, 
+16:25:09.626532> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:09.626532> [1Leg]: Buy failed BTCUSDT;price=66038.9000
+16:25:09.710566> Try Modify Lock Buy order, 
+16:25:10.014554> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:10.015552> [1Leg]: Buy failed BTCUSDT;price=66038.9000
+16:25:10.016554> Try Modify Lock Buy order, 
+16:25:10.343573> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:10.345573> [1Leg]: Buy failed BTCUSDT;price=66035.8000
+16:25:10.368571> Try Modify Lock Buy order, 
+16:25:10.657590> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:10.658590> [1Leg]: Buy failed BTCUSDT;price=66035.8000
+16:25:10.660596> Try Modify Lock Buy order, 
+16:25:10.945605> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:10.946608> [1Leg]: Buy failed BTCUSDT;price=66035.8000
+16:25:10.948618> Try Modify Lock Buy order, 
+16:25:11.232625> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:11.233623> [1Leg]: Buy failed BTCUSDT;price=66035.8000
+16:25:11.239623> Try Modify Lock Buy order, 
+16:25:11.536640> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:11.537641> [1Leg]: Buy failed BTCUSDT;price=66035.7000
+16:25:11.538641> Try Modify Lock Buy order, 
+16:25:11.903661> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:11.906662> [1Leg]: Buy failed BTCUSDT;price=66035.7000
+16:25:11.909660> Try Modify Lock Buy order, 
+16:25:12.196311> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:12.197311> [1Leg]: Buy failed BTCUSDT;price=66035.7000
+16:25:12.199316> Try Modify Lock Buy order, 
+16:25:12.486574> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:12.487566> [1Leg]: Buy failed BTCUSDT;price=66035.7000
+16:25:12.506568> Try Modify Lock Buy order, 
+16:25:12.799584> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:12.800584> [1Leg]: Buy failed BTCUSDT;price=66035.7000
+16:25:12.801585> Try Modify Lock Buy order, 
+16:25:13.081600> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:13.081600> [1Leg]: Buy failed BTCUSDT;price=66040.9000
+16:25:13.084609> Try Modify Lock Buy order, 
+16:25:13.379616> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:13.417618> [1Leg]: Buy failed BTCUSDT;price=66040.9000
+16:25:13.466623> Try Modify Lock Buy order, 
+16:25:13.765640> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:13.765640> [1Leg]: Buy failed BTCUSDT;price=66040.9000
+16:25:13.766642> Try Modify Lock Buy order, 
+16:25:14.058657> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:14.059658> [1Leg]: Buy failed BTCUSDT;price=66045.8000
+16:25:14.061914> Try Modify Lock Buy order, 
+16:25:14.343478> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:14.344478> [1Leg]: Buy failed BTCUSDT;price=66045.8000
+16:25:14.398480> Try Modify Lock Buy order, 
+16:25:14.680500> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:14.681505> [1Leg]: Buy failed BTCUSDT;price=66052.6000
+16:25:14.683508> Try Modify Lock Buy order, 
+16:25:15.055028> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:15.057039> [1Leg]: Buy failed BTCUSDT;price=66052.6000
+16:25:15.060032> Try Modify Lock Buy order, 
+16:25:15.399047> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:15.417048> [1Leg]: Buy failed BTCUSDT;price=66052.6000
+16:25:15.424050> Try Modify Lock Buy order, 
+16:25:15.710068> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:15.710068> [1Leg]: Buy failed BTCUSDT;price=66048.7000
+16:25:15.712073> Try Modify Lock Buy order, 
+16:25:15.992082> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:15.993083> [1Leg]: Buy failed BTCUSDT;price=66048.7000
+16:25:15.994083> Try Modify Lock Buy order, 
+16:25:16.276530> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:16.277530> [1Leg]: Buy failed BTCUSDT;price=66048.7000
+16:25:16.290532> Try Modify Lock Buy order, 
+16:25:16.584551> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:16.585548> [1Leg]: Buy failed BTCUSDT;price=66048.7000
+16:25:16.586549> Try Modify Lock Buy order, 
+16:25:16.934577> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:16.941575> [1Leg]: Buy failed BTCUSDT;price=66048.7000
+16:25:16.965568> Try Modify Lock Buy order, 
+16:25:17.290588> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:17.290588> [1Leg]: Buy failed BTCUSDT;price=66047.7000
+16:25:17.292595> Try Modify Lock Buy order, 
+16:25:17.579605> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:17.583607> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:25:17.585614> Try Modify Lock Buy order, 
+16:25:17.867624> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:17.868622> [1Leg]: Buy failed BTCUSDT;price=66042.7000
+16:25:17.870630> Try Modify Lock Buy order, 
+16:25:18.158640> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:18.159639> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:18.161645> Try Modify Lock Buy order, 
+16:25:18.478320> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:18.479320> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:18.480320> Try Modify Lock Buy order, 
+16:25:18.801111> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:18.802113> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:18.818119> Try Modify Lock Buy order, 
+16:25:19.102126> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:19.102126> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:19.105128> Try Modify Lock Buy order, 
+16:25:19.414146> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:19.429145> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:19.431145> Try Modify Lock Buy order, 
+16:25:19.713828> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:19.714828> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:19.715828> Try Modify Lock Buy order, 
+16:25:20.024844> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:20.026844> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:20.064846> Try Modify Lock Buy order, 
+16:25:20.346866> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:20.347864> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:20.348865> Try Modify Lock Buy order, 
+16:25:20.687884> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:20.688898> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:20.691890> Try Modify Lock Buy order, 
+16:25:20.973901> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:20.973901> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:21.013901> Try Modify Lock Buy order, 
+16:25:21.306920> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:21.306920> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:21.308928> Try Modify Lock Buy order, 
+16:25:21.588936> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:21.588936> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:21.589936> Try Modify Lock Buy order, 
+16:25:21.875469> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:21.876468> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:21.877469> Try Modify Lock Buy order, 
+16:25:22.160484> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:22.160484> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:22.163486> Try Modify Lock Buy order, 
+16:25:22.495503> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:22.496504> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:22.502505> Try Modify Lock Buy order, 
+16:25:22.830523> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:22.831523> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:22.832524> Try Modify Lock Buy order, 
+16:25:23.138540> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:23.146542> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:23.163544> Try Modify Lock Buy order, 
+16:25:23.452269> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:23.453270> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:23.478271> Try Modify Lock Buy order, 
+16:25:23.780287> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:23.781289> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:23.790289> Try Modify Lock Buy order, 
+16:25:24.075306> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:24.077307> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:24.078308> Try Modify Lock Buy order, 
+16:25:24.363368> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:24.363368> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:24.365377> Try Modify Lock Buy order, 
+16:25:24.660143> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:24.660143> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:24.701147> Try Modify Lock Buy order, 
+16:25:24.994163> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:24.994163> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:24.996177> Try Modify Lock Buy order, 
+16:25:25.278179> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:25.279179> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:25.280186> Try Modify Lock Buy order, 
+16:25:25.561322> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:25.562322> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:25.563323> Try Modify Lock Buy order, 
+16:25:25.853780> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:25.854781> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:25.855781> Try Modify Lock Buy order, 
+16:25:26.141800> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:26.142798> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:26.150798> Try Modify Lock Buy order, 
+16:25:26.528819> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:26.529820> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:26.530820> Try Modify Lock Buy order, 
+16:25:26.814942> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:26.815941> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:26.817947> Try Modify Lock Buy order, 
+16:25:27.106951> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:27.108952> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:27.120951> Try Modify Lock Buy order, 
+16:25:27.413970> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:27.413970> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:27.433969> Try Modify Lock Buy order, 
+16:25:27.728836> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:27.729836> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:27.734836> Try Modify Lock Buy order, 
+16:25:28.075857> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:28.075857> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:28.077863> Try Modify Lock Buy order, 
+16:25:28.428654> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:28.429649> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:28.431633> Try Modify Lock Buy order, 
+16:25:28.717738> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:28.717738> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:28.744738> Try Modify Lock Buy order, 
+16:25:29.025754> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:29.026757> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:29.027763> Try Modify Lock Buy order, 
+16:25:29.329879> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:29.330876> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:29.331879> Try Modify Lock Buy order, 
+16:25:29.615891> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:29.616894> [1Leg]: Buy failed BTCUSDT;price=66041.0000
+16:25:29.618900> Try Modify Lock Buy order, 
+16:25:29.902911> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:29.903909> [1Leg]: Buy failed BTCUSDT;price=66045.4000
+16:25:29.904917> Try Modify Lock Buy order, 
+16:25:30.192426> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:30.192426> [1Leg]: Buy failed BTCUSDT;price=66045.4000
+16:25:30.194433> Try Modify Lock Buy order, 
+16:25:30.479958> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:30.497956> [1Leg]: Buy failed BTCUSDT;price=66045.4000
+16:25:30.501955> Try Modify Lock Buy order, 
+16:25:30.784973> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:30.784973> [1Leg]: Buy failed BTCUSDT;price=66045.4000
+16:25:30.786980> Try Modify Lock Buy order, 
+16:25:31.067989> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:31.068991> [1Leg]: Buy failed BTCUSDT;price=66045.4000
+16:25:31.075988> Try Modify Lock Buy order, 
+16:25:31.373005> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:31.374007> [1Leg]: Buy failed BTCUSDT;price=66063.8000
+16:25:31.375007> Try Modify Lock Buy order, 
+16:25:31.655623> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:31.656623> [1Leg]: Buy failed BTCUSDT;price=66063.8000
+16:25:31.657624> Try Modify Lock Buy order, 
+16:25:31.939640> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:31.940640> [1Leg]: Buy failed BTCUSDT;price=66063.8000
+16:25:31.942647> Try Modify Lock Buy order, 
+16:25:32.242103> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:32.250104> [1Leg]: Buy failed BTCUSDT;price=66063.8000
+16:25:32.260104> Try Modify Lock Buy order, 
+16:25:32.544121> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:32.545120> [1Leg]: Buy failed BTCUSDT;price=66063.8000
+16:25:32.546120> Try Modify Lock Buy order, 
+16:25:32.931280> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:32.931280> [1Leg]: Buy failed BTCUSDT;price=66063.8000
+16:25:32.933291> Try Modify Lock Buy order, 
+16:25:33.215298> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:33.216308> [1Leg]: Buy failed BTCUSDT;price=66063.8000
+16:25:33.218297> Try Modify Lock Buy order, 
+16:25:33.624321> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:33.625320> [1Leg]: Buy failed BTCUSDT;price=66063.8000
+16:25:33.683322> Try Modify Lock Buy order, 
+16:25:33.991343> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:33.992343> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:34.047362> Try Modify Lock Buy order, 
+16:25:34.379363> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:34.379363> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:34.399366> Try Modify Lock Buy order, 
+16:25:34.681380> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:34.681380> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:34.683388> Try Modify Lock Buy order, 
+16:25:34.965609> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:34.967626> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:34.978615> Try Modify Lock Buy order, 
+16:25:35.259627> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:35.259627> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:35.262650> Try Modify Lock Buy order, 
+16:25:35.580125> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:35.596116> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:35.599117> Try Modify Lock Buy order, 
+16:25:35.903685> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:35.903685> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:35.909687> Try Modify Lock Buy order, 
+16:25:36.190708> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:36.190708> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:36.197700> Try Modify Lock Buy order, 
+16:25:36.494234> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:36.495231> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:36.498229> Try Modify Lock Buy order, 
+16:25:36.790248> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:36.791248> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:36.793248> Try Modify Lock Buy order, 
+16:25:37.080635> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:37.081637> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:37.082644> Try Modify Lock Buy order, 
+16:25:37.436073> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:37.437073> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:37.442071> Try Modify Lock Buy order, 
+16:25:37.747116> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:37.748116> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:37.750125> Try Modify Lock Buy order, 
+16:25:38.056134> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:38.056134> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:38.057135> Try Modify Lock Buy order, 
+16:25:38.337309> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:38.338312> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:38.339312> Try Modify Lock Buy order, 
+16:25:38.647173> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:38.647173> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:38.651173> Try Modify Lock Buy order, 
+16:25:38.944192> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:38.948189> [1Leg]: Buy failed BTCUSDT;price=66056.9000
+16:25:38.949191> Try Modify Lock Buy order, 
+16:25:39.332212> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:39.333214> [1Leg]: Buy failed BTCUSDT;price=66049.1000
+16:25:39.335212> Try Modify Lock Buy order, 
+16:25:39.622232> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:39.623229> [1Leg]: Buy failed BTCUSDT;price=66049.1000
+16:25:39.624229> Try Modify Lock Buy order, 
+16:25:39.912916> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:39.913918> [1Leg]: Buy failed BTCUSDT;price=66049.1000
+16:25:39.915914> Try Modify Lock Buy order, 
+16:25:40.242935> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:40.243935> [1Leg]: Buy failed BTCUSDT;price=66046.4000
+16:25:40.244943> Try Modify Lock Buy order, 
+16:25:40.544953> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:40.544953> [1Leg]: Buy failed BTCUSDT;price=66046.4000
+16:25:40.572974> Try Modify Lock Buy order, 
+16:25:40.875972> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:40.875972> [1Leg]: Buy failed BTCUSDT;price=66044.7000
+16:25:40.906974> Try Modify Lock Buy order, 
+16:25:41.192990> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:41.193998> [1Leg]: Buy failed BTCUSDT;price=66044.7000
+16:25:41.201988> Try Modify Lock Buy order, 
+16:25:41.547008> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:41.547008> [1Leg]: Buy failed BTCUSDT;price=66041.2000
+16:25:41.550023> Try Modify Lock Buy order, 
+16:25:41.831294> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:41.832296> [1Leg]: Buy failed BTCUSDT;price=66041.2000
+16:25:41.834303> Try Modify Lock Buy order, 
+16:25:42.116319> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:42.117312> [1Leg]: Buy failed BTCUSDT;price=66041.2000
+16:25:42.118312> Try Modify Lock Buy order, 
+16:25:42.425280> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:42.426278> [1Leg]: Buy failed BTCUSDT;price=66041.2000
+16:25:42.427278> Try Modify Lock Buy order, 
+16:25:42.718523> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:42.719523> [1Leg]: Buy failed BTCUSDT;price=66041.2000
+16:25:42.721535> Try Modify Lock Buy order, 
+16:25:43.060439> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:43.083444> [1Leg]: Buy failed BTCUSDT;price=66041.2000
+16:25:43.089445> Try Modify Lock Buy order, 
+16:25:43.383462> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:43.383462> [1Leg]: Buy failed BTCUSDT;price=66041.2000
+16:25:43.385473> Try Modify Lock Buy order, 
+16:25:43.677031> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:43.678035> [1Leg]: Buy failed BTCUSDT;price=66041.2000
+16:25:43.684033> Try Modify Lock Buy order, 
+16:25:43.968588> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:43.969577> [1Leg]: Buy failed BTCUSDT;price=66041.2000
+16:25:43.971585> Try Modify Lock Buy order, 
+16:25:44.258877> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:44.259876> [1Leg]: Buy failed BTCUSDT;price=66041.2000
+16:25:44.261890> Try Modify Lock Buy order, 
+16:25:44.550900> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:44.551891> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:44.552900> Try Modify Lock Buy order, 
+16:25:44.835917> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:44.836909> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:44.837917> Try Modify Lock Buy order, 
+16:25:45.170015> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:45.184009> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:45.188012> Try Modify Lock Buy order, 
+16:25:45.473599> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:45.474589> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:45.475599> Try Modify Lock Buy order, 
+16:25:45.813618> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:45.817639> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:45.820681> Try Modify Lock Buy order, 
+16:25:46.192355> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:46.193341> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:46.268346> Try Modify Lock Buy order, 
+16:25:46.589256> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:46.590259> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:46.624259> Try Modify Lock Buy order, 
+16:25:46.951377> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:46.951377> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:46.954377> Try Modify Lock Buy order, 
+16:25:47.258387> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:47.258387> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:47.260400> Try Modify Lock Buy order, 
+16:25:47.550302> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:47.550302> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:47.552312> Try Modify Lock Buy order, 
+16:25:47.832318> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:47.833318> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:47.834319> Try Modify Lock Buy order, 
+16:25:48.148334> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:48.174336> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:48.190336> Try Modify Lock Buy order, 
+16:25:48.475355> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:48.475355> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:48.477363> Try Modify Lock Buy order, 
+16:25:48.761372> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:48.761372> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:48.765372> Try Modify Lock Buy order, 
+16:25:49.048387> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:49.049388> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:49.050396> Try Modify Lock Buy order, 
+16:25:49.334103> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:49.334103> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:49.336117> Try Modify Lock Buy order, 
+16:25:49.681094> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:49.682094> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:49.684093> Try Modify Lock Buy order, 
+16:25:49.971112> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:49.973112> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:49.998113> Try Modify Lock Buy order, 
+16:25:50.279129> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:50.279129> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:50.281138> Try Modify Lock Buy order, 
+16:25:50.562027> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:50.563028> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:50.564036> Try Modify Lock Buy order, 
+16:25:50.864580> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:50.867580> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:50.886583> Try Modify Lock Buy order, 
+16:25:51.176596> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:51.197601> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:51.209606> Try Modify Lock Buy order, 
+16:25:51.576623> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:51.577625> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:51.579623> Try Modify Lock Buy order, 
+16:25:51.859639> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:51.860643> [1Leg]: Buy failed BTCUSDT;price=66036.6000
+16:25:51.861647> Try Modify Lock Buy order, 
+16:25:52.173846> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:52.174847> [1Leg]: Buy failed BTCUSDT;price=66036.5000
+16:25:52.175848> Try Modify Lock Buy order, 
+16:25:52.462867> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:52.463865> [1Leg]: Buy failed BTCUSDT;price=66036.5000
+16:25:52.466865> Try Modify Lock Buy order, 
+16:25:52.763383> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:52.777394> [1Leg]: Buy failed BTCUSDT;price=66035.3000
+16:25:52.783385> Try Modify Lock Buy order, 
+16:25:53.066696> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:53.067696> [1Leg]: Buy failed BTCUSDT;price=66035.3000
+16:25:53.068709> Try Modify Lock Buy order, 
+16:25:53.350305> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:53.351306> [1Leg]: Buy failed BTCUSDT;price=66035.3000
+16:25:53.352306> Try Modify Lock Buy order, 
+16:25:53.698325> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:53.699324> [1Leg]: Buy failed BTCUSDT;price=66035.3000
+16:25:53.716326> Try Modify Lock Buy order, 
+16:25:54.004273> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:54.005272> [1Leg]: Buy failed BTCUSDT;price=66035.3000
+16:25:54.006280> Try Modify Lock Buy order, 
+16:25:54.311288> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:54.312289> [1Leg]: Buy failed BTCUSDT;price=66035.3000
+16:25:54.332288> Try Modify Lock Buy order, 
+16:25:54.695990> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:54.697016> [1Leg]: Buy failed BTCUSDT;price=66035.3000
+16:25:54.698998> Try Modify Lock Buy order, 
+16:25:55.046021> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:55.049006> [1Leg]: Buy failed BTCUSDT;price=66035.3000
+16:25:55.051016> Try Modify Lock Buy order, 
+16:25:55.356027> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:55.358024> [1Leg]: Buy failed BTCUSDT;price=66035.3000
+16:25:55.359025> Try Modify Lock Buy order, 
+16:25:55.671126> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:55.671126> [1Leg]: Buy failed BTCUSDT;price=66035.3000
+16:25:55.673125> Try Modify Lock Buy order, 
+16:25:55.956345> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:55.956345> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:55.958353> Try Modify Lock Buy order, 
+16:25:56.237688> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:56.238688> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:56.244688> Try Modify Lock Buy order, 
+16:25:56.539705> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:25:56.540713> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:56.542713> Try Modify Lock Buy order, 
+16:25:56.943209> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:56.959209> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:56.960210> Try Modify Lock Buy order, 
+16:25:57.244226> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:57.245225> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:57.246227> Try Modify Lock Buy order, 
+16:25:57.535242> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:57.536242> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:57.537242> Try Modify Lock Buy order, 
+16:25:57.820561> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:57.820561> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:57.822570> Try Modify Lock Buy order, 
+16:25:58.103579> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:58.103579> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:58.121580> Try Modify Lock Buy order, 
+16:25:58.405596> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:58.405596> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:58.412596> Try Modify Lock Buy order, 
+16:25:58.697336> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:58.697336> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:58.699345> Try Modify Lock Buy order, 
+16:25:58.984353> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:58.984353> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:58.993354> Try Modify Lock Buy order, 
+16:25:59.273368> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:59.274370> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:59.275376> Try Modify Lock Buy order, 
+16:25:59.558386> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:59.558386> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:59.560398> Try Modify Lock Buy order, 
+16:25:59.873457> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:25:59.874458> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:25:59.875458> Try Modify Lock Buy order, 
+16:26:00.169829> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:00.169829> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:00.187830> Try Modify Lock Buy order, 
+16:26:00.469582> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:00.470581> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:00.472595> Try Modify Lock Buy order, 
+16:26:00.753598> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:00.753598> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:00.756597> Try Modify Lock Buy order, 
+16:26:01.043934> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:01.044932> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:01.052933> Try Modify Lock Buy order, 
+16:26:01.344949> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:26:01.345948> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:01.346949> Try Modify Lock Buy order, 
+16:26:01.642969> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:01.644968> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:01.646968> Try Modify Lock Buy order, 
+16:26:02.018991> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:02.019989> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:02.021996> Try Modify Lock Buy order, 
+16:26:02.305002> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:02.306005> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:02.308011> Try Modify Lock Buy order, 
+16:26:02.599600> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:02.600601> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:02.602606> Try Modify Lock Buy order, 
+16:26:02.944613> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:02.945615> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:02.947622> Try Modify Lock Buy order, 
+16:26:03.261633> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:03.262632> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:03.298635> Try Modify Lock Buy order, 
+16:26:03.613653> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:03.615653> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:03.618683> Try Modify Lock Buy order, 
+16:26:03.900679> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:03.901669> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:03.902670> Try Modify Lock Buy order, 
+16:26:04.190452> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:04.191450> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:04.216452> Try Modify Lock Buy order, 
+16:26:04.502468> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:04.504468> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:04.506468> Try Modify Lock Buy order, 
+16:26:04.797615> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:04.798614> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:04.816614> Try Modify Lock Buy order, 
+16:26:05.098629> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:05.098629> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:05.100638> Try Modify Lock Buy order, 
+16:26:05.383648> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:05.384657> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:05.386655> Try Modify Lock Buy order, 
+16:26:05.670914> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:05.671909> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:05.672910> Try Modify Lock Buy order, 
+16:26:05.957927> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:05.957927> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:05.959935> Try Modify Lock Buy order, 
+16:26:06.279751> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:06.279751> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:06.287750> Try Modify Lock Buy order, 
+16:26:06.591774> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:26:06.592773> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:06.594777> Try Modify Lock Buy order, 
+16:26:06.913795> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:06.913795> [1Leg]: Buy failed BTCUSDT;price=66035.1000
+16:26:06.923795> Try Modify Lock Buy order, 
+16:26:07.219805> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:07.225801> [1Leg]: Buy failed BTCUSDT;price=66034.9000
+16:26:07.245806> Try Modify Lock Buy order, 
+16:26:07.533822> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:07.534822> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:07.546823> Try Modify Lock Buy order, 
+16:26:07.833839> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:07.834841> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:07.836854> Try Modify Lock Buy order, 
+16:26:08.128857> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:08.129856> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:08.140857> Try Modify Lock Buy order, 
+16:26:08.483875> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:08.483875> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:08.484876> Try Modify Lock Buy order, 
+16:26:08.777189> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:08.778188> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:08.780197> Try Modify Lock Buy order, 
+16:26:09.065541> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:09.066540> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:09.067540> Try Modify Lock Buy order, 
+16:26:09.352904> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:09.353911> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:09.355913> Try Modify Lock Buy order, 
+16:26:09.641921> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:09.642922> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:09.664924> Try Modify Lock Buy order, 
+16:26:09.957937> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:09.962935> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:09.984941> Try Modify Lock Buy order, 
+16:26:10.291959> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:10.292959> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:10.293959> Try Modify Lock Buy order, 
+16:26:10.575974> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:10.576974> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:10.578975> Try Modify Lock Buy order, 
+16:26:10.864119> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:10.864119> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:10.865119> Try Modify Lock Buy order, 
+16:26:11.147135> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:11.148136> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:11.155137> Try Modify Lock Buy order, 
+16:26:11.473154> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:26:11.486153> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:11.489165> Try Modify Lock Buy order, 
+16:26:11.787070> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:11.787070> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:11.810070> Try Modify Lock Buy order, 
+16:26:12.115088> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:12.116088> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:12.121088> Try Modify Lock Buy order, 
+16:26:12.401104> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:12.402104> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:12.403104> Try Modify Lock Buy order, 
+16:26:12.689152> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:12.690152> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:12.696151> Try Modify Lock Buy order, 
+16:26:12.983167> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:12.986168> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:12.988167> Try Modify Lock Buy order, 
+16:26:13.279182> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:13.297186> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:13.301186> Try Modify Lock Buy order, 
+16:26:13.657206> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:13.657206> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:13.658207> Try Modify Lock Buy order, 
+16:26:14.026092> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:14.026092> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:14.027094> Try Modify Lock Buy order, 
+16:26:14.333210> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:14.333210> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:14.335216> Try Modify Lock Buy order, 
+16:26:14.622146> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:14.623146> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:14.625154> Try Modify Lock Buy order, 
+16:26:14.907161> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:14.908162> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:14.909170> Try Modify Lock Buy order, 
+16:26:15.191672> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:15.192675> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:15.194679> Try Modify Lock Buy order, 
+16:26:15.475517> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:15.475517> [1Leg]: Buy failed BTCUSDT;price=66032.2000
+16:26:15.490517> Try Modify Lock Buy order, 
+16:26:15.784207> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:15.785209> [1Leg]: Buy failed BTCUSDT;price=66032.0000
+16:26:15.808213> Try Modify Lock Buy order, 
+16:26:16.116234> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:26:16.132229> [1Leg]: Buy failed BTCUSDT;price=66032.0000

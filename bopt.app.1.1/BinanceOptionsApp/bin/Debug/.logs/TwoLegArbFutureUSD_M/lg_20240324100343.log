@@ -1,0 +1,13 @@
+10:03:44.793286> WebSocket connected! Start Partial @depth20 [Future] process...
+10:03:44.794286> WebSocket connected! Start Partial @depth20 [Future] process...
+10:03:45.851489> WebSocket connected! Start Partial @depth20 [Future] process...
+10:03:45.856500> WebSocket connected! Start Partial @depth20 [Future] process...
+10:03:46.400775> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 583.01236219 USDT
+10:20:29.793217> BinanceFuture - Vxxv1AWf[USD_M]Leg 1 Try to Open pos Buy. avgGapBuy: 3548.508  DevBuy: 4.392 
+10:20:30.873007> [Leg 1]: Buy OK BTCUSDT at 0.00;Gap=3552.90;Price=64130.40;Slippage=64130.4;Execution=1075.788 ms;
+10:20:30.873007> OK! Open Buy pos Leg 1,  Execution: 1079.7894ms
+10:20:30.873007> BinanceFuture - Vxxv1AWf[USD_M]Leg 1 Balance:  USDT
+10:20:30.874007> BinanceFuture - Vxxv1AWf[USD_M]Leg 2 Try to Open pos Sell. 
+10:20:31.141024> [Leg 2]: Sell OK BTCUSDT_240628 at 0.00;Gap=3552.90;Price=67683.40;Slippage=67683.4;Execution=267.018 ms;
+10:20:31.142023> OK! Open Sell pos Leg 2, Execution: 268.0158ms
+10:20:31.142023> BinanceFuture - Vxxv1AWf[USD_M]Leg 2 Balance:  USDT

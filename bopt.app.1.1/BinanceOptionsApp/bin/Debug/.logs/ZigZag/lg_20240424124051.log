@@ -1,0 +1,194 @@
+12:40:52.394124> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:40:52.396122> WebSocket connected! Start Partial @depth20 [Future] process...
+12:40:52.396122> WebSocket connected! Start @depth [Future] process...
+12:40:52.415127> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:40:52.415127> WebSocket connected! Start Partial @depth20 [Future] process...
+12:40:52.416126> WebSocket connected! Start @depth [Future] process...
+12:40:53.369115> WebSocket connected! Start Partial @depth20 [Future] process...
+12:40:53.371121> WebSocket connected! Start @depth [Future] process...
+12:40:53.374116> WebSocket connected! Start Partial @depth20 [Future] process...
+12:40:53.383117> WebSocket connected! Start @depth [Future] process...
+12:40:53.384115> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:40:53.423134> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:40:53.904792> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 747.99948195 USDT
+12:47:06.197979> Try Open Sell Pos, deviationSell: 4.255 Ask: 66269.10
+12:47:06.198975> Support: 66266.2 VolS:0.686 Resistence: 66269.1 VolR:19.527
+12:47:07.282104> [1Leg]: Sell OK BTCUSDT at 66320.2000;Gap=4.255;Price=66268.1000;Slippage=-52.1;Execution=1080.129 ms;
+12:47:07.283104> Elapsted Open Sell (1Leg)
+12:47:07.289104> Try Modify Sell order, 
+12:47:07.290105> Support: 66266.2 VolS:0.294 Resistence: 66268.1 VolR:13.488
+12:47:07.590122> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66312.6000;execution=297.018 ms;
+12:47:07.590122> Modify SellLimit (1Leg)
+12:47:07.692126> Try Modify Sell order, 
+12:47:07.692126> Support: 66266.2 VolS:0.292 Resistence: 66268 VolR:10.85
+12:47:07.949674> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66310.1000;execution=256.546 ms;
+12:47:07.949674> Modify SellLimit (1Leg)
+12:47:08.200688> Try Modify Sell order, 
+12:47:08.200688> Support: 66266.2 VolS:0.292 Resistence: 66267.3 VolR:20.475
+12:47:08.458569> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66310.4000;execution=256.879 ms;
+12:47:08.459545> Modify SellLimit (1Leg)
+12:47:09.217597> Try Modify Sell order, 
+12:47:09.217597> Support: 66266.2 VolS:0.292 Resistence: 66266.5 VolR:14.627
+12:47:09.478609> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66312.0000;execution=260.023 ms;
+12:47:09.480613> Modify SellLimit (1Leg)
+12:47:09.725615> Try Modify Sell order, 
+12:47:09.726617> Support: 66266.2 VolS:0.866 Resistence: 66266.3 VolR:20.625
+12:47:09.983635> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66309.3000;execution=257.018 ms;
+12:47:09.983635> Modify SellLimit (1Leg)
+12:47:10.765677> Try Modify Sell order, 
+12:47:10.765677> Support: 66264.3 VolS:1.871 Resistence: 66264.4 VolR:18.849
+12:47:11.023359> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66309.0000;execution=256.683 ms;
+12:47:11.024351> Modify SellLimit (1Leg)
+12:47:20.069942> Try Modify Sell order, 
+12:47:20.071941> Support: 66262 VolS:0.275 Resistence: 66266.5 VolR:14.377
+12:47:20.328957> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66311.3000;execution=257.016 ms;
+12:47:20.328957> Modify SellLimit (1Leg)
+12:47:20.650974> Try Modify Sell order, 
+12:47:20.651974> Support: 66260.9 VolS:0.402 Resistence: 66262.1 VolR:26.313
+12:47:20.913058> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66315.8000;execution=261.084 ms;
+12:47:20.913058> Modify SellLimit (1Leg)
+12:47:23.202252> Try Modify Sell order, 
+12:47:23.203261> Support: 66255.9 VolS:0.808 Resistence: 66257.9 VolR:8.166
+12:47:23.460268> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66302.3000;execution=257.007 ms;
+12:47:23.461270> Modify SellLimit (1Leg)
+12:47:23.741284> Try Modify Sell order, 
+12:47:23.741284> Support: 66255.9 VolS:0.808 Resistence: 66256 VolR:22.301
+12:47:24.148309> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:47:24.149311> [1Leg]: Sell failed BTCUSDT;price=66256.0000
+12:47:25.283263> Try Modify Sell order, 
+12:47:25.283263> Support: 66250.2 VolS:1.755 Resistence: 66253.8 VolR:12.053
+12:47:25.552278> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66299.3000;execution=268.017 ms;
+12:47:25.553278> Modify SellLimit (1Leg)
+12:48:12.054667> Try Modify Sell order, 
+12:48:12.056669> Support: 66247.1 VolS:0.431 Resistence: 66247.2 VolR:10.407
+12:48:12.325684> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66292.1000;execution=269.015 ms;
+12:48:12.327704> Modify SellLimit (1Leg)
+12:48:14.187803> Try Modify Sell order, 
+12:48:14.188805> Support: 66239.3 VolS:0.452 Resistence: 66245.2 VolR:7.696
+12:48:14.447813> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66291.1000;execution=259.007 ms;
+12:48:14.454815> Modify SellLimit (1Leg)
+12:48:21.593504> Try Modify Sell order, 
+12:48:21.594496> Support: 66246.4 VolS:1.339 Resistence: 66251.8 VolR:12.698
+12:48:21.858511> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66300.8000;execution=260.015 ms;
+12:48:21.860510> Modify SellLimit (1Leg)
+12:48:24.706659> Try Modify Sell order, 
+12:48:24.708660> Support: 66250.1 VolS:0.466 Resistence: 66257.1 VolR:5.587
+12:48:24.974675> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66350.0000;execution=261.016 ms;
+12:48:24.975675> Modify SellLimit (1Leg)
+12:50:21.886723> Try Open BuyLimit, Bid: 66337.60 Ask:  66337.70
+12:50:21.894723> Support: 66337.6 VolS:18.066 Resistence: 66340.8 VolR:0.171
+12:50:22.167740> [1Leg]: Buy OK BTCUSDT at 66318.0000;Gap=-0.645;Price=66337.7000;Slippage=19.7;Execution=273.017 ms;
+12:50:22.169739> Elapsted Open BuyLimit 
+12:50:22.441762> Try Modify Buy order, 
+12:50:22.443767> Support: 66339.3 VolS:16.574 Resistence: 66341.8 VolR:0.275
+12:50:22.737898> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:50:22.738898> [1Leg]: Buy failed BTCUSDT;price=66339.4000
+12:50:22.739898> Try Delete Sell order, 
+12:50:22.739898> Support: 66339.3 VolS:16.574 Resistence: 66341.8 VolR:0.275
+12:50:23.000914> OrderId: [319983063949]: Sell Limit OK DELETE  BTCUSDT;price=0;Execution=260.016 ms;
+12:50:23.001914> Delete SellLimit (1Leg)
+12:51:24.386553> Try Delete Buy order, 
+12:51:24.387540> Support: 66278.6 VolS:0.739 Resistence: 66278.7 VolR:12.301
+12:51:24.687571> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+12:51:25.558667> Try Delete Buy order, 
+12:51:25.561678> Support: 66278.6 VolS:0.757 Resistence: 66278.7 VolR:13.036
+12:51:25.896687> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+12:51:26.023695> Try Delete Buy order, 
+12:51:26.023695> Support: 66277.8 VolS:0.939 Resistence: 66277.9 VolR:10.704
+12:51:27.687194> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+12:51:27.695196> Try Delete Buy order, 
+12:51:27.695196> Support: 66276.8 VolS:0.315 Resistence: 66276.9 VolR:9.788
+12:51:28.014212> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+12:55:41.007495> Try place BuyLimit, Bid: 66356.60 Ask:  66356.70
+12:55:42.010647> [1Leg]: Buy OK BTCUSDT at 66343.2000;Gap=5.05;Price=66352.6000;Slippage=9.4;Execution=1002.151 ms;
+12:55:42.011646> Placed lock BuyLimit 
+12:55:42.012672> Try Modify Lock Buy order, 
+12:55:42.313551> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:55:42.314551> [1Leg]: Buy failed BTCUSDT;price=66356.7000
+12:55:46.015468> Try Modify Lock Buy order, 
+12:55:46.272868> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66301.7000;execution=256.397 ms;
+12:55:46.273865> Modify BuyLimit (1Leg)
+12:55:51.019484> Try Modify Lock Buy order, 
+12:55:51.275507> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66343.2000;execution=252.023 ms;
+12:55:51.276500> Modify BuyLimit (1Leg)
+12:55:56.008771> Try Modify Lock Buy order, 
+12:55:56.259803> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66304.0000;execution=251.032 ms;
+12:55:56.261807> Modify BuyLimit (1Leg)
+12:56:01.009743> Try Modify Lock Buy order, 
+12:56:01.262754> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66308.7000;execution=252.013 ms;
+12:56:01.263750> Modify BuyLimit (1Leg)
+12:56:06.007047> Try Modify Lock Buy order, 
+12:56:06.287057> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66307.8000;execution=280.010 ms;
+12:56:06.288059> Modify BuyLimit (1Leg)
+12:56:11.007126> Try Modify Lock Buy order, 
+12:56:11.265141> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66307.7000;execution=255.016 ms;
+12:56:11.266145> Modify BuyLimit (1Leg)
+12:56:16.030359> Try Modify Lock Buy order, 
+12:56:16.293376> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66343.2000;execution=263.017 ms;
+12:56:16.294375> Modify BuyLimit (1Leg)
+12:56:21.009126> Try Modify Lock Buy order, 
+12:56:21.332149> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:56:21.334138> [1Leg]: Buy failed BTCUSDT;price=66350.2000
+12:56:26.006898> Try Modify Lock Buy order, 
+12:56:26.315924> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:56:26.316918> [1Leg]: Buy failed BTCUSDT;price=66338.3000
+13:03:03.949923> Try Modify Buy order, 
+13:03:03.949923> Support: 66369.6 VolS:15.975 Resistence: 66372.6 VolR:0.5
+13:03:04.240942> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:03:04.241939> [1Leg]: Buy failed BTCUSDT;price=66369.7000
+13:03:04.998564> Try Modify Buy order, 
+13:03:04.999566> Support: 66372.5 VolS:9.134 Resistence: 66372.6 VolR:0.862
+13:03:05.337570> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:03:05.338571> [1Leg]: Buy failed BTCUSDT;price=66372.6000
+13:03:07.678383> Try Modify Buy order, 
+13:03:07.679383> Support: 66379.9 VolS:6.015 Resistence: 66381.5 VolR:0.737
+13:03:07.975400> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:03:07.975400> [1Leg]: Buy failed BTCUSDT;price=66381.5000
+13:03:08.666110> Try Modify Buy order, 
+13:03:08.667119> Support: 66383.1 VolS:6.194 Resistence: 66383.2 VolR:1.204
+13:03:08.963127> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:03:08.963127> [1Leg]: Buy failed BTCUSDT;price=66383.2000
+13:03:17.007993> Try Modify Buy order, 
+13:03:17.007993> Support: 66392.6 VolS:8.752 Resistence: 66395.8 VolR:1.5
+13:03:17.423563> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:03:17.424566> [1Leg]: Buy failed BTCUSDT;price=66400.0000
+13:03:38.605689> Try Modify Buy order, 
+13:03:38.606689> Support: 66411.9 VolS:6.985 Resistence: 66412 VolR:0.943
+13:03:38.937777> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:03:38.938708> [1Leg]: Buy failed BTCUSDT;price=66412.0000
+13:03:58.849302> Try Modify Buy order, 
+13:03:58.849302> Support: 66430.5 VolS:21.635 Resistence: 66430.6 VolR:1.588
+13:03:59.143321> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:03:59.152321> [1Leg]: Buy failed BTCUSDT;price=66430.6000
+13:04:00.420398> Try Modify Buy order, 
+13:04:00.421396> Support: 66434.9 VolS:12.922 Resistence: 66439 VolR:1.008
+13:04:00.713415> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:04:00.713415> [1Leg]: Buy failed BTCUSDT;price=66436.1000
+13:04:04.023541> Try Modify Buy order, 
+13:04:04.024539> Support: 66437.8 VolS:9.883 Resistence: 66439 VolR:1.008
+13:04:04.318305> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:04:04.318305> [1Leg]: Buy failed BTCUSDT;price=66439.0000
+13:04:17.423192> Try Modify Buy order, 
+13:04:17.424188> Support: 66433.4 VolS:6.341 Resistence: 66433.5 VolR:0.34
+13:04:17.719205> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:04:17.719205> [1Leg]: Buy failed BTCUSDT;price=66433.5000
+13:04:17.956220> Try Modify Buy order, 
+13:04:17.956220> Support: 66427.6 VolS:15.967 Resistence: 66433.5 VolR:0.673
+13:04:18.248235> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:04:18.248235> [1Leg]: Buy failed BTCUSDT;price=66427.7000
+13:04:18.984276> Try Modify Buy order, 
+13:04:18.984276> Support: 66429.9 VolS:13.447 Resistence: 66430 VolR:0.655
+13:04:19.342298> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:04:19.342298> [1Leg]: Buy failed BTCUSDT;price=66430.0000
+13:04:19.993335> Try Modify Buy order, 
+13:04:19.995335> Support: 66430.2 VolS:11.923 Resistence: 66433.5 VolR:0.515
+13:04:20.301800> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:04:20.302801> [1Leg]: Buy failed BTCUSDT;price=66430.3000
+13:04:24.752028> Try Modify Buy order, 
+13:04:24.752028> Support: 66433.4 VolS:4.675 Resistence: 66433.5 VolR:0.375
+13:04:25.042040> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:04:25.058040> [1Leg]: Buy failed BTCUSDT;price=66433.5000
+13:04:26.857789> Try Modify Buy order, 
+13:04:26.858778> Support: 66439.9 VolS:13.675 Resistence: 66440 VolR:0.872
+13:04:27.155796> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:04:27.156796> [1Leg]: Buy failed BTCUSDT;price=66440.0000

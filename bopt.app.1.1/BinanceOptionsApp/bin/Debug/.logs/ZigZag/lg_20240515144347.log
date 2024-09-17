@@ -1,0 +1,1637 @@
+14:43:48.647877> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:43:48.648878> WebSocket connected! Start @depth [Future] process...
+14:43:48.648878> WebSocket connected! Start Partial @depth20 [Future] process...
+14:43:48.667878> WebSocket connected! Start Partial @depth20 [Future] process...
+14:43:49.671920> WebSocket connected! Start @depth [Future] process...
+14:43:49.676972> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:43:49.693903> WebSocket connected! Start Partial @depth20 [Future] process...
+14:43:49.715903> WebSocket connected! Start Partial @depth20 [Future] process...
+14:43:50.192967> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 331.30835533 USDT
+15:30:17.708374>  DevBUY (+): 154.19375 avgGapBuy:14.30625 
+15:30:18.792717>  DevBUY (-): 145.19375 avgGapBuy:14.30625 
+15:30:19.247982>  DevBUY (+): 170.49375 avgGapBuy:14.30625 
+15:30:30.493378>  DevSELL (-): -148.455 avgGapSell:31.055 
+15:30:31.109417> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+15:30:31.111449> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+15:30:32.181941> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:30:32.971048>  DevSELL (-): -140.455 avgGapSell:31.055 
+15:30:44.761047> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+15:30:44.762047> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+15:30:45.758317> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:51:53.006061> Try place lock SellLimit, Bid: 63633.30 Ask:  63633.40
+15:51:54.315978> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:51:54.316980> [1Leg]: Sell FAILED BTCUSDT;Gap=1.69375;Price=63633.40
+15:51:55.001985> Try place lock SellLimit, Bid: 63631.00 Ask:  63631.10
+15:51:55.343010> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:51:55.345032> [1Leg]: Sell FAILED BTCUSDT;Gap=0.79375;Price=63631.10
+15:51:57.001133> Try place lock SellLimit, Bid: 63619.80 Ask:  63619.90
+15:51:57.285149> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:51:57.286146> [1Leg]: Sell FAILED BTCUSDT;Gap=4.29375;Price=63619.90
+15:51:59.001971> Try place lock SellLimit, Bid: 63627.70 Ask:  63627.80
+15:51:59.297923> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:51:59.298914> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.4575;Price=63630.80
+15:52:01.001264> Try place lock SellLimit, Bid: 63619.80 Ask:  63619.90
+15:52:01.288958> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:01.289957> [1Leg]: Sell FAILED BTCUSDT;Gap=2.4425;Price=63617.40
+15:52:03.002363> Try place lock SellLimit, Bid: 63611.00 Ask:  63611.10
+15:52:03.294380> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:03.295380> [1Leg]: Sell FAILED BTCUSDT;Gap=2.3425;Price=63611.10
+15:52:05.000259> Try place lock SellLimit, Bid: 63614.90 Ask:  63615.00
+15:52:05.352282> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:05.354288> [1Leg]: Sell FAILED BTCUSDT;Gap=2.3425;Price=63611.30
+15:52:07.001475> Try place lock SellLimit, Bid: 63624.90 Ask:  63625.00
+15:52:07.297496> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:07.298500> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.5575;Price=63629.40
+15:52:09.001190> Try place lock SellLimit, Bid: 63632.10 Ask:  63632.20
+15:52:09.286198> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:09.287198> [1Leg]: Sell FAILED BTCUSDT;Gap=3.3075;Price=63635.00
+15:52:11.002471> Try place lock SellLimit, Bid: 63641.40 Ask:  63641.50
+15:52:11.449498> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:11.450499> [1Leg]: Sell FAILED BTCUSDT;Gap=0.7075;Price=63643.60
+15:52:13.001631> Try place lock SellLimit, Bid: 63667.60 Ask:  63667.70
+15:52:13.302641> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:13.303637> [1Leg]: Sell FAILED BTCUSDT;Gap=5.4725;Price=63668.60
+15:52:15.001710> Try place lock SellLimit, Bid: 63678.00 Ask:  63678.10
+15:52:15.282726> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:15.299720> [1Leg]: Sell FAILED BTCUSDT;Gap=0.9725;Price=63678.10
+15:52:17.000089> Try place lock SellLimit, Bid: 63695.80 Ask:  63695.90
+15:52:17.317102> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:17.318102> [1Leg]: Sell FAILED BTCUSDT;Gap=6.6725;Price=63695.90
+15:52:19.001941> Try place lock SellLimit, Bid: 63681.00 Ask:  63681.10
+15:52:19.307957> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:19.308956> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.52;Price=63681.10
+15:52:21.001481> Try place lock SellLimit, Bid: 63683.50 Ask:  63683.60
+15:52:21.290482> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:21.291482> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.02;Price=63683.60
+15:52:23.000742> Try place lock SellLimit, Bid: 63674.80 Ask:  63674.90
+15:52:23.726816> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:23.802783> [1Leg]: Sell FAILED BTCUSDT;Gap=0.1175;Price=63674.90
+15:52:25.000486> Try place lock SellLimit, Bid: 63670.60 Ask:  63670.70
+15:52:25.294494> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:25.297498> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.0825;Price=63670.70
+15:52:27.001146> Try place lock SellLimit, Bid: 63650.00 Ask:  63650.10
+15:52:27.290175> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:27.291162> [1Leg]: Sell FAILED BTCUSDT;Gap=3.3175;Price=63650.10
+15:52:29.003957> Try place lock SellLimit, Bid: 63640.80 Ask:  63640.90
+15:52:29.446982> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:29.447984> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.1325;Price=63640.90
+15:52:31.002008> Try place lock SellLimit, Bid: 63640.80 Ask:  63640.90
+15:52:31.300024> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:31.301024> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.1325;Price=63648.00
+15:52:33.013645> Try place lock SellLimit, Bid: 63636.30 Ask:  63636.40
+15:52:33.338870> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:33.341869> [1Leg]: Sell FAILED BTCUSDT;Gap=4.97875;Price=63610.60
+15:52:35.003544> Try place lock SellLimit, Bid: 63622.30 Ask:  63622.40
+15:52:35.438570> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:35.441569> [1Leg]: Sell FAILED BTCUSDT;Gap=1.07875;Price=63622.40
+15:52:37.025839> Try place lock SellLimit, Bid: 63622.30 Ask:  63622.40
+15:52:37.364840> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:37.365841> [1Leg]: Sell FAILED BTCUSDT;Gap=0.47875;Price=63638.20
+15:52:39.000739> Try place lock SellLimit, Bid: 63632.80 Ask:  63632.90
+15:52:39.295748> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:39.295748> [1Leg]: Sell FAILED BTCUSDT;Gap=1.2375;Price=63638.20
+15:52:41.004181> Try place lock SellLimit, Bid: 63638.10 Ask:  63638.20
+15:52:41.318195> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:41.320215> [1Leg]: Sell FAILED BTCUSDT;Gap=-8.9625;Price=63659.30
+15:52:43.001374> Try place lock SellLimit, Bid: 63688.30 Ask:  63688.40
+15:52:43.319485> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:43.343482> [1Leg]: Sell FAILED BTCUSDT;Gap=7.86625;Price=63688.40
+15:52:45.007518> Try place lock SellLimit, Bid: 63699.90 Ask:  63700.00
+15:52:45.337523> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:45.338522> [1Leg]: Sell FAILED BTCUSDT;Gap=3.76625;Price=63700.00
+15:52:47.003745> Try place lock SellLimit, Bid: 63699.90 Ask:  63700.00
+15:52:47.340756> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:47.371758> [1Leg]: Sell FAILED BTCUSDT;Gap=3.76625;Price=63700.00
+15:52:49.001320> Try place lock SellLimit, Bid: 63699.90 Ask:  63700.00
+15:52:49.346587> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:49.370589> [1Leg]: Sell FAILED BTCUSDT;Gap=3.50;Price=63698.40
+15:52:51.000684> Try place lock SellLimit, Bid: 63703.30 Ask:  63703.40
+15:52:51.369692> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:51.377690> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.90;Price=63697.20
+15:52:53.000320> Try place lock SellLimit, Bid: 63705.80 Ask:  63705.90
+15:52:53.349396> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:53.384399> [1Leg]: Sell FAILED BTCUSDT;Gap=5.26875;Price=63705.90
+15:52:55.002532> Try place lock SellLimit, Bid: 63705.80 Ask:  63705.90
+15:52:55.323684> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:55.350686> [1Leg]: Sell FAILED BTCUSDT;Gap=5.26875;Price=63704.10
+15:52:57.029118> Try place lock SellLimit, Bid: 63700.00 Ask:  63700.10
+15:52:57.356211> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:57.382214> [1Leg]: Sell FAILED BTCUSDT;Gap=2.56875;Price=63697.20
+15:52:59.002323> Try place lock SellLimit, Bid: 63697.10 Ask:  63697.20
+15:52:59.329478> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:52:59.378487> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.29125;Price=63697.20
+15:53:01.000506> Try place lock SellLimit, Bid: 63703.50 Ask:  63703.60
+15:53:01.385523> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:01.386523> [1Leg]: Sell FAILED BTCUSDT;Gap=3.00875;Price=63703.60
+15:53:03.002130> Try place lock SellLimit, Bid: 63726.20 Ask:  63726.30
+15:53:03.285076> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:03.286076> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.5075;Price=63726.30
+15:53:05.034971> Try place lock SellLimit, Bid: 63731.80 Ask:  63731.90
+15:53:05.325930> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:05.326930> [1Leg]: Sell FAILED BTCUSDT;Gap=5.0925;Price=63731.90
+15:53:07.000805> Try place lock SellLimit, Bid: 63739.90 Ask:  63740.00
+15:53:07.294813> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:07.295814> [1Leg]: Sell FAILED BTCUSDT;Gap=0.2925;Price=63740.00
+15:53:09.017636> Try place lock SellLimit, Bid: 63737.10 Ask:  63737.20
+15:53:09.306162> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:09.325161> [1Leg]: Sell FAILED BTCUSDT;Gap=3.1675;Price=63737.20
+15:53:11.000394> Try place lock SellLimit, Bid: 63741.60 Ask:  63741.70
+15:53:11.295451> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:11.296452> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.2325;Price=63750.00
+15:53:13.002539> Try place lock SellLimit, Bid: 63741.60 Ask:  63741.70
+15:53:13.294559> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:13.295555> [1Leg]: Sell FAILED BTCUSDT;Gap=9.1125;Price=63730.40
+15:53:15.031039> Try place lock SellLimit, Bid: 63745.80 Ask:  63745.90
+15:53:15.316065> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:15.317057> [1Leg]: Sell FAILED BTCUSDT;Gap=5.3125;Price=63741.30
+15:53:17.001281> Try place lock SellLimit, Bid: 63745.40 Ask:  63745.50
+15:53:17.309769> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:17.309769> [1Leg]: Sell FAILED BTCUSDT;Gap=3.3125;Price=63745.50
+15:53:19.000429> Try place lock SellLimit, Bid: 63759.20 Ask:  63759.30
+15:53:19.282642> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:19.282642> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.91625;Price=63759.30
+15:53:21.002508> Try place lock SellLimit, Bid: 63753.80 Ask:  63753.90
+15:53:21.295519> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:21.296518> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.01625;Price=63755.90
+15:53:23.000096> Try place lock SellLimit, Bid: 63774.10 Ask:  63774.30
+15:53:23.320111> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:23.320111> [1Leg]: Sell FAILED BTCUSDT;Gap=-8.39375;Price=63788.00
+15:53:25.001828> Try place lock SellLimit, Bid: 63781.50 Ask:  63781.60
+15:53:25.291841> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:25.292838> [1Leg]: Sell FAILED BTCUSDT;Gap=7.40625;Price=63781.60
+15:53:27.021991> Try place lock SellLimit, Bid: 63777.90 Ask:  63778.00
+15:53:27.315995> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:27.316994> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.29375;Price=63769.20
+15:53:29.000660> Try place lock SellLimit, Bid: 63768.00 Ask:  63768.10
+15:53:29.282637> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:29.283638> [1Leg]: Sell FAILED BTCUSDT;Gap=1.17;Price=63768.10
+15:53:31.014622> Try place lock SellLimit, Bid: 63756.40 Ask:  63756.50
+15:53:31.467642> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:31.491643> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.83;Price=63748.00
+15:53:33.054797> Try place lock SellLimit, Bid: 63739.20 Ask:  63739.30
+15:53:33.465827> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:33.490832> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.84375;Price=63738.00
+15:53:35.010507> Try place lock SellLimit, Bid: 63726.60 Ask:  63726.70
+15:53:35.330822> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:35.331822> [1Leg]: Sell FAILED BTCUSDT;Gap=1.55625;Price=63726.70
+15:53:37.003574> Try place lock SellLimit, Bid: 63678.50 Ask:  63678.60
+15:53:37.341085> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:37.342082> [1Leg]: Sell FAILED BTCUSDT;Gap=-10.74375;Price=63678.60
+15:53:39.014389> Try place lock SellLimit, Bid: 63683.20 Ask:  63683.30
+15:53:39.309011> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:39.312009> [1Leg]: Sell FAILED BTCUSDT;Gap=4.28875;Price=63683.30
+15:53:41.062192> Try place lock SellLimit, Bid: 63682.40 Ask:  63682.50
+15:53:41.376210> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:41.376210> [1Leg]: Sell FAILED BTCUSDT;Gap=0.68875;Price=63682.50
+15:53:43.002669> Try place lock SellLimit, Bid: 63704.90 Ask:  63705.00
+15:53:43.319686> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:43.319686> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.45625;Price=63710.80
+15:53:45.002490> Try place lock SellLimit, Bid: 63719.90 Ask:  63720.00
+15:53:45.293497> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:45.294498> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.95625;Price=63723.00
+15:53:47.013248> Try place lock SellLimit, Bid: 63723.10 Ask:  63723.20
+15:53:47.300264> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:47.300264> [1Leg]: Sell FAILED BTCUSDT;Gap=0.94375;Price=63723.20
+15:53:49.006758> Try place lock SellLimit, Bid: 63704.90 Ask:  63705.00
+15:53:49.287774> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:49.291773> [1Leg]: Sell FAILED BTCUSDT;Gap=2.0175;Price=63705.00
+15:53:51.056208> Try place lock SellLimit, Bid: 63699.70 Ask:  63699.80
+15:53:51.343210> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:51.344208> [1Leg]: Sell FAILED BTCUSDT;Gap=0.9175;Price=63699.80
+15:53:53.017497> Try place lock SellLimit, Bid: 63680.00 Ask:  63680.10
+15:53:53.299516> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:53.300514> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.3175;Price=63680.10
+15:53:55.001653> Try place lock SellLimit, Bid: 63680.00 Ask:  63680.10
+15:53:55.291672> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:55.292671> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.0175;Price=63680.10
+15:53:57.014545> Try place lock SellLimit, Bid: 63684.50 Ask:  63684.60
+15:53:57.300571> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:57.301563> [1Leg]: Sell FAILED BTCUSDT;Gap=5.1825;Price=63686.50
+15:53:59.011034> Try place lock SellLimit, Bid: 63688.50 Ask:  63688.60
+15:53:59.321054> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:53:59.321054> [1Leg]: Sell FAILED BTCUSDT;Gap=1.91875;Price=63688.60
+15:54:01.033386> Try place lock SellLimit, Bid: 63684.90 Ask:  63685.00
+15:54:01.329405> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:01.330407> [1Leg]: Sell FAILED BTCUSDT;Gap=0.81875;Price=63685.00
+15:54:03.026676> Try place lock SellLimit, Bid: 63684.90 Ask:  63685.00
+15:54:03.330696> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:03.331698> [1Leg]: Sell FAILED BTCUSDT;Gap=0.90875;Price=63685.00
+15:54:05.000110> Try place lock SellLimit, Bid: 63685.00 Ask:  63685.10
+15:54:05.365122> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:05.366110> [1Leg]: Sell FAILED BTCUSDT;Gap=1.00875;Price=63685.10
+15:54:07.001858> Try place lock SellLimit, Bid: 63680.40 Ask:  63680.50
+15:54:07.310862> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:07.311865> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.19125;Price=63680.50
+15:54:09.002766> Try place lock SellLimit, Bid: 63671.50 Ask:  63671.60
+15:54:09.289782> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:09.290782> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.41375;Price=63666.70
+15:54:11.001453> Try place lock SellLimit, Bid: 63665.50 Ask:  63665.60
+15:54:11.292460> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:11.293459> [1Leg]: Sell FAILED BTCUSDT;Gap=1.28625;Price=63665.60
+15:54:13.000792> Try place lock SellLimit, Bid: 63676.50 Ask:  63676.60
+15:54:13.356824> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:13.357815> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.26375;Price=63680.40
+15:54:15.001876> Try place lock SellLimit, Bid: 63662.10 Ask:  63662.20
+15:54:15.332887> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:15.333888> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.76375;Price=63655.70
+15:54:17.000683> Try place lock SellLimit, Bid: 63666.70 Ask:  63666.80
+15:54:17.303687> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:17.304687> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.16375;Price=63657.70
+15:54:19.001733> Try place lock SellLimit, Bid: 63662.00 Ask:  63662.10
+15:54:19.343753> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:19.343753> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.70;Price=63659.50
+15:54:21.001193> Try place lock SellLimit, Bid: 63664.00 Ask:  63664.10
+15:54:21.391202> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:21.397201> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.80;Price=63664.10
+15:54:23.009290> Try place lock SellLimit, Bid: 63650.00 Ask:  63650.10
+15:54:23.312360> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:23.313355> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.21875;Price=63650.10
+15:54:25.001930> Try place lock SellLimit, Bid: 63643.00 Ask:  63643.10
+15:54:25.313948> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:25.315950> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.21875;Price=63643.10
+15:54:27.001215> Try place lock SellLimit, Bid: 63639.70 Ask:  63639.80
+15:54:27.286234> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:27.287243> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.61875;Price=63639.80
+15:54:29.001428> Try place lock SellLimit, Bid: 63648.80 Ask:  63648.90
+15:54:29.361450> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:29.366448> [1Leg]: Sell FAILED BTCUSDT;Gap=3.3625;Price=63648.90
+15:54:31.002267> Try place lock SellLimit, Bid: 63644.10 Ask:  63644.20
+15:54:31.295283> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:31.296285> [1Leg]: Sell FAILED BTCUSDT;Gap=0.5625;Price=63644.20
+15:54:33.002002> Try place lock SellLimit, Bid: 63644.10 Ask:  63644.20
+15:54:33.373975> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:33.374977> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.51625;Price=63648.80
+15:54:35.001035> Try place lock SellLimit, Bid: 63643.50 Ask:  63643.60
+15:54:35.322050> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:35.323049> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.51625;Price=63644.10
+15:54:37.000942> Try place lock SellLimit, Bid: 63649.90 Ask:  63650.00
+15:54:37.292957> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:37.293949> [1Leg]: Sell FAILED BTCUSDT;Gap=4.38375;Price=63650.00
+15:54:39.001194> Try place lock SellLimit, Bid: 63644.20 Ask:  63644.30
+15:54:39.289207> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:39.290206> [1Leg]: Sell FAILED BTCUSDT;Gap=3.265;Price=63644.30
+15:54:41.002736> Try place lock SellLimit, Bid: 63643.50 Ask:  63643.60
+15:54:41.319754> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:41.320755> [1Leg]: Sell FAILED BTCUSDT;Gap=2.565;Price=63643.60
+15:54:43.002870> Try place lock SellLimit, Bid: 63643.10 Ask:  63643.20
+15:54:43.502885> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:43.506885> [1Leg]: Sell FAILED BTCUSDT;Gap=0.91125;Price=63643.60
+15:54:45.002388> Try place lock SellLimit, Bid: 63636.00 Ask:  63636.10
+15:54:45.329408> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:45.330407> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.68875;Price=63638.00
+15:54:47.001556> Try place lock SellLimit, Bid: 63636.60 Ask:  63636.70
+15:54:47.294574> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:47.294574> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.08875;Price=63636.70
+15:54:49.000803> Try place lock SellLimit, Bid: 63645.60 Ask:  63645.70
+15:54:49.436817> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:49.442819> [1Leg]: Sell FAILED BTCUSDT;Gap=6.485;Price=63656.60
+15:54:51.003569> Try place lock SellLimit, Bid: 63659.90 Ask:  63660.00
+15:54:51.350575> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:51.352575> [1Leg]: Sell FAILED BTCUSDT;Gap=7.085;Price=63660.00
+15:54:53.027118> Try place lock SellLimit, Bid: 63672.60 Ask:  63672.70
+15:54:53.336128> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:53.336128> [1Leg]: Sell FAILED BTCUSDT;Gap=2.4775;Price=63672.70
+15:54:55.001270> Try place lock SellLimit, Bid: 63681.60 Ask:  63681.70
+15:54:55.310286> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:55.334286> [1Leg]: Sell FAILED BTCUSDT;Gap=7.0775;Price=63681.70
+15:54:57.001204> Try place lock SellLimit, Bid: 63684.50 Ask:  63684.60
+15:54:57.320220> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:57.347219> [1Leg]: Sell FAILED BTCUSDT;Gap=4.6775;Price=63685.00
+15:54:59.000855> Try place lock SellLimit, Bid: 63681.30 Ask:  63681.40
+15:54:59.347875> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:54:59.348875> [1Leg]: Sell FAILED BTCUSDT;Gap=4.42125;Price=63681.40
+15:55:01.002440> Try place lock SellLimit, Bid: 63681.30 Ask:  63681.40
+15:55:01.318083> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:01.342081> [1Leg]: Sell FAILED BTCUSDT;Gap=4.42125;Price=63681.40
+15:55:03.001591> Try place lock SellLimit, Bid: 63681.30 Ask:  63681.40
+15:55:03.293377> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:03.344379> [1Leg]: Sell FAILED BTCUSDT;Gap=4.42125;Price=63681.40
+15:55:05.001752> Try place lock SellLimit, Bid: 63681.30 Ask:  63681.40
+15:55:05.459777> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:05.459777> [1Leg]: Sell FAILED BTCUSDT;Gap=0.72125;Price=63681.40
+15:55:07.001252> Try place lock SellLimit, Bid: 63678.90 Ask:  63679.00
+15:55:07.368261> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:07.368261> [1Leg]: Sell FAILED BTCUSDT;Gap=1.92125;Price=63679.00
+15:55:09.001554> Try place lock SellLimit, Bid: 63682.30 Ask:  63682.40
+15:55:09.449690> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:09.451691> [1Leg]: Sell FAILED BTCUSDT;Gap=5.1425;Price=63682.40
+15:55:11.064301> Try place lock SellLimit, Bid: 63669.00 Ask:  63669.10
+15:55:11.419315> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:11.420319> [1Leg]: Sell FAILED BTCUSDT;Gap=5.9425;Price=63669.10
+15:55:13.002343> Try place lock SellLimit, Bid: 63659.50 Ask:  63659.60
+15:55:13.307283> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:13.307283> [1Leg]: Sell FAILED BTCUSDT;Gap=3.95;Price=63659.60
+15:55:15.002314> Try place lock SellLimit, Bid: 63628.00 Ask:  63628.10
+15:55:15.462689> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:15.477689> [1Leg]: Sell FAILED BTCUSDT;Gap=2.05;Price=63624.30
+15:55:17.000714> Try place lock SellLimit, Bid: 63637.50 Ask:  63637.60
+15:55:17.304717> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:17.335714> [1Leg]: Sell FAILED BTCUSDT;Gap=1.95;Price=63637.60
+15:55:19.001551> Try place lock SellLimit, Bid: 63629.80 Ask:  63629.90
+15:55:19.330597> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:19.349590> [1Leg]: Sell FAILED BTCUSDT;Gap=1.245;Price=63629.90
+15:55:21.000731> Try place lock SellLimit, Bid: 63616.30 Ask:  63616.40
+15:55:21.311744> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:21.311744> [1Leg]: Sell FAILED BTCUSDT;Gap=1.545;Price=63616.40
+15:55:23.001052> Try place lock SellLimit, Bid: 63622.20 Ask:  63622.30
+15:55:23.286060> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:23.287062> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.32625;Price=63622.30
+15:55:25.001009> Try place lock SellLimit, Bid: 63625.30 Ask:  63625.40
+15:55:25.332716> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:25.332716> [1Leg]: Sell FAILED BTCUSDT;Gap=1.77375;Price=63625.40
+15:55:27.001001> Try place lock SellLimit, Bid: 63635.80 Ask:  63635.90
+15:55:27.282144> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:27.286143> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.32625;Price=63639.70
+15:55:29.002348> Try place lock SellLimit, Bid: 63635.30 Ask:  63635.40
+15:55:29.350378> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:29.359379> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.5675;Price=63640.60
+15:55:31.002678> Try place lock SellLimit, Bid: 63643.40 Ask:  63643.50
+15:55:31.295686> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:31.296688> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.6675;Price=63643.50
+15:55:33.001536> Try place lock SellLimit, Bid: 63627.20 Ask:  63627.30
+15:55:33.308552> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:33.309547> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.77875;Price=63632.10
+15:55:35.001639> Try place lock SellLimit, Bid: 63626.70 Ask:  63626.80
+15:55:35.289380> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:35.290379> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.27875;Price=63629.90
+15:55:37.009893> Try place lock SellLimit, Bid: 63626.20 Ask:  63626.30
+15:55:37.347899> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:37.348897> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.77875;Price=63626.30
+15:55:39.020959> Try place lock SellLimit, Bid: 63621.60 Ask:  63621.70
+15:55:39.336998> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:39.337999> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.24625;Price=63620.30
+15:55:41.084975> Try place lock SellLimit, Bid: 63619.40 Ask:  63619.50
+15:55:41.518637> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:41.519635> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.44625;Price=63618.00
+15:55:43.016137> Try place lock SellLimit, Bid: 63618.00 Ask:  63618.10
+15:55:43.312586> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:43.313587> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.80625;Price=63626.20
+15:55:45.002264> Try place lock SellLimit, Bid: 63631.80 Ask:  63631.90
+15:55:45.289315> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:45.290314> [1Leg]: Sell FAILED BTCUSDT;Gap=0.09375;Price=63631.90
+15:55:47.001325> Try place lock SellLimit, Bid: 63668.90 Ask:  63669.00
+15:55:47.281340> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:47.282341> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.80625;Price=63669.00
+15:55:49.059283> Try place lock SellLimit, Bid: 63667.60 Ask:  63667.70
+15:55:49.352301> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:49.352301> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.035;Price=63667.70
+15:55:51.000105> Try place lock SellLimit, Bid: 63677.10 Ask:  63677.20
+15:55:51.283359> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:51.286357> [1Leg]: Sell FAILED BTCUSDT;Gap=5.565;Price=63677.20
+15:55:53.027616> Try place lock SellLimit, Bid: 63677.10 Ask:  63677.20
+15:55:53.308775> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:53.308775> [1Leg]: Sell FAILED BTCUSDT;Gap=1.27125;Price=63673.80
+15:55:55.022388> Try place lock SellLimit, Bid: 63676.40 Ask:  63676.50
+15:55:55.310355> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:55.311353> [1Leg]: Sell FAILED BTCUSDT;Gap=0.97125;Price=63676.50
+15:55:57.006627> Try place lock SellLimit, Bid: 63687.60 Ask:  63687.70
+15:55:57.298456> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:57.299456> [1Leg]: Sell FAILED BTCUSDT;Gap=2.17125;Price=63687.80
+15:55:59.010325> Try place lock SellLimit, Bid: 63690.40 Ask:  63690.50
+15:55:59.348043> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:55:59.349043> [1Leg]: Sell FAILED BTCUSDT;Gap=4.88625;Price=63690.50
+15:56:01.025958> Try place lock SellLimit, Bid: 63698.70 Ask:  63698.80
+15:56:01.313984> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:01.313984> [1Leg]: Sell FAILED BTCUSDT;Gap=3.18625;Price=63700.00
+15:56:03.001560> Try place lock SellLimit, Bid: 63695.50 Ask:  63695.60
+15:56:03.296577> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:03.297578> [1Leg]: Sell FAILED BTCUSDT;Gap=3.59;Price=63699.10
+15:56:05.109363> Try place lock SellLimit, Bid: 63710.80 Ask:  63710.90
+15:56:05.394382> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:05.394382> [1Leg]: Sell FAILED BTCUSDT;Gap=2.99;Price=63712.00
+15:56:07.001020> Try place lock SellLimit, Bid: 63725.20 Ask:  63725.30
+15:56:07.392046> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:07.432035> [1Leg]: Sell FAILED BTCUSDT;Gap=2.89;Price=63729.40
+15:56:09.012312> Try place lock SellLimit, Bid: 63748.70 Ask:  63748.80
+15:56:09.315332> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:09.316503> [1Leg]: Sell FAILED BTCUSDT;Gap=6.55375;Price=63748.80
+15:56:11.027817> Try place lock SellLimit, Bid: 63732.50 Ask:  63732.60
+15:56:11.490747> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:11.509745> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.84625;Price=63729.50
+15:56:13.002825> Try place lock SellLimit, Bid: 63729.00 Ask:  63729.10
+15:56:13.325242> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:13.325242> [1Leg]: Sell FAILED BTCUSDT;Gap=3.3025;Price=63729.10
+15:56:15.024521> Try place lock SellLimit, Bid: 63715.80 Ask:  63715.90
+15:56:15.451561> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:15.453563> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.0975;Price=63715.90
+15:56:17.001514> Try place lock SellLimit, Bid: 63715.80 Ask:  63715.90
+15:56:17.295524> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:17.296524> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.0975;Price=63715.90
+15:56:19.000243> Try place lock SellLimit, Bid: 63715.80 Ask:  63715.90
+15:56:19.290877> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:19.341876> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.5125;Price=63701.70
+15:56:21.001663> Try place lock SellLimit, Bid: 63717.90 Ask:  63718.00
+15:56:21.338895> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:21.339907> [1Leg]: Sell FAILED BTCUSDT;Gap=0.5875;Price=63718.00
+15:56:23.001582> Try place lock SellLimit, Bid: 63722.90 Ask:  63723.00
+15:56:23.304365> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:23.305365> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.37;Price=63726.40
+15:56:25.000282> Try place lock SellLimit, Bid: 63707.80 Ask:  63707.90
+15:56:25.296292> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:25.296292> [1Leg]: Sell FAILED BTCUSDT;Gap=3.03;Price=63707.90
+15:56:27.000767> Try place lock SellLimit, Bid: 63690.30 Ask:  63690.40
+15:56:27.507803> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:27.515803> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.17;Price=63690.40
+15:56:29.001885> Try place lock SellLimit, Bid: 63689.00 Ask:  63689.10
+15:56:29.290029> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:29.291031> [1Leg]: Sell FAILED BTCUSDT;Gap=2.61;Price=63689.10
+15:56:31.002976> Try place lock SellLimit, Bid: 63696.10 Ask:  63696.20
+15:56:31.369996> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:31.379998> [1Leg]: Sell FAILED BTCUSDT;Gap=3.71;Price=63698.30
+15:56:33.025004> Try place lock SellLimit, Bid: 63694.30 Ask:  63694.40
+15:56:33.319021> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:33.319021> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.19375;Price=63694.40
+15:56:35.001990> Try place lock SellLimit, Bid: 63680.00 Ask:  63680.10
+15:56:35.321008> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:35.321008> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.59375;Price=63680.10
+15:56:37.000067> Try place lock SellLimit, Bid: 63680.40 Ask:  63680.50
+15:56:37.298082> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:37.299082> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.09375;Price=63680.50
+15:56:39.019442> Try place lock SellLimit, Bid: 63660.10 Ask:  63660.20
+15:56:39.327459> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:39.328461> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.7875;Price=63660.20
+15:56:41.002053> Try place lock SellLimit, Bid: 63647.70 Ask:  63647.80
+15:56:41.300062> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:41.308062> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.5875;Price=63647.80
+15:56:43.023539> Try place lock SellLimit, Bid: 63665.90 Ask:  63666.00
+15:56:43.392132> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:43.395129> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.52125;Price=63663.70
+15:56:45.001032> Try place lock SellLimit, Bid: 63663.60 Ask:  63663.70
+15:56:45.293051> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:45.294050> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.72125;Price=63663.70
+15:56:47.002202> Try place lock SellLimit, Bid: 63668.70 Ask:  63668.80
+15:56:47.312106> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:47.312106> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.72125;Price=63680.40
+15:56:49.001723> Try place lock SellLimit, Bid: 63680.30 Ask:  63680.40
+15:56:49.364739> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:49.364739> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.87625;Price=63692.80
+15:56:51.002792> Try place lock SellLimit, Bid: 63681.50 Ask:  63681.60
+15:56:51.283798> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:51.284799> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.27625;Price=63681.60
+15:56:53.002087> Try place lock SellLimit, Bid: 63691.30 Ask:  63691.40
+15:56:53.314098> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:53.314098> [1Leg]: Sell FAILED BTCUSDT;Gap=1.62125;Price=63691.40
+15:56:55.001805> Try place lock SellLimit, Bid: 63698.60 Ask:  63698.70
+15:56:55.297814> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:55.297814> [1Leg]: Sell FAILED BTCUSDT;Gap=4.32125;Price=63692.20
+15:56:57.001320> Try place lock SellLimit, Bid: 63688.10 Ask:  63688.20
+15:56:57.337334> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:57.338331> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.07875;Price=63688.20
+15:56:59.002184> Try place lock SellLimit, Bid: 63696.00 Ask:  63696.10
+15:56:59.337196> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:56:59.338198> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.02125;Price=63696.10
+15:57:01.000711> Try place lock SellLimit, Bid: 63684.00 Ask:  63684.10
+15:57:01.316641> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:01.317647> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.72125;Price=63684.10
+15:57:03.001360> Try place lock SellLimit, Bid: 63713.70 Ask:  63713.80
+15:57:03.285922> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:03.286922> [1Leg]: Sell FAILED BTCUSDT;Gap=7.7975;Price=63713.80
+15:57:05.001252> Try place lock SellLimit, Bid: 63704.90 Ask:  63705.00
+15:57:05.364266> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:05.365265> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.3025;Price=63705.00
+15:57:07.028236> Try place lock SellLimit, Bid: 63690.80 Ask:  63690.90
+15:57:07.427245> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:07.428242> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.8025;Price=63686.70
+15:57:09.002061> Try place lock SellLimit, Bid: 63686.60 Ask:  63686.70
+15:57:09.340778> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:09.340778> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.65625;Price=63686.70
+15:57:11.001016> Try place lock SellLimit, Bid: 63686.60 Ask:  63686.70
+15:57:11.345034> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:11.346034> [1Leg]: Sell FAILED BTCUSDT;Gap=3.24375;Price=63686.70
+15:57:13.004466> Try place lock SellLimit, Bid: 63694.60 Ask:  63694.70
+15:57:13.594483> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:13.595482> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.6025;Price=63688.10
+15:57:15.001413> Try place lock SellLimit, Bid: 63698.90 Ask:  63699.00
+15:57:15.332323> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:15.353310> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.2025;Price=63698.50
+15:57:17.001215> Try place lock SellLimit, Bid: 63699.90 Ask:  63700.00
+15:57:17.295236> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:17.296232> [1Leg]: Sell FAILED BTCUSDT;Gap=0.6975;Price=63700.00
+15:57:19.002580> Try place lock SellLimit, Bid: 63717.90 Ask:  63718.00
+15:57:19.323580> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:19.324583> [1Leg]: Sell FAILED BTCUSDT;Gap=2.23375;Price=63718.00
+15:57:21.000918> Try place lock SellLimit, Bid: 63716.50 Ask:  63716.60
+15:57:21.302185> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:21.323190> [1Leg]: Sell FAILED BTCUSDT;Gap=0.83375;Price=63716.60
+15:57:23.001640> Try place lock SellLimit, Bid: 63697.80 Ask:  63697.90
+15:57:23.299861> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:23.389868> [1Leg]: Sell FAILED BTCUSDT;Gap=0.0175;Price=63701.30
+15:57:25.001468> Try place lock SellLimit, Bid: 63688.50 Ask:  63688.60
+15:57:25.308200> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:25.355202> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.1825;Price=63691.40
+15:57:27.001660> Try place lock SellLimit, Bid: 63682.10 Ask:  63682.20
+15:57:27.287512> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:27.287512> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.4825;Price=63686.80
+15:57:29.000113> Try place lock SellLimit, Bid: 63679.50 Ask:  63679.60
+15:57:29.284129> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:29.285130> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.8375;Price=63679.60
+15:57:31.001523> Try place lock SellLimit, Bid: 63682.10 Ask:  63682.20
+15:57:31.294086> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:31.294086> [1Leg]: Sell FAILED BTCUSDT;Gap=1.7625;Price=63695.00
+15:57:33.001161> Try place lock SellLimit, Bid: 63711.80 Ask:  63711.90
+15:57:33.285423> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:33.286422> [1Leg]: Sell FAILED BTCUSDT;Gap=2.33125;Price=63711.90
+15:57:35.017038> Try place lock SellLimit, Bid: 63706.80 Ask:  63706.90
+15:57:35.354057> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:35.393061> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.86875;Price=63706.90
+15:57:37.001343> Try place lock SellLimit, Bid: 63702.60 Ask:  63702.70
+15:57:37.286669> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:37.289669> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.06875;Price=63702.70
+15:57:39.002308> Try place lock SellLimit, Bid: 63705.90 Ask:  63706.00
+15:57:39.285297> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:39.286294> [1Leg]: Sell FAILED BTCUSDT;Gap=6.36;Price=63706.00
+15:57:41.000293> Try place lock SellLimit, Bid: 63700.10 Ask:  63700.20
+15:57:41.289304> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:41.290305> [1Leg]: Sell FAILED BTCUSDT;Gap=-7.44;Price=63707.00
+15:57:43.001863> Try place lock SellLimit, Bid: 63720.40 Ask:  63720.50
+15:57:43.289390> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:43.290388> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.86875;Price=63720.50
+15:57:45.001308> Try place lock SellLimit, Bid: 63722.00 Ask:  63722.10
+15:57:45.311318> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:45.312318> [1Leg]: Sell FAILED BTCUSDT;Gap=2.33125;Price=63720.50
+15:57:47.002882> Try place lock SellLimit, Bid: 63711.30 Ask:  63711.40
+15:57:47.407897> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:47.407897> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.06875;Price=63714.00
+15:57:49.020174> Try place lock SellLimit, Bid: 63715.90 Ask:  63716.00
+15:57:49.331386> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:49.331386> [1Leg]: Sell FAILED BTCUSDT;Gap=2.4225;Price=63716.00
+15:57:51.001465> Try place lock SellLimit, Bid: 63712.20 Ask:  63712.30
+15:57:51.284480> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:51.304480> [1Leg]: Sell FAILED BTCUSDT;Gap=1.3225;Price=63712.30
+15:57:53.001739> Try place lock SellLimit, Bid: 63695.70 Ask:  63695.80
+15:57:53.284743> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:53.284743> [1Leg]: Sell FAILED BTCUSDT;Gap=1.07875;Price=63695.80
+15:57:55.007734> Try place lock SellLimit, Bid: 63692.60 Ask:  63692.70
+15:57:55.293707> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:55.296705> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.02125;Price=63692.70
+15:57:57.001780> Try place lock SellLimit, Bid: 63704.20 Ask:  63704.30
+15:57:57.329160> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:57.330160> [1Leg]: Sell FAILED BTCUSDT;Gap=4.27875;Price=63704.30
+15:57:59.018069> Try place lock SellLimit, Bid: 63705.40 Ask:  63705.50
+15:57:59.348366> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:57:59.349362> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.5525;Price=63705.50
+15:58:01.007088> Try place lock SellLimit, Bid: 63705.30 Ask:  63705.40
+15:58:01.300128> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:01.301106> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.6525;Price=63705.40
+15:58:03.012678> Try place lock SellLimit, Bid: 63705.30 Ask:  63705.40
+15:58:03.314659> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:03.314659> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.72;Price=63705.40
+15:58:05.002228> Try place lock SellLimit, Bid: 63705.30 Ask:  63705.40
+15:58:05.406252> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:05.407261> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.72;Price=63705.40
+15:58:07.005250> Try place lock SellLimit, Bid: 63705.30 Ask:  63705.40
+15:58:07.371474> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:07.373473> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.72;Price=63700.10
+15:58:09.016682> Try place lock SellLimit, Bid: 63700.00 Ask:  63700.10
+15:58:09.301715> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:09.301715> [1Leg]: Sell FAILED BTCUSDT;Gap=1.7675;Price=63700.10
+15:58:11.010656> Try place lock SellLimit, Bid: 63700.00 Ask:  63700.10
+15:58:11.301673> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:11.302670> [1Leg]: Sell FAILED BTCUSDT;Gap=1.7675;Price=63700.10
+15:58:13.000509> Try place lock SellLimit, Bid: 63682.10 Ask:  63682.20
+15:58:13.352129> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:13.360127> [1Leg]: Sell FAILED BTCUSDT;Gap=-8.965;Price=63682.20
+15:58:15.001668> Try place lock SellLimit, Bid: 63677.40 Ask:  63677.50
+15:58:15.299071> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:15.300069> [1Leg]: Sell FAILED BTCUSDT;Gap=-10.665;Price=63677.50
+15:58:17.001032> Try place lock SellLimit, Bid: 63646.10 Ask:  63646.20
+15:58:17.315143> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:17.316144> [1Leg]: Sell FAILED BTCUSDT;Gap=-6.865;Price=63646.20
+15:58:19.001046> Try place lock SellLimit, Bid: 63648.00 Ask:  63648.10
+15:58:19.287061> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:19.287061> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.93125;Price=63648.10
+15:58:21.001960> Try place lock SellLimit, Bid: 63648.00 Ask:  63648.10
+15:58:21.313978> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:21.314978> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.83125;Price=63648.10
+15:58:23.001316> Try place lock SellLimit, Bid: 63637.70 Ask:  63637.80
+15:58:23.287996> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:23.288996> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.40375;Price=63637.80
+15:58:25.001812> Try place lock SellLimit, Bid: 63641.60 Ask:  63641.70
+15:58:25.326830> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:25.327832> [1Leg]: Sell FAILED BTCUSDT;Gap=0.99625;Price=63645.20
+15:58:27.001866> Try place lock SellLimit, Bid: 63642.90 Ask:  63643.00
+15:58:27.290875> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:27.291875> [1Leg]: Sell FAILED BTCUSDT;Gap=1.39625;Price=63643.00
+15:58:29.006210> Try place lock SellLimit, Bid: 63642.90 Ask:  63643.00
+15:58:29.294212> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:29.294212> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.46625;Price=63643.00
+15:58:31.000922> Try place lock SellLimit, Bid: 63642.90 Ask:  63643.00
+15:58:31.325939> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:31.326939> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.46625;Price=63643.00
+15:58:33.001016> Try place lock SellLimit, Bid: 63642.90 Ask:  63643.00
+15:58:33.321036> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:33.322036> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.25875;Price=63643.00
+15:58:35.002469> Try place lock SellLimit, Bid: 63632.80 Ask:  63632.90
+15:58:35.290447> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:35.291448> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.15875;Price=63632.90
+15:58:37.001821> Try place lock SellLimit, Bid: 63637.90 Ask:  63638.00
+15:58:37.315831> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:37.316836> [1Leg]: Sell FAILED BTCUSDT;Gap=0.44125;Price=63638.00
+15:58:39.002306> Try place lock SellLimit, Bid: 63641.90 Ask:  63642.00
+15:58:39.291322> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:39.292322> [1Leg]: Sell FAILED BTCUSDT;Gap=3.1525;Price=63642.00
+15:58:41.001078> Try place lock SellLimit, Bid: 63640.30 Ask:  63640.40
+15:58:41.286081> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:41.287082> [1Leg]: Sell FAILED BTCUSDT;Gap=1.5525;Price=63641.70
+15:58:43.002630> Try place lock SellLimit, Bid: 63655.60 Ask:  63655.70
+15:58:43.421653> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:43.427653> [1Leg]: Sell FAILED BTCUSDT;Gap=0.42625;Price=63651.70
+15:58:45.001987> Try place lock SellLimit, Bid: 63641.80 Ask:  63641.90
+15:58:45.293002> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:45.293002> [1Leg]: Sell FAILED BTCUSDT;Gap=2.92625;Price=63647.90
+15:58:47.008256> Try place lock SellLimit, Bid: 63647.80 Ask:  63647.90
+15:58:47.355276> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:47.355276> [1Leg]: Sell FAILED BTCUSDT;Gap=1.92625;Price=63647.90
+15:58:49.001894> Try place lock SellLimit, Bid: 63635.50 Ask:  63635.60
+15:58:49.302911> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:49.303912> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.44625;Price=63635.60
+15:58:51.001446> Try place lock SellLimit, Bid: 63647.80 Ask:  63647.90
+15:58:51.429468> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:51.434469> [1Leg]: Sell FAILED BTCUSDT;Gap=1.85375;Price=63647.90
+15:58:53.000159> Try place lock SellLimit, Bid: 63637.10 Ask:  63637.20
+15:58:53.316171> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:53.317170> [1Leg]: Sell FAILED BTCUSDT;Gap=0.50875;Price=63637.20
+15:58:55.001640> Try place lock SellLimit, Bid: 63637.30 Ask:  63637.40
+15:58:55.319655> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:55.322655> [1Leg]: Sell FAILED BTCUSDT;Gap=0.70875;Price=63637.40
+15:58:57.002426> Try place lock SellLimit, Bid: 63644.10 Ask:  63644.20
+15:58:57.374432> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:57.375432> [1Leg]: Sell FAILED BTCUSDT;Gap=5.50875;Price=63644.20
+15:58:59.000722> Try place lock SellLimit, Bid: 63645.70 Ask:  63645.80
+15:58:59.345737> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:58:59.347737> [1Leg]: Sell FAILED BTCUSDT;Gap=6.86875;Price=63645.80
+15:59:01.002020> Try place lock SellLimit, Bid: 63671.70 Ask:  63671.80
+15:59:01.283036> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:01.286035> [1Leg]: Sell FAILED BTCUSDT;Gap=8.96875;Price=63671.80
+15:59:03.001884> Try place lock SellLimit, Bid: 63674.70 Ask:  63674.80
+15:59:03.406895> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:03.407899> [1Leg]: Sell FAILED BTCUSDT;Gap=2.33625;Price=63674.80
+15:59:05.001152> Try place lock SellLimit, Bid: 63683.10 Ask:  63683.20
+15:59:05.280926> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:05.281924> [1Leg]: Sell FAILED BTCUSDT;Gap=6.23625;Price=63691.60
+15:59:07.001744> Try place lock SellLimit, Bid: 63695.90 Ask:  63696.00
+15:59:07.340823> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:07.341823> [1Leg]: Sell FAILED BTCUSDT;Gap=5.33625;Price=63697.60
+15:59:09.001410> Try place lock SellLimit, Bid: 63699.90 Ask:  63700.00
+15:59:09.309413> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:09.339415> [1Leg]: Sell FAILED BTCUSDT;Gap=3.34625;Price=63700.00
+15:59:11.002714> Try place lock SellLimit, Bid: 63694.40 Ask:  63694.50
+15:59:11.290720> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:11.314722> [1Leg]: Sell FAILED BTCUSDT;Gap=4.14625;Price=63694.50
+15:59:13.001395> Try place lock SellLimit, Bid: 63686.80 Ask:  63686.90
+15:59:13.320714> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:13.347715> [1Leg]: Sell FAILED BTCUSDT;Gap=0.27875;Price=63686.90
+15:59:15.001546> Try place lock SellLimit, Bid: 63693.20 Ask:  63693.30
+15:59:15.419571> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:15.420571> [1Leg]: Sell FAILED BTCUSDT;Gap=8.27875;Price=63700.00
+15:59:17.002157> Try place lock SellLimit, Bid: 63711.80 Ask:  63711.90
+15:59:17.313168> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:17.330170> [1Leg]: Sell FAILED BTCUSDT;Gap=0.37875;Price=63718.40
+15:59:19.001102> Try place lock SellLimit, Bid: 63716.20 Ask:  63716.30
+15:59:19.500221> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:19.500221> [1Leg]: Sell FAILED BTCUSDT;Gap=1.25625;Price=63723.80
+15:59:21.035054> Try place lock SellLimit, Bid: 63726.00 Ask:  63726.10
+15:59:21.393074> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:21.393074> [1Leg]: Sell FAILED BTCUSDT;Gap=9.15625;Price=63722.70
+15:59:23.001641> Try place lock SellLimit, Bid: 63734.00 Ask:  63734.10
+15:59:23.290793> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:23.323793> [1Leg]: Sell FAILED BTCUSDT;Gap=6.38375;Price=63734.10
+15:59:25.002170> Try place lock SellLimit, Bid: 63728.00 Ask:  63728.10
+15:59:25.380525> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:25.380525> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.51625;Price=63728.10
+15:59:27.004693> Try place lock SellLimit, Bid: 63740.10 Ask:  63740.20
+15:59:27.371018> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:27.372019> [1Leg]: Sell FAILED BTCUSDT;Gap=8.48375;Price=63740.20
+15:59:29.001057> Try place lock SellLimit, Bid: 63736.30 Ask:  63736.40
+15:59:29.331323> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:29.332322> [1Leg]: Sell FAILED BTCUSDT;Gap=3.88375;Price=63736.40
+15:59:31.001729> Try place lock SellLimit, Bid: 63736.30 Ask:  63736.40
+15:59:31.316138> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:31.317136> [1Leg]: Sell FAILED BTCUSDT;Gap=3.88375;Price=63736.40
+15:59:33.002547> Try place lock SellLimit, Bid: 63720.00 Ask:  63720.10
+15:59:33.351700> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:33.352703> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.66375;Price=63720.10
+15:59:35.002046> Try place lock SellLimit, Bid: 63729.90 Ask:  63730.00
+15:59:35.336066> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:35.352065> [1Leg]: Sell FAILED BTCUSDT;Gap=1.33625;Price=63735.80
+15:59:37.001854> Try place lock SellLimit, Bid: 63738.80 Ask:  63738.90
+15:59:37.284072> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:37.287069> [1Leg]: Sell FAILED BTCUSDT;Gap=0.83625;Price=63738.90
+15:59:39.002149> Try place lock SellLimit, Bid: 63723.80 Ask:  63723.90
+15:59:39.379169> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:39.379169> [1Leg]: Sell FAILED BTCUSDT;Gap=-6.77625;Price=63721.10
+15:59:41.002157> Try place lock SellLimit, Bid: 63729.50 Ask:  63729.60
+15:59:41.285316> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:41.289304> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.77625;Price=63729.60
+15:59:43.031096> Try place lock SellLimit, Bid: 63738.60 Ask:  63738.70
+15:59:43.406118> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:43.406118> [1Leg]: Sell FAILED BTCUSDT;Gap=0.62375;Price=63733.60
+15:59:45.001180> Try place lock SellLimit, Bid: 63733.50 Ask:  63733.60
+15:59:45.292122> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:45.292122> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.48625;Price=63733.60
+15:59:47.002971> Try place lock SellLimit, Bid: 63734.90 Ask:  63735.00
+15:59:47.327007> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:47.329010> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.48625;Price=63735.00
+15:59:49.006637> Try place lock SellLimit, Bid: 63716.60 Ask:  63716.70
+15:59:49.296835> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:49.296835> [1Leg]: Sell FAILED BTCUSDT;Gap=-16.28875;Price=63716.70
+15:59:51.003276> Try place lock SellLimit, Bid: 63715.70 Ask:  63715.80
+15:59:51.305294> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:51.306295> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.18875;Price=63715.80
+15:59:53.001491> Try place lock SellLimit, Bid: 63713.40 Ask:  63713.50
+15:59:53.314954> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:53.315954> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.88875;Price=63713.50
+15:59:55.000156> Try place lock SellLimit, Bid: 63710.30 Ask:  63710.40
+15:59:55.280398> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:55.281408> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.155;Price=63710.40
+15:59:57.014683> Try place lock SellLimit, Bid: 63701.30 Ask:  63701.40
+15:59:57.298309> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:57.298309> [1Leg]: Sell FAILED BTCUSDT;Gap=-6.155;Price=63701.40
+15:59:59.001022> Try place lock SellLimit, Bid: 63717.90 Ask:  63718.00
+15:59:59.283346> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+15:59:59.283346> [1Leg]: Sell FAILED BTCUSDT;Gap=0.925;Price=63722.00
+16:00:01.000109> Try place lock SellLimit, Bid: 63718.50 Ask:  63718.60
+16:00:01.282115> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:01.283114> [1Leg]: Sell FAILED BTCUSDT;Gap=1.525;Price=63718.60
+16:00:03.030901> Try place lock SellLimit, Bid: 63718.50 Ask:  63718.60
+16:00:03.317918> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:03.318918> [1Leg]: Sell FAILED BTCUSDT;Gap=1.525;Price=63718.60
+16:00:05.004627> Try place lock SellLimit, Bid: 63718.50 Ask:  63718.60
+16:00:05.291622> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:05.292622> [1Leg]: Sell FAILED BTCUSDT;Gap=1.45375;Price=63718.60
+16:00:07.002555> Try place lock SellLimit, Bid: 63721.80 Ask:  63721.90
+16:00:07.298254> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:07.299186> [1Leg]: Sell FAILED BTCUSDT;Gap=2.75375;Price=63721.90
+16:00:09.007222> Try place lock SellLimit, Bid: 63727.90 Ask:  63742.30
+16:00:09.372255> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:09.373243> [1Leg]: Sell FAILED BTCUSDT;Gap=6.78375;Price=63742.30
+16:00:11.005083> Try place lock SellLimit, Bid: 63735.00 Ask:  63735.10
+16:00:11.307101> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:11.308110> [1Leg]: Sell FAILED BTCUSDT;Gap=5.68375;Price=63726.60
+16:00:13.002413> Try place lock SellLimit, Bid: 63736.10 Ask:  63736.20
+16:00:13.398437> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:13.399438> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.01625;Price=63735.20
+16:00:15.004614> Try place lock SellLimit, Bid: 63756.00 Ask:  63756.10
+16:00:15.331615> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:15.337616> [1Leg]: Sell FAILED BTCUSDT;Gap=4.48375;Price=63766.00
+16:00:17.031054> Try place lock SellLimit, Bid: 63773.90 Ask:  63774.00
+16:00:17.409622> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:17.409622> [1Leg]: Sell FAILED BTCUSDT;Gap=7.78375;Price=63780.00
+16:00:19.001133> Try place lock SellLimit, Bid: 63786.50 Ask:  63786.60
+16:00:19.534166> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:19.544164> [1Leg]: Sell FAILED BTCUSDT;Gap=6.17625;Price=63814.90
+16:00:21.002509> Try place lock SellLimit, Bid: 63788.00 Ask:  63788.10
+16:00:21.296527> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:21.297527> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.52375;Price=63794.10
+16:00:23.000420> Try place lock SellLimit, Bid: 63808.00 Ask:  63808.10
+16:00:23.284424> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:23.285425> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.42375;Price=63816.00
+16:00:25.002922> Try place lock SellLimit, Bid: 63810.60 Ask:  63810.70
+16:00:25.286939> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:25.287947> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.1225;Price=63804.60
+16:00:27.001518> Try place lock SellLimit, Bid: 63798.90 Ask:  63799.00
+16:00:27.320788> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:27.320788> [1Leg]: Sell FAILED BTCUSDT;Gap=1.4775;Price=63792.10
+16:00:29.002941> Try place lock SellLimit, Bid: 63758.60 Ask:  63758.70
+16:00:29.296950> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:29.297951> [1Leg]: Sell FAILED BTCUSDT;Gap=5.02125;Price=63756.80
+16:00:31.001243> Try place lock SellLimit, Bid: 63753.80 Ask:  63753.90
+16:00:31.343584> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:31.344583> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.17875;Price=63742.80
+16:00:33.003753> Try place lock SellLimit, Bid: 63721.80 Ask:  63721.90
+16:00:33.408767> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:33.408767> [1Leg]: Sell FAILED BTCUSDT;Gap=3.82125;Price=63713.40
+16:00:35.001467> Try place lock SellLimit, Bid: 63723.40 Ask:  63723.50
+16:00:35.327493> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:35.327493> [1Leg]: Sell FAILED BTCUSDT;Gap=6.8475;Price=63723.50
+16:00:37.000119> Try place lock SellLimit, Bid: 63706.10 Ask:  63706.20
+16:00:37.338136> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:37.339137> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.3525;Price=63706.20
+16:00:39.001368> Try place lock SellLimit, Bid: 63695.60 Ask:  63695.90
+16:00:39.283385> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:39.284385> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.15375;Price=63695.90
+16:00:41.001890> Try place lock SellLimit, Bid: 63710.20 Ask:  63710.30
+16:00:41.355900> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:41.363898> [1Leg]: Sell FAILED BTCUSDT;Gap=8.84625;Price=63710.30
+16:00:43.001225> Try place lock SellLimit, Bid: 63717.10 Ask:  63717.20
+16:00:43.283236> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:43.283236> [1Leg]: Sell FAILED BTCUSDT;Gap=5.74625;Price=63717.20
+16:00:45.002541> Try place lock SellLimit, Bid: 63724.90 Ask:  63725.00
+16:00:45.307549> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:45.315546> [1Leg]: Sell FAILED BTCUSDT;Gap=0.87375;Price=63725.00
+16:00:47.000595> Try place lock SellLimit, Bid: 63745.00 Ask:  63745.10
+16:00:47.281601> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:47.282600> [1Leg]: Sell FAILED BTCUSDT;Gap=6.97375;Price=63745.10
+16:00:49.001098> Try place lock SellLimit, Bid: 63749.10 Ask:  63749.20
+16:00:49.283113> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:49.284113> [1Leg]: Sell FAILED BTCUSDT;Gap=6.905;Price=63749.20
+16:00:51.001918> Try place lock SellLimit, Bid: 63773.50 Ask:  63774.20
+16:00:51.286935> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:51.286935> [1Leg]: Sell FAILED BTCUSDT;Gap=-6.695;Price=63774.90
+16:00:53.001336> Try place lock SellLimit, Bid: 63769.30 Ask:  63769.40
+16:00:53.282337> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:53.283345> [1Leg]: Sell FAILED BTCUSDT;Gap=1.005;Price=63769.40
+16:00:55.000910> Try place lock SellLimit, Bid: 63759.50 Ask:  63759.60
+16:00:55.291924> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:55.294922> [1Leg]: Sell FAILED BTCUSDT;Gap=1.02;Price=63759.60
+16:00:57.001692> Try place lock SellLimit, Bid: 63764.10 Ask:  63764.20
+16:00:57.368712> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:57.369713> [1Leg]: Sell FAILED BTCUSDT;Gap=5.62;Price=63764.20
+16:00:59.001204> Try place lock SellLimit, Bid: 63764.10 Ask:  63764.20
+16:00:59.299215> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:00:59.300215> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.6475;Price=63778.70
+16:01:01.000228> Try place lock SellLimit, Bid: 63771.60 Ask:  63771.70
+16:01:01.301248> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:01.302245> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.2475;Price=63778.10
+16:01:03.001023> Try place lock SellLimit, Bid: 63774.30 Ask:  63774.40
+16:01:03.295030> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:03.295030> [1Leg]: Sell FAILED BTCUSDT;Gap=1.4525;Price=63774.40
+16:01:05.001299> Try place lock SellLimit, Bid: 63762.90 Ask:  63763.00
+16:01:05.358822> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:05.412840> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.96125;Price=63761.20
+16:01:07.002845> Try place lock SellLimit, Bid: 63771.10 Ask:  63771.20
+16:01:07.328865> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:07.329864> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.56125;Price=63771.20
+16:01:09.000103> Try place lock SellLimit, Bid: 63769.60 Ask:  63769.70
+16:01:09.316115> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:09.317117> [1Leg]: Sell FAILED BTCUSDT;Gap=2.055;Price=63769.70
+16:01:11.001630> Try place lock SellLimit, Bid: 63767.80 Ask:  63767.90
+16:01:11.293909> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:11.380913> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.645;Price=63767.90
+16:01:13.001352> Try place lock SellLimit, Bid: 63754.20 Ask:  63754.30
+16:01:13.360375> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:13.360375> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.345;Price=63754.30
+16:01:15.000014> Try place lock SellLimit, Bid: 63760.20 Ask:  63761.00
+16:01:15.331714> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:15.354715> [1Leg]: Sell FAILED BTCUSDT;Gap=0.89;Price=63761.00
+16:01:17.001467> Try place lock SellLimit, Bid: 63775.80 Ask:  63775.90
+16:01:17.359479> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:17.359479> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.51;Price=63775.90
+16:01:19.000034> Try place lock SellLimit, Bid: 63787.30 Ask:  63787.40
+16:01:19.405701> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:19.405701> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.255;Price=63797.20
+16:01:21.001239> Try place lock SellLimit, Bid: 63788.60 Ask:  63788.70
+16:01:21.313245> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:21.339247> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.555;Price=63788.70
+16:01:23.002167> Try place lock SellLimit, Bid: 63798.10 Ask:  63798.20
+16:01:23.290185> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:23.290185> [1Leg]: Sell FAILED BTCUSDT;Gap=3.145;Price=63788.60
+16:01:25.001388> Try place lock SellLimit, Bid: 63783.90 Ask:  63784.00
+16:01:25.284826> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:25.284826> [1Leg]: Sell FAILED BTCUSDT;Gap=0.00625;Price=63789.10
+16:01:27.000767> Try place lock SellLimit, Bid: 63796.80 Ask:  63796.90
+16:01:27.361780> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:27.387783> [1Leg]: Sell FAILED BTCUSDT;Gap=3.90625;Price=63799.90
+16:01:29.000365> Try place lock SellLimit, Bid: 63790.60 Ask:  63790.70
+16:01:29.419426> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:29.420427> [1Leg]: Sell FAILED BTCUSDT;Gap=1.8675;Price=63790.70
+16:01:31.000215> Try place lock SellLimit, Bid: 63790.60 Ask:  63790.70
+16:01:31.321233> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:31.341235> [1Leg]: Sell FAILED BTCUSDT;Gap=1.8675;Price=63790.70
+16:01:33.000292> Try place lock SellLimit, Bid: 63793.40 Ask:  63793.50
+16:01:33.319274> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:33.344277> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.9325;Price=63780.10
+16:01:35.000710> Try place lock SellLimit, Bid: 63772.20 Ask:  63772.30
+16:01:35.323521> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:35.324523> [1Leg]: Sell FAILED BTCUSDT;Gap=-7.69375;Price=63779.30
+16:01:37.037951> Try place lock SellLimit, Bid: 63785.70 Ask:  63785.80
+16:01:37.392973> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:37.398970> [1Leg]: Sell FAILED BTCUSDT;Gap=1.40625;Price=63789.00
+16:01:39.000525> Try place lock SellLimit, Bid: 63798.90 Ask:  63799.00
+16:01:39.293091> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:39.293091> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.50375;Price=63799.00
+16:01:41.000042> Try place lock SellLimit, Bid: 63801.30 Ask:  63801.40
+16:01:41.284054> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:41.284054> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.50375;Price=63801.40
+16:01:43.002563> Try place lock SellLimit, Bid: 63808.10 Ask:  63808.20
+16:01:43.306589> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:43.344583> [1Leg]: Sell FAILED BTCUSDT;Gap=1.29625;Price=63808.20
+16:01:45.000923> Try place lock SellLimit, Bid: 63801.90 Ask:  63802.00
+16:01:45.299631> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:45.330633> [1Leg]: Sell FAILED BTCUSDT;Gap=0.495;Price=63802.00
+16:01:47.046001> Try place lock SellLimit, Bid: 63790.60 Ask:  63790.70
+16:01:47.348766> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:47.349762> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.305;Price=63790.70
+16:01:49.000433> Try place lock SellLimit, Bid: 63767.00 Ask:  63767.10
+16:01:49.287447> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:49.287447> [1Leg]: Sell FAILED BTCUSDT;Gap=-7.95125;Price=63767.10
+16:01:51.001225> Try place lock SellLimit, Bid: 63789.80 Ask:  63789.90
+16:01:51.286092> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:51.288092> [1Leg]: Sell FAILED BTCUSDT;Gap=0.24875;Price=63793.90
+16:01:53.000050> Try place lock SellLimit, Bid: 63795.60 Ask:  63795.70
+16:01:53.289008> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:53.290008> [1Leg]: Sell FAILED BTCUSDT;Gap=1.64875;Price=63795.70
+16:01:55.023929> Try place lock SellLimit, Bid: 63791.90 Ask:  63792.00
+16:01:55.346951> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:55.378947> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.03875;Price=63792.00
+16:01:57.001056> Try place lock SellLimit, Bid: 63803.90 Ask:  63804.00
+16:01:57.289602> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:57.290606> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.43875;Price=63804.00
+16:01:59.014277> Try place lock SellLimit, Bid: 63803.90 Ask:  63804.00
+16:01:59.369312> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:01:59.490304> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.265;Price=63804.00
+16:02:01.001985> Try place lock SellLimit, Bid: 63803.90 Ask:  63804.00
+16:02:01.285001> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:01.286003> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.865;Price=63804.00
+16:02:03.023925> Try place lock SellLimit, Bid: 63803.90 Ask:  63804.00
+16:02:03.449498> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:03.470499> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.965;Price=63804.00
+16:02:05.038617> Try place lock SellLimit, Bid: 63803.90 Ask:  63804.00
+16:02:05.321414> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:05.322414> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.94;Price=63804.00
+16:02:07.015502> Try place lock SellLimit, Bid: 63803.90 Ask:  63804.00
+16:02:07.308388> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:07.309388> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.94;Price=63797.60
+16:02:09.028929> Try place lock SellLimit, Bid: 63802.00 Ask:  63802.10
+16:02:09.334447> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:09.335449> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.73375;Price=63802.10
+16:02:11.009277> Try place lock SellLimit, Bid: 63796.00 Ask:  63796.10
+16:02:11.318093> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:11.319094> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.83375;Price=63788.80
+16:02:13.024968> Try place lock SellLimit, Bid: 63794.30 Ask:  63794.40
+16:02:13.319843> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:13.320842> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.43375;Price=63796.20
+16:02:15.034120> Try place lock SellLimit, Bid: 63792.50 Ask:  63792.60
+16:02:15.366537> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:15.367538> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.76125;Price=63792.60
+16:02:17.023705> Try place lock SellLimit, Bid: 63791.00 Ask:  63791.10
+16:02:17.317736> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:17.318726> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.26125;Price=63788.30
+16:02:19.013171> Try place lock SellLimit, Bid: 63788.20 Ask:  63788.30
+16:02:19.838980> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:19.838980> [1Leg]: Sell FAILED BTCUSDT;Gap=0.96875;Price=63788.30
+16:02:21.011296> Try place lock SellLimit, Bid: 63778.20 Ask:  63778.30
+16:02:21.349315> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:21.349315> [1Leg]: Sell FAILED BTCUSDT;Gap=4.96875;Price=63777.20
+16:02:23.036149> Try place lock SellLimit, Bid: 63757.70 Ask:  63757.80
+16:02:23.322166> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:23.323165> [1Leg]: Sell FAILED BTCUSDT;Gap=2.46875;Price=63757.80
+16:02:25.004362> Try place lock SellLimit, Bid: 63761.30 Ask:  63761.40
+16:02:25.370222> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:25.371222> [1Leg]: Sell FAILED BTCUSDT;Gap=1.83625;Price=63761.40
+16:02:27.012097> Try place lock SellLimit, Bid: 63757.90 Ask:  63758.00
+16:02:27.295112> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:27.296114> [1Leg]: Sell FAILED BTCUSDT;Gap=2.43625;Price=63758.00
+16:02:29.033037> Try place lock SellLimit, Bid: 63751.40 Ask:  63751.50
+16:02:29.349054> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:29.349054> [1Leg]: Sell FAILED BTCUSDT;Gap=1.38375;Price=63751.50
+16:02:31.003112> Try place lock SellLimit, Bid: 63750.00 Ask:  63750.10
+16:02:31.341904> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:31.342903> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.71625;Price=63750.10
+16:02:33.000830> Try place lock SellLimit, Bid: 63748.50 Ask:  63748.60
+16:02:33.346856> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:33.350863> [1Leg]: Sell FAILED BTCUSDT;Gap=10.88375;Price=63748.60
+16:02:35.002948> Try place lock SellLimit, Bid: 63756.40 Ask:  63756.50
+16:02:35.309068> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:35.350069> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.1725;Price=63744.10
+16:02:37.001216> Try place lock SellLimit, Bid: 63744.00 Ask:  63744.10
+16:02:37.341224> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:37.342223> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.5725;Price=63744.70
+16:02:39.001111> Try place lock SellLimit, Bid: 63741.00 Ask:  63741.10
+16:02:39.298123> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:39.299124> [1Leg]: Sell FAILED BTCUSDT;Gap=3.89625;Price=63727.20
+16:02:41.001002> Try place lock SellLimit, Bid: 63719.10 Ask:  63719.20
+16:02:41.294025> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:41.295019> [1Leg]: Sell FAILED BTCUSDT;Gap=2.19625;Price=63719.20
+16:02:43.000519> Try place lock SellLimit, Bid: 63703.50 Ask:  63703.60
+16:02:43.324530> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:43.325530> [1Leg]: Sell FAILED BTCUSDT;Gap=0.19625;Price=63708.30
+16:02:45.003842> Try place lock SellLimit, Bid: 63700.00 Ask:  63700.10
+16:02:45.286378> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:45.287380> [1Leg]: Sell FAILED BTCUSDT;Gap=2.6275;Price=63700.10
+16:02:47.001675> Try place lock SellLimit, Bid: 63718.90 Ask:  63719.00
+16:02:47.321691> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:47.322693> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.0725;Price=63716.60
+16:02:49.000635> Try place lock SellLimit, Bid: 63723.70 Ask:  63723.80
+16:02:49.300641> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:49.300641> [1Leg]: Sell FAILED BTCUSDT;Gap=1.07125;Price=63733.90
+16:02:51.001353> Try place lock SellLimit, Bid: 63724.50 Ask:  63724.60
+16:02:51.285398> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:51.286393> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.62875;Price=63724.60
+16:02:53.000116> Try place lock SellLimit, Bid: 63726.50 Ask:  63726.60
+16:02:53.281772> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:53.282771> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.62875;Price=63726.60
+16:02:55.000029> Try place lock SellLimit, Bid: 63720.00 Ask:  63720.10
+16:02:55.302669> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:55.303669> [1Leg]: Sell FAILED BTCUSDT;Gap=-11.21125;Price=63720.10
+16:02:57.000332> Try place lock SellLimit, Bid: 63706.00 Ask:  63706.10
+16:02:57.283073> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:57.284067> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.01125;Price=63706.10
+16:02:59.004181> Try place lock SellLimit, Bid: 63716.90 Ask:  63717.00
+16:02:59.289305> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:02:59.289305> [1Leg]: Sell FAILED BTCUSDT;Gap=1.1675;Price=63717.00
+16:03:01.000031> Try place lock SellLimit, Bid: 63719.90 Ask:  63720.00
+16:03:01.379058> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:01.382043> [1Leg]: Sell FAILED BTCUSDT;Gap=1.9675;Price=63720.00
+16:03:03.000846> Try place lock SellLimit, Bid: 63718.00 Ask:  63718.10
+16:03:03.290859> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:03.290859> [1Leg]: Sell FAILED BTCUSDT;Gap=4.1675;Price=63718.10
+16:03:05.001826> Try place lock SellLimit, Bid: 63719.90 Ask:  63720.00
+16:03:05.305372> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:05.306373> [1Leg]: Sell FAILED BTCUSDT;Gap=5.93125;Price=63720.00
+16:03:07.002124> Try place lock SellLimit, Bid: 63720.00 Ask:  63720.10
+16:03:07.322143> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:07.330143> [1Leg]: Sell FAILED BTCUSDT;Gap=0.13125;Price=63720.10
+16:03:09.000421> Try place lock SellLimit, Bid: 63716.90 Ask:  63717.00
+16:03:09.362435> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:09.363436> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.955;Price=63717.00
+16:03:11.002312> Try place lock SellLimit, Bid: 63720.70 Ask:  63720.80
+16:03:11.312330> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:11.312330> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.155;Price=63720.80
+16:03:13.000016> Try place lock SellLimit, Bid: 63731.60 Ask:  63731.70
+16:03:13.285031> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:13.286040> [1Leg]: Sell FAILED BTCUSDT;Gap=6.245;Price=63731.70
+16:03:15.001247> Try place lock SellLimit, Bid: 63750.00 Ask:  63750.10
+16:03:15.305260> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:15.305260> [1Leg]: Sell FAILED BTCUSDT;Gap=0.25375;Price=63750.10
+16:03:17.000260> Try place lock SellLimit, Bid: 63737.10 Ask:  63737.20
+16:03:17.308262> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:17.309263> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.84625;Price=63737.20
+16:03:19.004251> Try place lock SellLimit, Bid: 63720.00 Ask:  63720.10
+16:03:19.433277> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:19.433277> [1Leg]: Sell FAILED BTCUSDT;Gap=0.40625;Price=63720.10
+16:03:21.001183> Try place lock SellLimit, Bid: 63716.90 Ask:  63717.00
+16:03:21.308121> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:21.309121> [1Leg]: Sell FAILED BTCUSDT;Gap=1.30625;Price=63717.00
+16:03:23.001845> Try place lock SellLimit, Bid: 63712.20 Ask:  63712.30
+16:03:23.287862> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:23.288858> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.19375;Price=63717.50
+16:03:25.020074> Try place lock SellLimit, Bid: 63717.00 Ask:  63717.10
+16:03:25.366095> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:25.367094> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.52625;Price=63715.20
+16:03:27.001009> Try place lock SellLimit, Bid: 63710.90 Ask:  63711.00
+16:03:27.343968> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:27.343968> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.52625;Price=63711.00
+16:03:29.001374> Try place lock SellLimit, Bid: 63710.90 Ask:  63711.00
+16:03:29.291717> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:29.312719> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.1775;Price=63711.00
+16:03:31.001488> Try place lock SellLimit, Bid: 63720.40 Ask:  63720.50
+16:03:31.412503> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:31.434504> [1Leg]: Sell FAILED BTCUSDT;Gap=1.4225;Price=63720.50
+16:03:33.001587> Try place lock SellLimit, Bid: 63724.60 Ask:  63724.70
+16:03:33.353348> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:33.353348> [1Leg]: Sell FAILED BTCUSDT;Gap=1.6225;Price=63724.70
+16:03:35.001648> Try place lock SellLimit, Bid: 63727.40 Ask:  63727.50
+16:03:35.344114> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:35.376116> [1Leg]: Sell FAILED BTCUSDT;Gap=0.6125;Price=63727.50
+16:03:37.005532> Try place lock SellLimit, Bid: 63732.70 Ask:  63732.80
+16:03:37.317547> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:37.317547> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.1875;Price=63732.80
+16:03:39.030768> Try place lock SellLimit, Bid: 63741.90 Ask:  63742.00
+16:03:39.391889> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:39.391889> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.23125;Price=63750.00
+16:03:41.001256> Try place lock SellLimit, Bid: 63749.90 Ask:  63750.00
+16:03:41.316131> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:41.316131> [1Leg]: Sell FAILED BTCUSDT;Gap=0.66875;Price=63750.00
+16:03:43.049529> Try place lock SellLimit, Bid: 63761.90 Ask:  63762.00
+16:03:43.403510> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:43.404510> [1Leg]: Sell FAILED BTCUSDT;Gap=1.76875;Price=63762.00
+16:03:45.001601> Try place lock SellLimit, Bid: 63760.30 Ask:  63760.40
+16:03:45.296624> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:45.320619> [1Leg]: Sell FAILED BTCUSDT;Gap=0.69625;Price=63760.40
+16:03:47.001158> Try place lock SellLimit, Bid: 63768.20 Ask:  63768.30
+16:03:47.378283> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:47.407277> [1Leg]: Sell FAILED BTCUSDT;Gap=3.29625;Price=63773.20
+16:03:49.001588> Try place lock SellLimit, Bid: 63766.80 Ask:  63766.90
+16:03:49.305731> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:49.324732> [1Leg]: Sell FAILED BTCUSDT;Gap=2.08625;Price=63766.90
+16:03:51.001097> Try place lock SellLimit, Bid: 63762.00 Ask:  63762.10
+16:03:51.311028> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:51.313029> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.61375;Price=63759.00
+16:03:53.002588> Try place lock SellLimit, Bid: 63755.30 Ask:  63755.40
+16:03:53.285595> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:53.286597> [1Leg]: Sell FAILED BTCUSDT;Gap=2.58625;Price=63755.40
+16:03:55.001128> Try place lock SellLimit, Bid: 63750.00 Ask:  63750.10
+16:03:55.309734> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:55.311733> [1Leg]: Sell FAILED BTCUSDT;Gap=2.2575;Price=63750.10
+16:03:57.001785> Try place lock SellLimit, Bid: 63746.90 Ask:  63747.00
+16:03:57.372563> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:57.402566> [1Leg]: Sell FAILED BTCUSDT;Gap=2.0575;Price=63746.90
+16:03:59.005499> Try place lock SellLimit, Bid: 63746.80 Ask:  63746.90
+16:03:59.366442> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:03:59.453454> [1Leg]: Sell FAILED BTCUSDT;Gap=1.34375;Price=63745.10
+16:04:01.002300> Try place lock SellLimit, Bid: 63743.60 Ask:  63743.70
+16:04:01.289758> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:01.290758> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.85625;Price=63743.70
+16:04:03.003314> Try place lock SellLimit, Bid: 63744.90 Ask:  63745.00
+16:04:03.287222> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:03.287222> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.55625;Price=63745.00
+16:04:05.000353> Try place lock SellLimit, Bid: 63757.10 Ask:  63757.20
+16:04:05.291543> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:05.292541> [1Leg]: Sell FAILED BTCUSDT;Gap=8.9775;Price=63757.20
+16:04:07.002612> Try place lock SellLimit, Bid: 63778.80 Ask:  63778.90
+16:04:07.323206> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:07.324211> [1Leg]: Sell FAILED BTCUSDT;Gap=3.2775;Price=63778.90
+16:04:09.000910> Try place lock SellLimit, Bid: 63780.90 Ask:  63781.00
+16:04:09.285924> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:09.286923> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.99625;Price=63781.00
+16:04:11.037209> Try place lock SellLimit, Bid: 63776.00 Ask:  63776.10
+16:04:11.319227> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:11.319227> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.59625;Price=63776.10
+16:04:13.005187> Try place lock SellLimit, Bid: 63758.90 Ask:  63759.00
+16:04:13.320698> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:13.320698> [1Leg]: Sell FAILED BTCUSDT;Gap=0.70375;Price=63759.00
+16:04:15.013206> Try place lock SellLimit, Bid: 63762.90 Ask:  63763.00
+16:04:15.351028> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:15.351028> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.66;Price=63763.00
+16:04:17.001072> Try place lock SellLimit, Bid: 63762.90 Ask:  63763.00
+16:04:17.307750> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:17.308750> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.66;Price=63763.00
+16:04:19.040163> Try place lock SellLimit, Bid: 63762.90 Ask:  63763.00
+16:04:19.895869> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:19.896870> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.55625;Price=63763.00
+16:04:21.002880> Try place lock SellLimit, Bid: 63762.90 Ask:  63763.00
+16:04:21.305898> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:21.305898> [1Leg]: Sell FAILED BTCUSDT;Gap=6.34375;Price=63753.10
+16:04:23.000455> Try place lock SellLimit, Bid: 63782.90 Ask:  63783.00
+16:04:23.309466> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:23.310466> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.55625;Price=63796.00
+16:04:25.015754> Try place lock SellLimit, Bid: 63791.50 Ask:  63791.60
+16:04:25.306328> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:25.307337> [1Leg]: Sell FAILED BTCUSDT;Gap=0.1325;Price=63786.50
+16:04:27.001480> Try place lock SellLimit, Bid: 63802.60 Ask:  63802.70
+16:04:27.319189> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:04:27.352191> [1Leg]: Sell FAILED BTCUSDT;Gap=3.3325;Price=63808.50
+16:16:35.020723> Try place lock SellLimit, Bid: 63726.50 Ask:  63726.60
+16:16:36.177032> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:36.178032> [1Leg]: Sell FAILED BTCUSDT;Gap=2.19875;Price=63742.20
+16:16:37.015647> Try place lock SellLimit, Bid: 63736.60 Ask:  63736.70
+16:16:37.335666> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:37.335666> [1Leg]: Sell FAILED BTCUSDT;Gap=2.40;Price=63736.70
+16:16:39.017493> Try place lock SellLimit, Bid: 63730.90 Ask:  63731.00
+16:16:39.414516> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:39.416531> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.40;Price=63729.20
+16:16:41.001265> Try place lock SellLimit, Bid: 63726.00 Ask:  63726.10
+16:16:41.313277> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:41.314275> [1Leg]: Sell FAILED BTCUSDT;Gap=3.40;Price=63726.10
+16:16:43.051563> Try place lock SellLimit, Bid: 63737.70 Ask:  63737.80
+16:16:43.377582> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:43.378582> [1Leg]: Sell FAILED BTCUSDT;Gap=6.97375;Price=63734.30
+16:16:45.000413> Try place lock SellLimit, Bid: 63734.20 Ask:  63734.30
+16:16:45.288419> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:45.288419> [1Leg]: Sell FAILED BTCUSDT;Gap=3.47375;Price=63734.30
+16:16:47.001851> Try place lock SellLimit, Bid: 63726.10 Ask:  63726.20
+16:16:47.295869> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:47.297869> [1Leg]: Sell FAILED BTCUSDT;Gap=0.7125;Price=63726.20
+16:16:49.002226> Try place lock SellLimit, Bid: 63726.10 Ask:  63726.20
+16:16:49.290192> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:49.291191> [1Leg]: Sell FAILED BTCUSDT;Gap=0.7125;Price=63726.20
+16:16:51.003909> Try place lock SellLimit, Bid: 63739.40 Ask:  63739.50
+16:16:51.293915> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:51.293915> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.1875;Price=63739.50
+16:16:53.001869> Try place lock SellLimit, Bid: 63730.30 Ask:  63730.40
+16:16:53.292882> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:53.293882> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.9925;Price=63730.40
+16:16:55.002160> Try place lock SellLimit, Bid: 63740.30 Ask:  63740.40
+16:16:55.398186> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:55.399182> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.0925;Price=63740.40
+16:16:57.001272> Try place lock SellLimit, Bid: 63750.50 Ask:  63750.60
+16:16:57.358285> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:57.364284> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.6725;Price=63750.60
+16:16:59.001966> Try place lock SellLimit, Bid: 63750.50 Ask:  63750.60
+16:16:59.368985> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:16:59.369987> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.1725;Price=63750.60
+16:17:01.000855> Try place lock SellLimit, Bid: 63758.00 Ask:  63758.10
+16:17:01.360862> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:01.361864> [1Leg]: Sell FAILED BTCUSDT;Gap=2.8275;Price=63758.10
+16:17:03.002408> Try place lock SellLimit, Bid: 63758.00 Ask:  63758.10
+16:17:03.566438> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:03.567440> [1Leg]: Sell FAILED BTCUSDT;Gap=0.71375;Price=63762.10
+16:17:05.001853> Try place lock SellLimit, Bid: 63758.00 Ask:  63758.10
+16:17:05.443872> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:05.444872> [1Leg]: Sell FAILED BTCUSDT;Gap=0.71375;Price=63758.10
+16:17:07.001649> Try place lock SellLimit, Bid: 63769.70 Ask:  63769.80
+16:17:07.293424> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:07.294422> [1Leg]: Sell FAILED BTCUSDT;Gap=5.455;Price=63766.30
+16:17:09.001642> Try place lock SellLimit, Bid: 63762.60 Ask:  63762.70
+16:17:09.296658> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:09.297659> [1Leg]: Sell FAILED BTCUSDT;Gap=11.455;Price=63750.00
+16:17:11.001668> Try place lock SellLimit, Bid: 63753.70 Ask:  63753.80
+16:17:11.292686> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:11.292686> [1Leg]: Sell FAILED BTCUSDT;Gap=10.655;Price=63753.80
+16:17:13.003748> Try place lock SellLimit, Bid: 63764.90 Ask:  63765.00
+16:17:13.314768> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:13.315765> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.61125;Price=63765.00
+16:17:15.010910> Try place lock SellLimit, Bid: 63764.90 Ask:  63765.00
+16:17:15.366929> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:15.367929> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.61125;Price=63765.00
+16:17:17.002838> Try place lock SellLimit, Bid: 63757.30 Ask:  63757.40
+16:17:17.294857> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:17.297854> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.425;Price=63757.40
+16:17:19.019779> Try place lock SellLimit, Bid: 63752.30 Ask:  63752.40
+16:17:19.415800> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:19.416803> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.425;Price=63752.40
+16:17:21.001878> Try place lock SellLimit, Bid: 63757.70 Ask:  63757.80
+16:17:21.330898> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:21.331898> [1Leg]: Sell FAILED BTCUSDT;Gap=1.975;Price=63757.80
+16:17:23.001926> Try place lock SellLimit, Bid: 63752.30 Ask:  63752.40
+16:17:23.411917> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:23.611930> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.72;Price=63752.40
+16:17:25.001020> Try place lock SellLimit, Bid: 63761.60 Ask:  63761.70
+16:17:25.329036> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:25.329036> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.32;Price=63761.70
+16:17:27.006170> Try place lock SellLimit, Bid: 63761.60 Ask:  63761.70
+16:17:27.340185> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:27.341186> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.21125;Price=63755.20
+16:17:29.015882> Try place lock SellLimit, Bid: 63753.20 Ask:  63753.30
+16:17:29.420906> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:29.421906> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.71125;Price=63753.30
+16:17:31.002192> Try place lock SellLimit, Bid: 63760.90 Ask:  63761.00
+16:17:31.444044> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:31.444044> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.01125;Price=63758.00
+16:17:33.001734> Try place lock SellLimit, Bid: 63757.20 Ask:  63757.30
+16:17:33.531988> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:33.559991> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.91;Price=63757.30
+16:17:35.004905> Try place lock SellLimit, Bid: 63752.00 Ask:  63752.10
+16:17:35.325923> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:35.363923> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.61;Price=63752.10
+16:17:37.002507> Try place lock SellLimit, Bid: 63759.90 Ask:  63760.00
+16:17:37.374517> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:37.375516> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.07375;Price=63760.00
+16:17:39.002797> Try place lock SellLimit, Bid: 63759.90 Ask:  63760.00
+16:17:39.473830> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:39.475837> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.07375;Price=63760.00
+16:17:41.002527> Try place lock SellLimit, Bid: 63759.90 Ask:  63760.00
+16:17:41.303368> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:41.305368> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.07375;Price=63760.00
+16:17:43.012794> Try place lock SellLimit, Bid: 63764.80 Ask:  63764.90
+16:17:43.358674> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:43.386677> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.07375;Price=63773.80
+16:17:45.022736> Try place lock SellLimit, Bid: 63770.10 Ask:  63770.20
+16:17:45.358753> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:45.358753> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.87375;Price=63771.70
+16:17:47.001347> Try place lock SellLimit, Bid: 63775.90 Ask:  63776.00
+16:17:47.310673> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:47.348672> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.41625;Price=63778.60
+16:17:49.001608> Try place lock SellLimit, Bid: 63778.50 Ask:  63778.60
+16:17:49.487812> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:49.489820> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.01625;Price=63772.40
+16:17:51.001215> Try place lock SellLimit, Bid: 63773.10 Ask:  63773.20
+16:17:51.357268> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:51.358262> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.71625;Price=63773.20
+16:17:53.024857> Try place lock SellLimit, Bid: 63778.70 Ask:  63778.80
+16:17:53.315870> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:53.315870> [1Leg]: Sell FAILED BTCUSDT;Gap=5.38375;Price=63784.60
+16:17:55.019476> Try place lock SellLimit, Bid: 63784.50 Ask:  63784.60
+16:17:55.533562> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:55.570560> [1Leg]: Sell FAILED BTCUSDT;Gap=1.78375;Price=63784.60
+16:17:57.024934> Try place lock SellLimit, Bid: 63780.30 Ask:  63780.40
+16:17:57.459594> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:57.460594> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.895;Price=63780.40
+16:17:59.032453> Try place lock SellLimit, Bid: 63784.60 Ask:  63784.70
+16:17:59.335295> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:17:59.335295> [1Leg]: Sell FAILED BTCUSDT;Gap=3.405;Price=63784.70
+16:18:01.002359> Try place lock SellLimit, Bid: 63784.60 Ask:  63784.70
+16:18:01.297377> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:01.297377> [1Leg]: Sell FAILED BTCUSDT;Gap=3.405;Price=63784.70
+16:18:03.019550> Try place lock SellLimit, Bid: 63780.30 Ask:  63780.40
+16:18:03.350887> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:03.351887> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.08;Price=63780.40
+16:18:05.015414> Try place lock SellLimit, Bid: 63768.90 Ask:  63769.00
+16:18:05.302230> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:05.303231> [1Leg]: Sell FAILED BTCUSDT;Gap=-6.58;Price=63769.00
+16:18:07.001837> Try place lock SellLimit, Bid: 63773.40 Ask:  63773.50
+16:18:07.318853> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:07.318853> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.94;Price=63776.10
+16:18:09.023552> Try place lock SellLimit, Bid: 63780.30 Ask:  63780.40
+16:18:09.316341> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:09.316341> [1Leg]: Sell FAILED BTCUSDT;Gap=0.66;Price=63780.40
+16:18:11.001868> Try place lock SellLimit, Bid: 63791.50 Ask:  63791.60
+16:18:11.353890> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:11.354888> [1Leg]: Sell FAILED BTCUSDT;Gap=6.26;Price=63785.00
+16:18:13.034358> Try place lock SellLimit, Bid: 63777.60 Ask:  63777.70
+16:18:13.358376> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:13.383378> [1Leg]: Sell FAILED BTCUSDT;Gap=4.40125;Price=63773.10
+16:18:15.020654> Try place lock SellLimit, Bid: 63769.90 Ask:  63770.00
+16:18:15.326672> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:15.327672> [1Leg]: Sell FAILED BTCUSDT;Gap=2.40125;Price=63756.00
+16:18:17.001394> Try place lock SellLimit, Bid: 63745.10 Ask:  63745.20
+16:18:17.370421> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:17.371417> [1Leg]: Sell FAILED BTCUSDT;Gap=2.5375;Price=63747.90
+16:18:19.054096> Try place lock SellLimit, Bid: 63762.90 Ask:  63763.00
+16:18:19.394106> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:19.395108> [1Leg]: Sell FAILED BTCUSDT;Gap=4.8375;Price=63763.00
+16:18:21.018217> Try place lock SellLimit, Bid: 63760.00 Ask:  63760.10
+16:18:21.309236> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:21.310232> [1Leg]: Sell FAILED BTCUSDT;Gap=0.0375;Price=63760.10
+16:18:23.013214> Try place lock SellLimit, Bid: 63747.10 Ask:  63747.20
+16:18:23.416236> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:23.417235> [1Leg]: Sell FAILED BTCUSDT;Gap=2.04875;Price=63747.20
+16:18:25.017578> Try place lock SellLimit, Bid: 63723.90 Ask:  63724.00
+16:18:25.424600> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:25.424600> [1Leg]: Sell FAILED BTCUSDT;Gap=3.34875;Price=63724.00
+16:18:27.011073> Try place lock SellLimit, Bid: 63711.80 Ask:  63711.90
+16:18:27.433497> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:27.433497> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.8725;Price=63719.90
+16:18:29.077729> Try place lock SellLimit, Bid: 63705.60 Ask:  63705.70
+16:18:29.438459> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:29.439460> [1Leg]: Sell FAILED BTCUSDT;Gap=2.0275;Price=63705.70
+16:18:31.034251> Try place lock SellLimit, Bid: 63710.50 Ask:  63710.60
+16:18:31.363270> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:31.365271> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.1725;Price=63718.70
+16:18:33.038366> Try place lock SellLimit, Bid: 63727.70 Ask:  63727.80
+16:18:33.327384> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:33.329384> [1Leg]: Sell FAILED BTCUSDT;Gap=0.435;Price=63730.60
+16:18:35.240615> Try place lock SellLimit, Bid: 63732.80 Ask:  63732.90
+16:18:35.569629> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:35.570627> [1Leg]: Sell FAILED BTCUSDT;Gap=3.135;Price=63732.90
+16:18:37.006391> Try place lock SellLimit, Bid: 63744.40 Ask:  63744.50
+16:18:37.385409> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:37.385409> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.0025;Price=63736.10
+16:18:39.001709> Try place lock SellLimit, Bid: 63743.30 Ask:  63743.40
+16:18:39.339728> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:39.339728> [1Leg]: Sell FAILED BTCUSDT;Gap=0.6975;Price=63745.80
+16:18:41.038009> Try place lock SellLimit, Bid: 63765.80 Ask:  63765.90
+16:18:41.356031> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:41.357029> [1Leg]: Sell FAILED BTCUSDT;Gap=1.1975;Price=63765.90
+16:18:43.000494> Try place lock SellLimit, Bid: 63763.50 Ask:  63763.60
+16:18:43.289500> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:43.289500> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.27125;Price=63763.60
+16:18:45.001523> Try place lock SellLimit, Bid: 63760.90 Ask:  63761.00
+16:18:45.300541> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:45.301542> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.57125;Price=63761.00
+16:18:47.000866> Try place lock SellLimit, Bid: 63758.90 Ask:  63759.00
+16:18:47.288875> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:47.289876> [1Leg]: Sell FAILED BTCUSDT;Gap=4.03625;Price=63759.00
+16:18:49.001374> Try place lock SellLimit, Bid: 63749.10 Ask:  63749.20
+16:18:49.295522> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:49.296518> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.76375;Price=63749.20
+16:18:51.002412> Try place lock SellLimit, Bid: 63733.20 Ask:  63733.30
+16:18:51.582448> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:51.623450> [1Leg]: Sell FAILED BTCUSDT;Gap=0.33625;Price=63733.30
+16:18:53.000551> Try place lock SellLimit, Bid: 63728.60 Ask:  63728.70
+16:18:53.293562> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:53.294562> [1Leg]: Sell FAILED BTCUSDT;Gap=3.14;Price=63727.10
+16:18:55.000497> Try place lock SellLimit, Bid: 63727.00 Ask:  63727.10
+16:18:55.330506> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:55.332507> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.06;Price=63727.10
+16:18:57.001352> Try place lock SellLimit, Bid: 63727.00 Ask:  63727.10
+16:18:57.465388> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:57.467390> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.19125;Price=63727.10
+16:18:59.001269> Try place lock SellLimit, Bid: 63720.00 Ask:  63720.10
+16:18:59.308277> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:18:59.309282> [1Leg]: Sell FAILED BTCUSDT;Gap=1.60875;Price=63716.30
+16:19:01.002565> Try place lock SellLimit, Bid: 63705.00 Ask:  63705.10
+16:19:01.302581> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:01.303582> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.29125;Price=63705.10
+16:19:03.001402> Try place lock SellLimit, Bid: 63705.00 Ask:  63705.10
+16:19:03.290407> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:03.290407> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.79625;Price=63705.10
+16:19:05.001719> Try place lock SellLimit, Bid: 63716.80 Ask:  63716.90
+16:19:05.315738> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:05.315738> [1Leg]: Sell FAILED BTCUSDT;Gap=3.10375;Price=63716.90
+16:19:07.000393> Try place lock SellLimit, Bid: 63723.60 Ask:  63723.70
+16:19:07.326400> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:07.326400> [1Leg]: Sell FAILED BTCUSDT;Gap=0.40125;Price=63723.70
+16:19:09.002948> Try place lock SellLimit, Bid: 63727.90 Ask:  63728.00
+16:19:09.398971> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:09.400972> [1Leg]: Sell FAILED BTCUSDT;Gap=0.60125;Price=63728.00
+16:19:11.000411> Try place lock SellLimit, Bid: 63723.60 Ask:  63723.70
+16:19:11.320426> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:11.321427> [1Leg]: Sell FAILED BTCUSDT;Gap=5.10125;Price=63719.60
+16:19:13.002013> Try place lock SellLimit, Bid: 63719.50 Ask:  63719.60
+16:19:13.348035> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:13.349025> [1Leg]: Sell FAILED BTCUSDT;Gap=1.00125;Price=63719.60
+16:19:15.001864> Try place lock SellLimit, Bid: 63710.70 Ask:  63710.80
+16:19:15.428885> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:15.428885> [1Leg]: Sell FAILED BTCUSDT;Gap=4.30125;Price=63708.00
+16:19:17.000708> Try place lock SellLimit, Bid: 63703.50 Ask:  63703.60
+16:19:17.344725> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:17.382726> [1Leg]: Sell FAILED BTCUSDT;Gap=2.86375;Price=63703.60
+16:19:19.025369> Try place lock SellLimit, Bid: 63688.00 Ask:  63688.10
+16:19:19.329392> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:19.330386> [1Leg]: Sell FAILED BTCUSDT;Gap=2.06375;Price=63685.80
+16:19:21.049955> Try place lock SellLimit, Bid: 63670.20 Ask:  63670.30
+16:19:21.398976> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:21.400977> [1Leg]: Sell FAILED BTCUSDT;Gap=-11.03625;Price=63669.10
+16:19:23.025609> Try place lock SellLimit, Bid: 63679.90 Ask:  63680.00
+16:19:23.365629> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:23.366636> [1Leg]: Sell FAILED BTCUSDT;Gap=4.84375;Price=63674.60
+16:19:25.000026> Try place lock SellLimit, Bid: 63674.50 Ask:  63674.60
+16:19:25.387061> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:25.387061> [1Leg]: Sell FAILED BTCUSDT;Gap=0.64375;Price=63678.60
+16:19:27.068394> Try place lock SellLimit, Bid: 63680.00 Ask:  63680.10
+16:19:27.434423> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:27.435416> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.845;Price=63684.30
+16:19:29.001946> Try place lock SellLimit, Bid: 63678.60 Ask:  63678.70
+16:19:29.339960> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:29.375959> [1Leg]: Sell FAILED BTCUSDT;Gap=-7.145;Price=63678.70
+16:19:31.000434> Try place lock SellLimit, Bid: 63676.20 Ask:  63676.30
+16:19:31.344794> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:31.346792> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.945;Price=63676.30
+16:19:33.001789> Try place lock SellLimit, Bid: 63680.70 Ask:  63680.80
+16:19:33.293777> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:33.294778> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.13375;Price=63682.10
+16:19:35.001247> Try place lock SellLimit, Bid: 63689.90 Ask:  63690.00
+16:19:35.290515> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:35.291515> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.93375;Price=63690.00
+16:19:37.006732> Try place lock SellLimit, Bid: 63689.90 Ask:  63690.00
+16:19:37.333802> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:37.334806> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.93375;Price=63690.00
+16:19:39.001897> Try place lock SellLimit, Bid: 63699.90 Ask:  63700.00
+16:19:39.299913> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:39.300914> [1Leg]: Sell FAILED BTCUSDT;Gap=-7.23875;Price=63703.60
+16:19:41.001561> Try place lock SellLimit, Bid: 63703.50 Ask:  63703.60
+16:19:41.356682> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:41.392681> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.63875;Price=63703.60
+16:19:43.000845> Try place lock SellLimit, Bid: 63703.50 Ask:  63703.60
+16:19:43.349876> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:43.350861> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.10875;Price=63703.60
+16:19:45.000117> Try place lock SellLimit, Bid: 63697.20 Ask:  63697.30
+16:19:45.352493> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:45.387497> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.20875;Price=63697.30
+16:19:47.028619> Try place lock SellLimit, Bid: 63689.40 Ask:  63689.50
+16:19:47.492651> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:47.533648> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.80875;Price=63689.50
+16:19:49.000736> Try place lock SellLimit, Bid: 63689.40 Ask:  63689.50
+16:19:49.293272> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:49.294273> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.3925;Price=63689.50
+16:19:51.000645> Try place lock SellLimit, Bid: 63703.10 Ask:  63703.20
+16:19:51.463364> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:51.601369> [1Leg]: Sell FAILED BTCUSDT;Gap=0.4075;Price=63703.30
+16:19:53.001242> Try place lock SellLimit, Bid: 63698.00 Ask:  63698.10
+16:19:53.309082> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:53.422085> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.70875;Price=63698.10
+16:19:55.003076> Try place lock SellLimit, Bid: 63686.30 Ask:  63686.40
+16:19:55.291372> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:55.291372> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.40875;Price=63686.40
+16:19:57.013686> Try place lock SellLimit, Bid: 63675.40 Ask:  63675.50
+16:19:57.377708> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:57.407706> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.30875;Price=63675.50
+16:19:59.001330> Try place lock SellLimit, Bid: 63681.90 Ask:  63682.00
+16:19:59.301286> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:19:59.302289> [1Leg]: Sell FAILED BTCUSDT;Gap=0.67125;Price=63682.00
+16:20:01.033562> Try place lock SellLimit, Bid: 63677.20 Ask:  63677.30
+16:20:01.407583> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:01.408583> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.02875;Price=63681.20
+16:20:03.000273> Try place lock SellLimit, Bid: 63681.10 Ask:  63681.20
+16:20:03.320288> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:03.321285> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.035;Price=63681.20
+16:20:05.053652> Try place lock SellLimit, Bid: 63681.10 Ask:  63681.20
+16:20:05.344441> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:05.345441> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.035;Price=63681.20
+16:20:07.000431> Try place lock SellLimit, Bid: 63677.20 Ask:  63677.30
+16:20:07.288405> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:07.289407> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.935;Price=63680.00
+16:20:09.001512> Try place lock SellLimit, Bid: 63682.90 Ask:  63683.00
+16:20:09.302530> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:09.303530> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.18;Price=63689.40
+16:20:11.001131> Try place lock SellLimit, Bid: 63684.60 Ask:  63684.70
+16:20:11.294259> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:11.294259> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.48;Price=63684.70
+16:20:13.007369> Try place lock SellLimit, Bid: 63672.00 Ask:  63672.10
+16:20:13.408492> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:13.409492> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.56375;Price=63672.10
+16:20:15.012992> Try place lock SellLimit, Bid: 63679.90 Ask:  63680.00
+16:20:15.303008> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:15.303008> [1Leg]: Sell FAILED BTCUSDT;Gap=0.63625;Price=63680.00
+16:20:17.048082> Try place lock SellLimit, Bid: 63660.00 Ask:  63660.10
+16:20:17.338482> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:17.339482> [1Leg]: Sell FAILED BTCUSDT;Gap=1.43625;Price=63660.10
+16:20:19.012594> Try place lock SellLimit, Bid: 63666.80 Ask:  63666.90
+16:20:19.303610> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:19.303610> [1Leg]: Sell FAILED BTCUSDT;Gap=0.8825;Price=63666.90
+16:20:21.001656> Try place lock SellLimit, Bid: 63665.80 Ask:  63665.90
+16:20:21.293674> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:21.294675> [1Leg]: Sell FAILED BTCUSDT;Gap=4.3825;Price=63665.90
+16:20:23.028535> Try place lock SellLimit, Bid: 63665.80 Ask:  63665.90
+16:20:23.579568> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:23.580570> [1Leg]: Sell FAILED BTCUSDT;Gap=1.97125;Price=63665.90
+16:20:25.034407> Try place lock SellLimit, Bid: 63659.40 Ask:  63659.50
+16:20:25.365391> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:25.366392> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.22875;Price=63659.50
+16:20:27.000154> Try place lock SellLimit, Bid: 63661.90 Ask:  63662.00
+16:20:27.321938> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:27.322939> [1Leg]: Sell FAILED BTCUSDT;Gap=0.27125;Price=63662.00
+16:20:29.068412> Try place lock SellLimit, Bid: 63677.10 Ask:  63677.20
+16:20:29.395431> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:29.396440> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.43;Price=63677.20
+16:20:31.001688> Try place lock SellLimit, Bid: 63698.00 Ask:  63698.10
+16:20:31.325699> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:31.326696> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.53;Price=63705.20
+16:20:33.001614> Try place lock SellLimit, Bid: 63695.60 Ask:  63695.70
+16:20:33.295844> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:33.296822> [1Leg]: Sell FAILED BTCUSDT;Gap=0.88875;Price=63700.70
+16:20:35.013982> Try place lock SellLimit, Bid: 63707.20 Ask:  63707.30
+16:20:35.305995> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:35.307993> [1Leg]: Sell FAILED BTCUSDT;Gap=1.38875;Price=63708.70
+16:20:37.047633> Try place lock SellLimit, Bid: 63704.10 Ask:  63704.20
+16:20:37.338222> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:37.339220> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.71125;Price=63695.70
+16:20:39.013572> Try place lock SellLimit, Bid: 63695.60 Ask:  63695.70
+16:20:39.307325> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:39.308324> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.60875;Price=63695.70
+16:20:41.010231> Try place lock SellLimit, Bid: 63702.50 Ask:  63702.60
+16:20:41.427681> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:41.430686> [1Leg]: Sell FAILED BTCUSDT;Gap=2.59125;Price=63702.60
+16:20:43.000581> Try place lock SellLimit, Bid: 63682.90 Ask:  63683.00
+16:20:43.393511> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:43.448519> [1Leg]: Sell FAILED BTCUSDT;Gap=0.79125;Price=63676.60
+16:20:45.019454> Try place lock SellLimit, Bid: 63685.20 Ask:  63685.30
+16:20:45.326474> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:45.327473> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.80875;Price=63685.30
+16:20:47.026728> Try place lock SellLimit, Bid: 63689.20 Ask:  63689.30
+16:20:47.326818> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:47.327826> [1Leg]: Sell FAILED BTCUSDT;Gap=1.19125;Price=63689.30
+16:20:49.000470> Try place lock SellLimit, Bid: 63689.20 Ask:  63689.30
+16:20:49.304480> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:49.339480> [1Leg]: Sell FAILED BTCUSDT;Gap=0.8775;Price=63679.90
+16:20:51.002373> Try place lock SellLimit, Bid: 63679.80 Ask:  63679.90
+16:20:51.293394> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:51.294390> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.6225;Price=63679.90
+16:20:53.000694> Try place lock SellLimit, Bid: 63679.80 Ask:  63679.90
+16:20:53.311714> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:53.312714> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.59375;Price=63679.90
+16:20:55.000986> Try place lock SellLimit, Bid: 63676.60 Ask:  63676.70
+16:20:55.307003> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:55.307003> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.19375;Price=63676.70
+16:20:57.001306> Try place lock SellLimit, Bid: 63675.50 Ask:  63675.60
+16:20:57.344317> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:57.344317> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.29375;Price=63675.60
+16:20:59.000801> Try place lock SellLimit, Bid: 63670.50 Ask:  63670.60
+16:20:59.297814> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:20:59.298808> [1Leg]: Sell FAILED BTCUSDT;Gap=3.06625;Price=63670.60
+16:21:01.002080> Try place lock SellLimit, Bid: 63669.00 Ask:  63669.10
+16:21:01.291099> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:01.291099> [1Leg]: Sell FAILED BTCUSDT;Gap=0.56625;Price=63669.10
+16:21:03.003243> Try place lock SellLimit, Bid: 63664.90 Ask:  63665.00
+16:21:03.421255> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:03.441258> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.845;Price=63665.00
+16:21:05.002458> Try place lock SellLimit, Bid: 63668.80 Ask:  63668.90
+16:21:05.323477> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:05.324478> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.545;Price=63668.90
+16:21:07.000191> Try place lock SellLimit, Bid: 63664.40 Ask:  63664.50
+16:21:07.301123> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:07.302114> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.145;Price=63664.50
+16:21:09.011410> Try place lock SellLimit, Bid: 63649.00 Ask:  63649.10
+16:21:09.492424> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:09.530424> [1Leg]: Sell FAILED BTCUSDT;Gap=1.8025;Price=63641.70
+16:21:11.000787> Try place lock SellLimit, Bid: 63659.20 Ask:  63659.30
+16:21:11.321801> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:11.322801> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.7975;Price=63659.30
+16:21:13.000428> Try place lock SellLimit, Bid: 63646.40 Ask:  63646.50
+16:21:13.289441> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:13.289441> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.2625;Price=63655.80
+16:21:15.001736> Try place lock SellLimit, Bid: 63644.70 Ask:  63644.80
+16:21:15.300743> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:15.300743> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.6625;Price=63644.80
+16:21:17.000664> Try place lock SellLimit, Bid: 63644.70 Ask:  63644.80
+16:21:17.337677> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:17.338682> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.6625;Price=63644.80
+16:21:19.001172> Try place lock SellLimit, Bid: 63649.90 Ask:  63650.00
+16:21:19.306177> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:19.352185> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.0325;Price=63650.00
+16:21:21.000916> Try place lock SellLimit, Bid: 63665.40 Ask:  63665.50
+16:21:21.294926> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:21.295939> [1Leg]: Sell FAILED BTCUSDT;Gap=-2.0325;Price=63659.30
+16:21:23.001970> Try place lock SellLimit, Bid: 63645.50 Ask:  63645.60
+16:21:23.375992> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:23.376991> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.43;Price=63645.60
+16:21:25.000832> Try place lock SellLimit, Bid: 63640.00 Ask:  63640.10
+16:21:25.441789> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:25.443804> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.03;Price=63640.10
+16:21:27.002004> Try place lock SellLimit, Bid: 63636.10 Ask:  63636.20
+16:21:27.343023> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:27.343023> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.73;Price=63635.80
+16:21:29.001124> Try place lock SellLimit, Bid: 63635.70 Ask:  63635.80
+16:21:29.351152> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:29.353146> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.5625;Price=63635.80
+16:21:31.001426> Try place lock SellLimit, Bid: 63646.40 Ask:  63646.50
+16:21:31.314443> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:31.315444> [1Leg]: Sell FAILED BTCUSDT;Gap=-1.2625;Price=63646.50
+16:21:33.001881> Try place lock SellLimit, Bid: 63638.90 Ask:  63639.00
+16:21:33.338390> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:33.368384> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.96;Price=63639.00
+16:21:35.000164> Try place lock SellLimit, Bid: 63636.20 Ask:  63636.30
+16:21:35.392681> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:35.393680> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.66;Price=63636.30
+16:21:37.002691> Try place lock SellLimit, Bid: 63630.80 Ask:  63630.90
+16:21:37.359182> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:37.359182> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.56;Price=63630.90
+16:21:39.002803> Try place lock SellLimit, Bid: 63630.80 Ask:  63630.90
+16:21:39.304618> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:39.305618> [1Leg]: Sell FAILED BTCUSDT;Gap=-5.01375;Price=63630.90
+16:21:41.000496> Try place lock SellLimit, Bid: 63635.60 Ask:  63635.70
+16:21:41.296018> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:41.297019> [1Leg]: Sell FAILED BTCUSDT;Gap=-0.21375;Price=63645.60
+16:21:43.034219> Try place lock SellLimit, Bid: 63639.90 Ask:  63640.00
+16:21:43.416241> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:43.417241> [1Leg]: Sell FAILED BTCUSDT;Gap=0.01125;Price=63640.00
+16:21:45.000081> Try place lock SellLimit, Bid: 63639.90 Ask:  63640.00
+16:21:45.313786> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:45.313786> [1Leg]: Sell FAILED BTCUSDT;Gap=0.01125;Price=63644.00
+16:21:47.000144> Try place lock SellLimit, Bid: 63646.10 Ask:  63646.20
+16:21:47.294881> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:47.295881> [1Leg]: Sell FAILED BTCUSDT;Gap=1.01125;Price=63649.90
+16:21:49.180257> Try place lock SellLimit, Bid: 63658.30 Ask:  63658.40
+16:21:49.660284> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:49.661284> [1Leg]: Sell FAILED BTCUSDT;Gap=-4.635;Price=63658.40
+16:21:51.000842> Try place lock SellLimit, Bid: 63663.20 Ask:  63663.30
+16:21:51.345733> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:51.422738> [1Leg]: Sell FAILED BTCUSDT;Gap=0.265;Price=63663.30
+16:21:53.001199> Try place lock SellLimit, Bid: 63682.80 Ask:  63682.90
+16:21:53.405223> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:53.414223> [1Leg]: Sell FAILED BTCUSDT;Gap=4.03875;Price=63677.70
+16:21:55.002797> Try place lock SellLimit, Bid: 63677.60 Ask:  63677.70
+16:21:55.324815> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4013 Message: Price less than min price.
+16:21:55.325815> [1Leg]: Sell FAILED BTCUSDT;Gap=-3.56125;Price=63677.70

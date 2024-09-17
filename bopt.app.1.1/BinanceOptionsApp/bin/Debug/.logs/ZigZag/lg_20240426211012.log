@@ -1,0 +1,241 @@
+21:10:13.581149> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:10:13.650153> WebSocket connected! Start @depth [Future] process...
+21:10:13.653149> WebSocket connected! Start Partial @depth20 [Future] process...
+21:10:13.671155> WebSocket connected! Start @depth [Future] process...
+21:10:13.673154> WebSocket connected! Start Partial @depth20 [Future] process...
+21:10:13.676152> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:10:14.703502> WebSocket connected! Start @depth [Future] process...
+21:10:14.717495> WebSocket connected! Start @depth [Future] process...
+21:10:14.766498> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:10:14.805498> WebSocket connected! Start Partial @depth20 [Future] process...
+21:10:14.821500> WebSocket connected! Start Partial @depth20 [Future] process...
+21:10:14.835501> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:10:15.414446> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 683.89393017 USDT
+21:10:47.049845> Try Open BuyLimit, Bid: 64033.9 Ask:  64034.0
+21:10:47.049845> Support: 64033.9 VolS:21.96 Resistence: 64034.1 VolR:0.563
+21:10:47.361454> [1Leg]: Buy OK BTCUSDC at 64033.9000;Gap=3.168421052631578947368421053;Price=64034.0000;Slippage=0.1;Execution=303.609 ms;
+21:10:47.362452> Elapsted Open BuyLimit 
+21:10:52.799659> Try Modify Buy order, 
+21:10:52.800661> Support: 64033.9 VolS:14.586 Resistence: 64044.5 VolR:0.271
+21:10:53.057579> [1Leg]: BUY OK MODIFY BTCUSDC at 0.020 lot;price=64039.8000;execution=254.920 ms;
+21:10:53.058582> Modify BuyLimit (1Leg)
+21:10:56.001587> Try place SellLimit, Bid: 64037.9 Ask:  64038.0
+21:10:56.392957> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -4001 Message: Price less than 0.
+21:10:56.397958> [1Leg]: Sell FAILED BTCUSDC;Gap=-5.44;Price=64038.0000
+21:10:56.398957> Placed lock SellLimit 
+21:11:10.465722> Try Modify Lock Sell order, 
+21:11:10.872759> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:10.873750> [1Leg]: Sell failed BTCUSDC;price=64038.0000
+21:11:10.880755> Try Modify Lock Sell order, 
+21:11:11.195768> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:11.196773> [1Leg]: Sell failed BTCUSDC;price=64038.0000
+21:11:11.198765> Try Modify Lock Sell order, 
+21:11:11.502787> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:11.503782> [1Leg]: Sell failed BTCUSDC;price=64038.0000
+21:11:11.504783> Try Modify Lock Sell order, 
+21:11:11.800800> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:11.800800> [1Leg]: Sell failed BTCUSDC;price=64038.0000
+21:11:11.802800> Try Modify Lock Sell order, 
+21:11:12.096817> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:12.097817> [1Leg]: Sell failed BTCUSDC;price=64038.0000
+21:11:12.099817> Try Modify Lock Sell order, 
+21:11:12.417839> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:12.418835> [1Leg]: Sell failed BTCUSDC;price=64038.0000
+21:11:12.419835> Try Modify Lock Sell order, 
+21:11:12.768468> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:12.769450> [1Leg]: Sell failed BTCUSDC;price=64038.0000
+21:11:12.770463> Try Modify Lock Sell order, 
+21:11:13.090096> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:13.091096> [1Leg]: Sell failed BTCUSDC;price=64038.0000
+21:11:13.092097> Try Modify Lock Sell order, 
+21:11:13.382125> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:13.383114> [1Leg]: Sell failed BTCUSDC;price=64038.0000
+21:11:13.385114> Try Modify Lock Sell order, 
+21:11:13.689132> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:13.691129> [1Leg]: Sell failed BTCUSDC;price=64038.0000
+21:11:13.699132> Try Modify Lock Sell order, 
+21:11:13.993148> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:14.006148> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:14.008149> Try Modify Lock Sell order, 
+21:11:14.341171> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:14.342168> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:14.343169> Try Modify Lock Sell order, 
+21:11:14.670609> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:14.671613> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:14.672613> Try Modify Lock Sell order, 
+21:11:15.045632> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:15.046630> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:15.047632> Try Modify Lock Sell order, 
+21:11:15.341768> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:15.343762> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:15.345784> Try Modify Lock Sell order, 
+21:11:15.636963> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:15.637961> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:15.638962> Try Modify Lock Sell order, 
+21:11:15.934980> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:15.935978> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:15.947979> Try Modify Lock Sell order, 
+21:11:16.309016> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:16.311015> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:16.315022> Try Modify Lock Sell order, 
+21:11:16.687157> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:16.688159> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:16.690157> Try Modify Lock Sell order, 
+21:11:17.027166> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:17.029170> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:17.033169> Try Modify Lock Sell order, 
+21:11:17.354187> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:17.354187> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:17.357187> Try Modify Lock Sell order, 
+21:11:17.648203> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:17.649203> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:17.651201> Try Modify Lock Sell order, 
+21:11:17.947620> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:17.947620> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:17.948620> Try Modify Lock Sell order, 
+21:11:18.238187> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:18.239197> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:18.241188> Try Modify Lock Sell order, 
+21:11:18.557206> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:18.558206> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:18.559206> Try Modify Lock Sell order, 
+21:11:18.891235> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:18.892225> [1Leg]: Sell failed BTCUSDC;price=64044.6000
+21:11:18.898225> Try Modify Lock Sell order, 
+21:11:19.229136> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:19.230136> [1Leg]: Sell failed BTCUSDC;price=64053.3000
+21:11:19.250138> Try Modify Lock Sell order, 
+21:11:19.554153> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:19.562155> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:19.564155> Try Modify Lock Sell order, 
+21:11:19.857085> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:19.857085> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:19.858088> Try Modify Lock Sell order, 
+21:11:20.146853> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:20.147860> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:20.153852> Try Modify Lock Sell order, 
+21:11:20.482871> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:20.482871> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:20.484870> Try Modify Lock Sell order, 
+21:11:20.796001> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:20.797001> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:20.798001> Try Modify Lock Sell order, 
+21:11:21.120034> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:21.121020> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:21.123020> Try Modify Lock Sell order, 
+21:11:21.416037> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:21.417037> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:21.419036> Try Modify Lock Sell order, 
+21:11:22.175125> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:22.175125> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:22.177124> Try Modify Lock Sell order, 
+21:11:22.498143> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:22.499144> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:22.501143> Try Modify Lock Sell order, 
+21:11:22.812163> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:22.813160> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:22.814161> Try Modify Lock Sell order, 
+21:11:23.140283> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:23.140283> [1Leg]: Sell failed BTCUSDC;price=64054.1000
+21:11:23.141284> Try Modify Lock Sell order, 
+21:11:23.429300> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:23.430300> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:23.437299> Try Modify Lock Sell order, 
+21:11:23.730781> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:23.731781> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:23.734781> Try Modify Lock Sell order, 
+21:11:24.028801> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:24.030798> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:24.040800> Try Modify Lock Sell order, 
+21:11:24.360817> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:24.361817> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:24.385818> Try Modify Lock Sell order, 
+21:11:24.714840> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:24.715836> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:24.717876> Try Modify Lock Sell order, 
+21:11:25.028855> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:25.028855> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:25.031857> Try Modify Lock Sell order, 
+21:11:25.317872> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:25.323870> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:25.326872> Try Modify Lock Sell order, 
+21:11:25.620889> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:25.621891> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:25.623890> Try Modify Lock Sell order, 
+21:11:25.971909> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:25.971909> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:25.972909> Try Modify Lock Sell order, 
+21:11:26.259929> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:26.261926> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:26.262926> Try Modify Lock Sell order, 
+21:11:26.612939> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:26.612939> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:26.613940> Try Modify Lock Sell order, 
+21:11:26.972518> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:26.973531> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:26.975519> Try Modify Lock Sell order, 
+21:11:27.310543> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:27.311538> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:27.312539> Try Modify Lock Sell order, 
+21:11:27.688560> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:27.689560> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:27.690560> Try Modify Lock Sell order, 
+21:11:28.056030> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:28.058022> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:28.068010> Try Modify Lock Sell order, 
+21:11:28.418031> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:28.419032> [1Leg]: Sell failed BTCUSDC;price=64060.0000
+21:11:28.421032> Try Modify Lock Sell order, 
+21:11:28.742049> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:28.743050> [1Leg]: Sell failed BTCUSDC;price=64056.7000
+21:11:28.744050> Try Modify Lock Sell order, 
+21:11:29.086070> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:29.096070> [1Leg]: Sell failed BTCUSDC;price=64056.7000
+21:11:29.099070> Try Modify Lock Sell order, 
+21:11:29.390091> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:29.390091> [1Leg]: Sell failed BTCUSDC;price=64052.5000
+21:11:29.394085> Try Modify Lock Sell order, 
+21:11:29.686105> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:29.687113> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:29.689104> Try Modify Lock Sell order, 
+21:11:29.978118> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:29.978118> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:29.980119> Try Modify Lock Sell order, 
+21:11:30.272137> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:30.273145> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:30.275146> Try Modify Lock Sell order, 
+21:11:30.630158> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:30.630158> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:30.632160> Try Modify Lock Sell order, 
+21:11:30.944170> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:30.945170> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:30.946171> Try Modify Lock Sell order, 
+21:11:31.317203> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:31.351195> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:31.353193> Try Modify Lock Sell order, 
+21:11:31.652211> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:31.652211> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:31.654216> Try Modify Lock Sell order, 
+21:11:31.942232> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:31.942232> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:31.945227> Try Modify Lock Sell order, 
+21:11:32.320258> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:32.321262> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:32.325273> Try Modify Lock Sell order, 
+21:11:32.668269> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:32.669269> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:32.670270> Try Modify Lock Sell order, 
+21:11:32.993289> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:32.994288> [1Leg]: Sell failed BTCUSDC;price=64046.2000
+21:11:32.996296> Try Modify Lock Sell order, 
+21:11:33.329310> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:33.330307> [1Leg]: Sell failed BTCUSDC;price=64058.0000
+21:11:33.332307> Try Modify Lock Sell order, 
+21:11:33.658348> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:33.659339> [1Leg]: Sell failed BTCUSDC;price=64058.0000
+21:11:33.661328> Try Modify Lock Sell order, 
+21:11:34.131355> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:34.132355> [1Leg]: Sell failed BTCUSDC;price=64058.0000
+21:11:34.141352> Try Modify Lock Sell order, 
+21:11:34.466373> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+21:11:34.467373> [1Leg]: Sell failed BTCUSDC;price=64058.0000

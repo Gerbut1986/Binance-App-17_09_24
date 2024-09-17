@@ -1,0 +1,46 @@
+13:04:06.420032> WebSocket connected! Start Partial @depth20 [Future] process...
+13:04:06.420032> WebSocket connected! Start Partial @depth20 [Future] process...
+13:04:06.435032> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:04:06.440032> WebSocket connected! Start @depth [Future] process...
+13:04:07.439308> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:04:07.446303> WebSocket connected! Start @depth [Future] process...
+13:04:07.464305> WebSocket connected! Start Partial @depth20 [Future] process...
+13:04:07.524308> WebSocket connected! Start Partial @depth20 [Future] process...
+13:04:08.077813> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 244.65670799 USDT
+13:06:21.504518> Try Open Buy, Bid: 65750.0 Ask:  65750.1
+13:06:21.505518> Step Signal open long, StepByStepUP:3 Stk:20 StkImp:0 Lnt:0 Prg:0 Tide:20 Bid: 65750.0 Ask:  65750.1
+13:06:21.505518> Support: 65750 VolS:1.309 Resistence: 65765.1 VolR:0.652
+13:06:22.544264> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=10.99125;Price=65757.70;Slippage=65757.7;Execution=1034.746 ms;
+13:06:22.545262> Move:0 Stk:20 Lnt:0 Prg:0 Bid: 65757.6 Ask:  65757.7
+13:06:22.545262> Placed Main Buy, ticketCustom = 1 ticket= 3930225971 LastBuyPrice=65750.1
+13:06:34.445977> Try Close Buy, TotalVal=0.002 pos0.002 Bid: 65710.0 Ask: 65710.1, stoploss=65710.1
+13:06:34.445977> Stop Signal close long, stoploss=65710.1 TotalVal=0.002 pos:0.002 EntrPrice=65750.1 Stk:10 Lnt:0 Prg:0 Bid: 65710.0 Ask:  65710.1
+13:06:34.691584> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=5.54625;Price=65710.10;Slippage=65710.1;Execution=245.607 ms;
+13:06:34.693582> Move:0 Stk:10 Lnt:0 Prg:0 Fon:0 Bid: 65710.0 Ask:  65710.1
+13:06:34.693582> Close Main Buy, ticketCustom = 2 ticket = 3930225971
+13:06:41.802416> Try Open Sell, Ask: 65674.6 Bid: 65674.5
+13:06:41.803416> Step Signal open short, StepByStepDN:3 Stk:10 StkImp:0 Lnt:0 Prg:0 Bid: 65674.5 Ask:  65674.6
+13:06:42.046822> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.67625;Price=65674.60;Slippage=65674.6;Execution=243.406 ms;
+13:06:42.047819> Move:0 Stk:10 Lnt:0 Prg:0 Fon:0 Bid: 65674.5 Ask:  65674.6
+13:06:42.047819> Placed Main Sell, ticketCustom = 3 ticket = 3930243493 LastSellPrice=65674.5
+13:07:13.488467> Try Close Sell, TotalVal=0.002 pos-0.002 Bid: 65697.4 Ask:  65697.5, stoploss=65714.5
+13:07:13.490467> Lenta Signal close short, stoploss=65714.5 TotalVal=0.002 pos:-0.002 EntrPrice=65674.5 Stk:20 StkImp:1 Lnt:0 Prg:0 Bid: 65697.4 Ask:  65697.5
+13:07:13.732482> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-9.50625;Price=65703.50;Slippage=65703.5;Execution=241.015 ms;
+13:07:13.733480> Move:0 Stk:20 Lnt:0 Prg:0 Fon:1 Bid: 65703.4 Ask:  65703.5
+13:07:13.733480> Close Main Sell ticketCustom = 4 ticket= 3930243493
+13:07:13.735490> Try Open Buy, Bid: 65703.4 Ask:  65703.5
+13:07:13.735490> Lenta Signal open long, OpenLong:True Stk:20 StkImp:1 Lnt:0 Prg:0 Tide:10 Bid: 65703.4 Ask:  65703.5
+13:07:13.735490> Support: 65703.4 VolS:3.192 Resistence: 65711.2 VolR:1.027
+13:07:13.980499> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.50625;Price=65703.50;Slippage=65703.5;Execution=245.010 ms;
+13:07:13.981499> Move:0 Stk:20 Lnt:0 Prg:0 Bid: 65703.4 Ask:  65703.5
+13:07:13.982495> Placed Main Buy, ticketCustom = 5 ticket= 3930270462 LastBuyPrice=65703.5
+13:08:25.246713> Try Close Buy, TotalVal=0.002 pos0.002 Bid: 65667.6 Ask: 65667.7, stoploss=65663.5
+13:08:25.246713> Step Signal close long, stoploss=65663.5 TotalVal=0.002 pos:0.002 EntrPrice=65703.5 Stk:10 StkImp:1 Lnt:0 Prg:0 Bid: 65667.6 Ask:  65667.7
+13:08:26.229416> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.2925;Price=65666.10;Slippage=65666.1;Execution=981.711 ms;
+13:08:26.229416> Move:0 Stk:10 Lnt:0 Prg:0 Fon:1 Bid: 65666.0 Ask:  65666.1
+13:08:26.230418> Close Main Buy, ticketCustom = 6 ticket = 3930270462
+13:08:26.231418> Try Open Sell, Ask: 65666.1 Bid: 65666.0
+13:08:26.231418> Step Signal open short, StepByStepDN:4 Stk:10 StkImp:1 Lnt:0 Prg:0 Bid: 65666.0 Ask:  65666.1
+13:08:26.523617> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=4.8075;Price=65666.10;Slippage=65666.1;Execution=292.200 ms;
+13:08:26.523617> Move:0 Stk:10 Lnt:0 Prg:0 Fon:1 Bid: 65666.0 Ask:  65666.1
+13:08:26.524615> Placed Main Sell, ticketCustom = 7 ticket = 3930323332 LastSellPrice=65666.0

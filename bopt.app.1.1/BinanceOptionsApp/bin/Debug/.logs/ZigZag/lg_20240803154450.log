@@ -1,0 +1,114 @@
+15:44:51.395658> WebSocket connected! Start @depth [Future] process...
+15:44:51.396657> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:44:51.397658> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:51.397658> WebSocket connected! Start @depth [Future] process...
+15:44:51.429659> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:51.430660> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:44:52.360248> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:44:52.369247> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:52.374248> WebSocket connected! Start Partial @depth20 [Future] process...
+15:44:52.388249> WebSocket connected! Start @depth [Future] process...
+15:44:52.396248> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:44:52.399249> WebSocket connected! Start @depth [Future] process...
+15:44:52.848282> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 239.29223575 USDT
+16:00:58.786176> Try place lock SellLimit, Bid: 62005.10 Ask:62005.20 wantPrice:62030.20  EntrPrice:62116.5
+16:00:59.152196> [1Leg]: Sell OK BTCUSDT at 62030.20;Price=62030.20;Slippage=-25.0;Execution=362.021 ms;
+16:00:59.178197> Placed lock SellLimit, ticketCustom= 1, ticket= 385218565993 
+16:00:59.178197>  
+16:00:59.179199> Try Modify Lock Sell order, 
+16:01:00.910296> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=62055.20;execution=1700.098 ms;
+16:01:00.911296> Modify Lock SellLimit (1Leg)
+16:19:38.922395> Try Modify Lock Sell order for Close at now, 
+16:19:38.922395> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 61869.50 Ask:  61869.60
+16:19:39.870449> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:19:39.870449> [1Leg]: Sell failed BTCUSDT;price=61869.60
+16:19:39.871449> srabotalo
+16:19:41.902565> Try place lock SellLimit, Bid: 61861.00 Ask:61861.10 wantPrice:61911.10  EntrPrice:62116.5
+16:19:43.133635> [1Leg]: Sell OK BTCUSDT at 61911.10;Price=61911.10;Slippage=-58.3;Execution=1225.069 ms;
+16:19:43.134636> Placed lock SellLimit, ticketCustom= 2, ticket= 385218565993 
+16:19:43.134636> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 61861.00 Ask:  61861.10
+16:19:43.134636> Try Modify Lock Sell order for Close at now, 
+16:19:43.135636> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 61861.00 Ask:  61861.10
+16:19:43.546659> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61877.80;execution=411.023 ms;
+16:19:43.546659> Modify Lock SellLimit (1Leg) for Close at now
+16:19:49.663011> Try Modify Lock Sell order for Close at now, 
+16:19:49.690015> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 61854.40 Ask:  61854.50
+16:19:49.966028> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61877.70;execution=276.013 ms;
+16:19:49.966028> Modify Lock SellLimit (1Leg) for Close at now
+16:20:04.247847> Try Modify Lock Sell order, 
+16:20:04.504860> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61894.40;execution=256.013 ms;
+16:20:04.511861> Modify Lock SellLimit (1Leg)
+16:20:31.760422> Try Modify Lock Sell order, 
+16:20:32.272454> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61905.00;execution=426.026 ms;
+16:20:32.272454> Modify Lock SellLimit (1Leg)
+16:21:50.143005> Try Modify Lock Sell order, 
+16:21:51.608089> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61915.10;execution=1456.084 ms;
+16:21:51.610088> Modify Lock SellLimit (1Leg)
+16:22:04.778843> Try Modify Lock Sell order, 
+16:22:05.114863> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61928.00;execution=336.020 ms;
+16:22:05.117861> Modify Lock SellLimit (1Leg)
+16:22:21.025128> Try Modify Lock Sell order, 
+16:22:21.350147> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61939.10;execution=323.019 ms;
+16:22:21.358148> Modify Lock SellLimit (1Leg)
+16:22:54.655059> Try Modify Lock Sell order, 
+16:22:54.969074> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61950.00;execution=314.015 ms;
+16:22:54.969074> Modify Lock SellLimit (1Leg)
+16:23:18.203407> Try Modify Lock Sell order, 
+16:23:18.810441> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61967.10;execution=464.027 ms;
+16:23:18.810441> Modify Lock SellLimit (1Leg)
+16:23:54.018462> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+16:23:59.048749> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+16:23:59.049750> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+16:24:00.565839> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:24:03.588010> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+16:24:08.596296> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+16:24:08.602297> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+16:24:09.910374> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:24:26.721333> Try Modify Lock Sell order, 
+16:24:27.929407> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61980.40;execution=1207.070 ms;
+16:24:27.929407> Modify Lock SellLimit (1Leg)
+16:25:14.748094> Try Modify Lock Sell order, 
+16:25:15.128112> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61992.10;execution=259.016 ms;
+16:25:15.128112> Modify Lock SellLimit (1Leg)
+16:25:40.368009> Try Modify Lock Sell order, 
+16:25:40.718028> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=62002.40;execution=300.010 ms;
+16:25:40.719027> Modify Lock SellLimit (1Leg)
+16:25:46.498358> Try Modify Lock Sell order for Close at now, 
+16:25:46.499360> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:20 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 61959.80 Ask:  61959.90
+16:25:46.759373> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61984.90;execution=260.014 ms;
+16:25:46.759373> Modify Lock SellLimit (1Leg) for Close at now
+16:25:48.221458> Try Modify Lock Sell order for Close at now, 
+16:25:48.221458> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:20 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 61960.50 Ask:  61960.60
+16:25:48.488472> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61979.60;execution=267.014 ms;
+16:25:48.489474> Modify Lock SellLimit (1Leg) for Close at now
+16:25:48.762216> Try Modify Lock Sell order for Close at now, 
+16:25:48.762216> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:20 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 61946.30 Ask:  61946.40
+16:25:49.076507> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61971.40;execution=313.020 ms;
+16:25:49.077507> Modify Lock SellLimit (1Leg) for Close at now
+16:25:57.130967> Try Modify Lock Sell order, 
+16:25:57.404983> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61983.00;execution=274.016 ms;
+16:25:57.405985> Modify Lock SellLimit (1Leg)
+16:31:07.051655> Try Modify Lock Sell order for Close at now, 
+16:31:07.090657> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 61862.10 Ask:  61862.20
+16:31:07.483676> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61887.20;execution=304.013 ms;
+16:31:07.483676> Modify Lock SellLimit (1Leg) for Close at now
+16:31:10.287071> Try Modify Lock Sell order for Close at now, 
+16:31:10.287071> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 61862.10 Ask:  61862.20
+16:31:10.558088> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61883.20;execution=271.017 ms;
+16:31:10.558088> Modify Lock SellLimit (1Leg) for Close at now
+16:31:20.776674> Try Modify Lock Sell order for Close at now, 
+16:31:20.776674> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 61842.90 Ask:  61843.00
+16:31:21.165695> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61868.00;execution=387.942 ms;
+16:31:21.166698> Modify Lock SellLimit (1Leg) for Close at now
+16:31:26.551003> Try Modify Lock Sell order for Close at now, 
+16:31:26.552003> Signal % close long, StepByStepUP=0 Order=0 TotalVal=0.002 EntrPrice=62116.5 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 61838.60 Ask:  61838.70
+16:31:26.870023> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=61863.70;execution=318.020 ms;
+16:31:26.870023> Modify Lock SellLimit (1Leg) for Close at now
+17:32:54.719588> Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+17:32:59.734874> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:32:59.795878> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:33:00.978945> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:35:54.002408> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:35:59.011577> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+17:35:59.015576> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+17:36:00.096211> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...

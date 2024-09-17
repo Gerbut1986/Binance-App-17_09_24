@@ -1,0 +1,40 @@
+13:59:58.727627> WebSocket connected! Start Partial @depth20 [Future] process...
+13:59:58.729630> WebSocket connected! Start Partial @depth20 [Future] process...
+13:59:58.729630> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:59:58.730627> WebSocket connected! Start @depth [Future] process...
+13:59:58.730627> WebSocket connected! Start @depth [Future] process...
+13:59:58.731627> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:59:59.744557> WebSocket connected! Start Partial @depth20 [Future] process...
+13:59:59.769559> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:59:59.770559> WebSocket connected! Start @depth [Future] process...
+13:59:59.771558> WebSocket connected! Start @depth [Future] process...
+13:59:59.771558> WebSocket connected! Start Partial @depth20 [Future] process...
+13:59:59.791566> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:00:00.291408> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 746.49962181 USDT
+14:00:02.020125> Try place BuyLimit, Bid: 66395.20 Ask:  66395.30
+14:00:02.375154> [1Leg]: Buy OK BTCUSDT at 66352.8000;Gap=-3.40;Price=66395.3000;Slippage=42.5;Execution=351.020 ms;
+14:00:02.375154> Placed lock BuyLimit 
+14:00:02.377146> Try Modify Lock Buy order, 
+14:00:02.727302> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:00:02.743305> [1Leg]: Buy failed BTCUSDT;price=66395.3000
+14:00:07.023858> Try Modify Lock Buy order, 
+14:00:07.327349> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:00:07.328349> [1Leg]: Buy failed BTCUSDT;price=66395.3000
+14:00:12.008468> Try Modify Lock Buy order, 
+14:00:12.270484> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66355.4000;execution=258.026 ms;
+14:00:12.272481> Modify BuyLimit (1Leg)
+14:00:17.003695> Try Modify Lock Buy order, 
+14:00:17.261709> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66354.8000;execution=258.013 ms;
+14:00:17.261709> Modify BuyLimit (1Leg)
+14:00:22.007628> Try Modify Lock Buy order, 
+14:00:22.268352> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66352.7000;execution=260.724 ms;
+14:00:22.269341> Modify BuyLimit (1Leg)
+14:00:27.004362> Try Modify Lock Buy order, 
+14:00:27.262302> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66353.0000;execution=256.940 ms;
+14:00:27.263293> Modify BuyLimit (1Leg)
+14:00:32.003033> Try Modify Lock Buy order, 
+14:00:32.266092> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66357.6000;execution=262.057 ms;
+14:00:32.267051> Modify BuyLimit (1Leg)
+14:00:37.005301> Try Modify Lock Buy order, 
+14:00:37.261197> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=66382.6000;execution=254.924 ms;
+14:00:37.261197> Modify BuyLimit (1Leg)

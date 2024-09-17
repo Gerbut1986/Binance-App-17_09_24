@@ -1,0 +1,45 @@
+07:22:50.265222> WebSocket connected! Start Partial @depth20 [Future] process...
+07:22:50.266222> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.15097346 USDT
+07:22:50.267222> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+07:22:50.267222> WebSocket connected! Start Partial @depth20 [SPOT] process...
+07:22:50.266222> WebSocket connected! Start @depth [Future] process...
+07:22:50.464234> WebSocket connected! Start Partial @depth20 [SPOT] process...
+07:22:51.091526> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+07:22:51.095512> WebSocket connected! Start Partial @depth20 [Future] process...
+07:22:51.101521> WebSocket connected! Start @depth [Future] process...
+07:22:51.596581> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 148.40034108 USDT
+08:21:42.590769>  DevSELL (-): -62.01487500 avgGapSell:-33.41512500 
+08:21:49.503166>  DevSELL (+): -62.01487500 avgGapSell:-33.41512500 
+08:22:06.158124>  DevSELL (-): -71.01775000 avgGapSell:-37.47225000 
+08:22:12.330476>  DevSELL (+): -68.51825000 avgGapSell:-39.97175000 
+08:22:18.958857>  DevSELL (-): -82.10825000 avgGapSell:-39.97175000 
+08:22:19.324877>  DevSELL (-): -85.54825000 avgGapSell:-39.97175000 
+08:22:22.356054>  DevSELL (-): -87.40287500 avgGapSell:-46.98712500 
+08:22:22.910083>  DevSELL (-): -93.35287500 avgGapSell:-46.98712500 
+08:22:22.949088>  DevSELL (+): -89.05287500 avgGapSell:-46.98712500 
+08:22:22.953086>  DevSELL (+): -93.35287500 avgGapSell:-46.98712500 
+08:22:55.637962> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+08:23:04.236454> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+08:23:04.236454> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+08:23:32.792092> WebSocket connected! Start @depth [Future] process...
+08:24:01.509737> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+08:24:01.696749>  DevBUY (+): 97.89025000 avgGapBuy:-118.83025000 
+08:24:06.753038> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+08:24:06.753038> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+08:24:17.168638> WebSocket connected! Start @depth [Future] process...
+08:24:18.785726>  DevBUY (-): 103.69675000 avgGapBuy:-106.70675000 
+08:24:19.916791>  DevBUY (-): 116.29812500 avgGapBuy:-99.30812500 
+08:24:21.700894>  DevBUY (-): 187.50812500 avgGapBuy:-99.30812500 
+08:24:25.297101>  DevBUY (+): 196.50812500 avgGapBuy:-99.30812500 
+08:24:27.525227>  DevBUY (+): 200.10812500 avgGapBuy:-99.30812500 
+08:25:56.035305>  DevSELL (-): -62.30375000 avgGapSell:66.57375000 
+08:26:09.234062>  DevSELL (+): -83.68262500 avgGapSell:73.21262500 
+08:26:12.912271>  DevSELL (-): -88.26262500 avgGapSell:73.21262500 
+08:26:14.577366>  DevSELL (+): -104.96262500 avgGapSell:73.21262500 
+08:26:19.187630>  DevSELL (+): -115.72712500 avgGapSell:70.97712500 
+08:26:23.355867>  DevSELL (+): -127.12712500 avgGapSell:70.97712500 
+08:26:23.981904>  DevSELL (+): -128.12712500 avgGapSell:70.97712500 
+08:26:28.084140>  DevSELL (-): -143.45712500 avgGapSell:70.97712500 
+08:26:32.989427>  DevSELL (+): -130.92762500 avgGapSell:60.13762500 
+08:26:37.899705>  DevSELL (+): -146.36762500 avgGapSell:60.13762500 
+08:26:38.003791>  DevSELL (+): -149.26762500 avgGapSell:60.13762500 

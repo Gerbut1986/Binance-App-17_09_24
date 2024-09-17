@@ -1,0 +1,36 @@
+12:33:53.177885> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:33:53.178887> WebSocket connected! Start Partial @depth20 [Future] process...
+12:33:53.186889> WebSocket connected! Start @depth [Future] process...
+12:33:53.252895> WebSocket connected! Start Partial @depth20 [Future] process...
+12:33:54.230159> WebSocket connected! Start Partial @depth20 [Future] process...
+12:33:54.239156> WebSocket connected! Start Partial @depth20 [Future] process...
+12:33:54.252155> WebSocket connected! Start @depth [Future] process...
+12:33:54.265155> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:33:54.763820> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 235.61699273 USDT
+13:56:45.736922>  DevSELL (-): -92.51125 avgGapSell:-9.28875 
+13:56:47.296207>  DevSELL (-): -92.7325 avgGapSell:-12.1675 
+13:56:47.309201>  DevSELL (+): -68.1325 avgGapSell:-12.1675 
+13:56:47.824230>  DevSELL (+): -79.4325 avgGapSell:-12.1675 
+13:59:19.800408>  DevSELL (-): -64.795 avgGapSell:-20.305 
+14:19:45.936859> Try Open SellLimit, Ask: 66328.2 Bid:66328.1
+14:19:45.937860> Lenta Signal open short, OpenShort:True Stk:10 StkImp:2 Lnt:1 Prg:0 Bid: 66328.1 Ask:  66328.2
+14:19:46.217873> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=66328.2;Execution=277.014 ms;
+14:19:46.218873> Placed Main SellLimit, ticketCustom = 1 ticket = 4041246422 LastSellPrice=66328.2
+14:25:33.280115> Try Delete lock Buy order, ticket = 0 ticketCustom = 0
+14:25:33.280115> Step Signal close short, stoploss=66418.0 TotalVal=0.002 pos:-0.002 EntrPrice=66333.0 Stk:20 StkImp:2 Lnt:2 Prg:0 Bid: 66276.6 Ask:  66276.7
+14:25:33.681137> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:25:38.740664> Try Close Sell, Bid: 66292.3 Ask:  66292.4
+14:25:38.740664> Step Signal close short, stoploss=66418.0 TotalVal=0.002 pos:-0.002 EntrPrice=66333.0 Stk:20 StkImp:2 Lnt:2 Prg:0 Bid: 66276.6 Ask:  66276.7
+14:25:39.010704> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=66296.0;Execution=269.038 ms;
+14:25:39.011687> Close Main Sell ticketCustom = 2 ticket= 4041246422
+14:26:37.067440> Try Open BuyLimit, Bid: 66318.8 Ask:  66318.9
+14:26:37.067440> Step Signal open long, StepByStepUP:3 Stk:2 StkImp:2 Lnt:2 Prg:0 Tide:20 Bid: 66318.8 Ask:  66318.9
+14:26:37.330452> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=66318.9;Execution=263.012 ms;
+14:26:37.331457> Placed Main BuyLimit, ticketCustom = 3 ticket= 4041421919 LastBuyPrice=66318.8
+14:35:29.561028> Try Delete lock Sell order,  ticket = 0 ticketCustom = 0
+14:35:29.561028> Lenta Signal close long, stoploss=66240.0 TotalVal=0.002 pos:0.002 EntrPrice=66325.0 Stk:10 StkImp:2 Lnt:1 Prg:0 Bid: 66264.0 Ask:  66264.1
+14:35:29.900051> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:35:35.095303> Try Close Buy, Ask: 66262.0 Bid:66261.9 
+14:35:35.095303> Lenta Signal close long, stoploss=66240.0 TotalVal=0.002 pos:0.002 EntrPrice=66325.0 Stk:10 StkImp:2 Lnt:1 Prg:0 Bid: 66264.0 Ask:  66264.1
+14:35:35.385318> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=66250.0;Execution=290.015 ms;
+14:35:35.386317> Close Main Buy, ticketCustom = 4 ticket = 4041421919

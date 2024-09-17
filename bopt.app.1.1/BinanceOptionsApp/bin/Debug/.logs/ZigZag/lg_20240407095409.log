@@ -1,0 +1,117 @@
+09:54:10.494378> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:54:10.494378> WebSocket connected! Start Partial @depth20 [MARGIN] process...
+09:54:10.500378> WebSocket connected! Start @depth [Future] process...
+09:54:10.505378> WebSocket connected! Start Partial @depth20 [Future] process...
+09:54:11.257541> WebSocket connected! Start Partial @depth20 [MARGIN] process...
+09:54:11.279602> Binance - Vxxv1AWf[MARGIN] MARGIN Balance: 0.89647715 USDT
+09:54:11.301561> WebSocket connected! Start Partial @depth20 [Future] process...
+09:54:11.300564> WebSocket connected! Start @depth [Future] process...
+09:54:11.316548> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:54:11.883813> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 299.89711390 USDT
+09:56:37.858934> dominBuy, Price=69228.80
+09:56:52.165923> dominBuy, Price=69233.50
+09:58:15.357067> dominBuy, Price=69253.30
+09:58:46.533415> dominSell, Price=69224.90
+09:59:52.606321> dominBuy, Price=69260.70
+10:00:17.473256> dominBuy, Price=69264.30
+10:00:20.123795> dominBuy, Price=69270.60
+10:00:21.636586> dominBuy, Price=69270.90
+10:00:22.647089> dominBuy, Price=69271.00
+10:01:06.607749> dominBuy, Price=69263.90
+10:01:56.791107> dominBuy, Price=69245.20
+10:03:07.665930> dominBuy, Price=69246.10
+10:03:49.703562> dominBuy, Price=69258.10
+10:04:15.055214> dominSell, Price=69270.40
+10:05:17.824561> dominBuy, Price=69285.20
+10:05:22.036063> dominBuy, Price=69293.90
+10:05:23.076598> dominBuy, Price=69295.30
+10:05:31.417765> dominBuy, Price=69288.50
+10:05:33.474555> dominBuy, Price=69290.90
+10:05:59.426832> dominBuy, Price=69299.90
+10:08:09.556693> dominBuy, Price=69310.10
+10:08:17.498052> dominBuy, Price=69318.70
+10:08:36.362562> dominBuy, Price=69340.10
+10:10:09.048356> dominBuy, Price=69340.30
+10:10:13.303493> dominBuy, Price=69340.60
+10:10:13.812365> dominBuy, Price=69340.80
+10:10:16.041659> dominBuy, Price=69343.40
+10:10:18.635796> dominBuy, Price=69344.90
+10:10:49.581724> dominBuy, Price=69340.60
+10:11:17.664452> dominSell, Price=69318.20
+10:11:18.674980> dominSell, Price=69312.20
+10:11:20.212008> dominSell, Price=69312.10
+10:11:21.346837> dominSell, Price=69309.90
+10:12:31.073665> dominSell, Price=69331.60
+10:12:49.163600> dominSell, Price=69331.50
+10:14:47.687963> dominSell, Price=69335.20
+10:15:39.635863> dominBuy, Price=69320.70
+10:15:42.854494> dominBuy, Price=69323.90
+10:15:58.266297> dominBuy, Price=69331.30
+10:16:01.413291> dominBuy, Price=69333.40
+10:16:02.965760> dominBuy, Price=69337.50
+10:16:05.519968> dominBuy, Price=69338.80
+10:16:07.072599> dominBuy, Price=69339.50
+10:16:15.181442> dominBuy, Price=69339.90
+10:16:24.383758> dominBuy, Price=69343.70
+10:16:25.437983> dominBuy, Price=69344.90
+10:18:12.597522> dominBuy, Price=69333.10
+10:21:41.511698> dominBuy, Price=69336.40
+10:21:48.791555> dominBuy, Price=69337.80
+10:22:20.766010> dominBuy, Price=69333.10
+10:22:41.118964> dominBuy, Price=69336.00
+10:23:22.951728> dominBuy, Price=69340.90
+10:24:41.867707> dominBuy, Price=69405.80
+10:24:42.366074> dominBuy, Price=69406.30
+10:24:43.945730> dominBuy, Price=69409.90
+10:24:44.450805> dominBuy, Price=69411.60
+10:25:04.681682> dominSell, Price=69399.20
+10:25:15.588017> dominSell, Price=69381.90
+10:25:50.028215> dominSell, Price=69362.60
+10:25:50.610142> dominSell, Price=69358.10
+10:26:18.659706> dominBuy, Price=69378.00
+10:26:26.558087> dominBuy, Price=69382.90
+10:26:29.716556> dominBuy, Price=69386.80
+10:26:38.407305> dominBuy, Price=69391.90
+10:26:44.536891> dominBuy, Price=69394.60
+10:28:11.643145> dominBuy, Price=69450.00
+10:28:13.188280> dominBuy, Price=69452.30
+10:28:45.605502> dominBuy, Price=69425.20
+10:29:17.994202> dominBuy, Price=69436.20
+10:30:24.445461> dominSell, Price=69437.00
+10:30:24.940584> dominSell, Price=69436.60
+10:30:46.259248> dominSell, Price=69438.90
+10:31:08.895962> dominSell, Price=69441.00
+10:31:10.500486> dominSell, Price=69415.10
+10:31:17.190437> dominBuy, Price=69415.80
+10:31:30.857404> dominBuy, Price=69406.90
+10:31:33.996944> dominBuy, Price=69403.20
+10:31:35.562432> dominBuy, Price=69400.00
+10:31:57.532244> dominSell, Price=69387.20
+10:31:58.652758> dominSell, Price=69383.20
+10:31:59.113783> dominSell, Price=69380.10
+10:32:11.247823> dominSell, Price=69386.10
+10:33:02.990902> dominBuy, Price=69402.20
+10:33:14.584590> dominBuy, Price=69412.60
+10:33:15.655106> dominBuy, Price=69414.90
+10:33:50.782674> dominSell, Price=69411.00
+10:35:15.124933> dominBuy, Price=69429.90
+10:38:25.674439> dominBuy, Price=69474.90
+10:38:26.183466> dominBuy, Price=69475.40
+10:38:26.697312> dominBuy, Price=69475.80
+10:38:27.205032> dominBuy, Price=69476.20
+10:40:58.715257> dominSell, Price=69455.10
+10:41:38.954946> dominBuy, Price=69410.80
+10:48:01.716102> dominBuy, Price=69382.50
+10:48:02.216599> dominBuy, Price=69383.90
+10:48:24.534716> dominBuy, Price=69388.10
+10:48:39.087608> dominBuy, Price=69409.90
+10:48:40.101835> dominBuy, Price=69416.40
+10:48:47.001733> dominBuy, Price=69397.70
+10:49:15.605118> dominBuy, Price=69407.00
+10:49:19.190284> dominBuy, Price=69413.60
+10:49:56.505634> dominBuy, Price=69426.70
+10:49:57.229675> dominBuy, Price=69429.50
+10:49:58.215737> dominBuy, Price=69432.70
+10:49:58.772764> dominBuy, Price=69434.50
+10:51:29.952862> dominSell, Price=69400.10
+10:52:29.404972> dominSell, Price=69346.80

@@ -1,0 +1,84 @@
+14:08:23.027186> WebSocket connected! Start Partial @depth20 [Future] process...
+14:08:23.069187> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:08:23.081195> WebSocket connected! Start Partial @depth20 [Future] process...
+14:08:23.103186> WebSocket connected! Start @depth [Future] process...
+14:08:23.947116> WebSocket connected! Start Partial @depth20 [Future] process...
+14:08:23.991114> WebSocket connected! Start @depth [Future] process...
+14:08:23.996118> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 242.24984357 USDT
+14:08:24.109128> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:08:24.148123> WebSocket connected! Start Partial @depth20 [Future] process...
+14:12:19.402365> Try Open SellLimit, Ask: 65418.1 Bid:65418.0
+14:12:19.402365> Step Signal open short, StepByStepDN:3 Stk:10 StkImp:0 Lnt:1 Prg:0 Bid: 65418.0 Ask:  65418.1
+14:12:19.719389> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=11.50625;Price=65418.10;Slippage=65418.1;Execution=314.026 ms;
+14:12:19.720376> Placed Main SellLimit, ticketCustom = 1 ticket = 3970358133 LastSellPrice=65418.1
+14:17:55.512160> Try place lock BuyLimit, Bid: 65363.6 Ask:  65363.7
+14:17:57.698286> [1Leg]: Buy OK BTCUSDC at 65363.60;Gap=4.925;Price=65342.00;Slippage=-21.6;Execution=2069.119 ms;
+14:17:57.699286> Placed lock BuyLimit, ticketCustom= 2, ticket= 3970358133 
+14:17:57.785291> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+14:17:57.823292> Try Close Sell, Bid: 65359.2 Ask:  65359.3
+14:17:57.824292> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+14:17:58.098308> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=3.96;Price=65290.70;Slippage=65290.7;Execution=275.016 ms;
+14:17:58.098308> Close Main Sell ticketCustom = 3 ticket= 3970575965
+14:17:58.099312> Try Close Sell, Bid: 65290.6 Ask:  65290.7
+14:17:58.374326> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-29.04;Price=65203.80;Slippage=65203.8;Execution=275.014 ms;
+14:17:58.374326> Close Main Sell ticketCustom = 4 ticket= 3970575965
+14:17:58.376327> Try Close Sell, Bid: 65203.7 Ask:  65203.8
+14:17:58.610338> Received an unexpected EOF or 0 bytes from the transport stream.
+14:17:58.611338> Received an unexpected EOF or 0 bytes from the transport stream.
+14:17:58.649341> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-24.94;Price=65233.50;Slippage=65233.5;Execution=273.014 ms;
+14:17:58.650340> Close Main Sell ticketCustom = 5 ticket= 3970575965
+14:18:02.793195> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+14:18:02.794192> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+14:18:02.825193> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+14:18:02.825193> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+14:18:03.617089> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+14:18:03.617089> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+14:18:03.618082> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+14:18:03.618082> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+14:18:03.768091> WebSocket connected! Start @depth [Future] process...
+14:18:03.788101> WebSocket connected! Start @depth [Future] process...
+14:18:04.604196> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:18:04.624185> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:18:05.004986> Try place lock SellLimit, Bid: 65245.9 Ask:  65246.0
+14:18:05.510500> [1Leg]: Sell OK BTCUSDC at 65246.00;Gap=-1.485;Price=65246.00;Slippage=0.0;Execution=505.514 ms;
+14:18:05.511500> Placed lock SellLimit, ticketCustom= 6, ticket= 3970575965 
+14:18:11.843743> Try Modify Lock Sell order, 
+14:18:12.185307> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:12.186308> [1Leg]: Sell failed BTCUSDC;price=65235.90
+14:18:12.188310> Try Modify Lock Sell order, 
+14:18:12.479667> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:12.487667> [1Leg]: Sell failed BTCUSDC;price=65234.10
+14:18:12.488667> Try Modify Lock Sell order, 
+14:18:12.791551> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:12.791551> [1Leg]: Sell failed BTCUSDC;price=65234.10
+14:18:12.792552> Try Modify Lock Sell order, 
+14:18:13.084569> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:13.085568> [1Leg]: Sell failed BTCUSDC;price=65233.90
+14:18:13.087569> Try Modify Lock Sell order, 
+14:18:13.381585> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:13.382585> [1Leg]: Sell failed BTCUSDC;price=65233.90
+14:18:13.392585> Try Modify Lock Sell order, 
+14:18:13.685692> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:13.685692> [1Leg]: Sell failed BTCUSDC;price=65233.90
+14:18:13.687693> Try Modify Lock Sell order, 
+14:18:13.977709> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:13.978708> [1Leg]: Sell failed BTCUSDC;price=65233.90
+14:18:13.979709> Try Modify Lock Sell order, 
+14:18:14.274893> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:14.274893> [1Leg]: Sell failed BTCUSDC;price=65233.50
+14:18:14.277893> Try Modify Lock Sell order, 
+14:18:14.574910> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:14.574910> [1Leg]: Sell failed BTCUSDC;price=65233.50
+14:18:14.577910> Try Modify Lock Sell order, 
+14:18:14.868931> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:14.869935> [1Leg]: Sell failed BTCUSDC;price=65233.50
+14:18:14.871927> Try Modify Lock Sell order, 
+14:18:15.170273> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:15.170273> [1Leg]: Sell failed BTCUSDC;price=65227.40
+14:18:15.179273> Try Delete lock Sell order,  ticket = 3970575965 ticketCustom = 6
+14:18:15.713195> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+14:18:17.720285> Try Modify Lock Sell order, 
+14:18:18.747921> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:18.747921> [1Leg]: Sell failed BTCUSDC;price=65224.90
+14:18:18.750921> Try Delete lock Sell order,  ticket = 3970575965 ticketCustom = 6
+14:18:19.028697> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....

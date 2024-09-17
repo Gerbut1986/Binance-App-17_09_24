@@ -1,0 +1,70 @@
+15:34:45.325190> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:34:45.326191> WebSocket connected! Start @depth [Future] process...
+15:34:45.333190> WebSocket connected! Start Partial @depth20 [Future] process...
+15:34:45.360191> WebSocket connected! Start Partial @depth20 [SPOT] process...
+15:34:45.609213> WebSocket connected! Start Partial @depth20 [SPOT] process...
+15:34:45.935138> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.15097346 USDT
+15:34:46.190145> WebSocket connected! Start @depth [Future] process...
+15:34:46.208149> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:34:46.209148> WebSocket connected! Start Partial @depth20 [Future] process...
+15:34:46.733630> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 124.74097136 USDT
+16:48:18.809793> Try Open SellLimit, Ask: 60000.10 Bid:60000.00
+16:48:18.810793> Order Signal open short, OrdZig=1 Order=0 StepByStepDN:1 Stk:10 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 60000.00 Ask:  60000.10
+16:48:19.075810> [1Leg]: Sell OK BTCUSDT at 0.00;Price=0.00;Slippage=60000.1;Execution=260.015 ms;
+16:48:19.076812> Placed Main SellLimit, ticketCustom = 1 ticket = 398013589599 LastSellPrice=60000.10
+16:48:23.000892> Try place lock BuyLimit, Bid: 59984.70 Ask:  59984.80 wantPrice:59795.0 EntrPrice:59995.0
+16:48:23.990522> [1Leg]: Buy OK BTCUSDT at 59795.00;Price=59795.00;Slippage=195.0;Execution=988.634 ms;
+16:48:23.990522>  
+16:48:23.990522> Placed lock BuyLimit, ticketCustom= 2, ticket= 398013589599 
+16:53:36.146676> Try Modify Lock Buy order for close at now, 
+16:53:36.146676> close short, modify for take min profit, TotalVal=0.010 pos:-0.010 EntrPrice=59995.0 Stk:20 Lnt:2 Prg:0 Bid: 59889.00 Ask:  59889.10
+16:53:36.406691> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=59884.00;execution=256.012 ms;
+16:53:36.407691> Modify BuyLimit (1Leg) for Close at now
+16:53:45.522149> Try Modify Lock Buy order, 
+16:53:45.773005> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=59795.00;execution=249.855 ms;
+16:53:45.773005> Modify Lock BuyLimit (1Leg)
+16:53:48.107683> Try Modify Lock Buy order for close at now, 
+16:53:48.107683> close short, modify for take min profit, TotalVal=0.010 pos:-0.010 EntrPrice=59995.0 Stk:10 Lnt:2 Prg:0 Bid: 59886.30 Ask:  59886.40
+16:53:48.372004> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=59881.30;execution=264.322 ms;
+16:53:48.379004> Modify BuyLimit (1Leg) for Close at now
+16:53:50.141842> Try Modify Lock Buy order for close at now, 
+16:53:50.142865> close short, modify for take min profit, TotalVal=0.010 pos:-0.010 EntrPrice=59995.0 Stk:10 Lnt:2 Prg:0 Bid: 59889.30 Ask:  59889.40
+16:53:51.172972> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=59884.30;execution=1029.114 ms;
+16:53:51.173966> Modify BuyLimit (1Leg) for Close at now
+16:53:51.175964> Try Modify Lock Buy order, 
+16:53:51.427979> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=59795.00;execution=252.015 ms;
+16:53:51.427979> Modify Lock BuyLimit (1Leg)
+16:53:56.904903> Try Modify Lock Buy order for close at now, 
+16:53:56.905904> close short, modify for take min profit, TotalVal=0.010 pos:-0.010 EntrPrice=59995.0 Stk:10 Lnt:2 Prg:0 Bid: 59889.30 Ask:  59889.40
+16:53:57.154052> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=59884.30;execution=248.148 ms;
+16:53:57.155046> Modify BuyLimit (1Leg) for Close at now
+16:57:28.855473> Try Open SellLimit, Ask: 59847.10 Bid:59847.00
+16:57:28.856471> Order Signal open short, OrdZig=1 Order=0 StepByStepDN:1 Stk:10 StkImp:1 Lnt:1 Prg:0 Natiag:2 Bid: 59847.00 Ask:  59847.10
+16:57:29.107476> [1Leg]: Sell OK BTCUSDT at 0.00;Price=0.00;Slippage=59847.1;Execution=251.005 ms;
+16:57:29.108480> Placed Main SellLimit, ticketCustom = 3 ticket = 398018991971 LastSellPrice=59847.10
+16:57:32.000173> Try place lock BuyLimit, Bid: 59834.90 Ask:  59835.00 wantPrice:59647.0 EntrPrice:59847.0
+16:57:33.058002> [1Leg]: Buy OK BTCUSDT at 59647.00;Price=59647.00;Slippage=188.0;Execution=1056.858 ms;
+16:57:33.059005>  
+16:57:33.059005> Placed lock BuyLimit, ticketCustom= 4, ticket= 398018991971 
+17:01:16.207623>  SellLimit executed, LastSellPrice:59847.10
+17:36:59.785243> Try Open SellLimit, Ask: 59660.90 Bid:59660.80
+17:36:59.785243> Order Signal open short, OrdZig=1 Order=2 StepByStepDN:1 Stk:10 StkImp:1 Lnt:1 Prg:0 Natiag:2 Bid: 59660.80 Ask:  59660.90
+17:37:00.040256> [1Leg]: Sell OK BTCUSDT at 0.00;Price=0.00;Slippage=59660.9;Execution=254.013 ms;
+17:37:00.040256> Placed Main SellLimit, ticketCustom = 5 ticket = 398040862930 LastSellPrice=59660.90
+17:37:05.000389> Try place lock BuyLimit, Bid: 59660.00 Ask:  59660.10 wantPrice:59510.1 EntrPrice:59660.1
+17:37:05.984219> [1Leg]: Buy OK BTCUSDT at 59510.10;Price=59510.10;Slippage=147.1;Execution=983.830 ms;
+17:37:05.984219>  
+17:37:05.985219> Placed lock BuyLimit, ticketCustom= 6, ticket= 398040862930 
+17:37:21.070648>  SellLimit executed, LastSellPrice:59660.90
+17:44:58.090037> Try Modify Lock Buy order for close at now, 
+17:44:58.091026> close short, argument GapBuy:-26.51575000 modify for close, TotalVal=0.010 pos:-0.010 EntrPrice=59660.1 Stk:2 Lnt:1 Prg:0 Bid: 59882.80 Ask:  59882.90
+17:44:58.345618> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=59877.80;execution=254.593 ms;
+17:44:58.346620> Modify BuyLimit (1Leg) for Close at now
+17:44:58.398616> Try Modify Lock Buy order for close at now, 
+17:44:58.398616> close short, argument GapBuy:-26.51575000 modify for close, TotalVal=0.010 pos:-0.010 EntrPrice=59660.1 Stk:2 Lnt:1 Prg:0 Bid: 59883.70 Ask:  59883.80
+17:44:58.654630> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=59878.70;execution=256.014 ms;
+17:44:58.654630> Modify BuyLimit (1Leg) for Close at now
+17:44:59.419829> Try Modify Lock Buy order for close at now, 
+17:44:59.419829> close short, argument GapBuy:-26.51575000 modify for close, TotalVal=0.010 pos:-0.010 EntrPrice=59660.1 Stk:2 Lnt:1 Prg:0 Bid: 59889.90 Ask:  59890.00
+17:44:59.676836> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=59884.90;execution=257.007 ms;
+17:44:59.677837> Modify BuyLimit (1Leg) for Close at now

@@ -1,0 +1,94 @@
+12:30:55.084464> WebSocket connected! Start Partial @depth20 [Future] process...
+12:30:55.095464> WebSocket connected! Start @depth [Future] process...
+12:30:55.127466> WebSocket connected! Start Partial @depth20 [Future] process...
+12:30:55.767512> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:30:58.827053> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 267.68108544 USDT
+12:30:58.849066> WebSocket connected! Start @depth [Future] process...
+12:30:58.850055> WebSocket connected! Start Partial @depth20 [Future] process...
+12:30:59.293688> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:30:59.786136> WebSocket connected! Start Partial @depth20 [Future] process...
+12:56:40.195070> Try Open Buy, Bid: 68665.6 Ask:  68665.7
+12:56:40.197069> Lenta Signal open long, OpenLong:True Stk:0 StkImp:1 Lnt:2 Prg:1 Bid: 68665.6 Ask:  68665.7
+12:56:40.197069> Support: 68665.6 VolS:3.038 Resistence: 68665.7 VolR:0.729
+12:56:41.479622> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.225;Price=68668.00;Slippage=68668.0;Execution=1278.555 ms;
+12:56:41.480622> Move:1 Stk:0 Lnt:2 Prg:1 Bid: 68667.9 Ask:  68668.0
+12:56:41.480622> Placed Main Buy, ticketCustom = 1 ticket= 3575972626 LastBuyPrice=68665.7
+13:48:22.665814> Try Close Buy, TotalVal=0.005 pos0.005 Bid: 68970.8 Ask: 68970.9, stoploss=68165.7
+13:48:22.665814> TakeProfit Signal close long, stoploss=68165.7 TotalVal=0.005 pos:0.005 EntrPrice=68665.7 Stk:0 Lnt:2 Prg:1 Bid: 68970.8 Ask:  68970.9
+13:48:23.590942> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=5.9325;Price=68970.90;Slippage=68970.9;Execution=924.136 ms;
+13:48:23.591938> Move:2 Stk:0 Lnt:2 Prg:1 Fon:0 Bid: 68970.8 Ask:  68970.9
+13:48:23.592939> Close Main Buy, ticketCustom = 2 ticket = 3575972626
+13:48:45.963973> Try Open Buy, Bid: 68972.4 Ask:  68972.5
+13:48:45.963973> Lenta Signal open long, OpenLong:True Stk:0 StkImp:1 Lnt:2 Prg:1 Bid: 68972.4 Ask:  68972.5
+13:48:45.964963> Support: 68972.4 VolS:1.344 Resistence: 68972.5 VolR:0.539
+13:48:46.271979> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=2.4775;Price=68972.50;Slippage=68972.5;Execution=307.016 ms;
+13:48:46.277988> Move:2 Stk:0 Lnt:2 Prg:1 Bid: 68972.4 Ask:  68972.5
+13:48:46.278981> Placed Main Buy, ticketCustom = 3 ticket= 3576907030 LastBuyPrice=68972.5
+14:44:23.801096> Try adding BuyLimit, Bid: 68849.9 Ask:  68850.0
+14:44:23.804095> Lenta Signal open adding long, OpenLong:True , stoploss=68472.5 TotalVal=0.005 pos:0.005 EntrPrice=68972.5 Stk:0 StkImp:1 Lnt:2 Prg:1
+14:44:25.129182> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=6.20875;Price=68868.00;Slippage=68868.0;Execution=1324.086 ms;
+14:44:25.130175> adding BuyLimit, ticket = 3576907030 ticketCustom = 4 
+15:10:03.145166> Try Close Buy, TotalVal=0.010 pos0.010 Bid: 68890.5 Ask: 68890.6, stoploss=68472.5
+15:10:03.146302> Lenta Signal close long, stoploss=68472.5 TotalVal=0.010 pos:0.010 EntrPrice=68972.5 Stk:0 StkImp:1 Lnt:1 Prg:1 Bid: 68890.5 Ask:  68890.6
+15:10:04.578237> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.915;Price=68864.10;Slippage=68864.1;Execution=1431.070 ms;
+15:10:04.579237> Move:2 Stk:0 Lnt:1 Prg:1 Fon:0 Bid: 68864.0 Ask:  68864.1
+15:10:04.580239> Close Main Buy, ticketCustom = 5 ticket = 3576907030
+15:51:38.514541> Try Open Buy, Bid: 68913.0 Ask:  68913.1
+15:51:38.515541> Lenta Signal open long, OpenLong:True Stk:1 StkImp:1 Lnt:2 Prg:1 Bid: 68913.0 Ask:  68913.1
+15:51:38.515541> Support: 68913 VolS:1.756 Resistence: 68913.1 VolR:0.561
+15:51:42.739581> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-9.36875;Price=68930.40;Slippage=68930.4;Execution=4223.042 ms;
+15:51:42.739581> Move:1 Stk:0 Lnt:2 Prg:1 Bid: 68930.3 Ask:  68930.4
+15:51:42.740572> Placed Main Buy, ticketCustom = 6 ticket= 3579233653 LastBuyPrice=68913.1
+16:14:28.795667> Try Close Buy, TotalVal=0.005 pos0.005 Bid: 69239.9 Ask: 69240.0, stoploss=68413.1
+16:14:28.796667> TakeProfit Signal close long, stoploss=68413.1 TotalVal=0.005 pos:0.005 EntrPrice=68913.1 Stk:2 Lnt:2 Prg:1 Bid: 69239.9 Ask:  69240.0
+16:14:30.143283> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=14.44125;Price=69242.10;Slippage=69242.1;Execution=1345.618 ms;
+16:14:30.144303> Move:2 Stk:2 Lnt:1 Prg:1 Fon:0 Bid: 69242.0 Ask:  69242.1
+16:14:30.145294> Close Main Buy, ticketCustom = 7 ticket = 3579233653
+16:36:59.631060> Try Open Buy, Bid: 69402.2 Ask:  69402.3
+16:36:59.632060> Lenta Signal open long, OpenLong:True Stk:2 StkImp:1 Lnt:2 Prg:1 Bid: 69402.2 Ask:  69402.3
+16:36:59.632060> Support: 69402.2 VolS:3.441 Resistence: 69403.2 VolR:0.132
+16:37:01.690812> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=3.62125;Price=69419.30;Slippage=69419.3;Execution=2057.753 ms;
+16:37:01.691794> Move:2 Stk:2 Lnt:2 Prg:1 Bid: 69419.2 Ask:  69419.3
+16:37:01.691794> Placed Main Buy, ticketCustom = 8 ticket= 3580605364 LastBuyPrice=69402.3
+16:46:14.535117> Try Close Buy, TotalVal=0.005 pos0.005 Bid: 69704.8 Ask: 69704.9, stoploss=68902.3
+16:46:14.536108> TakeProfit Signal close long, stoploss=68902.3 TotalVal=0.005 pos:0.005 EntrPrice=69402.3 Stk:0 Lnt:1 Prg:1 Bid: 69704.8 Ask:  69704.9
+16:46:15.809105> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.2875;Price=69700.10;Slippage=69700.1;Execution=1272.998 ms;
+16:46:15.810105> Move:2 Stk:0 Lnt:1 Prg:1 Fon:0 Bid: 69700.0 Ask:  69700.1
+16:46:15.810105> Close Main Buy, ticketCustom = 9 ticket = 3580605364
+16:50:37.924828> Try Open Buy, Bid: 69593.7 Ask:  69593.8
+16:50:37.925829> Lenta Signal open long, OpenLong:True Stk:0 StkImp:1 Lnt:2 Prg:1 Bid: 69593.7 Ask:  69593.8
+16:50:37.925829> Support: 69593.7 VolS:7.37 Resistence: 69593.8 VolR:1.28
+16:50:43.766681> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-0.045;Price=69605.60;Slippage=69605.6;Execution=5839.855 ms;
+16:50:43.767668> Move:1 Stk:0 Lnt:2 Prg:1 Bid: 69605.5 Ask:  69605.6
+16:50:43.767668> Placed Main Buy, ticketCustom = 10 ticket= 3581120450 LastBuyPrice=69593.8
+16:52:39.893485> Try Close Buy, TotalVal=0.005 pos0.005 Bid: 69620.0 Ask: 69620.1, stoploss=69093.8
+16:52:39.928482> Lenta Signal close long, stoploss=69093.8 TotalVal=0.005 pos:0.005 EntrPrice=69593.8 Stk:2 StkImp:1 Lnt:1 Prg:1 Bid: 69620.0 Ask:  69620.1
+16:52:44.910332> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.50375;Price=69616.10;Slippage=69616.1;Execution=4980.850 ms;
+16:52:44.911332> Move:1 Stk:0 Lnt:1 Prg:1 Fon:0 Bid: 69616.0 Ask:  69616.1
+16:52:44.911332> Close Main Buy, ticketCustom = 11 ticket = 3581120450
+16:53:19.751258> Try Open Buy, Bid: 69686.6 Ask:  69686.7
+16:53:19.752256> Lenta Signal open long, OpenLong:True Stk:0 StkImp:1 Lnt:2 Prg:1 Bid: 69686.6 Ask:  69686.7
+16:53:19.752256> Support: 69700 VolS:30.461 Resistence: 69700.1 VolR:2.738
+16:53:20.067969> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=5.835;Price=69700.10;Slippage=69700.1;Execution=315.712 ms;
+16:53:20.068965> Move:1 Stk:0 Lnt:2 Prg:1 Bid: 69700.0 Ask:  69700.1
+16:53:20.069958> Placed Main Buy, ticketCustom = 12 ticket= 3581203498 LastBuyPrice=69700.1
+16:58:10.288554> Try Close Buy, TotalVal=0.005 pos0.005 Bid: 69677.8 Ask: 69677.9, stoploss=69200.1
+16:58:10.288554> Lenta Signal close long, stoploss=69200.1 TotalVal=0.005 pos:0.005 EntrPrice=69700.1 Stk:1 StkImp:1 Lnt:1 Prg:1 Bid: 69677.8 Ask:  69677.9
+17:00:09.431507> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1021 Message: Timestamp for this request is outside of the recvWindow.
+17:00:09.451508> [1Leg]: Sell FAILED BTCUSDC;Gap=-0.16125;Price=69744.40
+17:09:26.663318> Try Close Buy, TotalVal=0.005 pos0.005 Bid: 70010.9 Ask: 70011.0, stoploss=69200.1
+17:09:26.663318> TakeProfit Signal close long, stoploss=69200.1 TotalVal=0.005 pos:0.005 EntrPrice=69700.1 Stk:2 Lnt:2 Prg:1 Bid: 70010.9 Ask:  70011.0
+17:09:42.746403> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.1875;Price=69989.20;Slippage=69989.2;Execution=16083.086 ms;
+17:09:42.747394> Move:2 Stk:2 Lnt:2 Prg:1 Fon:0 Bid: 69989.1 Ask:  69989.2
+17:09:42.748395> Close Main Buy, ticketCustom = 13 ticket = 3581203498
+17:15:53.678546> Try Open Buy, Bid: 69874.1 Ask:  69874.2
+17:15:53.685544> Lenta Signal open long, OpenLong:True Stk:0 StkImp:1 Lnt:2 Prg:1 Bid: 69874.1 Ask:  69874.2
+17:15:53.685544> Support: 69874.1 VolS:1.582 Resistence: 69880.4 VolR:0.559
+17:15:57.473764> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-4.02;Price=69875.70;Slippage=69875.7;Execution=3788.221 ms;
+17:15:57.526767> Move:2 Stk:0 Lnt:2 Prg:1 Bid: 69877.1 Ask:  69877.2
+17:15:57.527766> Placed Main Buy, ticketCustom = 14 ticket= 3582295193 LastBuyPrice=69874.2
+17:17:53.606130>  DevBUY (+): 124.19375 avgGapBuy:-24.59375 
+17:30:36.754773> Try Close Buy, TotalVal=0.005 pos0.005 Bid: 69725.9 Ask: 69726.0, stoploss=69374.2
+17:30:36.807777> Lenta Signal close long, stoploss=69374.2 TotalVal=0.005 pos:0.005 EntrPrice=69874.2 Stk:1 StkImp:1 Lnt:1 Prg:1 Bid: 69725.9 Ask:  69726.0
+17:48:56.351827> BinanceFuture - Vxxv1AWf[USD_M] A task was canceled.
+17:48:56.415825> [1Leg]: Sell FAILED BTCUSDC;Gap=1.05875;Price=69500.00

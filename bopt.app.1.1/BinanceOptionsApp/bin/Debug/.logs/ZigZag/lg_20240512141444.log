@@ -1,0 +1,601 @@
+14:14:45.475199> WebSocket connected! Start @depth [Future] process...
+14:14:45.488200> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:14:45.488200> WebSocket connected! Start Partial @depth20 [Future] process...
+14:14:45.491199> WebSocket connected! Start Partial @depth20 [Future] process...
+14:14:46.484269> WebSocket connected! Start Partial @depth20 [Future] process...
+14:14:46.490235> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:14:46.491218> WebSocket connected! Start @depth [Future] process...
+14:14:46.499238> WebSocket connected! Start Partial @depth20 [Future] process...
+14:14:47.004192> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 387.98815785 USDT
+18:46:34.199810> Signal 2(s), Lnt:2 Prg:0  Bid: 61426.5 Ask:  61426.6
+18:46:34.201811> Try Open BuyLimit, Bid: 61426.5 Ask:  61426.6
+18:46:34.201811> Support: 61422.5 VolS:0.864 Resistence: 61426.6 VolR:2.743
+18:46:35.222252> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=3.16375;Price=61424.10;Slippage=61424.1;Execution=1016.441 ms;
+18:46:35.222252> Placed Main BuyLimit, ticketCustom = 1 ticket= 2883605252
+18:46:36.000727> Try Modify main Buy order, 
+18:46:36.001727> Support: 61423.8 VolS:0.972 Resistence: 61424.1 VolR:1.536
+18:46:36.391748> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:46:36.391748> [1Leg]: Buy failed BTCUSDC;price=61423.90
+18:46:36.391748> Error Modify main BuyLimit, ticketCustom=1 ticket=0
+18:46:37.402183> Try Modify main Buy order, 
+18:46:37.402183> Support: 61423.8 VolS:1.547 Resistence: 61423.9 VolR:0.821
+18:46:37.802199> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:46:37.803196> [1Leg]: Buy failed BTCUSDC;price=61423.90
+18:46:37.803196> Error Modify main BuyLimit, ticketCustom=1 ticket=0
+18:46:38.826892> Try place lock SellLimit, Bid: 61423.8 Ask:  61423.9
+18:46:39.095665> [1Leg]: Sell OK BTCUSDC at 61410.10;Gap=-9.40875;Price=61428.00;Slippage=17.9;Execution=267.784 ms;
+18:46:39.096665> Placed lock SellLimit, ticketCustom= 2, ticket= 2883605252 
+18:52:37.864967> Signal 2(s), Lnt:0 Prg:0  Bid: 61372.0 Ask:  61372.1
+18:52:37.867967> Try Open BuyLimit, Bid: 61372.0 Ask:  61372.1
+18:52:37.867967> Support: 61370.2 VolS:0.866 Resistence: 61372.1 VolR:2.7
+18:52:38.121985> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-0.5125;Price=61372.10;Slippage=61372.1;Execution=253.006 ms;
+18:52:38.122982> Placed Main BuyLimit, ticketCustom = 3 ticket= 2883782138
+18:52:38.123982> Try Modify main Buy order, 
+18:52:38.124982> Support: 61370.2 VolS:0.866 Resistence: 61372.1 VolR:2.885
+18:52:39.179400> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:52:39.180400> [1Leg]: Buy failed BTCUSDC;price=61364.10
+18:52:39.181399> Error Modify main BuyLimit, ticketCustom=3 ticket=0
+18:52:40.190814> Try place lock SellLimit, Bid: 61362.0 Ask:  61362.1
+18:52:40.440951> [1Leg]: Sell OK BTCUSDC at 61341.90;Gap=1.6675;Price=61362.10;Slippage=20.2;Execution=249.137 ms;
+18:52:40.441951> Placed lock SellLimit, ticketCustom= 4, ticket= 2883782138 
+18:58:13.616189> Signal 2(s), Lnt:2 Prg:0  Bid: 61293.9 Ask:  61294.0
+18:58:13.617188> Try Open BuyLimit, Bid: 61293.9 Ask:  61294.0
+18:58:13.617188> Support: 61293.9 VolS:2.68 Resistence: 61297.5 VolR:1.006
+18:58:13.882203> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.97625;Price=61294.00;Slippage=61294.0;Execution=264.018 ms;
+18:58:13.883203> Placed Main BuyLimit, ticketCustom = 5 ticket= 2883916352
+18:58:13.919205> Try Modify main Buy order, 
+18:58:13.920205> Support: 61295.9 VolS:2.527 Resistence: 61297.5 VolR:0.988
+18:58:14.208244> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:58:14.208244> [1Leg]: Buy failed BTCUSDC;price=61296.00
+18:58:14.209222> Error Modify main BuyLimit, ticketCustom=5 ticket=0
+18:58:15.232288> Try Modify main Buy order, 
+18:58:15.233290> Support: 61295.9 VolS:1.293 Resistence: 61297.5 VolR:0.988
+18:58:16.316992> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:58:16.317992> [1Leg]: Buy failed BTCUSDC;price=61296.00
+18:58:16.317992> Error Modify main BuyLimit, ticketCustom=5 ticket=0
+18:58:17.328431> Try place lock SellLimit, Bid: 61304.1 Ask:  61305.9
+18:58:17.582441> [1Leg]: Sell OK BTCUSDC at 61319.50;Gap=-3.47875;Price=61305.90;Slippage=-13.6;Execution=253.007 ms;
+18:58:17.583443> Placed lock SellLimit, ticketCustom= 6, ticket= 2883916352 
+19:22:38.043221> Signal 1(s), Lnt:0 Prg:0 Bid: 61748.2 Ask:  61748.3
+19:22:38.043221> Try Open SellLimit, Ask: 61748.3
+19:22:38.043221> Support: 61748 VolS:1.098 Resistence: 61757.2 VolR:1.217
+19:22:38.312236> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.65;Price=61748.30;Slippage=61748.3;Execution=269.015 ms;
+19:22:38.313237> Placed Main SellLimit, ticketCustom = 7 ticket = 2884622315
+19:22:38.874015> Try Modify main Sell order, 
+19:22:39.162035> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+19:22:39.163032> [1Leg]: Sell failed BTCUSDC;price=61748.10
+19:22:39.164031> Error Modify main SellLimit, ticketCustom=7 ticket=0
+19:22:42.001468> Try place lock BuyLimit, Bid: 61761.9 Ask:  61762.0
+19:22:43.415015> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:22:43.445018> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.23125;Price=61766.00
+19:22:44.005677> Try place lock BuyLimit, Bid: 61765.9 Ask:  61766.0
+19:22:44.310243> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:22:44.310243> [1Leg]: Buy FAILED BTCUSDC;Gap=-7.53125;Price=61766.00
+19:22:46.028265> Try place lock BuyLimit, Bid: 61765.9 Ask:  61766.0
+19:22:46.383337> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:22:46.384338> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.0825;Price=61766.00
+19:22:48.000689> Try place lock BuyLimit, Bid: 61767.0 Ask:  61767.1
+19:22:48.286731> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:22:48.287725> [1Leg]: Buy FAILED BTCUSDC;Gap=0.0175;Price=61767.10
+19:22:50.015988> Try place lock BuyLimit, Bid: 61767.0 Ask:  61767.1
+19:22:50.334006> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:22:50.358007> [1Leg]: Buy FAILED BTCUSDC;Gap=3.0175;Price=61767.10
+19:22:52.001579> Try place lock BuyLimit, Bid: 61753.5 Ask:  61753.6
+19:22:52.350699> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:22:52.350699> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.87625;Price=61756.00
+19:22:54.001002> Try place lock BuyLimit, Bid: 61757.9 Ask:  61758.0
+19:22:54.280013> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:22:54.281021> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.77625;Price=61758.00
+19:22:56.002382> Try place lock BuyLimit, Bid: 61757.9 Ask:  61758.0
+19:22:56.286442> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:22:56.289443> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.5925;Price=61758.00
+19:22:58.002843> Try place lock BuyLimit, Bid: 61759.8 Ask:  61759.9
+19:22:58.370052> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:22:58.378051> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.9925;Price=61759.90
+19:23:00.001701> Try place lock BuyLimit, Bid: 61759.8 Ask:  61759.9
+19:23:00.303036> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:00.305035> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.6925;Price=61759.90
+19:23:02.000756> Try place lock BuyLimit, Bid: 61755.8 Ask:  61755.9
+19:23:02.301611> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:02.304610> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.10375;Price=61755.90
+19:23:04.000372> Try place lock BuyLimit, Bid: 61755.9 Ask:  61756.0
+19:23:04.281626> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:04.282627> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.30375;Price=61761.90
+19:23:06.001853> Try place lock BuyLimit, Bid: 61763.9 Ask:  61764.0
+19:23:06.284715> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:06.289702> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.76625;Price=61764.00
+19:23:08.000797> Try place lock BuyLimit, Bid: 61758.0 Ask:  61758.1
+19:23:08.280426> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:08.281422> [1Leg]: Buy FAILED BTCUSDC;Gap=0.63375;Price=61753.70
+19:23:10.001738> Try place lock BuyLimit, Bid: 61751.4 Ask:  61751.5
+19:23:10.290024> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:10.291026> [1Leg]: Buy FAILED BTCUSDC;Gap=0.23375;Price=61751.50
+19:23:12.019525> Try place lock BuyLimit, Bid: 61751.3 Ask:  61751.4
+19:23:12.300229> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:12.301224> [1Leg]: Buy FAILED BTCUSDC;Gap=0.08375;Price=61751.40
+19:23:14.000124> Try place lock BuyLimit, Bid: 61734.1 Ask:  61734.2
+19:23:14.279529> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:14.280529> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.71625;Price=61734.20
+19:23:16.004036> Try place lock BuyLimit, Bid: 61724.3 Ask:  61724.4
+19:23:16.283054> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:16.284051> [1Leg]: Buy FAILED BTCUSDC;Gap=4.56375;Price=61724.40
+19:23:18.001685> Try place lock BuyLimit, Bid: 61725.9 Ask:  61726.0
+19:23:18.285318> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:18.286318> [1Leg]: Buy FAILED BTCUSDC;Gap=1.86375;Price=61726.00
+19:23:20.001633> Try place lock BuyLimit, Bid: 61724.3 Ask:  61724.4
+19:23:20.280622> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:20.281621> [1Leg]: Buy FAILED BTCUSDC;Gap=0.26375;Price=61726.00
+19:23:22.031347> Try place lock BuyLimit, Bid: 61728.8 Ask:  61728.9
+19:23:22.310707> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:22.311707> [1Leg]: Buy FAILED BTCUSDC;Gap=4.69875;Price=61728.90
+19:23:24.026641> Try place lock BuyLimit, Bid: 61728.8 Ask:  61728.9
+19:23:24.312636> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:24.312636> [1Leg]: Buy FAILED BTCUSDC;Gap=4.69875;Price=61728.90
+19:23:26.000357> Try place lock BuyLimit, Bid: 61718.9 Ask:  61719.0
+19:23:26.307375> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:26.307375> [1Leg]: Buy FAILED BTCUSDC;Gap=1.625;Price=61712.50
+19:23:28.009224> Try place lock BuyLimit, Bid: 61715.9 Ask:  61716.0
+19:23:28.350030> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:28.351030> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.575;Price=61716.00
+19:23:30.013950> Try place lock BuyLimit, Bid: 61710.0 Ask:  61710.1
+19:23:30.295527> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:30.296527> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.775;Price=61710.10
+19:23:32.020333> Try place lock BuyLimit, Bid: 61707.5 Ask:  61707.6
+19:23:32.453361> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:32.454358> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.08875;Price=61705.90
+19:23:34.002049> Try place lock BuyLimit, Bid: 61689.3 Ask:  61689.4
+19:23:34.372070> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:34.373068> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.98875;Price=61689.40
+19:23:36.003619> Try place lock BuyLimit, Bid: 61689.3 Ask:  61689.4
+19:23:36.293636> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:36.293636> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.75;Price=61689.40
+19:23:38.001191> Try place lock BuyLimit, Bid: 61691.9 Ask:  61692.0
+19:23:38.331314> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:38.331314> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.15;Price=61692.00
+19:23:40.028848> Try place lock BuyLimit, Bid: 61678.0 Ask:  61678.1
+19:23:40.324874> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:40.325866> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.35;Price=61678.10
+19:23:42.000924> Try place lock BuyLimit, Bid: 61635.2 Ask:  61635.3
+19:23:42.306944> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:42.337944> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.375;Price=61635.30
+19:23:44.060217> Try place lock BuyLimit, Bid: 61637.9 Ask:  61638.0
+19:23:44.349233> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:44.349233> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.175;Price=61638.00
+19:23:46.005336> Try place lock BuyLimit, Bid: 61651.3 Ask:  61651.4
+19:23:46.334356> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:46.335355> [1Leg]: Buy FAILED BTCUSDC;Gap=-8.66375;Price=61651.40
+19:23:48.001675> Try place lock BuyLimit, Bid: 61651.9 Ask:  61652.0
+19:23:48.289688> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:48.290688> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.06375;Price=61652.00
+19:23:50.004470> Try place lock BuyLimit, Bid: 61653.0 Ask:  61653.1
+19:23:50.322474> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:50.322474> [1Leg]: Buy FAILED BTCUSDC;Gap=1.03625;Price=61653.10
+19:23:52.000265> Try place lock BuyLimit, Bid: 61653.9 Ask:  61654.0
+19:23:52.283270> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:52.283270> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.14;Price=61654.00
+19:23:54.002550> Try place lock BuyLimit, Bid: 61653.9 Ask:  61654.0
+19:23:54.292569> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:54.293565> [1Leg]: Buy FAILED BTCUSDC;Gap=-7.54;Price=61657.60
+19:23:56.003257> Try place lock BuyLimit, Bid: 61661.9 Ask:  61662.0
+19:23:56.293226> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:56.293226> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.605;Price=61665.70
+19:23:58.001502> Try place lock BuyLimit, Bid: 61665.6 Ask:  61665.7
+19:23:58.293519> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:23:58.294518> [1Leg]: Buy FAILED BTCUSDC;Gap=1.195;Price=61665.70
+19:24:00.000439> Try place lock BuyLimit, Bid: 61665.6 Ask:  61665.7
+19:24:00.285450> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:00.285450> [1Leg]: Buy FAILED BTCUSDC;Gap=4.195;Price=61665.70
+19:24:02.001528> Try place lock BuyLimit, Bid: 61665.6 Ask:  61665.7
+19:24:02.287537> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:02.288534> [1Leg]: Buy FAILED BTCUSDC;Gap=1.24125;Price=61665.70
+19:24:04.001463> Try place lock BuyLimit, Bid: 61655.0 Ask:  61655.1
+19:24:04.335482> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:04.360482> [1Leg]: Buy FAILED BTCUSDC;Gap=1.44125;Price=61655.10
+19:24:06.001599> Try place lock BuyLimit, Bid: 61659.2 Ask:  61659.3
+19:24:06.399619> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:06.401617> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.33875;Price=61659.30
+19:24:08.000979> Try place lock BuyLimit, Bid: 61661.9 Ask:  61662.0
+19:24:08.372999> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:08.373998> [1Leg]: Buy FAILED BTCUSDC;Gap=1.36125;Price=61662.00
+19:24:10.000699> Try place lock BuyLimit, Bid: 61665.6 Ask:  61665.7
+19:24:10.333714> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:10.334714> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.33875;Price=61668.00
+19:24:12.001845> Try place lock BuyLimit, Bid: 61657.2 Ask:  61657.3
+19:24:12.314861> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:12.315860> [1Leg]: Buy FAILED BTCUSDC;Gap=0.1975;Price=61657.30
+19:24:14.000858> Try place lock BuyLimit, Bid: 61665.4 Ask:  61665.5
+19:24:14.278872> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:14.279873> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.3025;Price=61665.50
+19:24:16.002155> Try place lock BuyLimit, Bid: 61654.1 Ask:  61654.2
+19:24:16.281445> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:16.281445> [1Leg]: Buy FAILED BTCUSDC;Gap=7.925;Price=61654.20
+19:24:18.000731> Try place lock BuyLimit, Bid: 61649.4 Ask:  61649.5
+19:24:18.323742> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:18.324741> [1Leg]: Buy FAILED BTCUSDC;Gap=0.025;Price=61649.50
+19:24:20.000456> Try place lock BuyLimit, Bid: 61643.8 Ask:  61643.9
+19:24:20.283483> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:20.284483> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.575;Price=61643.90
+19:24:22.000898> Try place lock BuyLimit, Bid: 61643.8 Ask:  61643.9
+19:24:22.294914> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:22.294914> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.49375;Price=61643.90
+19:24:24.001422> Try place lock BuyLimit, Bid: 61640.1 Ask:  61640.2
+19:24:24.356446> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:24.357442> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.49375;Price=61640.20
+19:24:26.002121> Try place lock BuyLimit, Bid: 61640.1 Ask:  61640.2
+19:24:26.302148> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:26.303145> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.435;Price=61640.20
+19:24:28.001643> Try place lock BuyLimit, Bid: 61640.1 Ask:  61640.2
+19:24:28.343659> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:28.343659> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.235;Price=61640.20
+19:24:30.000468> Try place lock BuyLimit, Bid: 61643.9 Ask:  61644.0
+19:24:30.302481> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:30.302481> [1Leg]: Buy FAILED BTCUSDC;Gap=0.265;Price=61644.00
+19:24:32.000024> Try place lock BuyLimit, Bid: 61643.9 Ask:  61644.0
+19:24:32.280358> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:32.280358> [1Leg]: Buy FAILED BTCUSDC;Gap=3.085;Price=61644.00
+19:24:34.001085> Try place lock BuyLimit, Bid: 61644.4 Ask:  61644.5
+19:24:34.305101> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:34.306102> [1Leg]: Buy FAILED BTCUSDC;Gap=3.585;Price=61644.50
+19:24:36.000617> Try place lock BuyLimit, Bid: 61644.4 Ask:  61644.5
+19:24:36.320631> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:36.320631> [1Leg]: Buy FAILED BTCUSDC;Gap=3.52625;Price=61644.50
+19:24:38.000922> Try place lock BuyLimit, Bid: 61649.9 Ask:  61650.0
+19:24:38.330943> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:38.332942> [1Leg]: Buy FAILED BTCUSDC;Gap=0.02625;Price=61650.00
+19:24:40.001190> Try place lock BuyLimit, Bid: 61657.8 Ask:  61657.9
+19:24:40.303546> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:40.304544> [1Leg]: Buy FAILED BTCUSDC;Gap=4.02625;Price=61657.90
+19:24:42.000804> Try place lock BuyLimit, Bid: 61655.0 Ask:  61655.1
+19:24:42.370824> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:42.404824> [1Leg]: Buy FAILED BTCUSDC;Gap=5.52375;Price=61650.20
+19:24:44.001539> Try place lock BuyLimit, Bid: 61650.1 Ask:  61650.2
+19:24:44.335556> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:44.337555> [1Leg]: Buy FAILED BTCUSDC;Gap=0.62375;Price=61650.20
+19:24:46.000942> Try place lock BuyLimit, Bid: 61650.1 Ask:  61650.2
+19:24:46.314637> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:46.314637> [1Leg]: Buy FAILED BTCUSDC;Gap=0.1725;Price=61642.70
+19:24:48.003082> Try place lock BuyLimit, Bid: 61642.6 Ask:  61642.7
+19:24:48.294099> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:48.383103> [1Leg]: Buy FAILED BTCUSDC;Gap=0.7725;Price=61642.70
+19:24:50.002170> Try place lock BuyLimit, Bid: 61642.6 Ask:  61642.7
+19:24:50.329189> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:50.365203> [1Leg]: Buy FAILED BTCUSDC;Gap=0.7725;Price=61642.70
+19:24:52.000313> Try place lock BuyLimit, Bid: 61642.6 Ask:  61642.7
+19:24:52.295165> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:52.295165> [1Leg]: Buy FAILED BTCUSDC;Gap=2.43875;Price=61642.70
+19:24:54.001193> Try place lock BuyLimit, Bid: 61645.9 Ask:  61646.0
+19:24:54.341208> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:54.341208> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.06125;Price=61646.00
+19:24:56.001838> Try place lock BuyLimit, Bid: 61655.9 Ask:  61656.0
+19:24:56.279854> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:56.279854> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.71;Price=61656.00
+19:24:58.001929> Try place lock BuyLimit, Bid: 61655.9 Ask:  61656.0
+19:24:58.348952> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:24:58.420943> [1Leg]: Buy FAILED BTCUSDC;Gap=3.19;Price=61654.10
+19:25:00.002707> Try place lock BuyLimit, Bid: 61654.0 Ask:  61654.1
+19:25:00.300725> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:00.301725> [1Leg]: Buy FAILED BTCUSDC;Gap=4.19;Price=61652.10
+19:25:02.001919> Try place lock BuyLimit, Bid: 61642.0 Ask:  61642.1
+19:25:02.293933> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:02.295931> [1Leg]: Buy FAILED BTCUSDC;Gap=1.50375;Price=61642.10
+19:25:04.001008> Try place lock BuyLimit, Bid: 61642.0 Ask:  61642.1
+19:25:04.336019> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:04.338019> [1Leg]: Buy FAILED BTCUSDC;Gap=1.50375;Price=61642.10
+19:25:06.018018> Try place lock BuyLimit, Bid: 61642.0 Ask:  61642.1
+19:25:06.425043> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:06.469045> [1Leg]: Buy FAILED BTCUSDC;Gap=0.9475;Price=61642.10
+19:25:08.011093> Try place lock BuyLimit, Bid: 61642.0 Ask:  61642.1
+19:25:08.342113> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:08.342113> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.2525;Price=61668.60
+19:25:10.001819> Try place lock BuyLimit, Bid: 61664.0 Ask:  61664.1
+19:25:10.298828> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:10.298828> [1Leg]: Buy FAILED BTCUSDC;Gap=1.5475;Price=61664.10
+19:25:12.001533> Try place lock BuyLimit, Bid: 61659.0 Ask:  61659.1
+19:25:12.351567> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:12.363564> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.2475;Price=61659.10
+19:25:14.000581> Try place lock BuyLimit, Bid: 61659.0 Ask:  61659.1
+19:25:14.311592> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:14.312591> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.5475;Price=61659.10
+19:25:16.000345> Try place lock BuyLimit, Bid: 61659.0 Ask:  61659.1
+19:25:16.303362> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:16.304361> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.90;Price=61659.10
+19:25:18.000205> Try place lock BuyLimit, Bid: 61659.0 Ask:  61659.1
+19:25:18.313224> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:18.314225> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.90;Price=61659.10
+19:25:20.009371> Try place lock BuyLimit, Bid: 61656.8 Ask:  61656.9
+19:25:20.317389> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:20.318387> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.50;Price=61656.90
+19:25:22.002172> Try place lock BuyLimit, Bid: 61651.2 Ask:  61651.3
+19:25:22.356182> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:22.358182> [1Leg]: Buy FAILED BTCUSDC;Gap=1.46875;Price=61651.30
+19:25:24.030157> Try place lock BuyLimit, Bid: 61651.2 Ask:  61651.3
+19:25:24.336186> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:24.337176> [1Leg]: Buy FAILED BTCUSDC;Gap=-7.83125;Price=61651.30
+19:25:26.022541> Try place lock BuyLimit, Bid: 61659.0 Ask:  61659.1
+19:25:26.590325> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:26.590325> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.7575;Price=61659.10
+19:25:28.005533> Try place lock BuyLimit, Bid: 61659.0 Ask:  61659.1
+19:25:28.332553> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:28.338551> [1Leg]: Buy FAILED BTCUSDC;Gap=2.4425;Price=61659.10
+19:25:30.010041> Try place lock BuyLimit, Bid: 61659.0 Ask:  61659.1
+19:25:30.313058> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:30.314058> [1Leg]: Buy FAILED BTCUSDC;Gap=1.7425;Price=61659.10
+19:25:32.014974> Try place lock BuyLimit, Bid: 61659.0 Ask:  61659.1
+19:25:32.387996> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:32.389994> [1Leg]: Buy FAILED BTCUSDC;Gap=-11.84125;Price=61670.00
+19:25:34.002088> Try place lock BuyLimit, Bid: 61669.9 Ask:  61670.0
+19:25:34.298105> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:34.302105> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.94125;Price=61670.20
+19:25:36.019883> Try place lock BuyLimit, Bid: 61670.1 Ask:  61670.2
+19:25:36.315889> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:36.317884> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.315;Price=61670.20
+19:25:38.001584> Try place lock BuyLimit, Bid: 61670.1 Ask:  61670.2
+19:25:38.414606> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:38.415607> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.315;Price=61670.20
+19:25:40.001676> Try place lock BuyLimit, Bid: 61669.9 Ask:  61670.0
+19:25:40.385965> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:40.386968> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.515;Price=61670.00
+19:25:42.001207> Try place lock BuyLimit, Bid: 61675.4 Ask:  61675.5
+19:25:42.297196> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:42.297196> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.33125;Price=61675.50
+19:25:44.001557> Try place lock BuyLimit, Bid: 61680.8 Ask:  61680.9
+19:25:44.400581> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:44.402582> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.13125;Price=61688.80
+19:25:46.001631> Try place lock BuyLimit, Bid: 61688.9 Ask:  61689.0
+19:25:46.291639> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:46.292642> [1Leg]: Buy FAILED BTCUSDC;Gap=-7.6375;Price=61689.00
+19:25:48.000346> Try place lock BuyLimit, Bid: 61688.9 Ask:  61689.0
+19:25:48.281961> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:48.282961> [1Leg]: Buy FAILED BTCUSDC;Gap=1.2625;Price=61689.00
+19:25:50.000955> Try place lock BuyLimit, Bid: 61694.6 Ask:  61694.7
+19:25:50.283960> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:50.306961> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.1375;Price=61694.70
+19:25:52.001780> Try place lock BuyLimit, Bid: 61690.0 Ask:  61690.1
+19:25:52.285797> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:52.286797> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.80125;Price=61690.10
+19:25:54.000647> Try place lock BuyLimit, Bid: 61690.0 Ask:  61690.1
+19:25:54.291665> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:54.292661> [1Leg]: Buy FAILED BTCUSDC;Gap=2.39875;Price=61690.10
+19:25:56.006150> Try place lock BuyLimit, Bid: 61682.0 Ask:  61682.1
+19:25:56.316184> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:56.318193> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.00375;Price=61684.00
+19:25:58.002037> Try place lock BuyLimit, Bid: 61683.9 Ask:  61684.0
+19:25:58.391061> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:25:58.392060> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.10375;Price=61684.00
+19:26:00.000959> Try place lock BuyLimit, Bid: 61691.7 Ask:  61691.8
+19:26:00.330974> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:00.331975> [1Leg]: Buy FAILED BTCUSDC;Gap=-6.50375;Price=61691.80
+19:26:02.001680> Try place lock BuyLimit, Bid: 61696.5 Ask:  61696.6
+19:26:02.283702> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:02.284696> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.4625;Price=61697.40
+19:26:04.000542> Try place lock BuyLimit, Bid: 61697.3 Ask:  61697.4
+19:26:04.288560> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:04.289558> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.6625;Price=61697.40
+19:26:06.000268> Try place lock BuyLimit, Bid: 61705.8 Ask:  61705.9
+19:26:06.347288> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:06.348288> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.6025;Price=61705.90
+19:26:08.000570> Try place lock BuyLimit, Bid: 61713.5 Ask:  61713.6
+19:26:08.294578> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:08.295573> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.5025;Price=61713.60
+19:26:10.002217> Try place lock BuyLimit, Bid: 61726.5 Ask:  61726.6
+19:26:10.297233> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:10.298234> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8975;Price=61726.60
+19:26:12.000168> Try place lock BuyLimit, Bid: 61716.0 Ask:  61716.1
+19:26:12.285174> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:12.285174> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.6475;Price=61716.10
+19:26:14.001024> Try place lock BuyLimit, Bid: 61702.0 Ask:  61702.1
+19:26:14.310035> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:14.310035> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.9475;Price=61702.10
+19:26:16.000612> Try place lock BuyLimit, Bid: 61702.0 Ask:  61702.1
+19:26:16.304613> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:16.305612> [1Leg]: Buy FAILED BTCUSDC;Gap=2.12875;Price=61696.30
+19:26:18.000402> Try place lock BuyLimit, Bid: 61696.2 Ask:  61696.3
+19:26:18.288411> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:18.288411> [1Leg]: Buy FAILED BTCUSDC;Gap=-8.27125;Price=61704.10
+19:26:18.962458> Try Modify Lock Buy order for close at now, 
+19:26:19.318909> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+19:26:19.319916> [1Leg]: Buy failed BTCUSDC;price=61704.10
+19:26:21.331630> Try place lock BuyLimit, Bid: 61714.5 Ask:  61714.6
+19:26:21.635647> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:21.635647> [1Leg]: Buy FAILED BTCUSDC;Gap=4.70;Price=61714.60
+19:26:21.635647> Try Modify Lock Buy order for close at now, 
+19:26:21.943665> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+19:26:21.945666> [1Leg]: Buy failed BTCUSDC;price=61714.60
+19:26:23.970780> Try place lock BuyLimit, Bid: 61710.0 Ask:  61710.1
+19:26:24.317773> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:24.318772> [1Leg]: Buy FAILED BTCUSDC;Gap=3.20;Price=61710.10
+19:26:24.318772> Try Modify Lock Buy order for close at now, 
+19:26:24.728635> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+19:26:24.760614> [1Leg]: Buy failed BTCUSDC;price=61708.70
+19:26:26.781650> Try place lock BuyLimit, Bid: 61708.0 Ask:  61708.1
+19:26:27.078219> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:27.078219> [1Leg]: Buy FAILED BTCUSDC;Gap=4.18875;Price=61708.10
+19:26:28.000278> Try place lock BuyLimit, Bid: 61708.0 Ask:  61708.1
+19:26:28.337163> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:28.338162> [1Leg]: Buy FAILED BTCUSDC;Gap=4.18875;Price=61708.10
+19:26:30.001452> Try place lock BuyLimit, Bid: 61708.0 Ask:  61708.1
+19:26:30.401305> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:30.402306> [1Leg]: Buy FAILED BTCUSDC;Gap=4.18875;Price=61708.10
+19:26:32.000960> Try place lock BuyLimit, Bid: 61708.0 Ask:  61708.1
+19:26:32.368974> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:32.433979> [1Leg]: Buy FAILED BTCUSDC;Gap=3.68875;Price=61700.10
+19:26:34.000558> Try place lock BuyLimit, Bid: 61686.0 Ask:  61686.1
+19:26:34.316968> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:34.333970> [1Leg]: Buy FAILED BTCUSDC;Gap=7.38875;Price=61686.10
+19:26:36.000735> Try place lock BuyLimit, Bid: 61684.0 Ask:  61684.1
+19:26:36.305474> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:36.306475> [1Leg]: Buy FAILED BTCUSDC;Gap=5.38875;Price=61684.10
+19:26:38.002277> Try place lock BuyLimit, Bid: 61684.0 Ask:  61684.1
+19:26:38.293294> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:38.294295> [1Leg]: Buy FAILED BTCUSDC;Gap=5.265;Price=61684.10
+19:26:40.001597> Try place lock BuyLimit, Bid: 61684.0 Ask:  61684.1
+19:26:40.302613> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:40.303613> [1Leg]: Buy FAILED BTCUSDC;Gap=5.165;Price=61684.10
+19:26:42.002647> Try place lock BuyLimit, Bid: 61684.0 Ask:  61684.1
+19:26:42.300665> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:42.301665> [1Leg]: Buy FAILED BTCUSDC;Gap=4.98875;Price=61684.10
+19:26:44.046312> Try place lock BuyLimit, Bid: 61684.0 Ask:  61684.1
+19:26:44.341589> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:44.355589> [1Leg]: Buy FAILED BTCUSDC;Gap=4.98875;Price=61684.10
+19:26:46.000485> Try place lock BuyLimit, Bid: 61684.0 Ask:  61684.1
+19:26:46.352507> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:46.357505> [1Leg]: Buy FAILED BTCUSDC;Gap=4.98875;Price=61684.10
+19:26:48.000612> Try place lock BuyLimit, Bid: 61684.0 Ask:  61684.1
+19:26:48.282629> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:48.282629> [1Leg]: Buy FAILED BTCUSDC;Gap=4.98875;Price=61684.10
+19:26:50.002903> Try place lock BuyLimit, Bid: 61680.9 Ask:  61681.0
+19:26:50.292919> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:50.293918> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.71125;Price=61681.00
+19:26:52.035626> Try place lock BuyLimit, Bid: 61681.9 Ask:  61682.0
+19:26:52.319642> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:52.320642> [1Leg]: Buy FAILED BTCUSDC;Gap=3.0425;Price=61682.00
+19:26:54.001556> Try place lock BuyLimit, Bid: 61678.0 Ask:  61678.1
+19:26:54.293572> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:54.293572> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.2575;Price=61678.10
+19:26:56.000571> Try place lock BuyLimit, Bid: 61678.0 Ask:  61678.1
+19:26:56.312589> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:56.312589> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.2575;Price=61679.70
+19:26:58.001715> Try place lock BuyLimit, Bid: 61679.6 Ask:  61679.7
+19:26:58.357734> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:26:58.358736> [1Leg]: Buy FAILED BTCUSDC;Gap=1.56875;Price=61679.70
+19:27:00.001234> Try place lock BuyLimit, Bid: 61679.6 Ask:  61679.7
+19:27:00.307250> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:00.313250> [1Leg]: Buy FAILED BTCUSDC;Gap=1.56875;Price=61679.70
+19:27:02.000261> Try place lock BuyLimit, Bid: 61676.2 Ask:  61676.3
+19:27:02.291280> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:02.292280> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.90625;Price=61676.30
+19:27:04.011378> Try place lock BuyLimit, Bid: 61676.2 Ask:  61676.3
+19:27:04.315384> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:04.354382> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.90625;Price=61676.30
+19:27:06.025284> Try place lock BuyLimit, Bid: 61676.0 Ask:  61676.1
+19:27:06.329303> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:06.330304> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.60625;Price=61676.10
+19:27:08.030400> Try place lock BuyLimit, Bid: 61684.0 Ask:  61684.1
+19:27:08.333417> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:08.334418> [1Leg]: Buy FAILED BTCUSDC;Gap=0.32;Price=61684.10
+19:27:10.014035> Try place lock BuyLimit, Bid: 61684.0 Ask:  61684.1
+19:27:10.302055> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:10.303052> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.98;Price=61684.10
+19:27:12.014868> Try place lock BuyLimit, Bid: 61684.0 Ask:  61684.1
+19:27:12.303889> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:12.304885> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.825;Price=61684.10
+19:27:14.015446> Try place lock BuyLimit, Bid: 61675.5 Ask:  61675.6
+19:27:14.329465> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:14.329465> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.325;Price=61675.60
+19:27:16.019502> Try place lock BuyLimit, Bid: 61672.0 Ask:  61672.1
+19:27:16.330518> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:16.331517> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.125;Price=61672.10
+19:27:18.001224> Try place lock BuyLimit, Bid: 61666.0 Ask:  61666.1
+19:27:18.354246> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:18.355245> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.33125;Price=61666.10
+19:27:20.000091> Try place lock BuyLimit, Bid: 61666.0 Ask:  61666.1
+19:27:20.292108> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:20.297106> [1Leg]: Buy FAILED BTCUSDC;Gap=3.96875;Price=61666.10
+19:27:22.000601> Try place lock BuyLimit, Bid: 61662.2 Ask:  61662.3
+19:27:22.284610> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:22.285611> [1Leg]: Buy FAILED BTCUSDC;Gap=0.275;Price=61662.30
+19:27:24.003563> Try place lock BuyLimit, Bid: 61662.2 Ask:  61662.3
+19:27:24.326571> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:24.327571> [1Leg]: Buy FAILED BTCUSDC;Gap=2.675;Price=61660.10
+19:27:26.005908> Try place lock BuyLimit, Bid: 61658.0 Ask:  61658.1
+19:27:26.370930> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:26.371932> [1Leg]: Buy FAILED BTCUSDC;Gap=3.375;Price=61658.10
+19:27:28.000909> Try place lock BuyLimit, Bid: 61656.8 Ask:  61656.9
+19:27:28.289922> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:28.290922> [1Leg]: Buy FAILED BTCUSDC;Gap=1.78125;Price=61656.90
+19:27:30.001387> Try place lock BuyLimit, Bid: 61656.8 Ask:  61656.9
+19:27:30.301413> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:30.319409> [1Leg]: Buy FAILED BTCUSDC;Gap=4.18125;Price=61656.90
+19:27:32.000856> Try place lock BuyLimit, Bid: 61656.8 Ask:  61656.9
+19:27:32.310872> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:32.311867> [1Leg]: Buy FAILED BTCUSDC;Gap=4.09125;Price=61656.90
+19:27:34.001017> Try place lock BuyLimit, Bid: 61671.9 Ask:  61672.0
+19:27:34.305016> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:34.306024> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.60875;Price=61672.00
+19:27:36.002112> Try place lock BuyLimit, Bid: 61673.8 Ask:  61673.9
+19:27:36.297963> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:36.298964> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.70875;Price=61673.90
+19:27:38.001168> Try place lock BuyLimit, Bid: 61668.0 Ask:  61668.1
+19:27:38.286527> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:38.287527> [1Leg]: Buy FAILED BTCUSDC;Gap=-6.95;Price=61662.10
+19:27:40.001629> Try place lock BuyLimit, Bid: 61658.0 Ask:  61658.1
+19:27:40.303648> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:40.304646> [1Leg]: Buy FAILED BTCUSDC;Gap=2.45;Price=61658.10
+19:27:42.004984> Try place lock BuyLimit, Bid: 61658.0 Ask:  61658.1
+19:27:42.290993> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:42.291993> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.3175;Price=61658.10
+19:27:44.005972> Try place lock BuyLimit, Bid: 61658.0 Ask:  61658.1
+19:27:44.367980> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:44.368980> [1Leg]: Buy FAILED BTCUSDC;Gap=-7.1175;Price=61658.10
+19:27:46.011988> Try place lock BuyLimit, Bid: 61658.0 Ask:  61658.1
+19:27:46.366018> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:46.367020> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.5175;Price=61658.10
+19:27:48.001678> Try place lock BuyLimit, Bid: 61658.0 Ask:  61658.1
+19:27:48.301691> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:48.302692> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.4275;Price=61658.10
+19:27:50.000189> Try place lock BuyLimit, Bid: 61658.0 Ask:  61658.1
+19:27:50.308209> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:50.309209> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.4275;Price=61658.10
+19:27:52.002117> Try place lock BuyLimit, Bid: 61658.0 Ask:  61658.1
+19:27:52.326116> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:52.326116> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.4275;Price=61658.10
+19:27:54.001594> Try place lock BuyLimit, Bid: 61658.0 Ask:  61658.1
+19:27:54.368612> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:54.370610> [1Leg]: Buy FAILED BTCUSDC;Gap=-7.5275;Price=61660.00
+19:27:56.001567> Try place lock BuyLimit, Bid: 61665.0 Ask:  61665.1
+19:27:56.335213> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:56.335213> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.9275;Price=61665.10
+19:27:58.000191> Try place lock BuyLimit, Bid: 61667.9 Ask:  61668.0
+19:27:58.305201> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:27:58.306201> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.58375;Price=61668.00
+19:28:00.000487> Try place lock BuyLimit, Bid: 61667.9 Ask:  61668.0
+19:28:00.290634> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:00.335634> [1Leg]: Buy FAILED BTCUSDC;Gap=0.01625;Price=61668.00
+19:28:02.002779> Try place lock BuyLimit, Bid: 61666.7 Ask:  61666.8
+19:28:02.289797> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:02.307794> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.75;Price=61666.80
+19:28:04.001079> Try place lock BuyLimit, Bid: 61671.9 Ask:  61672.0
+19:28:04.283949> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:04.284949> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.85;Price=61672.00
+19:28:06.001879> Try place lock BuyLimit, Bid: 61671.9 Ask:  61672.0
+19:28:06.357895> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:06.358895> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.85;Price=61672.00
+19:28:08.002164> Try place lock BuyLimit, Bid: 61671.9 Ask:  61672.0
+19:28:08.308221> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:08.331222> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.705;Price=61672.00
+19:28:10.001258> Try place lock BuyLimit, Bid: 61668.9 Ask:  61669.0
+19:28:10.304960> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:10.305961> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.705;Price=61669.00
+19:28:12.000183> Try place lock BuyLimit, Bid: 61668.9 Ask:  61669.0
+19:28:12.283613> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:12.284616> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.47375;Price=61669.00
+19:28:14.001183> Try place lock BuyLimit, Bid: 61668.9 Ask:  61669.0
+19:28:14.293198> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:14.294197> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.07375;Price=61669.00
+19:28:16.000587> Try place lock BuyLimit, Bid: 61668.9 Ask:  61669.0
+19:28:16.281959> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:16.283943> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.07375;Price=61669.00
+19:28:18.001443> Try place lock BuyLimit, Bid: 61668.9 Ask:  61669.0
+19:28:18.281460> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:18.282460> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.07125;Price=61669.00
+19:28:20.001578> Try place lock BuyLimit, Bid: 61673.7 Ask:  61673.8
+19:28:20.288217> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:20.288217> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.67125;Price=61673.80
+19:28:22.002663> Try place lock BuyLimit, Bid: 61673.8 Ask:  61673.9
+19:28:22.292666> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:22.293665> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.535;Price=61673.90
+19:28:24.000111> Try place lock BuyLimit, Bid: 61674.9 Ask:  61675.0
+19:28:24.320129> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:24.320129> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.235;Price=61675.00
+19:28:26.001396> Try place lock BuyLimit, Bid: 61674.9 Ask:  61675.0
+19:28:26.323415> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:26.325412> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.235;Price=61670.30
+19:28:28.001518> Try place lock BuyLimit, Bid: 61670.2 Ask:  61670.3
+19:28:28.293525> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:28.293525> [1Leg]: Buy FAILED BTCUSDC;Gap=0.71125;Price=61670.30
+19:28:30.001469> Try place lock BuyLimit, Bid: 61665.6 Ask:  61665.7
+19:28:30.284485> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:30.284485> [1Leg]: Buy FAILED BTCUSDC;Gap=0.91125;Price=61665.70
+19:28:32.000930> Try place lock BuyLimit, Bid: 61665.6 Ask:  61665.7
+19:28:32.278944> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1102 Message: Mandatory parameter 'price' was not sent, was empty/null, or malformed.
+19:28:32.278944> [1Leg]: Buy FAILED BTCUSDC;Gap=-6.88375;Price=61665.70

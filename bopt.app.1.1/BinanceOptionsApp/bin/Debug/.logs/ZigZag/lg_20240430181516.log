@@ -1,0 +1,423 @@
+18:15:17.116194> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:15:17.117198> WebSocket connected! Start Partial @depth20 [Future] process...
+18:15:17.126193> WebSocket connected! Start Partial @depth20 [Future] process...
+18:15:17.127195> WebSocket connected! Start @depth [Future] process...
+18:15:18.105420> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:15:18.115389> WebSocket connected! Start Partial @depth20 [Future] process...
+18:15:18.123392> WebSocket connected! Start @depth [Future] process...
+18:15:18.139393> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 623.90725521 USDT
+18:15:18.152394> WebSocket connected! Start Partial @depth20 [Future] process...
+18:22:03.778000> Signal 2(s), Bid: 60907.9 Ask:  60908.0
+18:22:03.778000> Try Open BuyLimit, Bid: 60907.9 Ask:  60908.0
+18:22:03.779000> Support: 60907.9 VolS:1.856 Resistence: 60916.7 VolR:0.378
+18:22:04.046794> [1Leg]: Buy OK BTCUSDC at 60907.9000;Gap=1.12;Price=60913.9000;Slippage=6.0;Execution=265.793 ms;
+18:22:04.047809> Elapsted Open BuyLimit 
+18:22:04.047809> Try Modify main Buy order, 
+18:22:04.048794> Support: 60913.8 VolS:1.731 Resistence: 60913.9 VolR:1.215
+18:22:04.425937> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:22:04.426937> [1Leg]: Buy failed BTCUSDC;price=60913.9000
+18:22:04.428947> Try Modify main Buy order, 
+18:22:04.429937> Support: 60913.8 VolS:1.731 Resistence: 60913.9 VolR:1.215
+18:22:05.580380> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:22:05.582386> [1Leg]: Buy failed BTCUSDC;price=60903.0000
+18:22:05.583391> Try Modify main Buy order, 
+18:22:05.583391> Support: 60899.5 VolS:0.915 Resistence: 60904.1 VolR:1.267
+18:22:05.882395> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:22:05.884391> [1Leg]: Buy failed BTCUSDC;price=60903.0000
+18:22:05.885393> Try Modify main Buy order, 
+18:22:05.885393> Support: 60899.5 VolS:0.915 Resistence: 60904.1 VolR:1.267
+18:22:06.181146> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:22:06.182143> [1Leg]: Buy failed BTCUSDC;price=60890.1000
+18:22:06.183143> Try Modify main Buy order, 
+18:22:06.184147> Support: 60881.2 VolS:0.59 Resistence: 60896.1 VolR:0.974
+18:22:06.474163> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:22:06.475160> [1Leg]: Buy failed BTCUSDC;price=60890.1000
+18:22:06.476161> Try Modify main Buy order, 
+18:22:06.476161> Support: 60881.2 VolS:0.59 Resistence: 60896.1 VolR:0.974
+18:22:06.820181> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:22:06.835182> [1Leg]: Buy failed BTCUSDC;price=60890.1000
+18:22:06.853182> Try Modify main Buy order, 
+18:22:06.853182> Support: 60881.2 VolS:0.59 Resistence: 60890.1 VolR:1.591
+18:22:07.153203> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:22:07.154200> [1Leg]: Buy failed BTCUSDC;price=60882.1000
+18:22:07.155200> Try Modify main Buy order, 
+18:22:07.155200> Support: 60880.4 VolS:0.908 Resistence: 60882.1 VolR:1.797
+18:22:07.473218> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:22:07.474218> [1Leg]: Buy failed BTCUSDC;price=60882.1000
+18:22:07.475230> Try Modify main Buy order, 
+18:22:07.475230> Support: 60880.4 VolS:0.908 Resistence: 60882.1 VolR:1.797
+18:22:07.763234> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:22:07.764234> [1Leg]: Buy failed BTCUSDC;price=60882.1000
+18:22:07.765244> Try Modify main Buy order, 
+18:22:07.765244> Support: 60869.3 VolS:0.333 Resistence: 60882.1 VolR:1.761
+18:22:08.058252> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:22:08.060251> [1Leg]: Buy failed BTCUSDC;price=60882.1000
+18:22:08.061252> Try place lock SellLimit, Bid: 60882.0 Ask:  60882.1
+18:22:08.339274> [1Leg]: Sell OK BTCUSDC at 61007.9000;Gap=2.19;Price=60882.1000;Slippage=-125.8;Execution=278.022 ms;
+18:22:08.339274> Placed lock SellLimit 
+18:22:08.340267> Try Delete lock Sell order, 
+18:22:08.340267> Support: 60878.5 VolS:0.971 Resistence: 60882.1 VolR:2.953
+18:22:08.637287> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:22:08.639327> Try Delete lock Sell order, 
+18:22:08.639327> Support: 60870 VolS:1.065 Resistence: 60870.1 VolR:1.987
+18:22:08.898300> OrderId: [2504525945]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=258.973 ms;
+18:22:08.898300> Delete lock SellLimit (1Leg)
+18:22:08.904299> Try place lock SellLimit, Bid: 60870.0 Ask:  60870.1
+18:22:09.159321> [1Leg]: Sell OK BTCUSDC at 61007.9000;Gap=0.09;Price=60870.1000;Slippage=-137.8;Execution=255.022 ms;
+18:22:09.160321> Placed lock SellLimit 
+18:28:24.348893> Signal 2(s), Bid: 60923.9 Ask:  60924.0
+18:28:24.348893> Try adding BuyLimit, Bid: 60923.9 Ask:  60924.0
+18:28:24.349885> Support: 60922 VolS:1.716 Resistence: 60924.7 VolR:1.003
+18:28:24.606899> [1Leg]: Buy OK BTCUSDC at 60923.9000;Gap=-0.28;Price=60931.6000;Slippage=7.7;Execution=257.014 ms;
+18:28:24.606899> adding BuyLimit 
+18:28:50.000377> Try Delete lock Sell order, 
+18:28:50.001367> Support: 60922 VolS:1.194 Resistence: 60923.4 VolR:0.908
+18:28:51.057502> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:51.059509> Try Delete lock Sell order, 
+18:28:51.059509> Support: 60907.4 VolS:1.169 Resistence: 60920.8 VolR:1.232
+18:28:51.348193> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:51.350200> Try Delete lock Sell order, 
+18:28:51.350200> Support: 60914.4 VolS:1 Resistence: 60916.1 VolR:2.113
+18:28:51.648210> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:51.650219> Try Delete lock Sell order, 
+18:28:51.650219> Support: 60914.4 VolS:1 Resistence: 60916.1 VolR:2.113
+18:28:51.944227> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:51.946225> Try Delete lock Sell order, 
+18:28:51.946225> Support: 60906.5 VolS:0.348 Resistence: 60916.1 VolR:2.115
+18:28:52.260246> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:52.262260> Try Delete lock Sell order, 
+18:28:52.263245> Support: 60906.5 VolS:0.348 Resistence: 60916.1 VolR:2.115
+18:28:52.571263> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:52.574263> Try Delete lock Sell order, 
+18:28:52.574263> Support: 60913.5 VolS:0.997 Resistence: 60916.1 VolR:2.115
+18:28:52.954288> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:52.956290> Try Delete lock Sell order, 
+18:28:52.973285> Support: 60908.3 VolS:0.386 Resistence: 60916.1 VolR:2.113
+18:28:53.281302> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:53.282304> Try Delete lock Sell order, 
+18:28:53.283304> Support: 60908.3 VolS:0.386 Resistence: 60916.1 VolR:2.113
+18:28:53.575322> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:53.577330> Try Delete lock Sell order, 
+18:28:53.577330> Support: 60912 VolS:1.052 Resistence: 60916.1 VolR:2.109
+18:28:53.872338> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:53.874351> Try Delete lock Sell order, 
+18:28:53.874351> Support: 60912 VolS:1.052 Resistence: 60916.1 VolR:2.109
+18:28:54.326364> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:54.329369> Try Delete lock Sell order, 
+18:28:54.329369> Support: 60912 VolS:1.052 Resistence: 60912.5 VolR:1.794
+18:28:54.621380> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:54.623381> Try Delete lock Sell order, 
+18:28:54.623381> Support: 60910.1 VolS:0.95 Resistence: 60912.5 VolR:1.947
+18:28:54.970408> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:54.972408> Try Delete lock Sell order, 
+18:28:54.972408> Support: 60910.1 VolS:0.95 Resistence: 60912.5 VolR:1.947
+18:28:55.332434> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:55.335430> Try Delete lock Sell order, 
+18:28:55.335430> Support: 60910.1 VolS:0.95 Resistence: 60912.5 VolR:1.947
+18:28:55.628439> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:55.630445> Try Delete lock Sell order, 
+18:28:55.630445> Support: 60910.1 VolS:0.95 Resistence: 60912.5 VolR:1.947
+18:28:55.927455> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:55.972458> Try Delete lock Sell order, 
+18:28:55.973459> Support: 60900 VolS:1.42 Resistence: 60901.4 VolR:0.825
+18:28:56.277475> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:56.281477> Try Delete lock Sell order, 
+18:28:56.282477> Support: 60900 VolS:1.224 Resistence: 60900.1 VolR:1.558
+18:28:56.592496> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:56.595501> Try Delete lock Sell order, 
+18:28:56.595501> Support: 60900 VolS:1.224 Resistence: 60900.1 VolR:1.558
+18:28:56.893520> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:56.896514> Try Delete lock Sell order, 
+18:28:56.896514> Support: 60884.4 VolS:0.378 Resistence: 60894.4 VolR:0.947
+18:28:57.194528> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:57.213527> Try Delete lock Sell order, 
+18:28:57.214529> Support: 60889.3 VolS:1.002 Resistence: 60890.1 VolR:1.393
+18:28:57.513549> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:57.515547> Try Delete lock Sell order, 
+18:28:57.515547> Support: 60889.3 VolS:1.002 Resistence: 60890.1 VolR:1.393
+18:28:57.811564> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:57.812566> Try Delete lock Sell order, 
+18:28:57.812566> Support: 60889.3 VolS:1.002 Resistence: 60890.1 VolR:1.535
+18:28:58.102807> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:58.106814> Try Delete lock Sell order, 
+18:28:58.106814> Support: 60889.3 VolS:1.002 Resistence: 60890.1 VolR:1.535
+18:28:58.411829> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:58.413912> Try Delete lock Sell order, 
+18:28:58.413912> Support: 60883.9 VolS:0.827 Resistence: 60888.1 VolR:2.297
+18:28:58.748841> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:58.777855> Try Delete lock Sell order, 
+18:28:58.778843> Support: 60883.9 VolS:0.827 Resistence: 60888.1 VolR:2.297
+18:28:59.088861> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:59.090867> Try Delete lock Sell order, 
+18:28:59.090867> Support: 60879.3 VolS:0.843 Resistence: 60888.1 VolR:0.923
+18:28:59.385886> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:59.387885> Try Delete lock Sell order, 
+18:28:59.387885> Support: 60879.3 VolS:0.843 Resistence: 60882.1 VolR:1.823
+18:28:59.687919> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:28:59.690928> Try Delete lock Sell order, 
+18:28:59.690928> Support: 60879.3 VolS:0.843 Resistence: 60882.1 VolR:1.823
+18:29:00.025957> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:00.033945> Try Delete lock Sell order, 
+18:29:00.035952> Support: 60880 VolS:0.15 Resistence: 60882.1 VolR:2.17
+18:29:00.374971> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:00.379010> Try Delete lock Sell order, 
+18:29:00.379975> Support: 60880 VolS:0.15 Resistence: 60882.1 VolR:2.17
+18:29:00.806985> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:00.808996> Try Delete lock Sell order, 
+18:29:00.808996> Support: 60878 VolS:0.15 Resistence: 60882.1 VolR:2.036
+18:29:01.110688> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:01.117688> Try Delete lock Sell order, 
+18:29:01.118690> Support: 60879.7 VolS:0.979 Resistence: 60880.8 VolR:2.521
+18:29:01.427708> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:01.429710> Try Delete lock Sell order, 
+18:29:01.429710> Support: 60879.7 VolS:0.979 Resistence: 60880.8 VolR:2.521
+18:29:01.738420> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:01.773438> Try Delete lock Sell order, 
+18:29:01.773438> Support: 60885.5 VolS:1.062 Resistence: 60890 VolR:0.216
+18:29:02.063442> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:02.065448> Try Delete lock Sell order, 
+18:29:02.065448> Support: 60885.5 VolS:1.062 Resistence: 60885.6 VolR:1.133
+18:29:02.377458> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:02.431462> Try Delete lock Sell order, 
+18:29:02.432459> Support: 60885.5 VolS:1.062 Resistence: 60885.6 VolR:1.133
+18:29:02.722976> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:02.732981> Try Delete lock Sell order, 
+18:29:02.733977> Support: 60881.9 VolS:0.374 Resistence: 60885.6 VolR:1.158
+18:29:03.035995> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:03.038003> Try Delete lock Sell order, 
+18:29:03.038003> Support: 60883.6 VolS:1.069 Resistence: 60885.6 VolR:1.158
+18:29:03.332011> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:03.334019> Try Delete lock Sell order, 
+18:29:03.334019> Support: 60883.6 VolS:1.069 Resistence: 60885.6 VolR:1.158
+18:29:03.644029> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:03.645030> Try Delete lock Sell order, 
+18:29:03.645030> Support: 60882 VolS:0.216 Resistence: 60884.1 VolR:2.448
+18:29:03.936641> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:03.938647> Try Delete lock Sell order, 
+18:29:03.938647> Support: 60882 VolS:0.216 Resistence: 60884.1 VolR:2.448
+18:29:04.230655> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:04.274658> Try Delete lock Sell order, 
+18:29:04.274658> Support: 60884 VolS:1.181 Resistence: 60888.1 VolR:0.859
+18:29:04.569677> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:04.571682> Try Delete lock Sell order, 
+18:29:04.571682> Support: 60885.5 VolS:1.196 Resistence: 60893.6 VolR:0.401
+18:29:04.893693> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:04.902693> Try Delete lock Sell order, 
+18:29:04.903693> Support: 60885.5 VolS:1.196 Resistence: 60893.6 VolR:0.401
+18:29:05.302717> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:05.304717> Try Delete lock Sell order, 
+18:29:05.304717> Support: 60880.6 VolS:0.374 Resistence: 60896 VolR:1.154
+18:29:05.604735> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:05.607734> Try Delete lock Sell order, 
+18:29:05.607734> Support: 60879.5 VolS:1.259 Resistence: 60892.1 VolR:1.893
+18:29:06.002758> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:06.004756> Try Delete lock Sell order, 
+18:29:06.005760> Support: 60879.5 VolS:1.259 Resistence: 60892.1 VolR:1.893
+18:29:06.533791> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:06.582790> Try Delete lock Sell order, 
+18:29:06.583790> Support: 60880.7 VolS:1.06 Resistence: 60880.8 VolR:1.534
+18:29:06.877807> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:06.878807> Try Delete lock Sell order, 
+18:29:06.878807> Support: 60880.7 VolS:1.06 Resistence: 60880.8 VolR:1.534
+18:29:07.257829> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:07.259827> Try Delete lock Sell order, 
+18:29:07.260829> Support: 60874.4 VolS:0.243 Resistence: 60880.8 VolR:1.579
+18:29:07.577847> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:07.580863> Try Delete lock Sell order, 
+18:29:07.580863> Support: 60874.4 VolS:0.243 Resistence: 60880.8 VolR:1.579
+18:29:08.019873> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:08.021873> Try Delete lock Sell order, 
+18:29:08.022873> Support: 60860.4 VolS:1.169 Resistence: 60875.3 VolR:0.945
+18:29:08.332891> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:08.334891> Try Delete lock Sell order, 
+18:29:08.334891> Support: 60851.2 VolS:1 Resistence: 60860.1 VolR:1.535
+18:29:08.630518> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:08.633520> Try Delete lock Sell order, 
+18:29:08.633520> Support: 60856 VolS:1.36 Resistence: 60856.1 VolR:1.66
+18:29:08.932543> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:08.939535> Try Delete lock Sell order, 
+18:29:08.939535> Support: 60856 VolS:1.36 Resistence: 60856.1 VolR:1.66
+18:29:09.264556> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:09.313556> Try Delete lock Sell order, 
+18:29:09.313556> Support: 60861.9 VolS:1.851 Resistence: 60870.1 VolR:0.396
+18:29:09.679578> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:09.680579> Try Delete lock Sell order, 
+18:29:09.680579> Support: 60861.9 VolS:1.382 Resistence: 60862 VolR:1.077
+18:29:09.987598> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:09.990598> Try Delete lock Sell order, 
+18:29:09.991598> Support: 60861.9 VolS:1.382 Resistence: 60862 VolR:1.077
+18:29:10.290611> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:10.479625> Try Delete lock Sell order, 
+18:29:10.480626> Support: 60861.9 VolS:1.336 Resistence: 60862 VolR:0.331
+18:29:10.829641> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:10.845644> Try Delete lock Sell order, 
+18:29:10.847646> Support: 60861.9 VolS:1.43 Resistence: 60867.4 VolR:0.529
+18:29:11.148663> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:11.179665> Try Delete lock Sell order, 
+18:29:11.180664> Support: 60861.9 VolS:1.43 Resistence: 60867.4 VolR:0.529
+18:29:11.617688> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:11.619691> Try Delete lock Sell order, 
+18:29:11.619691> Support: 60861.9 VolS:1.64 Resistence: 60869.7 VolR:0.382
+18:29:12.197723> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:12.200722> Try Delete lock Sell order, 
+18:29:12.200722> Support: 60869.9 VolS:1.709 Resistence: 60870 VolR:1.344
+18:29:12.493741> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:12.495739> Try Delete lock Sell order, 
+18:29:12.495739> Support: 60869 VolS:0.884 Resistence: 60870 VolR:1.418
+18:29:12.831092> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:12.858092> Try Delete lock Sell order, 
+18:29:12.859093> Support: 60869 VolS:0.884 Resistence: 60870 VolR:1.418
+18:29:13.153110> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:13.156109> Try Delete lock Sell order, 
+18:29:13.172110> Support: 60869.9 VolS:1.061 Resistence: 60870 VolR:1.519
+18:29:13.464450> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:13.467450> Try Delete lock Sell order, 
+18:29:13.467450> Support: 60869.9 VolS:1.061 Resistence: 60870 VolR:1.519
+18:29:13.761640> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:13.763639> Try Delete lock Sell order, 
+18:29:13.763639> Support: 60869.9 VolS:0.932 Resistence: 60881.8 VolR:0.59
+18:29:14.074657> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:14.076672> Try Delete lock Sell order, 
+18:29:14.077657> Support: 60877.9 VolS:1.27 Resistence: 60878 VolR:1.496
+18:29:14.369515> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:14.371526> Try Delete lock Sell order, 
+18:29:14.371526> Support: 60877.9 VolS:1.27 Resistence: 60878 VolR:1.496
+18:29:14.672105> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:14.674114> Try Delete lock Sell order, 
+18:29:14.674114> Support: 60877.9 VolS:1.114 Resistence: 60878 VolR:1.48
+18:29:14.983124> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:14.986129> Try Delete lock Sell order, 
+18:29:14.986129> Support: 60877.9 VolS:1.114 Resistence: 60878 VolR:1.48
+18:29:15.283837> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:15.285838> Try Delete lock Sell order, 
+18:29:15.285838> Support: 60866 VolS:0.216 Resistence: 60878 VolR:1.638
+18:29:15.577025> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:15.579022> Try Delete lock Sell order, 
+18:29:15.579022> Support: 60866 VolS:0.216 Resistence: 60878 VolR:1.638
+18:29:15.943046> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:15.945054> Try Delete lock Sell order, 
+18:29:15.945054> Support: 60874 VolS:1.09 Resistence: 60874.1 VolR:2.639
+18:29:16.245514> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:16.247525> Try Delete lock Sell order, 
+18:29:16.247525> Support: 60874 VolS:1.1 Resistence: 60874.1 VolR:2.639
+18:29:16.562533> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:16.564545> Try Delete lock Sell order, 
+18:29:16.564545> Support: 60874 VolS:1.1 Resistence: 60874.1 VolR:2.639
+18:29:16.899108> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:16.994136> Try Delete lock Sell order, 
+18:29:17.001127> Support: 60860.8 VolS:0.346 Resistence: 60870.1 VolR:1.851
+18:29:17.300131> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:17.302132> Try Delete lock Sell order, 
+18:29:17.302132> Support: 60870 VolS:1.077 Resistence: 60870.1 VolR:1.857
+18:29:17.747159> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:17.750155> Try Delete lock Sell order, 
+18:29:17.751157> Support: 60870 VolS:1.077 Resistence: 60870.1 VolR:1.857
+18:29:18.045181> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:18.050174> Try Delete lock Sell order, 
+18:29:18.050174> Support: 60870 VolS:1.277 Resistence: 60870.1 VolR:1.279
+18:29:18.365191> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:18.374203> Try Delete lock Sell order, 
+18:29:18.374203> Support: 60870 VolS:1.277 Resistence: 60870.1 VolR:1.279
+18:29:18.730213> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:18.732221> Try Delete lock Sell order, 
+18:29:18.732221> Support: 60870 VolS:1.791 Resistence: 60881.8 VolR:0.59
+18:29:19.037120> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:19.040118> Try Delete lock Sell order, 
+18:29:19.040118> Support: 60879.2 VolS:1.282 Resistence: 60879.3 VolR:1.135
+18:29:19.337478> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:19.361483> Try Delete lock Sell order, 
+18:29:19.362483> Support: 60879.2 VolS:1.282 Resistence: 60879.3 VolR:1.135
+18:29:19.658502> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:19.660509> Try Delete lock Sell order, 
+18:29:19.660509> Support: 60874 VolS:0.216 Resistence: 60879.3 VolR:1.249
+18:29:19.960831> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:19.962836> Try Delete lock Sell order, 
+18:29:19.962836> Support: 60874 VolS:0.216 Resistence: 60879.3 VolR:1.249
+18:29:20.256265> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:20.258271> Try Delete lock Sell order, 
+18:29:20.258271> Support: 60878.6 VolS:1.014 Resistence: 60879.3 VolR:1.449
+18:29:20.555284> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:20.557292> Try Delete lock Sell order, 
+18:29:20.557292> Support: 60878.6 VolS:1.014 Resistence: 60879.3 VolR:1.449
+18:29:20.848143> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:20.850179> Try Delete lock Sell order, 
+18:29:20.851159> Support: 60871.8 VolS:0.847 Resistence: 60872.1 VolR:1.207
+18:29:21.145158> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:21.147166> Try Delete lock Sell order, 
+18:29:21.147166> Support: 60871.8 VolS:0.847 Resistence: 60872.1 VolR:1.207
+18:29:21.489015> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:21.514010> Try Delete lock Sell order, 
+18:29:21.515010> Support: 60871.8 VolS:0.847 Resistence: 60872.1 VolR:1.232
+18:29:21.829028> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:21.831028> Try Delete lock Sell order, 
+18:29:21.831028> Support: 60864.6 VolS:0.408 Resistence: 60872.1 VolR:1.232
+18:29:22.125715> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:22.168718> Try Delete lock Sell order, 
+18:29:22.169718> Support: 60864.6 VolS:0.408 Resistence: 60872.1 VolR:1.232
+18:29:22.483734> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:22.485736> Try Delete lock Sell order, 
+18:29:22.485736> Support: 60864.6 VolS:0.408 Resistence: 60872.1 VolR:1.348
+18:29:22.792757> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:22.823757> Try Delete lock Sell order, 
+18:29:22.823757> Support: 60864.6 VolS:0.408 Resistence: 60872.1 VolR:1.348
+18:29:23.126773> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:23.127773> Try Delete lock Sell order, 
+18:29:23.127773> Support: 60872 VolS:1.175 Resistence: 60872.1 VolR:1.46
+18:29:23.422789> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:23.423789> Try Delete lock Sell order, 
+18:29:23.423789> Support: 60872 VolS:1.175 Resistence: 60872.1 VolR:0.733
+18:29:23.717717> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:23.718717> Try Delete lock Sell order, 
+18:29:23.718717> Support: 60872 VolS:1.175 Resistence: 60872.1 VolR:0.733
+18:29:24.009738> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:24.011767> Try Delete lock Sell order, 
+18:29:24.012734> Support: 60872 VolS:1.169 Resistence: 60872.1 VolR:1.954
+18:29:24.312750> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:24.313814> Try Delete lock Sell order, 
+18:29:24.313814> Support: 60872 VolS:1.169 Resistence: 60872.1 VolR:1.954
+18:29:24.681772> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:24.682773> Try Delete lock Sell order, 
+18:29:24.682773> Support: 60868 VolS:1.164 Resistence: 60868.4 VolR:1.149
+18:29:24.978793> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:24.980790> Try Delete lock Sell order, 
+18:29:24.980790> Support: 60868.3 VolS:1.335 Resistence: 60877 VolR:0.35
+18:29:25.280807> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:25.335840> Try Delete lock Sell order, 
+18:29:25.335840> Support: 60868.3 VolS:1.335 Resistence: 60877 VolR:0.35
+18:29:25.669829> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:25.671840> Try Delete lock Sell order, 
+18:29:25.671840> Support: 60877.9 VolS:2.028 Resistence: 60878.8 VolR:0.911
+18:29:25.968112> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:25.969113> Try Delete lock Sell order, 
+18:29:25.969113> Support: 60877.9 VolS:2.028 Resistence: 60878.8 VolR:0.911
+18:29:26.265131> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:26.267138> Try Delete lock Sell order, 
+18:29:26.267138> Support: 60879.7 VolS:2.399 Resistence: 60880.4 VolR:1.019
+18:29:26.607884> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:26.609880> Try Delete lock Sell order, 
+18:29:26.609880> Support: 60879.7 VolS:2.261 Resistence: 60880.4 VolR:1.019
+18:29:26.921030> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:26.947041> Try Delete lock Sell order, 
+18:29:26.947041> Support: 60879.7 VolS:2.261 Resistence: 60880.4 VolR:1.019
+18:29:27.253048> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:27.260051> Try Delete lock Sell order, 
+18:29:27.261048> Support: 60883.9 VolS:1.822 Resistence: 60887.1 VolR:0.855
+18:29:27.555066> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:27.557074> Try Delete lock Sell order, 
+18:29:27.557074> Support: 60883.9 VolS:1.822 Resistence: 60887.1 VolR:0.855
+18:29:27.850185> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:27.853161> Try Delete lock Sell order, 
+18:29:27.853161> Support: 60887.9 VolS:1.805 Resistence: 60888 VolR:1.176
+18:29:28.153180> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:28.154180> Try Delete lock Sell order, 
+18:29:28.155179> Support: 60887.9 VolS:2.064 Resistence: 60888 VolR:1.179
+18:29:28.468196> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:28.471196> Try Delete lock Sell order, 
+18:29:28.471196> Support: 60887.9 VolS:2.064 Resistence: 60888 VolR:1.179
+18:29:28.760216> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:28.854218> Try Delete lock Sell order, 
+18:29:28.854218> Support: 60887.9 VolS:2.062 Resistence: 60888 VolR:1.176
+18:29:29.146240> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:29:29.148244> Try Delete lock Sell order, 
+18:29:29.148244> Support: 60887.9 VolS:2.062 Resistence: 60888 VolR:1.176
+18:29:29.444285> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....

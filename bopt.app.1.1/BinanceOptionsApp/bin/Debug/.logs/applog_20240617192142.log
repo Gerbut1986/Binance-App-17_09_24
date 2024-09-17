@@ -1,0 +1,26 @@
+19:21:54.283237> WebSocket connected! Start Partial @depth20 [Future] process...
+19:21:54.299235> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:21:54.312236> WebSocket connected! Start Partial @depth20 [Future] process...
+19:21:54.347236> WebSocket connected! Start @depth [Future] process...
+19:21:55.581312> WebSocket connected! Start Partial @depth20 [Future] process...
+19:21:55.588308> WebSocket connected! Start @depth [Future] process...
+19:21:55.592308> WebSocket connected! Start Partial @depth20 [Future] process...
+19:21:55.599309> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:21:56.212343> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 242.82671690 USDT
+19:22:15.371442> Try Open BuyLimit, Bid: 65320.1 Ask:  65320.2
+19:22:15.371442> Support: 65320.1 VolS:2.235 Resistence: 65324.5 VolR:0.076
+19:22:15.709462> [1Leg]: Buy OK BTCUSDC at 65320.10;Gap=-0.856756756756756756756756757;Price=65320.20;Slippage=0.1;Execution=335.019 ms;
+19:22:15.709462> Placed Main BuyLimit, ticketCustom = 1 ticket= 3940333742 LastBuyPrice=65320.1
+19:22:15.761465> Try Modify main Buy order, 
+19:22:15.762465> Support: 65330.1 VolS:1.578 Resistence: 65342.1 VolR:0.451
+19:22:16.624513> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65330.10;execution=860.048 ms;
+19:22:16.625514> Modify main BuyLimit (1Leg) ticketCustom=1 ticket=3940333742
+19:22:16.748521> Try Modify main Buy order, 
+19:22:16.748521> Support: 65345.3 VolS:0.803 Resistence: 65345.4 VolR:0.746
+19:22:16.964533> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65345.30;execution=215.011 ms;
+19:22:16.972532> Modify main BuyLimit (1Leg) ticketCustom=1 ticket=3940333742
+19:22:18.266930> Try Modify main Buy order, 
+19:22:18.266930> Support: 65346.2 VolS:1.27 Resistence: 65346.3 VolR:0.326
+19:22:18.657083> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+19:22:18.658084> [1Leg]: Buy failed BTCUSDC;price=65346.30
+19:22:18.658084> Error Modify main BuyLimit, ticketCustom=1 ticket=3940333742

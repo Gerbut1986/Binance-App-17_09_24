@@ -1,0 +1,1450 @@
+15:20:39.731963> WebSocket connected! Start Partial @depth20 [Future] process...
+15:20:39.733961> WebSocket connected! Start @depth [Future] process...
+15:20:39.733961> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:20:39.736962> WebSocket connected! Start Partial @depth20 [Future] process...
+15:20:40.804233> WebSocket connected! Start @depth [Future] process...
+15:20:40.812228> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:20:40.837230> WebSocket connected! Start Partial @depth20 [Future] process...
+15:20:41.642937> WebSocket connected! Start Partial @depth20 [Future] process...
+15:20:41.918817> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 101.07153932 USDT
+15:38:57.782806> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69866.1 Ask:  69866.2
+15:38:57.786805> Try Open BuyLimit, Bid: 69866.1 Ask:  69866.2
+15:38:57.787806> Support: 69866.1 VolS:2.095 Resistence: 69872.1 VolR:1.135
+15:38:58.095543> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=1.14375;Price=69894.50;Slippage=69894.5;Execution=297.737 ms;
+15:38:58.096543> Placed Main BuyLimit, ticketCustom = 1 ticket= 3202773091
+15:38:58.098535> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69891.6 Ask:  69894.5
+15:40:30.982949> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69788.5 Ask:  69790.2
+15:40:30.983949> Try place lock SellLimit, Bid: 69788.5 Ask:  69790.2
+15:40:31.968596> [1Leg]: Sell OK BTCUSDC at 69795.20;Gap=16.4975;Price=69764.10;Slippage=-31.1;Execution=983.647 ms;
+15:40:31.968596> Placed lock SellLimit, ticketCustom= 2, ticket= 3202773091 
+15:40:31.969606> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69764.0 Ask:  69764.1
+15:40:44.155201> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69764.0 Ask:  69764.1
+15:40:44.158202> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69764.0 Ask:  69764.1
+15:40:44.160203> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69764.0 Ask:  69764.1
+15:40:44.164203> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69764.0 Ask:  69764.1
+15:40:44.169202> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69764.0 Ask:  69764.1
+15:41:24.077574> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69792.0 Ask:  69792.1
+15:41:24.078574> Try Open BuyLimit, Bid: 69792.0 Ask:  69792.1
+15:41:24.081574> Support: 69788.8 VolS:1.148 Resistence: 69792.1 VolR:1.73
+15:41:28.199250> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-4.45875;Price=69832.90;Slippage=69832.9;Execution=4117.676 ms;
+15:41:28.199250> Placed Main BuyLimit, ticketCustom = 3 ticket= 3202868264
+15:42:44.468290> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69713.0 Ask:  69713.1
+15:42:44.469290> Try place lock SellLimit, Bid: 69713.0 Ask:  69713.1
+15:42:45.312006> [1Leg]: Sell OK BTCUSDC at 69718.10;Gap=-0.2575;Price=69721.90;Slippage=3.8;Execution=842.716 ms;
+15:42:45.312006> Placed lock SellLimit, ticketCustom= 4, ticket= 3202868264 
+15:42:45.315001> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69721.8 Ask:  69721.9
+15:42:47.975394> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69720.2 Ask:  69720.3
+15:43:09.147811> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69719.3 Ask:  69719.4
+15:43:09.147811> Try Open SellLimit, Ask: 69719.4
+15:43:09.148811> Support: 69719.3 VolS:1.215 Resistence: 69719.4 VolR:1.435
+15:43:09.439074> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-1.9425;Price=69719.40;Slippage=69719.4;Execution=290.263 ms;
+15:43:09.440070> Placed Main SellLimit, ticketCustom = 5 ticket = 3202928324
+15:43:12.002262> Signal add short(s), Move:0 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69708.0 Ask:  69708.1
+15:43:12.004262> Try adding SellLimit, Ask: 69708.1
+15:43:12.004262> Support: 69708 VolS:2.549 Resistence: 69708.1 VolR:1.881
+15:43:12.291287> [1Leg]: Sell OK BTCUSDC at 69713.10;Gap=4.5575;Price=69708.10;Slippage=-5.0;Execution=286.026 ms;
+15:43:12.292277> adding Sell (1Leg), ticket = 3202928324 ticketCustom = 6
+15:44:29.203459> Signal add short(s), Move:0 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69763.2 Ask:  69763.3
+15:44:29.205458> Try adding SellLimit, Ask: 69763.3
+15:44:29.206458> Support: 69760 VolS:1.303 Resistence: 69770 VolR:0.159
+15:44:29.488826> [1Leg]: Sell OK BTCUSDC at 69768.30;Gap=1.55625;Price=69763.30;Slippage=-5.0;Execution=282.368 ms;
+15:44:29.489819> adding Sell (1Leg), ticket = 3202928324 ticketCustom = 7
+15:48:21.491780> Try place lock BuyLimit, Bid: 69682.4 Ask:  69682.5
+15:48:21.948118> [1Leg]: Buy OK BTCUSDC at 69677.40;Gap=3.5625;Price=69682.50;Slippage=5.1;Execution=456.337 ms;
+15:48:21.948118> Placed lock BuyLimit, ticketCustom= 8, ticket= 3202928324 
+15:48:46.089028> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69745.3 Ask:  69745.4
+15:48:46.092029> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69745.3 Ask:  69745.4
+15:51:02.240893> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69650.8 Ask:  69650.9
+15:51:02.242893> Try Open SellLimit, Ask: 69650.9
+15:51:02.242893> Support: 69644.2 VolS:1.022 Resistence: 69651 VolR:1.182
+15:51:03.370644> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=1.24375;Price=69639.50;Slippage=69639.5;Execution=1127.751 ms;
+15:51:03.371636> Placed Main SellLimit, ticketCustom = 9 ticket = 3203232511
+15:51:06.000624> Signal add short(s), Move:0 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69639.0 Ask:  69639.1
+15:51:06.001627> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:06.001627> Support: 69638 VolS:2.117 Resistence: 69639.1 VolR:1.588
+15:51:06.400417> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:08.408714> Try adding SellLimit, Ask: 69639.1
+15:51:08.408714> Support: 69638 VolS:2.117 Resistence: 69639.1 VolR:2.527
+15:51:08.696728> [1Leg]: Sell OK BTCUSDC at 69644.10;Gap=0.6225;Price=69639.10;Slippage=-5.0;Execution=287.013 ms;
+15:51:08.696728> adding Sell (1Leg), ticket = 3203232511 ticketCustom = 10
+15:51:08.697729> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:08.698729> Support: 69638 VolS:2.117 Resistence: 69639.1 VolR:2.226
+15:51:09.014495> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:11.029809> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:11.029809> Support: 69638 VolS:2.117 Resistence: 69639.1 VolR:1.21
+15:51:11.358817> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:13.386369> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:13.387370> Support: 69631 VolS:0.7 Resistence: 69639 VolR:1.489
+15:51:13.753293> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:15.769423> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:15.770426> Support: 69610 VolS:0.132 Resistence: 69613.1 VolR:2.98
+15:51:16.138798> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:18.191557> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:18.192560> Support: 69605 VolS:1.051 Resistence: 69609.5 VolR:2.954
+15:51:18.515347> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:20.527401> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:20.527401> Support: 69609.4 VolS:1.277 Resistence: 69614.7 VolR:0.458
+15:51:20.845417> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:22.864989> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:22.865987> Support: 69628.9 VolS:1.642 Resistence: 69629 VolR:1.578
+15:51:23.211059> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:25.246985> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:25.247985> Support: 69621.2 VolS:1.376 Resistence: 69631.8 VolR:0.458
+15:51:25.570095> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:27.582129> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:27.583123> Support: 69635.1 VolS:0.809 Resistence: 69645.2 VolR:0.804
+15:51:27.903144> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:29.912312> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:29.913307> Support: 69650.7 VolS:2.806 Resistence: 69650.8 VolR:0.2
+15:51:30.282941> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:32.305728> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:32.306729> Support: 69644.1 VolS:0.325 Resistence: 69651.1 VolR:1.485
+15:51:32.670900> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:34.725826> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:34.725826> Support: 69614.4 VolS:1.125 Resistence: 69620.1 VolR:1.862
+15:51:35.070875> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:37.078115> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:37.079116> Support: 69610.2 VolS:1.487 Resistence: 69610.3 VolR:0.999
+15:51:37.422137> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:39.431797> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:39.432804> Support: 69611.1 VolS:2.46 Resistence: 69611.2 VolR:1.853
+15:51:39.793825> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:41.838068> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:41.849067> Support: 69638.1 VolS:2.196 Resistence: 69640.8 VolR:1.115
+15:51:42.188708> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:44.210637> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:44.211630> Support: 69642.1 VolS:1.143 Resistence: 69643.6 VolR:1.016
+15:51:44.531288> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:46.561518> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:46.562511> Support: 69638.1 VolS:0.5 Resistence: 69643.5 VolR:1.053
+15:51:46.886528> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:48.910338> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:48.911337> Support: 69638.1 VolS:1.129 Resistence: 69640.8 VolR:0.984
+15:51:49.232355> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:51.255104> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:51.256098> Support: 69630.3 VolS:0.215 Resistence: 69632.1 VolR:1.196
+15:51:51.601455> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:53.624619> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:53.625617> Support: 69600 VolS:12.383 Resistence: 69612.4 VolR:1.042
+15:51:53.951640> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:55.969482> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:55.970482> Support: 69609 VolS:1.882 Resistence: 69610.8 VolR:1.044
+15:51:56.292838> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:51:58.325772> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:51:58.326774> Support: 69608.9 VolS:3.128 Resistence: 69614.7 VolR:0.999
+15:51:58.648142> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:00.689093> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:52:00.690092> Support: 69608.9 VolS:2.288 Resistence: 69610 VolR:1.049
+15:52:01.021111> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:03.055588> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:52:03.056577> Support: 69613.1 VolS:1.78 Resistence: 69613.5 VolR:1.169
+15:52:03.421594> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:05.449253> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:52:05.450240> Support: 69611.5 VolS:1.105 Resistence: 69612.5 VolR:1.064
+15:52:05.767252> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:07.785391> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:52:07.786386> Support: 69619.4 VolS:2.404 Resistence: 69619.5 VolR:1.734
+15:52:08.102404> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:10.111157> Try Delete lock Buy order, ticket = 3202928324 ticketCustom = 8
+15:52:10.112150> Support: 69615.9 VolS:2.422 Resistence: 69620.6 VolR:1.163
+15:52:10.439169> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:12.479135> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69626.8 Ask:  69626.9
+15:52:12.479135> Try place lock BuyLimit, Bid: 69626.8 Ask:  69626.9
+15:52:12.764146> [1Leg]: Buy OK BTCUSDC at 69621.80;Gap=-5.89625;Price=69626.80;Slippage=5.0;Execution=284.016 ms;
+15:52:12.765144> Placed lock BuyLimit, ticketCustom= 11, ticket= 3203232511 
+15:52:12.765144> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:12.765144> Support: 69623.2 VolS:1.152 Resistence: 69626.8 VolR:2.488
+15:52:13.116168> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:15.164424> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69636.7 Ask:  69636.8
+15:52:15.164424> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:15.165418> Support: 69636.2 VolS:1.867 Resistence: 69644.7 VolR:0.301
+15:52:15.500446> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:17.503165> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:17.503165> Support: 69648.7 VolS:0.97 Resistence: 69652.9 VolR:1.369
+15:52:17.831197> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:19.866238> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:19.866238> Support: 69641.9 VolS:1.603 Resistence: 69642.3 VolR:1.127
+15:52:20.189246> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:22.207458> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:22.208458> Support: 69636 VolS:1.716 Resistence: 69636.1 VolR:1.454
+15:52:22.547479> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:28.023259> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69600.1 Ask:  69600.2
+15:52:28.023259> Try Open SellLimit, Ask: 69600.2
+15:52:28.023259> Support: 69600.1 VolS:5.86 Resistence: 69600.2 VolR:3.74
+15:52:28.404115> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=11.5475;Price=69600.20;Slippage=69600.2;Execution=380.856 ms;
+15:52:28.405117> Placed Main SellLimit, ticketCustom = 12 ticket = 3203289625
+15:52:32.000872> Signal add short(s), Move:0 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69604.9 Ask:  69605.0
+15:52:32.001862> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:32.001862> Support: 69604.9 VolS:1.573 Resistence: 69605.4 VolR:1.11
+15:52:32.316880> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:34.325364> Try adding SellLimit, Ask: 69591.8
+15:52:34.325364> Support: 69581.7 VolS:0.57 Resistence: 69591.8 VolR:1.436
+15:52:34.615937> [1Leg]: Sell OK BTCUSDC at 69596.80;Gap=1.7125;Price=69584.20;Slippage=-12.6;Execution=290.573 ms;
+15:52:34.615937> adding Sell (1Leg), ticket = 3203289625 ticketCustom = 13
+15:52:34.618938> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:34.618938> Support: 69582.7 VolS:0.967 Resistence: 69584.2 VolR:1.997
+15:52:34.950959> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:37.019596> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:37.019596> Support: 69579.8 VolS:1.144 Resistence: 69595.7 VolR:0.482
+15:52:37.707806> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:39.717418> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:39.717418> Support: 69593.7 VolS:1.234 Resistence: 69595.6 VolR:0.625
+15:52:40.075427> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:42.114537> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:42.115614> Support: 69600.7 VolS:2.691 Resistence: 69605.2 VolR:1.112
+15:52:42.439596> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:44.451347> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:44.452336> Support: 69587.4 VolS:0.172 Resistence: 69597.4 VolR:1.061
+15:52:44.768353> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:46.801991> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:46.802986> Support: 69585.9 VolS:1.078 Resistence: 69592.1 VolR:2.53
+15:52:47.125005> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:49.129975> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:49.130970> Support: 69560 VolS:1.253 Resistence: 69566.5 VolR:3.056
+15:52:49.461863> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:51.489804> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:51.490791> Support: 69566 VolS:1.934 Resistence: 69567.8 VolR:1.139
+15:52:51.811168> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:53.829622> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:53.830613> Support: 69571.3 VolS:1.029 Resistence: 69573.2 VolR:1.185
+15:52:54.148631> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:56.151572> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:56.152568> Support: 69572.8 VolS:1.106 Resistence: 69573.2 VolR:1.185
+15:52:56.469310> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:52:58.475359> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:52:58.476352> Support: 69582.8 VolS:0.157 Resistence: 69588.4 VolR:2.16
+15:52:58.832231> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:00.869117> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:00.870117> Support: 69586.8 VolS:1.115 Resistence: 69587.5 VolR:2.042
+15:53:01.194136> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:03.221210> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:03.222203> Support: 69581.8 VolS:0.216 Resistence: 69587.5 VolR:1.486
+15:53:03.547194> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:05.621934> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:05.622932> Support: 69555 VolS:1.252 Resistence: 69564.5 VolR:1.033
+15:53:05.941787> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:07.962334> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:07.963336> Support: 69555 VolS:1.263 Resistence: 69564.1 VolR:1.508
+15:53:08.283352> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:10.302740> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:10.303739> Support: 69560.4 VolS:1.992 Resistence: 69569.2 VolR:0.458
+15:53:10.640758> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:12.653379> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:12.653379> Support: 69569.2 VolS:1.753 Resistence: 69577.8 VolR:0.482
+15:53:13.007398> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:15.046557> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:15.047554> Support: 69588.7 VolS:1.893 Resistence: 69589.6 VolR:0.953
+15:53:15.378574> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:17.403861> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:17.403861> Support: 69562.3 VolS:1.058 Resistence: 69564.1 VolR:2.305
+15:53:17.729875> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:19.735357> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:19.736357> Support: 69555 VolS:1.252 Resistence: 69556.1 VolR:1.23
+15:53:20.053639> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:22.058571> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:22.058571> Support: 69555 VolS:1.252 Resistence: 69565.4 VolR:0.458
+15:53:22.375588> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:24.410860> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:24.411860> Support: 69555 VolS:2.289 Resistence: 69557.2 VolR:1.154
+15:53:24.741686> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:26.771008> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:26.772010> Support: 69564 VolS:3.439 Resistence: 69566 VolR:1.193
+15:53:27.109030> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:29.129039> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:29.129039> Support: 69548 VolS:0.769 Resistence: 69554.3 VolR:2.386
+15:53:29.447057> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:31.453311> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:31.454301> Support: 69549 VolS:1 Resistence: 69550.8 VolR:3.102
+15:53:31.793748> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:33.813713> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:33.814709> Support: 69559.6 VolS:2.065 Resistence: 69561.2 VolR:1.111
+15:53:34.138197> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:36.161125> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:36.162126> Support: 69563.7 VolS:1.978 Resistence: 69565.8 VolR:1.129
+15:53:36.512526> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:38.563680> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:38.564667> Support: 69550.7 VolS:0.361 Resistence: 69560.1 VolR:2.643
+15:53:38.884685> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:40.893937> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:40.894934> Support: 69554.1 VolS:2.039 Resistence: 69560 VolR:2.069
+15:53:41.257886> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:43.276381> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:43.277376> Support: 69552.3 VolS:1.104 Resistence: 69552.6 VolR:2.226
+15:53:43.617806> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:45.626532> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:45.627534> Support: 69563.6 VolS:2.415 Resistence: 69564.2 VolR:1.138
+15:53:45.973554> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:47.982407> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:47.983400> Support: 69563.4 VolS:3.487 Resistence: 69564.7 VolR:1.094
+15:53:48.330777> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:50.338857> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:50.349846> Support: 69563.7 VolS:1.486 Resistence: 69569.9 VolR:1.017
+15:53:50.677865> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:52.695713> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:52.696711> Support: 69570.4 VolS:1.03 Resistence: 69570.6 VolR:1.904
+15:53:53.022355> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:55.032307> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:55.033299> Support: 69568.5 VolS:0.616 Resistence: 69570.6 VolR:1.105
+15:53:55.366316> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:57.400808> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:57.401822> Support: 69589.6 VolS:2.773 Resistence: 69598.5 VolR:0.458
+15:53:57.719947> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:53:59.742391> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:53:59.743387> Support: 69599.9 VolS:2.391 Resistence: 69602.9 VolR:1.02
+15:54:00.060440> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:02.067245> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:02.068211> Support: 69595.7 VolS:0.273 Resistence: 69605.2 VolR:1.97
+15:54:02.386229> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:04.408014> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:04.409001> Support: 69601.9 VolS:1.15 Resistence: 69602.2 VolR:2.157
+15:54:04.725394> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:06.738698> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:06.739695> Support: 69607.2 VolS:2.689 Resistence: 69612.1 VolR:1.05
+15:54:07.058722> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:09.076208> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:09.077206> Support: 69627.9 VolS:1.639 Resistence: 69629.1 VolR:0.966
+15:54:09.396222> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:11.400769> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:11.400769> Support: 69641.3 VolS:1.404 Resistence: 69643.6 VolR:1.144
+15:54:13.969019> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:15.984106> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:15.992100> Support: 69617.4 VolS:1.123 Resistence: 69617.5 VolR:2.047
+15:54:16.315513> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:18.345256> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:18.345256> Support: 69616.2 VolS:1.912 Resistence: 69616.3 VolR:1.771
+15:54:18.666459> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:20.690408> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:20.691397> Support: 69612 VolS:1.904 Resistence: 69613.6 VolR:1.094
+15:54:21.010416> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:23.041706> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:23.042698> Support: 69621 VolS:3.731 Resistence: 69624.9 VolR:1.048
+15:54:23.429774> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:25.471892> Signal add short(s), Move:0 Stk:2 Lnt:0 Prg:0 Fon:0 Bid: 69646.9 Ask:  69647.0
+15:54:25.471892> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:25.471892> Support: 69638.8 VolS:1.345 Resistence: 69652.3 VolR:0.28
+15:54:39.351420> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:41.371537> Try adding SellLimit, Ask: 69642.3
+15:54:41.372536> Support: 69642.2 VolS:1.728 Resistence: 69642.3 VolR:1.96
+15:54:42.585412> [1Leg]: Sell OK BTCUSDC at 69647.30;Gap=-1.21125;Price=69628.10;Slippage=-19.2;Execution=1211.875 ms;
+15:54:42.585412> adding Sell (1Leg), ticket = 3203289625 ticketCustom = 14
+15:54:42.588412> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:42.588412> Support: 69627.4 VolS:1.038 Resistence: 69628.1 VolR:1.402
+15:54:42.958785> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:44.986500> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:44.987500> Support: 69627.8 VolS:1.079 Resistence: 69636.9 VolR:1.076
+15:54:45.306290> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:47.341591> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:47.341591> Support: 69632.6 VolS:1.889 Resistence: 69635.5 VolR:1.008
+15:54:47.684451> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:49.691710> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:49.691710> Support: 69633.9 VolS:2.771 Resistence: 69637.4 VolR:1.056
+15:54:50.049668> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:52.058089> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:52.059090> Support: 69626.5 VolS:0.176 Resistence: 69640.5 VolR:1.212
+15:54:52.416765> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:54.426847> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:54.427843> Support: 69615 VolS:1.122 Resistence: 69616.6 VolR:1.106
+15:54:54.743684> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:56.766418> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:56.767411> Support: 69620.1 VolS:2.099 Resistence: 69623.8 VolR:1.034
+15:54:57.087428> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:54:59.101363> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:54:59.102354> Support: 69621.5 VolS:0.179 Resistence: 69627.8 VolR:1.554
+15:54:59.426250> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:01.429156> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:01.430155> Support: 69627.7 VolS:1.276 Resistence: 69633.7 VolR:0.308
+15:55:01.783176> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:03.810910> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:03.811882> Support: 69632.3 VolS:1.551 Resistence: 69636.7 VolR:1.061
+15:55:04.146902> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:06.199897> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:06.200890> Support: 69633.9 VolS:2.57 Resistence: 69634.3 VolR:1.048
+15:55:06.632332> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:08.656009> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:08.659008> Support: 69637.6 VolS:3.091 Resistence: 69643 VolR:0.972
+15:55:12.297761> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:14.353880> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:14.353880> Support: 69649.9 VolS:1.587 Resistence: 69652.6 VolR:0.996
+15:55:18.697453> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:20.705718> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:20.706665> Support: 69620 VolS:1.069 Resistence: 69627.1 VolR:1.566
+15:55:21.029681> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:23.044455> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:23.045450> Support: 69610.8 VolS:1.034 Resistence: 69616.2 VolR:1.343
+15:55:23.372468> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:25.403484> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:25.404476> Support: 69622 VolS:0.716 Resistence: 69646.6 VolR:2.154
+15:55:25.755495> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:27.791401> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:27.792397> Support: 69630 VolS:1.209 Resistence: 69630.1 VolR:1.6
+15:55:28.113404> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:30.188918> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:30.188918> Support: 69630 VolS:1.116 Resistence: 69631.9 VolR:1.145
+15:55:30.564395> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:32.688851> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:32.721852> Support: 69640.4 VolS:1.341 Resistence: 69644.3 VolR:0.953
+15:55:34.086205> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:36.118231> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:36.119227> Support: 69613.7 VolS:1.044 Resistence: 69615.4 VolR:1.355
+15:55:36.437245> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:38.465991> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:38.466983> Support: 69641.5 VolS:0.459 Resistence: 69658 VolR:2.007
+15:55:38.797879> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:55:40.814993> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:55:40.833996> Support: 69632.8 VolS:0.298 Resistence: 69651.6 VolR:1.475
+15:56:27.132590> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:29.160615> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:29.161611> Support: 69610.5 VolS:1.143 Resistence: 69616.2 VolR:1.744
+15:56:30.081184> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:32.094180> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:32.094180> Support: 69598.6 VolS:1.041 Resistence: 69604.2 VolR:1.831
+15:56:32.455120> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:34.485722> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:34.486699> Support: 69579.9 VolS:2.045 Resistence: 69584.9 VolR:0.962
+15:56:34.809839> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:36.831563> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:36.832580> Support: 69565 VolS:1 Resistence: 69570.1 VolR:3.084
+15:56:37.152477> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:39.176536> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:39.176536> Support: 69554.2 VolS:1.184 Resistence: 69562.2 VolR:3.679
+15:56:39.516590> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:41.558931> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:41.559932> Support: 69558.5 VolS:0.161 Resistence: 69558.6 VolR:3.674
+15:56:41.887097> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:43.909650> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:43.910662> Support: 69558.5 VolS:1.687 Resistence: 69558.6 VolR:3.251
+15:56:44.260358> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:46.300184> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:46.301185> Support: 69558.7 VolS:1.473 Resistence: 69561.9 VolR:1.217
+15:56:46.620203> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:48.658839> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:48.659840> Support: 69558.8 VolS:0.14 Resistence: 69571.6 VolR:1.155
+15:56:48.988825> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:51.050492> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:51.051485> Support: 69579.9 VolS:1.298 Resistence: 69587.5 VolR:1.11
+15:56:51.376485> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:53.385297> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:53.386285> Support: 69611.6 VolS:1.177 Resistence: 69617.7 VolR:1.07
+15:56:53.705303> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:55.766806> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:55.767810> Support: 69616 VolS:1.45 Resistence: 69624.3 VolR:1.059
+15:56:56.094138> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:56:58.110378> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:56:58.110378> Support: 69630.7 VolS:1.224 Resistence: 69630.9 VolR:1.119
+15:56:58.439517> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:57:00.466949> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:57:00.467950> Support: 69630.2 VolS:0.973 Resistence: 69630.9 VolR:1.119
+15:57:00.821735> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:57:02.840463> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:57:02.841460> Support: 69621.4 VolS:0.357 Resistence: 69624.1 VolR:1.671
+15:57:03.159482> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:57:05.188538> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:57:05.189536> Support: 69616.2 VolS:0.961 Resistence: 69619.6 VolR:2.164
+15:57:05.519117> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:57:07.568988> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:57:07.569988> Support: 69619.5 VolS:1.971 Resistence: 69619.6 VolR:1.274
+15:57:07.886414> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:57:09.911131> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:57:09.912129> Support: 69632.7 VolS:1.075 Resistence: 69635.1 VolR:1.562
+15:57:10.230147> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:57:12.247596> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:57:12.248595> Support: 69617.4 VolS:1.144 Resistence: 69620.1 VolR:1.874
+15:57:12.634597> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:57:14.646828> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:57:14.646828> Support: 69638.1 VolS:2.653 Resistence: 69644.4 VolR:1.18
+15:57:14.972847> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:57:16.988282> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:57:17.013285> Support: 69645 VolS:1.633 Resistence: 69648.8 VolR:1.174
+15:59:19.350299> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:59:21.366146> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:59:21.366146> Support: 69626 VolS:1.036 Resistence: 69628.7 VolR:1.978
+15:59:22.667214> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:59:24.722295> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:59:24.723295> Support: 69643.9 VolS:1.541 Resistence: 69644 VolR:1.416
+15:59:25.582698> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+15:59:27.590329> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+15:59:27.592330> Support: 69651.9 VolS:3.099 Resistence: 69655.3 VolR:1.064
+16:00:34.088680> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:00:36.177799> Signal add short(s), Move:0 Stk:2 Lnt:0 Prg:0 Fon:0 Bid: 69729.9 Ask:  69730.0
+16:00:36.177799> Try Delete lock Buy order, ticket = 3203232511 ticketCustom = 11
+16:00:36.290807> Support: 69729.9 VolS:2.161 Resistence: 69730 VolR:5.012
+16:01:12.861768> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:01:14.883928> Signal 2(s), Move:2 Stk:2 Lnt:2 Prg:0 Fon:0 Bid: 69795.6 Ask:  69795.7
+16:01:14.884922> Signal add short(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69795.6 Ask:  69795.7
+16:01:14.884922> Try place lock BuyLimit, Bid: 69795.6 Ask:  69795.7
+16:01:15.186480> [1Leg]: Buy OK BTCUSDC at 69790.60;Gap=-2.17375;Price=69806.00;Slippage=15.4;Execution=300.559 ms;
+16:01:15.186480> Placed lock BuyLimit, ticketCustom= 15, ticket= 3203289625 
+16:01:15.187481> Try Delete lock Buy order, ticket = 3203289625 ticketCustom = 15
+16:01:15.187481> Support: 69803.9 VolS:2.993 Resistence: 69810.2 VolR:0.959
+16:01:15.516290> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:01:17.552944> Signal add short(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69820.1 Ask:  69820.2
+16:01:17.553940> Try Delete lock Buy order, ticket = 3203289625 ticketCustom = 15
+16:01:17.553940> Support: 69818.8 VolS:1.182 Resistence: 69820.2 VolR:0.244
+16:01:17.869507> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:01:19.897681> Signal add short(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69804.0 Ask:  69804.1
+16:01:19.898676> Try Delete lock Buy order, ticket = 3203289625 ticketCustom = 15
+16:01:19.898676> Support: 69804 VolS:1.011 Resistence: 69804.1 VolR:1.435
+16:01:20.629593> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:01:22.650119> Signal add short(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69795.2 Ask:  69795.3
+16:01:22.650119> Try Delete lock Buy order, ticket = 3203289625 ticketCustom = 15
+16:01:22.651119> Support: 69795.2 VolS:0.514 Resistence: 69796 VolR:1.196
+16:01:22.978136> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:01:58.641745> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69791.9 Ask:  69792.0
+16:01:58.641745> Try Open BuyLimit, Bid: 69791.9 Ask:  69792.0
+16:01:58.641745> Support: 69791.3 VolS:1.165 Resistence: 69792 VolR:2.112
+16:01:58.929760> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.2475;Price=69796.00;Slippage=69796.0;Execution=288.015 ms;
+16:01:58.930762> Placed Main BuyLimit, ticketCustom = 16 ticket= 3203621492
+16:03:12.659148> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69811.6 Ask:  69811.7
+16:03:12.659148> Try place lock SellLimit, Bid: 69811.6 Ask:  69811.7
+16:03:12.947362> [1Leg]: Sell OK BTCUSDC at 69816.70;Gap=0.555;Price=69810.30;Slippage=-6.4;Execution=287.215 ms;
+16:03:12.948361> Placed lock SellLimit, ticketCustom= 17, ticket= 3203621492 
+16:03:14.325238> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69810.2 Ask:  69810.3
+16:03:15.396023> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69802.0 Ask:  69802.1
+16:04:09.621716> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69847.2 Ask:  69848.4
+16:04:09.623716> Try Open BuyLimit, Bid: 69847.2 Ask:  69848.4
+16:04:09.624717> Support: 69844.2 VolS:2.017 Resistence: 69850 VolR:10.136
+16:04:09.905732> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=17.57875;Price=69848.40;Slippage=69848.4;Execution=281.015 ms;
+16:04:09.906733> Placed Main BuyLimit, ticketCustom = 18 ticket= 3203689024
+16:04:38.974016> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69871.5 Ask:  69871.6
+16:04:38.984018> Try place lock SellLimit, Bid: 69871.5 Ask:  69871.6
+16:04:39.270167> [1Leg]: Sell OK BTCUSDC at 69876.60;Gap=-2.50375;Price=69848.50;Slippage=-28.1;Execution=285.150 ms;
+16:04:39.270167> Placed lock SellLimit, ticketCustom= 19, ticket= 3203689024 
+16:04:39.327166> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69848.4 Ask:  69848.5
+16:04:39.480175> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69848.4 Ask:  69848.5
+16:04:39.536178> Signal 1(s), Move:2 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 69848.4 Ask:  69848.5
+16:05:05.835162> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69861.6 Ask:  69861.7
+16:15:18.493314> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69863.9 Ask:  69864.0
+16:15:18.494312> Try Open BuyLimit, Bid: 69863.9 Ask:  69864.0
+16:15:18.494312> Support: 69863.7 VolS:1.111 Resistence: 69869 VolR:10
+16:15:18.781610> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.7825;Price=69864.00;Slippage=69864.0;Execution=286.298 ms;
+16:15:18.782612> Placed Main BuyLimit, ticketCustom = 20 ticket= 3204036998
+16:19:23.855306> Signal 2(s), Move:2 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 69905.9 Ask:  69906.0
+16:19:23.856306> Try adding BuyLimit, Bid: 69905.9 Ask:  69906.0
+16:19:23.856306> Support: 69905.9 VolS:2.817 Resistence: 69908.3 VolR:1.146
+16:19:24.165455> [1Leg]: Buy OK BTCUSDC at 69900.90;Gap=-1.255;Price=69922.40;Slippage=21.5;Execution=308.150 ms;
+16:19:24.165455> adding BuyLimit, ticket = 3204036998 ticketCustom = 21 
+16:19:24.168452> Try place lock SellLimit, Bid: 69922.3 Ask:  69922.4
+16:19:24.449815> [1Leg]: Sell OK BTCUSDC at 69927.40;Gap=15.145;Price=69922.40;Slippage=-5.0;Execution=281.363 ms;
+16:19:24.450815> Placed lock SellLimit, ticketCustom= 22, ticket= 3204036998 
+16:19:29.021693> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:29.066696> Support: 69896 VolS:1.767 Resistence: 69904.1 VolR:0.51
+16:19:30.311621> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:32.316564> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:32.317554> Support: 69896.4 VolS:3.657 Resistence: 69902.3 VolR:1.131
+16:19:32.632573> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:34.660144> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:34.661142> Support: 69919.6 VolS:1.988 Resistence: 69921 VolR:0.973
+16:19:35.500528> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:37.559161> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:37.560162> Support: 69918 VolS:1.104 Resistence: 69920.2 VolR:0.984
+16:19:37.882797> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:39.896741> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:39.896741> Support: 69918 VolS:1.104 Resistence: 69920.2 VolR:0.984
+16:19:40.214945> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:42.242613> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:42.243600> Support: 69911.6 VolS:1.127 Resistence: 69914.3 VolR:2.592
+16:19:42.583618> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:44.650695> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:44.650695> Support: 69896.3 VolS:1.019 Resistence: 69900.2 VolR:2.579
+16:19:44.967835> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:46.990623> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:46.991622> Support: 69900.1 VolS:2.3 Resistence: 69900.2 VolR:1.872
+16:19:47.307639> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:49.312499> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:49.312499> Support: 69900.1 VolS:1.973 Resistence: 69900.2 VolR:1.959
+16:19:49.632999> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:51.657803> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:51.658797> Support: 69900.1 VolS:2.034 Resistence: 69900.2 VolR:1.884
+16:19:51.975712> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:53.994453> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:53.995446> Support: 69900.1 VolS:1.532 Resistence: 69900.2 VolR:2.583
+16:19:54.674376> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:56.695748> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:56.696738> Support: 69900.1 VolS:1.481 Resistence: 69900.2 VolR:2.636
+16:19:57.013881> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:19:59.038043> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:19:59.039040> Support: 69900.1 VolS:1.481 Resistence: 69900.2 VolR:2.636
+16:19:59.361057> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:01.374005> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:01.375005> Support: 69900.1 VolS:2.243 Resistence: 69905.8 VolR:1.006
+16:20:01.744025> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:03.751704> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:03.752696> Support: 69900.1 VolS:2.241 Resistence: 69905.8 VolR:1.006
+16:20:04.069558> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:06.086716> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:06.087705> Support: 69900.1 VolS:1.681 Resistence: 69900.2 VolR:1.897
+16:20:06.421282> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:08.440033> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:08.441010> Support: 69896.6 VolS:0.456 Resistence: 69900.2 VolR:2.137
+16:20:08.890741> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:10.912461> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:10.913452> Support: 69898.8 VolS:1.183 Resistence: 69900.2 VolR:2.206
+16:20:11.266470> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:13.304978> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:13.305978> Support: 69893.9 VolS:0.456 Resistence: 69900.2 VolR:1.457
+16:20:13.628773> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:15.632758> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:15.633750> Support: 69900.1 VolS:2.146 Resistence: 69902.6 VolR:0.997
+16:20:15.966777> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:17.982050> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:17.982050> Support: 69883.8 VolS:1.169 Resistence: 69884.4 VolR:1.227
+16:20:18.351201> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:20.415427> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:20.415427> Support: 69874.7 VolS:2.238 Resistence: 69880.5 VolR:1.01
+16:20:20.747368> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:22.763849> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:22.764848> Support: 69878.2 VolS:2.199 Resistence: 69880 VolR:1.157
+16:20:24.046566> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:26.059081> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:26.060073> Support: 69893 VolS:2.564 Resistence: 69896.4 VolR:1.021
+16:20:26.403797> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:28.427322> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:28.427322> Support: 69884.2 VolS:0.456 Resistence: 69888.3 VolR:1.108
+16:20:28.752068> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:30.772251> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:30.773238> Support: 69882.3 VolS:1.095 Resistence: 69883.7 VolR:2.899
+16:20:31.099258> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:33.133343> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:33.134341> Support: 69876.8 VolS:1.012 Resistence: 69878.1 VolR:2.492
+16:20:33.462354> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:35.471213> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:35.472209> Support: 69858 VolS:0.456 Resistence: 69867.8 VolR:2.345
+16:20:35.799404> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:37.814922> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:37.815922> Support: 69861.1 VolS:1.149 Resistence: 69862.4 VolR:2.076
+16:20:38.528438> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:40.559895> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:40.560891> Support: 69845.8 VolS:1.083 Resistence: 69853.1 VolR:2.965
+16:20:40.937466> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:42.940389> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69837.4 Ask:  69837.5
+16:20:42.941381> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:42.943382> Support: 69833.6 VolS:0.964 Resistence: 69837.5 VolR:2.422
+16:20:43.269400> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:45.290036> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69837.4 Ask:  69837.5
+16:20:45.291031> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:45.292032> Support: 69834.4 VolS:1.077 Resistence: 69837.5 VolR:2.871
+16:20:45.624050> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:47.659536> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69839.9 Ask:  69840.0
+16:20:47.660535> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:47.660535> Support: 69839.9 VolS:2.565 Resistence: 69842.9 VolR:1.179
+16:20:47.987110> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:49.993062> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69839.9 Ask:  69840.0
+16:20:49.993938> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:49.993938> Support: 69839.9 VolS:2.087 Resistence: 69840.2 VolR:1.059
+16:20:50.330961> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:52.340751> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69832.9 Ask:  69833.0
+16:20:52.341738> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:52.342738> Support: 69831.2 VolS:1.06 Resistence: 69833 VolR:4.216
+16:20:53.035636> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:55.049543> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69839.9 Ask:  69840.0
+16:20:55.049543> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:55.050543> Support: 69839.9 VolS:2.744 Resistence: 69844.6 VolR:1.05
+16:20:55.377567> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:57.411513> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69839.9 Ask:  69840.0
+16:20:57.412507> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:57.412507> Support: 69836.3 VolS:1.186 Resistence: 69840 VolR:1.303
+16:20:57.740556> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:20:59.771400> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69839.9 Ask:  69840.0
+16:20:59.772381> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:20:59.772381> Support: 69839.9 VolS:2.472 Resistence: 69840.4 VolR:0.957
+16:21:00.098165> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:02.133906> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69849.7 Ask:  69849.8
+16:21:02.134903> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:02.134903> Support: 69849.7 VolS:3.584 Resistence: 69850 VolR:5
+16:21:02.493665> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:04.524986> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:04.524986> Support: 69859.5 VolS:4.268 Resistence: 69867.1 VolR:1.077
+16:21:04.855012> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:06.883598> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:06.883598> Support: 69859.5 VolS:4.557 Resistence: 69862.6 VolR:1.133
+16:21:07.202054> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:09.225639> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:09.225639> Support: 69862.5 VolS:4.099 Resistence: 69862.6 VolR:1.461
+16:21:09.628352> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:11.648604> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:11.649579> Support: 69855.8 VolS:1.228 Resistence: 69862.6 VolR:2.162
+16:21:11.969286> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:13.994213> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:13.995212> Support: 69854.5 VolS:2.701 Resistence: 69864.3 VolR:0.428
+16:21:14.320149> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:16.339296> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:16.340294> Support: 69854.5 VolS:3.896 Resistence: 69858.3 VolR:0.989
+16:21:16.679866> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:18.694381> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:18.695379> Support: 69857.6 VolS:1.154 Resistence: 69859.3 VolR:2.385
+16:21:19.007526> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:21.044672> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:21.045678> Support: 69875.1 VolS:2.059 Resistence: 69877.9 VolR:1.189
+16:21:21.407259> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:23.453216> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:23.454206> Support: 69881.7 VolS:1.269 Resistence: 69885.1 VolR:1.178
+16:21:23.771762> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:25.790857> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:25.791857> Support: 69881.2 VolS:1.093 Resistence: 69881.8 VolR:1.716
+16:21:26.153850> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:28.189369> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:28.209365> Support: 69876.2 VolS:0.965 Resistence: 69881.8 VolR:1.369
+16:21:28.531385> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:30.545678> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:30.546674> Support: 69877.5 VolS:0.956 Resistence: 69880.1 VolR:3.046
+16:21:30.868229> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:32.889732> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:32.890729> Support: 69881.7 VolS:1.991 Resistence: 69884.4 VolR:1.124
+16:21:33.248753> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:35.272822> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:35.273812> Support: 69881.7 VolS:1.185 Resistence: 69881.8 VolR:2.051
+16:21:35.605252> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:37.622763> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:37.623759> Support: 69881.7 VolS:1.347 Resistence: 69881.8 VolR:2.069
+16:21:37.943743> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:39.945863> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:39.945863> Support: 69881.7 VolS:1.618 Resistence: 69886.9 VolR:1.03
+16:21:40.285876> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:42.326147> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:42.327145> Support: 69876.2 VolS:0.456 Resistence: 69881.8 VolR:2.233
+16:21:42.643702> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:44.673432> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:44.674426> Support: 69879.6 VolS:1.167 Resistence: 69880.5 VolR:2.862
+16:21:44.993446> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:46.996802> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:46.996802> Support: 69880.3 VolS:1.13 Resistence: 69880.5 VolR:2.844
+16:21:47.328144> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:49.357278> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:49.358269> Support: 69866.4 VolS:1.06 Resistence: 69872.4 VolR:3.145
+16:21:50.037946> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:52.056244> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:52.057241> Support: 69868.9 VolS:2.002 Resistence: 69869 VolR:1.234
+16:21:52.375611> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:54.380123> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:54.381115> Support: 69870.5 VolS:2.098 Resistence: 69877.5 VolR:0.215
+16:21:54.699952> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:56.713476> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:56.714476> Support: 69881.7 VolS:1.369 Resistence: 69881.8 VolR:2.267
+16:21:57.032491> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:21:59.062771> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:21:59.063762> Support: 69877.2 VolS:1.202 Resistence: 69877.9 VolR:2.919
+16:21:59.405276> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:01.416581> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:01.417577> Support: 69877.2 VolS:1.205 Resistence: 69877.3 VolR:1.434
+16:22:01.778217> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:03.800148> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:03.809150> Support: 69877.2 VolS:1.21 Resistence: 69877.3 VolR:1.194
+16:22:04.145956> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:06.156452> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:06.157450> Support: 69868.9 VolS:0.465 Resistence: 69869.2 VolR:2.547
+16:22:06.485469> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:08.518962> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:08.518962> Support: 69865.9 VolS:0.999 Resistence: 69869 VolR:2.219
+16:22:08.861074> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:10.897682> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:10.898616> Support: 69861.8 VolS:0.985 Resistence: 69869 VolR:2.769
+16:22:11.213971> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:13.243340> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:13.244338> Support: 69862.6 VolS:0.98 Resistence: 69865.1 VolR:3.202
+16:22:13.560902> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:15.563435> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:15.563435> Support: 69859.6 VolS:2.447 Resistence: 69859.9 VolR:1.079
+16:22:15.921453> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:17.933810> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:17.934810> Support: 69864.3 VolS:1.139 Resistence: 69867 VolR:2.256
+16:22:18.252829> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:20.284228> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:20.284228> Support: 69852.4 VolS:1.003 Resistence: 69856.2 VolR:2.642
+16:22:20.603366> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:22.628670> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:22.629664> Support: 69852.4 VolS:1.05 Resistence: 69856.2 VolR:3.155
+16:22:23.006685> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:25.015978> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:25.016979> Support: 69851.1 VolS:1.645 Resistence: 69851.2 VolR:1.738
+16:22:25.337469> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:27.368312> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69845.5 Ask:  69845.6
+16:22:27.368312> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:27.368312> Support: 69840.9 VolS:1.151 Resistence: 69845.6 VolR:3.148
+16:22:27.700332> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:29.729620> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69845.5 Ask:  69845.6
+16:22:29.729620> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:29.730614> Support: 69844.1 VolS:0.988 Resistence: 69845.6 VolR:3.017
+16:22:30.065773> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:32.070438> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.5 Ask:  69838.6
+16:22:32.071439> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:32.071439> Support: 69835.8 VolS:1.134 Resistence: 69838.6 VolR:2.837
+16:22:32.404063> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:34.449565> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69845.4 Ask:  69845.5
+16:22:34.450566> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:34.450566> Support: 69845.4 VolS:3.075 Resistence: 69847.5 VolR:1.187
+16:22:34.776568> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:36.813498> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69845.4 Ask:  69845.5
+16:22:36.814497> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:36.814497> Support: 69842.5 VolS:0.995 Resistence: 69845.5 VolR:2.09
+16:22:37.141443> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:39.145370> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.1 Ask:  69838.2
+16:22:39.146368> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:39.146368> Support: 69834.2 VolS:1.166 Resistence: 69838.9 VolR:1.321
+16:22:39.505968> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:41.541044> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.1 Ask:  69838.2
+16:22:41.541044> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:41.542040> Support: 69838.1 VolS:1.687 Resistence: 69838.2 VolR:1.779
+16:22:41.866485> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:43.870979> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.1 Ask:  69838.2
+16:22:43.870979> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:43.871970> Support: 69838.1 VolS:1.738 Resistence: 69838.3 VolR:1.313
+16:22:44.205116> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:46.234481> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.1 Ask:  69838.2
+16:22:46.235479> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:46.235479> Support: 69838.1 VolS:2.088 Resistence: 69838.3 VolR:1.313
+16:22:46.603497> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:48.627177> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.1 Ask:  69838.2
+16:22:48.628169> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:48.628169> Support: 69838.1 VolS:1.642 Resistence: 69838.2 VolR:1.546
+16:22:48.980585> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:50.997644> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:22:50.998644> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:50.998644> Support: 69838.8 VolS:4.039 Resistence: 69845.3 VolR:1.089
+16:22:51.326661> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:53.352365> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:22:53.353360> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:53.353360> Support: 69838.8 VolS:4.036 Resistence: 69846.3 VolR:0.988
+16:22:53.681148> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:55.699389> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:22:55.700387> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:55.701387> Support: 69838.8 VolS:1.682 Resistence: 69838.9 VolR:2.553
+16:22:56.054014> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:22:58.059955> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:22:58.059955> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:22:58.060956> Support: 69834.6 VolS:1.169 Resistence: 69838.9 VolR:2.571
+16:22:58.385734> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:00.403463> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:00.403463> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:00.404462> Support: 69838.8 VolS:2.665 Resistence: 69841.1 VolR:1.141
+16:23:00.728480> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:02.749633> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:02.750632> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:02.750632> Support: 69838.8 VolS:2.627 Resistence: 69839.2 VolR:1.129
+16:23:03.091484> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:05.131841> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:05.131841> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:05.131841> Support: 69838.8 VolS:2.717 Resistence: 69839.2 VolR:1.129
+16:23:05.451214> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:07.483385> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:07.489374> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:07.489374> Support: 69838.8 VolS:2.339 Resistence: 69839.2 VolR:1.129
+16:23:07.804820> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:09.818223> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:09.819217> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:09.819217> Support: 69838.8 VolS:2.708 Resistence: 69844.8 VolR:1.165
+16:23:10.198825> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:12.226098> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:12.227099> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:12.228088> Support: 69838.8 VolS:1.763 Resistence: 69838.9 VolR:1.994
+16:23:12.553106> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:14.585243> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:14.585243> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:14.586241> Support: 69838.8 VolS:2.558 Resistence: 69838.9 VolR:1.844
+16:23:14.911260> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:16.933544> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:16.933544> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:16.939533> Support: 69838.8 VolS:2.511 Resistence: 69843.4 VolR:1.151
+16:23:17.289549> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:19.302267> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:19.318269> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:19.319269> Support: 69838.8 VolS:3.156 Resistence: 69842.3 VolR:1.08
+16:23:19.640326> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:21.662684> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:21.665670> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:21.665670> Support: 69838.8 VolS:3.121 Resistence: 69841.5 VolR:1.127
+16:23:21.989711> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:23.999046> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69847.7 Ask:  69847.8
+16:23:23.999967> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:23.999967> Support: 69847.7 VolS:2.6 Resistence: 69849.3 VolR:1.023
+16:23:24.326986> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:26.331228> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:26.332225> Support: 69851.9 VolS:3.687 Resistence: 69855.9 VolR:1.117
+16:23:27.193942> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:29.212453> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:29.213452> Support: 69855.8 VolS:3.273 Resistence: 69855.9 VolR:1.22
+16:23:29.529439> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:31.540764> Signal add long(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69838.8 Ask:  69838.9
+16:23:31.541751> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:31.541751> Support: 69838.1 VolS:0.98 Resistence: 69838.9 VolR:3.189
+16:23:31.855768> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:33.877978> Signal add long(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69834.8 Ask:  69834.9
+16:23:33.878973> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:33.879974> Support: 69834.7 VolS:1.072 Resistence: 69834.9 VolR:2.721
+16:23:34.197421> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:36.205949> Signal add long(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69839.2 Ask:  69839.3
+16:23:36.206949> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:36.206949> Support: 69839.2 VolS:2.465 Resistence: 69839.3 VolR:0.989
+16:23:36.525969> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:38.539208> Signal add long(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69839.2 Ask:  69839.3
+16:23:38.539208> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:38.540211> Support: 69839.2 VolS:2.382 Resistence: 69839.3 VolR:0.855
+16:23:38.887364> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:40.901411> Signal add long(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69842.8 Ask:  69842.9
+16:23:40.902410> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:40.903410> Support: 69832 VolS:1.194 Resistence: 69842.9 VolR:3.057
+16:23:41.217864> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:43.252386> Signal add long(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69833.3 Ask:  69833.4
+16:23:43.253377> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:43.254378> Support: 69828.6 VolS:0.456 Resistence: 69833.4 VolR:1.789
+16:23:43.572400> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:45.585104> Signal add long(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69831.8 Ask:  69831.9
+16:23:45.586104> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:45.586104> Support: 69827.1 VolS:1.161 Resistence: 69831.9 VolR:2.906
+16:23:45.922122> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:47.944906> Signal add long(s), Move:2 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69824.1 Ask:  69824.2
+16:23:47.945896> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:47.945896> Support: 69820.8 VolS:1.065 Resistence: 69824.2 VolR:3.618
+16:23:48.264715> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:50.285047> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69821.2 Ask:  69821.3
+16:23:50.286044> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:50.287044> Support: 69820.8 VolS:1.065 Resistence: 69821.3 VolR:2.137
+16:23:50.619061> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:52.648637> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69816.1 Ask:  69816.2
+16:23:52.649635> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:52.649635> Support: 69811.1 VolS:1.099 Resistence: 69816.2 VolR:2.594
+16:23:52.980475> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:55.002354> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69811.1 Ask:  69811.2
+16:23:55.003354> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:55.003354> Support: 69810.8 VolS:0.999 Resistence: 69810.9 VolR:2.632
+16:23:55.320780> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:57.343724> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69798.5 Ask:  69798.6
+16:23:57.343724> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:57.344722> Support: 69797.2 VolS:1.034 Resistence: 69798.6 VolR:3.388
+16:23:57.664528> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:23:59.701101> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69791.9 Ask:  69792.0
+16:23:59.702091> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:23:59.702091> Support: 69791.9 VolS:2.507 Resistence: 69798.4 VolR:0.167
+16:24:00.020109> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:02.032397> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69791.9 Ask:  69792.0
+16:24:02.052402> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:02.053400> Support: 69789.7 VolS:0.457 Resistence: 69792 VolR:1.943
+16:24:02.371016> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:04.387824> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69789.6 Ask:  69789.7
+16:24:04.388821> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:04.388821> Support: 69789.1 VolS:0.994 Resistence: 69789.7 VolR:2.3
+16:24:04.705444> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:06.726903> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69787.5 Ask:  69787.6
+16:24:06.727899> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:06.727899> Support: 69783 VolS:1.163 Resistence: 69787.6 VolR:2.963
+16:24:07.043414> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:09.069788> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69787.5 Ask:  69787.6
+16:24:09.070774> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:09.070774> Support: 69781 VolS:1.15 Resistence: 69787.6 VolR:3.292
+16:24:09.388697> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:11.400982> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69781.9 Ask:  69782.0
+16:24:11.401981> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:11.401981> Support: 69778.9 VolS:1.029 Resistence: 69782 VolR:3.498
+16:24:11.721998> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:13.749934> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69781.9 Ask:  69782.0
+16:24:13.749934> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:13.750929> Support: 69781.7 VolS:0.973 Resistence: 69782 VolR:1.462
+16:24:14.065946> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:16.084200> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69781.9 Ask:  69782.0
+16:24:16.085205> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:16.085205> Support: 69781.9 VolS:1.039 Resistence: 69782 VolR:1.408
+16:24:16.398377> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:18.405895> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69781.9 Ask:  69782.0
+16:24:18.406884> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:18.406884> Support: 69781.9 VolS:1.47 Resistence: 69782 VolR:1.261
+16:24:18.746233> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:20.770753> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69782.2 Ask:  69782.3
+16:24:20.771751> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:20.771751> Support: 69782.2 VolS:2.383 Resistence: 69786.4 VolR:1.061
+16:24:21.095770> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:23.109846> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69782.2 Ask:  69782.3
+16:24:23.110845> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:23.110845> Support: 69782.2 VolS:2.373 Resistence: 69785.1 VolR:1.051
+16:24:23.434253> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:25.454571> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69783.9 Ask:  69784.0
+16:24:25.455569> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:25.455569> Support: 69783.9 VolS:2.339 Resistence: 69789.7 VolR:1.161
+16:24:25.777107> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:27.824274> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69785.5 Ask:  69785.6
+16:24:27.825274> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:27.825274> Support: 69785.5 VolS:1.846 Resistence: 69788.2 VolR:1.154
+16:24:28.166300> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:30.206144> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69775.7 Ask:  69775.8
+16:24:30.207142> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:30.207142> Support: 69770 VolS:1.141 Resistence: 69775.8 VolR:4.012
+16:24:30.522391> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:32.531659> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69774.0 Ask:  69774.1
+16:24:32.532653> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:32.532653> Support: 69774 VolS:1.432 Resistence: 69774.1 VolR:2.692
+16:24:32.855671> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:34.872822> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69774.0 Ask:  69774.1
+16:24:34.873826> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:34.873826> Support: 69774 VolS:1.405 Resistence: 69774.6 VolR:1.156
+16:24:35.195470> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:37.208177> Signal add long(s), Move:2 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69774.0 Ask:  69774.1
+16:24:37.209171> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:37.209171> Support: 69774 VolS:1.527 Resistence: 69774.6 VolR:1.156
+16:24:37.888981> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:39.917330> Signal add long(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69767.3 Ask:  69767.4
+16:24:39.918326> Signal 1(s), Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 69767.3 Ask:  69767.4
+16:24:39.918326> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:39.918326> Support: 69767.3 VolS:1.219 Resistence: 69767.4 VolR:2.938
+16:24:40.258346> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:42.270497> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69767.3 Ask:  69767.4
+16:24:42.270497> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:42.271499> Support: 69767.3 VolS:1.224 Resistence: 69767.4 VolR:1.891
+16:24:42.607352> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:44.630921> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69768.3 Ask:  69768.4
+16:24:44.630921> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:44.630921> Support: 69768.2 VolS:1.409 Resistence: 69769.7 VolR:1.117
+16:24:44.972970> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:47.015939> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69765.0 Ask:  69765.1
+16:24:47.015939> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:47.016956> Support: 69762.3 VolS:1.181 Resistence: 69765.1 VolR:3.565
+16:24:47.357367> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:49.374727> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69757.3 Ask:  69757.4
+16:24:49.375723> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:49.375723> Support: 69750 VolS:3.16 Resistence: 69757.4 VolR:2.206
+16:24:49.757474> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:51.771174> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69754.5 Ask:  69754.6
+16:24:51.773174> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:51.773174> Support: 69750 VolS:3.036 Resistence: 69754.6 VolR:3
+16:24:52.103391> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:54.193123> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69750.0 Ask:  69750.1
+16:24:54.194108> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:54.194108> Support: 69750 VolS:3.307 Resistence: 69750.1 VolR:3.495
+16:24:54.513569> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:56.545188> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69763.3 Ask:  69763.4
+16:24:56.545188> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:56.545188> Support: 69763.3 VolS:1.196 Resistence: 69766.3 VolR:1.085
+16:24:56.861205> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:58.868427> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69763.3 Ask:  69763.4
+16:24:58.868427> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:24:58.869427> Support: 69763.3 VolS:1.085 Resistence: 69763.4 VolR:1.085
+16:24:59.193270> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:01.209424> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69756.7 Ask:  69756.8
+16:25:01.238426> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:01.241424> Support: 69750 VolS:3.03 Resistence: 69760.1 VolR:2.664
+16:25:01.580445> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:03.602950> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69756.7 Ask:  69756.8
+16:25:03.603951> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:03.604953> Support: 69750 VolS:3.03 Resistence: 69756.8 VolR:3.184
+16:25:03.920441> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:05.939238> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69756.7 Ask:  69756.8
+16:25:05.940230> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:05.941231> Support: 69750 VolS:3.03 Resistence: 69756.8 VolR:2.478
+16:25:06.310377> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:08.348902> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69771.9 Ask:  69772.0
+16:25:08.349894> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:08.349894> Support: 69771.9 VolS:2.266 Resistence: 69780.7 VolR:0.17
+16:25:08.690328> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:10.716251> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69790.2 Ask:  69790.3
+16:25:10.717241> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:10.717241> Support: 69790.2 VolS:1.71 Resistence: 69794.9 VolR:1.17
+16:25:11.059822> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:13.090213> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69814.1 Ask:  69814.2
+16:25:13.091183> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:13.091183> Support: 69805.1 VolS:6.737 Resistence: 69820.3 VolR:1.138
+16:25:13.408201> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:15.433149> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69827.9 Ask:  69828.0
+16:25:15.434152> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:15.434152> Support: 69819.5 VolS:6.033 Resistence: 69828.9 VolR:0.971
+16:25:15.750859> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:17.782929> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69827.9 Ask:  69828.0
+16:25:17.783926> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:17.810927> Support: 69827.9 VolS:1.016 Resistence: 69828 VolR:1.913
+16:25:18.132954> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:20.150442> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69827.9 Ask:  69828.0
+16:25:20.151433> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:20.182435> Support: 69827.9 VolS:0.993 Resistence: 69828 VolR:2.077
+16:25:20.500006> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:22.525344> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69820.2 Ask:  69820.3
+16:25:22.525344> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:22.526352> Support: 69813.9 VolS:1.168 Resistence: 69820.3 VolR:2.682
+16:25:22.852807> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:24.903190> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69817.6 Ask:  69817.7
+16:25:24.904191> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:24.904191> Support: 69813.9 VolS:1.168 Resistence: 69817.7 VolR:3.126
+16:25:25.222485> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:27.231115> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69817.6 Ask:  69817.7
+16:25:27.232105> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:27.232105> Support: 69817.5 VolS:1.137 Resistence: 69817.7 VolR:2.18
+16:25:27.548756> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:29.566416> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69817.6 Ask:  69817.7
+16:25:29.567406> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:29.567406> Support: 69815.2 VolS:1.052 Resistence: 69817.7 VolR:2.592
+16:25:29.921764> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:31.958073> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69819.9 Ask:  69820.0
+16:25:31.958073> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:31.959071> Support: 69819.9 VolS:2.836 Resistence: 69824.7 VolR:0.958
+16:25:32.277287> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:34.285574> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69819.9 Ask:  69820.0
+16:25:34.286572> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:34.286572> Support: 69819.9 VolS:1.246 Resistence: 69820 VolR:2.49
+16:25:34.604597> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:36.623655> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69819.9 Ask:  69820.0
+16:25:36.624650> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:36.624650> Support: 69814.1 VolS:0.988 Resistence: 69820 VolR:2.639
+16:25:36.983873> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:39.026148> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69819.9 Ask:  69820.0
+16:25:39.075152> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:39.076151> Support: 69816.4 VolS:1.016 Resistence: 69820 VolR:2.158
+16:25:39.398170> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:41.409320> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69805.6 Ask:  69805.7
+16:25:41.409320> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:41.410313> Support: 69803.6 VolS:1.013 Resistence: 69805.7 VolR:2.101
+16:25:41.738334> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:43.745223> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69802.0 Ask:  69802.1
+16:25:43.746211> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:43.746211> Support: 69800.4 VolS:1.101 Resistence: 69802.1 VolR:1.879
+16:25:44.092228> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:46.120078> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69804.0 Ask:  69804.1
+16:25:46.121079> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:46.121079> Support: 69800.4 VolS:1.101 Resistence: 69804.1 VolR:2.942
+16:25:46.438367> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:48.459797> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69804.0 Ask:  69804.1
+16:25:48.460793> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:48.460793> Support: 69797 VolS:0.457 Resistence: 69804.1 VolR:3.029
+16:25:48.777813> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:50.801074> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69801.2 Ask:  69801.3
+16:25:50.801074> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:50.802063> Support: 69798 VolS:1.175 Resistence: 69801.3 VolR:3.815
+16:25:51.117569> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:53.180386> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69796.0 Ask:  69796.1
+16:25:53.181383> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:53.181383> Support: 69796 VolS:1.06 Resistence: 69796.1 VolR:2.348
+16:25:53.499229> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:55.517665> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69793.3 Ask:  69793.4
+16:25:55.518657> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:55.519660> Support: 69789.2 VolS:1.183 Resistence: 69793.4 VolR:3.764
+16:25:55.837674> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:57.855118> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69793.3 Ask:  69793.4
+16:25:57.856118> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:25:57.857119> Support: 69793.3 VolS:1.452 Resistence: 69795 VolR:1.189
+16:25:58.185890> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:00.239092> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69793.3 Ask:  69793.4
+16:26:00.259093> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:00.260094> Support: 69791.2 VolS:0.423 Resistence: 69793.4 VolR:2.666
+16:26:00.591829> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:02.615603> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69790.2 Ask:  69790.3
+16:26:02.616603> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:02.617603> Support: 69789.6 VolS:1.093 Resistence: 69790.3 VolR:2.464
+16:26:02.973478> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:04.984639> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69790.2 Ask:  69790.3
+16:26:04.985635> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:04.985635> Support: 69789.6 VolS:1.093 Resistence: 69790.3 VolR:2.433
+16:26:05.307653> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:07.344358> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69790.2 Ask:  69790.3
+16:26:07.345347> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:07.345347> Support: 69788 VolS:1.175 Resistence: 69790.3 VolR:2.588
+16:26:07.715528> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:09.735443> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.9 Ask:  69804.0
+16:26:09.736441> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:09.737442> Support: 69803.9 VolS:1.723 Resistence: 69805.4 VolR:1.159
+16:26:10.054152> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:12.063752> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.9 Ask:  69804.0
+16:26:12.064745> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:12.064745> Support: 69803.9 VolS:1.759 Resistence: 69804.1 VolR:1.144
+16:26:12.381764> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:14.407392> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.9 Ask:  69804.0
+16:26:14.408405> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:14.408405> Support: 69798.6 VolS:1.064 Resistence: 69804 VolR:2.432
+16:26:14.745410> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:16.759903> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.9 Ask:  69804.0
+16:26:16.760889> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:16.760889> Support: 69801.5 VolS:1.042 Resistence: 69804 VolR:2.571
+16:26:17.082838> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:19.103423> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.9 Ask:  69804.0
+16:26:19.103423> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:19.104422> Support: 69801.9 VolS:1.15 Resistence: 69804 VolR:2.63
+16:26:19.423755> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:21.440277> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.9 Ask:  69804.0
+16:26:21.441269> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:21.441269> Support: 69801.9 VolS:1.15 Resistence: 69804 VolR:2.924
+16:26:21.830490> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:23.851571> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.9 Ask:  69804.0
+16:26:23.851571> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:23.852569> Support: 69802.8 VolS:0.987 Resistence: 69804 VolR:2.843
+16:26:24.190174> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:26.212295> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.3 Ask:  69803.4
+16:26:26.213294> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:26.213294> Support: 69799.5 VolS:1.163 Resistence: 69803.4 VolR:2.027
+16:26:26.529868> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:28.541055> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.3 Ask:  69803.4
+16:26:28.542047> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:28.542047> Support: 69801.2 VolS:1.135 Resistence: 69803.4 VolR:1.421
+16:26:28.889068> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:30.909038> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.3 Ask:  69803.4
+16:26:30.910038> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:30.910038> Support: 69797.1 VolS:0.984 Resistence: 69803.4 VolR:1.495
+16:26:31.247057> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:33.281218> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69803.3 Ask:  69803.4
+16:26:33.282204> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:33.282204> Support: 69797.1 VolS:0.984 Resistence: 69803.4 VolR:1.491
+16:26:33.601327> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:35.628141> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69803.3 Ask:  69803.4
+16:26:35.629137> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:35.629137> Support: 69803.3 VolS:1.146 Resistence: 69806.8 VolR:1.198
+16:26:35.950985> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:37.974712> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69815.2 Ask:  69815.3
+16:26:37.975713> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:37.975713> Support: 69813.7 VolS:0.969 Resistence: 69815.3 VolR:2.239
+16:26:38.300923> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:40.324866> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69815.2 Ask:  69815.3
+16:26:40.325865> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:40.325865> Support: 69813.7 VolS:1.086 Resistence: 69815.3 VolR:2.247
+16:26:40.665883> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:42.687367> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69815.2 Ask:  69815.3
+16:26:42.688361> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:42.688361> Support: 69814.9 VolS:1.142 Resistence: 69816.9 VolR:1.171
+16:26:43.009877> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:45.029665> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69815.2 Ask:  69815.3
+16:26:45.029665> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:45.030661> Support: 69805.6 VolS:1.881 Resistence: 69815.3 VolR:1.568
+16:26:45.350387> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:47.388455> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69815.2 Ask:  69815.3
+16:26:47.390455> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:47.390455> Support: 69814.9 VolS:1.142 Resistence: 69815.3 VolR:1.971
+16:26:47.710110> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:49.739819> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69815.4 Ask:  69815.5
+16:26:49.739819> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:49.740820> Support: 69807.2 VolS:6.217 Resistence: 69822.7 VolR:1.066
+16:26:50.089840> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:52.113275> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69815.5 Ask:  69815.6
+16:26:52.125269> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:52.126269> Support: 69807.2 VolS:6.305 Resistence: 69817.2 VolR:1.167
+16:26:52.443252> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:54.489901> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69817.1 Ask:  69817.2
+16:26:54.490901> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:54.490901> Support: 69807.4 VolS:6.334 Resistence: 69817.2 VolR:1.198
+16:26:54.812924> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:56.823738> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69820.0 Ask:  69820.1
+16:26:56.824736> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:56.824736> Support: 69820 VolS:2.629 Resistence: 69827.1 VolR:1.368
+16:26:57.139754> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:59.156813> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69827.0 Ask:  69827.1
+16:26:59.157793> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:26:59.157793> Support: 69820.6 VolS:6.253 Resistence: 69827.1 VolR:0.863
+16:26:59.493388> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:01.587613> Signal add long(s), Move:1 Stk:2 Lnt:0 Prg:0 Fon:0 Bid: 69821.1 Ask:  69821.2
+16:27:01.588606> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:01.588606> Support: 69818.3 VolS:1.071 Resistence: 69821.2 VolR:2.23
+16:27:01.904308> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:03.913055> Signal add long(s), Move:1 Stk:2 Lnt:0 Prg:0 Fon:0 Bid: 69821.1 Ask:  69821.2
+16:27:03.914052> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:03.914052> Support: 69819.2 VolS:1.088 Resistence: 69821.2 VolR:2.421
+16:27:04.235753> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:06.269772> Signal add long(s), Move:1 Stk:2 Lnt:0 Prg:0 Fon:0 Bid: 69820.0 Ask:  69820.1
+16:27:06.270773> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:06.270773> Support: 69819.2 VolS:1.088 Resistence: 69820.1 VolR:3.5
+16:27:06.608261> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:08.643839> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69816.0 Ask:  69816.1
+16:27:08.644830> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:08.644830> Support: 69810.6 VolS:1.179 Resistence: 69816.1 VolR:4.247
+16:27:08.962549> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:10.994703> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69800.2 Ask:  69800.3
+16:27:10.994703> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:10.995697> Support: 69800 VolS:5 Resistence: 69800.3 VolR:2.228
+16:27:11.311715> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:13.351505> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69776.0 Ask:  69776.1
+16:27:13.351505> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:13.351505> Support: 69773.9 VolS:1.101 Resistence: 69776.1 VolR:3.446
+16:27:13.740530> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:15.767933> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69756.2 Ask:  69756.3
+16:27:15.768931> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:15.768931> Support: 69749.4 VolS:0.997 Resistence: 69756.3 VolR:2.564
+16:27:16.090880> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:18.150630> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69755.9 Ask:  69756.0
+16:27:18.151631> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:18.151631> Support: 69754.2 VolS:1.127 Resistence: 69756 VolR:2.441
+16:27:18.492954> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:20.504456> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69752.0 Ask:  69752.1
+16:27:20.505455> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:20.505455> Support: 69750.9 VolS:1.091 Resistence: 69752.1 VolR:3.957
+16:27:20.824474> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:22.847771> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69752.0 Ask:  69752.1
+16:27:22.848757> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:22.848757> Support: 69750.9 VolS:1.091 Resistence: 69752.1 VolR:4.038
+16:27:23.214557> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:25.232214> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69752.0 Ask:  69752.1
+16:27:25.236204> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:25.249207> Support: 69750.4 VolS:1.075 Resistence: 69752.1 VolR:3.601
+16:27:25.571229> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:27.580344> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69756.3 Ask:  69756.4
+16:27:27.580344> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:27.581346> Support: 69756.3 VolS:1.381 Resistence: 69756.4 VolR:1.415
+16:27:27.920779> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:29.939941> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69756.3 Ask:  69756.4
+16:27:29.939941> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:29.940924> Support: 69756.3 VolS:1.065 Resistence: 69756.4 VolR:2.065
+16:27:30.285943> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:32.292943> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69730.7 Ask:  69730.8
+16:27:32.293940> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:32.293940> Support: 69727.4 VolS:0.194 Resistence: 69730.8 VolR:2.376
+16:27:32.628957> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:34.683673> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69728.0 Ask:  69728.1
+16:27:34.684674> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:34.715674> Support: 69727.8 VolS:1.194 Resistence: 69730 VolR:1.375
+16:27:35.032301> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:37.047423> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69729.9 Ask:  69730.0
+16:27:37.048421> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:37.049424> Support: 69729.9 VolS:1.657 Resistence: 69730 VolR:1.175
+16:27:37.368440> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:39.395110> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69729.9 Ask:  69730.0
+16:27:39.396106> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:39.396106> Support: 69729.9 VolS:1.254 Resistence: 69733.4 VolR:1.184
+16:27:39.766187> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:41.781764> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69735.4 Ask:  69735.5
+16:27:41.782761> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:41.782761> Support: 69735.4 VolS:2.259 Resistence: 69739.5 VolR:1.153
+16:27:42.102127> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:44.119666> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69747.4 Ask:  69747.5
+16:27:44.120645> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:44.120645> Support: 69742.2 VolS:1.735 Resistence: 69755 VolR:1.171
+16:27:44.437664> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:46.469454> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69748.7 Ask:  69748.8
+16:27:46.470448> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:46.470448> Support: 69748.7 VolS:2.043 Resistence: 69753.1 VolR:1.156
+16:27:46.813989> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:48.849234> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69748.7 Ask:  69748.8
+16:27:48.850233> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:48.850233> Support: 69748.7 VolS:1.821 Resistence: 69748.8 VolR:1.326
+16:27:49.167252> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:51.185034> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69748.7 Ask:  69748.8
+16:27:51.185034> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:51.186032> Support: 69748.7 VolS:1.308 Resistence: 69748.8 VolR:1.298
+16:27:51.503058> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:53.521043> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69757.4 Ask:  69757.5
+16:27:53.522038> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:53.522038> Support: 69754.6 VolS:0.968 Resistence: 69757.5 VolR:1.767
+16:27:53.845056> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:55.856903> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69750.7 Ask:  69750.8
+16:27:55.856903> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:55.857903> Support: 69745.9 VolS:1.108 Resistence: 69750.8 VolR:3.137
+16:27:56.179956> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:58.204620> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69736.0 Ask:  69736.1
+16:27:58.205623> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:27:58.206617> Support: 69735.4 VolS:1.167 Resistence: 69736.1 VolR:3.684
+16:27:58.543410> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:00.573143> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69728.0 Ask:  69728.1
+16:28:00.574133> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:00.574133> Support: 69721.6 VolS:0.527 Resistence: 69728.1 VolR:2.274
+16:28:00.907152> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:02.924436> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69727.8 Ask:  69727.9
+16:28:02.925430> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:02.926430> Support: 69723.7 VolS:1.025 Resistence: 69727.9 VolR:1.879
+16:28:03.245014> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:05.253868> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69717.0 Ask:  69717.1
+16:28:05.253868> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:05.254868> Support: 69708.8 VolS:1.018 Resistence: 69717.1 VolR:3.308
+16:28:05.579887> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:07.586963> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69707.1 Ask:  69707.2
+16:28:07.587954> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:07.588956> Support: 69706 VolS:1.128 Resistence: 69717.8 VolR:0.397
+16:28:07.905971> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:09.924968> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69709.4 Ask:  69709.5
+16:28:09.924968> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:09.925968> Support: 69709.4 VolS:0.58 Resistence: 69709.5 VolR:2.24
+16:28:10.244037> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:12.267349> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69704.0 Ask:  69704.1
+16:28:12.268339> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:12.268339> Support: 69699.7 VolS:1.021 Resistence: 69704.1 VolR:1.41
+16:28:12.594419> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:14.611182> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69700.9 Ask:  69701.0
+16:28:14.612182> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:14.612182> Support: 69700.9 VolS:1.142 Resistence: 69701 VolR:1.944
+16:28:14.950768> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:16.963076> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69706.7 Ask:  69706.8
+16:28:16.964070> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:16.964070> Support: 69706.7 VolS:2.126 Resistence: 69707.5 VolR:1.111
+16:28:17.286527> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:19.311218> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69704.7 Ask:  69704.8
+16:28:19.312221> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:19.312221> Support: 69700.9 VolS:1.278 Resistence: 69710.3 VolR:0.4
+16:28:19.631238> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:21.658472> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69713.1 Ask:  69713.2
+16:28:21.658472> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:21.659460> Support: 69713.1 VolS:1.236 Resistence: 69714.1 VolR:0.988
+16:28:21.981242> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:23.996747> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69713.1 Ask:  69713.2
+16:28:23.997737> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:23.997737> Support: 69713.1 VolS:1.589 Resistence: 69719.5 VolR:1.159
+16:28:24.322736> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:26.326891> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69724.5 Ask:  69724.6
+16:28:26.327878> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:26.327878> Support: 69723.9 VolS:1.116 Resistence: 69724.6 VolR:1.604
+16:28:26.645896> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:28.675229> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69723.9 Ask:  69724.0
+16:28:28.676191> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:28.676191> Support: 69723.9 VolS:1.261 Resistence: 69724 VolR:1.776
+16:28:29.055212> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:31.070630> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69723.9 Ask:  69724.0
+16:28:31.071630> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:31.072630> Support: 69723.9 VolS:1.267 Resistence: 69724.6 VolR:1.284
+16:28:31.396648> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:33.416573> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69723.9 Ask:  69724.0
+16:28:33.417567> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:33.417567> Support: 69723.9 VolS:1.282 Resistence: 69724.6 VolR:1.284
+16:28:33.733712> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:35.744308> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69723.9 Ask:  69724.0
+16:28:35.744308> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:35.745299> Support: 69723.9 VolS:1.282 Resistence: 69724.6 VolR:1.284
+16:28:36.061317> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:38.079501> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69723.0 Ask:  69723.1
+16:28:38.080491> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:38.081491> Support: 69719.1 VolS:1.051 Resistence: 69723.1 VolR:4.304
+16:28:38.400300> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:40.414381> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69710.4 Ask:  69710.5
+16:28:40.415376> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:40.415376> Support: 69704.2 VolS:1.205 Resistence: 69710.5 VolR:4.727
+16:28:40.731395> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:42.768909> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69710.4 Ask:  69710.5
+16:28:42.769903> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:42.769903> Support: 69710.4 VolS:1.265 Resistence: 69710.5 VolR:1.853
+16:28:43.096453> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:45.114399> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69710.4 Ask:  69710.5
+16:28:45.115337> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:45.115337> Support: 69710.4 VolS:1.401 Resistence: 69710.5 VolR:2.478
+16:28:45.433140> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:47.461693> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69719.3 Ask:  69719.4
+16:28:47.462690> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:47.462690> Support: 69719.3 VolS:1.174 Resistence: 69719.9 VolR:0.999
+16:28:47.800477> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:49.814015> Signal add long(s), Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 69719.3 Ask:  69719.4
+16:28:49.814988> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:49.814988> Support: 69719.3 VolS:1.142 Resistence: 69724.4 VolR:1.01
+16:28:50.180145> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:52.201503> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69726.6 Ask:  69726.7
+16:28:52.202500> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:52.202500> Support: 69726.6 VolS:3.275 Resistence: 69727.5 VolR:1.133
+16:28:52.520516> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:54.569327> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69726.6 Ask:  69726.7
+16:28:54.570318> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:54.571317> Support: 69726.6 VolS:2.858 Resistence: 69726.7 VolR:1.383
+16:28:54.888335> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:56.905272> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69726.6 Ask:  69726.7
+16:28:56.906263> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:56.906263> Support: 69717.9 VolS:1.01 Resistence: 69726.7 VolR:2.53
+16:28:57.238282> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:59.253391> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69717.9 Ask:  69718.0
+16:28:59.254384> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:28:59.254384> Support: 69717.9 VolS:0.878 Resistence: 69718 VolR:0.655
+16:28:59.582749> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:01.592852> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69708.0 Ask:  69708.1
+16:29:01.593847> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:29:01.593847> Support: 69705.6 VolS:1.13 Resistence: 69708.1 VolR:2.41
+16:29:01.910929> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:03.931356> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69708.0 Ask:  69708.1
+16:29:03.932345> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:29:03.933345> Support: 69708 VolS:1.606 Resistence: 69708.7 VolR:1.064
+16:29:04.255859> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:06.274003> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69708.0 Ask:  69708.1
+16:29:06.274718> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:29:06.274718> Support: 69708 VolS:1.854 Resistence: 69708.7 VolR:1.064
+16:29:06.594131> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:08.618926> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69708.0 Ask:  69708.1
+16:29:08.618926> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:29:08.619922> Support: 69708 VolS:2.194 Resistence: 69713.5 VolR:1.102
+16:29:08.935671> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:10.970799> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69708.0 Ask:  69708.1
+16:29:10.970799> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:29:10.971791> Support: 69708 VolS:2.544 Resistence: 69708.7 VolR:1.092
+16:29:11.296809> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:13.336454> Signal add long(s), Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 69715.9 Ask:  69716.0
+16:29:13.336454> Try Delete lock Sell order,  ticket = 3204036998 ticketCustom = 22
+16:29:13.337452> Support: 69715.9 VolS:1.714 Resistence: 69718 VolR:0.952
+16:29:13.662448> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....

@@ -1,0 +1,440 @@
+14:05:56.130094> WebSocket connected! Start Partial @depth20 [Future] process...
+14:05:56.131097> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:05:56.131097> WebSocket connected! Start Partial @depth20 [Future] process...
+14:05:56.139106> WebSocket connected! Start @depth [Future] process...
+14:05:56.143107> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:05:56.144098> WebSocket connected! Start @depth [Future] process...
+14:05:57.071459> WebSocket connected! Start @depth [Future] process...
+14:05:57.098461> WebSocket connected! Start @depth [Future] process...
+14:05:57.098461> WebSocket connected! Start Partial @depth20 [Future] process...
+14:05:57.102461> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:05:57.134466> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:05:57.140464> WebSocket connected! Start Partial @depth20 [Future] process...
+14:05:57.581490> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 694.05675011 USDT
+14:06:21.871168> Try Open BuyLimit, Bid: 64103.6 Ask:  64103.7
+14:06:21.872168> Support: 64103.6 VolS:1.124 Resistence: 64107.5 VolR:0.583
+14:06:22.149179> [1Leg]: Buy OK BTCUSDC at 64103.6000;Gap=1.795;Price=64103.7000;Slippage=0.1;Execution=274.002 ms;
+14:06:22.149179> Elapsted Open BuyLimit 
+14:06:29.014499> Try place SellLimit, Bid: 64100.7 Ask:  64100.8
+14:06:29.278723> [1Leg]: Sell OK BTCUSDC at 64134.7000;Gap=0.675;Price=64103.9000;Slippage=-30.8;Execution=263.225 ms;
+14:06:29.279709> Placed lock SellLimit 
+14:06:29.280716> Try Modify Lock Sell order, 
+14:06:29.783739> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:06:29.784739> [1Leg]: Sell failed BTCUSDC;price=64103.9000
+14:06:34.002076> Try Modify Lock Sell order, 
+14:06:34.263085> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64192.0000;execution=254.015 ms;
+14:06:34.264086> Modify Lock SellLimit (1Leg)
+14:06:39.002209> Try Modify Lock Sell order, 
+14:06:39.267174> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64192.1000;execution=263.972 ms;
+14:06:39.268175> Modify Lock SellLimit (1Leg)
+14:06:44.001927> Try Modify Lock Sell order, 
+14:06:44.259938> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64192.3000;execution=257.020 ms;
+14:06:44.260935> Modify Lock SellLimit (1Leg)
+14:06:49.003270> Try Modify Lock Sell order, 
+14:06:49.271871> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64192.5000;execution=266.787 ms;
+14:06:49.272860> Modify Lock SellLimit (1Leg)
+14:06:54.001680> Try Modify Lock Sell order, 
+14:06:54.260697> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64192.1000;execution=258.020 ms;
+14:06:54.260697> Modify Lock SellLimit (1Leg)
+14:06:59.001617> Try Modify Lock Sell order, 
+14:06:59.259778> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64192.3000;execution=257.161 ms;
+14:06:59.259778> Modify Lock SellLimit (1Leg)
+14:07:04.003324> Try Modify Lock Sell order, 
+14:07:04.299293> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:07:04.300293> [1Leg]: Sell failed BTCUSDC;price=64123.2000
+14:07:09.002298> Try Modify Lock Sell order, 
+14:07:09.266313> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64192.2000;execution=263.015 ms;
+14:07:09.267312> Modify Lock SellLimit (1Leg)
+14:07:14.002056> Try Modify Lock Sell order, 
+14:07:14.265197> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64192.4000;execution=263.142 ms;
+14:07:14.266194> Modify Lock SellLimit (1Leg)
+14:07:19.003223> Try Modify Lock Sell order, 
+14:07:19.259241> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64193.4000;execution=255.018 ms;
+14:07:19.259241> Modify Lock SellLimit (1Leg)
+14:07:24.002872> Try Modify Lock Sell order, 
+14:07:24.271891> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64193.3000;execution=268.018 ms;
+14:07:24.271891> Modify Lock SellLimit (1Leg)
+14:07:29.001677> Try Modify Lock Sell order, 
+14:07:29.257253> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64193.6000;execution=254.581 ms;
+14:07:29.258245> Modify Lock SellLimit (1Leg)
+14:07:34.001937> Try Modify Lock Sell order, 
+14:07:34.257995> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64193.1000;execution=255.053 ms;
+14:07:34.257995> Modify Lock SellLimit (1Leg)
+14:07:39.002798> Try Modify Lock Sell order, 
+14:07:39.275724> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64193.5000;execution=271.926 ms;
+14:07:39.275724> Modify Lock SellLimit (1Leg)
+14:07:44.004940> Try Modify Lock Sell order, 
+14:07:44.263892> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64193.6000;execution=256.993 ms;
+14:07:44.264894> Modify Lock SellLimit (1Leg)
+14:07:49.005258> Try Modify Lock Sell order, 
+14:07:49.328436> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:07:49.328436> [1Leg]: Sell failed BTCUSDC;price=64147.2000
+14:07:54.007014> Try Modify Lock Sell order, 
+14:07:54.273024> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64193.3000;execution=265.017 ms;
+14:07:54.274022> Modify Lock SellLimit (1Leg)
+14:07:59.001189> Try Modify Lock Sell order, 
+14:07:59.257244> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64192.0000;execution=255.079 ms;
+14:07:59.258230> Modify Lock SellLimit (1Leg)
+14:08:04.002326> Try Modify Lock Sell order, 
+14:08:04.258258> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.9000;execution=255.932 ms;
+14:08:04.259250> Modify Lock SellLimit (1Leg)
+14:08:09.002173> Try Modify Lock Sell order, 
+14:08:09.259427> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.5000;execution=256.274 ms;
+14:08:09.260426> Modify Lock SellLimit (1Leg)
+14:08:14.017522> Try Modify Lock Sell order, 
+14:08:14.279186> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.7000;execution=260.664 ms;
+14:08:14.280187> Modify Lock SellLimit (1Leg)
+14:08:19.001995> Try Modify Lock Sell order, 
+14:08:19.294011> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:08:19.294011> [1Leg]: Sell failed BTCUSDC;price=64148.6000
+14:08:24.010839> Try Modify Lock Sell order, 
+14:08:24.303246> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:08:24.303246> [1Leg]: Sell failed BTCUSDC;price=64148.6000
+14:08:29.002870> Try Modify Lock Sell order, 
+14:08:29.258887> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.6000;execution=255.018 ms;
+14:08:29.258887> Modify Lock SellLimit (1Leg)
+14:08:34.001514> Try Modify Lock Sell order, 
+14:08:34.259535> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.4000;execution=258.021 ms;
+14:08:34.259535> Modify Lock SellLimit (1Leg)
+14:08:39.001361> Try Modify Lock Sell order, 
+14:08:39.307497> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:08:39.307497> [1Leg]: Sell failed BTCUSDC;price=64146.1000
+14:08:44.001293> Try Modify Lock Sell order, 
+14:08:44.258443> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.0000;execution=257.151 ms;
+14:08:44.259430> Modify Lock SellLimit (1Leg)
+14:08:49.001816> Try Modify Lock Sell order, 
+14:08:49.264381> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.0000;execution=261.571 ms;
+14:08:49.265383> Modify Lock SellLimit (1Leg)
+14:08:54.001199> Try Modify Lock Sell order, 
+14:08:54.262217> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.8000;execution=260.019 ms;
+14:08:54.263212> Modify Lock SellLimit (1Leg)
+14:08:59.002304> Try Modify Lock Sell order, 
+14:08:59.261918> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.1000;execution=258.618 ms;
+14:08:59.263919> Modify Lock SellLimit (1Leg)
+14:09:04.003178> Try Modify Lock Sell order, 
+14:09:04.258059> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.9000;execution=254.881 ms;
+14:09:04.259056> Modify Lock SellLimit (1Leg)
+14:09:09.002036> Try Modify Lock Sell order, 
+14:09:09.319056> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:09:09.320054> [1Leg]: Sell failed BTCUSDC;price=64161.2000
+14:09:14.001571> Try Modify Lock Sell order, 
+14:09:14.255175> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.7000;execution=252.603 ms;
+14:09:14.256172> Modify Lock SellLimit (1Leg)
+14:09:19.002097> Try Modify Lock Sell order, 
+14:09:19.258103> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.7000;execution=255.015 ms;
+14:09:19.259102> Modify Lock SellLimit (1Leg)
+14:09:24.028188> Try Modify Lock Sell order, 
+14:09:24.415210> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:09:24.430213> [1Leg]: Sell failed BTCUSDC;price=64126.1000
+14:09:29.001490> Try Modify Lock Sell order, 
+14:09:29.261512> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.5000;execution=259.021 ms;
+14:09:29.261512> Modify Lock SellLimit (1Leg)
+14:09:34.001366> Try Modify Lock Sell order, 
+14:09:34.260320> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.0000;execution=257.954 ms;
+14:09:34.260320> Modify Lock SellLimit (1Leg)
+14:09:39.003902> Try Modify Lock Sell order, 
+14:09:39.298176> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:09:39.299174> [1Leg]: Sell failed BTCUSDC;price=64120.1000
+14:09:44.002934> Try Modify Lock Sell order, 
+14:09:44.297952> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:09:44.297952> [1Leg]: Sell failed BTCUSDC;price=64120.1000
+14:09:49.041819> Try Modify Lock Sell order, 
+14:09:49.331839> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:09:49.332837> [1Leg]: Sell failed BTCUSDC;price=64124.9000
+14:09:54.002493> Try Modify Lock Sell order, 
+14:09:54.268409> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.1000;execution=257.021 ms;
+14:09:54.268409> Modify Lock SellLimit (1Leg)
+14:09:59.023195> Try Modify Lock Sell order, 
+14:09:59.280208> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.3000;execution=257.013 ms;
+14:09:59.280208> Modify Lock SellLimit (1Leg)
+14:10:04.001647> Try Modify Lock Sell order, 
+14:10:04.257662> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.1000;execution=255.015 ms;
+14:10:04.257662> Modify Lock SellLimit (1Leg)
+14:10:09.001601> Try Modify Lock Sell order, 
+14:10:09.256752> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.3000;execution=254.159 ms;
+14:10:09.257729> Modify Lock SellLimit (1Leg)
+14:10:14.002645> Try Modify Lock Sell order, 
+14:10:14.270659> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.6000;execution=267.015 ms;
+14:10:14.270659> Modify Lock SellLimit (1Leg)
+14:10:19.018137> Try Modify Lock Sell order, 
+14:10:19.335187> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.3000;execution=317.050 ms;
+14:10:19.338172> Modify Lock SellLimit (1Leg)
+14:10:24.020424> Try Modify Lock Sell order, 
+14:10:24.289441> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.7000;execution=269.017 ms;
+14:10:24.289441> Modify Lock SellLimit (1Leg)
+14:10:29.009021> Try Modify Lock Sell order, 
+14:10:29.279039> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.0000;execution=269.016 ms;
+14:10:29.280036> Modify Lock SellLimit (1Leg)
+14:10:34.001914> Try Modify Lock Sell order, 
+14:10:34.268931> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.6000;execution=266.017 ms;
+14:10:34.269931> Modify Lock SellLimit (1Leg)
+14:10:39.001927> Try Modify Lock Sell order, 
+14:10:39.266221> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.8000;execution=263.294 ms;
+14:10:39.266221> Modify Lock SellLimit (1Leg)
+14:10:44.002200> Try Modify Lock Sell order, 
+14:10:44.279230> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.9000;execution=276.028 ms;
+14:10:44.279230> Modify Lock SellLimit (1Leg)
+14:10:49.031354> Try Modify Lock Sell order, 
+14:10:49.306371> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.5000;execution=275.016 ms;
+14:10:49.306371> Modify Lock SellLimit (1Leg)
+14:10:54.001721> Try Modify Lock Sell order, 
+14:10:54.278737> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64187.3000;execution=276.016 ms;
+14:10:54.279738> Modify Lock SellLimit (1Leg)
+14:10:59.016477> Try Modify Lock Sell order, 
+14:10:59.275494> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.8000;execution=258.017 ms;
+14:10:59.275494> Modify Lock SellLimit (1Leg)
+14:11:04.004853> Try Modify Lock Sell order, 
+14:11:04.264869> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.4000;execution=258.011 ms;
+14:11:04.265860> Modify Lock SellLimit (1Leg)
+14:11:09.023466> Try Modify Lock Sell order, 
+14:11:09.285480> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.3000;execution=261.015 ms;
+14:11:09.285480> Modify Lock SellLimit (1Leg)
+14:11:14.001758> Try Modify Lock Sell order, 
+14:11:14.264022> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.4000;execution=261.262 ms;
+14:11:14.265023> Modify Lock SellLimit (1Leg)
+14:11:19.001246> Try Modify Lock Sell order, 
+14:11:19.259434> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.4000;execution=257.187 ms;
+14:11:19.259434> Modify Lock SellLimit (1Leg)
+14:11:24.040566> Try Modify Lock Sell order, 
+14:11:24.409587> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.9000;execution=368.021 ms;
+14:11:24.409587> Modify Lock SellLimit (1Leg)
+14:11:29.009907> Try Modify Lock Sell order, 
+14:11:29.289917> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.2000;execution=279.007 ms;
+14:11:29.290913> Modify Lock SellLimit (1Leg)
+14:11:34.007476> Try Modify Lock Sell order, 
+14:11:34.318248> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:11:34.319247> [1Leg]: Sell failed BTCUSDC;price=64144.0000
+14:11:39.001002> Try Modify Lock Sell order, 
+14:11:39.325988> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:11:39.326988> [1Leg]: Sell failed BTCUSDC;price=64144.0000
+14:11:44.005544> Try Modify Lock Sell order, 
+14:11:44.267688> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.1000;execution=260.159 ms;
+14:11:44.268688> Modify Lock SellLimit (1Leg)
+14:11:49.011032> Try Modify Lock Sell order, 
+14:11:49.272047> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.3000;execution=260.014 ms;
+14:11:49.272047> Modify Lock SellLimit (1Leg)
+14:11:54.001470> Try Modify Lock Sell order, 
+14:11:54.258489> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.2000;execution=256.019 ms;
+14:11:54.258489> Modify Lock SellLimit (1Leg)
+14:11:59.001214> Try Modify Lock Sell order, 
+14:11:59.278223> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.4000;execution=276.017 ms;
+14:11:59.279223> Modify Lock SellLimit (1Leg)
+14:12:04.019183> Try Modify Lock Sell order, 
+14:12:04.331200> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.3000;execution=294.019 ms;
+14:12:04.332200> Modify Lock SellLimit (1Leg)
+14:12:09.001118> Try Modify Lock Sell order, 
+14:12:09.260132> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.8000;execution=258.014 ms;
+14:12:09.260132> Modify Lock SellLimit (1Leg)
+14:12:14.001383> Try Modify Lock Sell order, 
+14:12:14.307390> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:12:14.308391> [1Leg]: Sell failed BTCUSDC;price=64156.7000
+14:12:19.002928> Try Modify Lock Sell order, 
+14:12:19.356578> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:12:19.362577> [1Leg]: Sell failed BTCUSDC;price=64156.7000
+14:12:24.069057> Try Modify Lock Sell order, 
+14:12:24.340070> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.6000;execution=271.013 ms;
+14:12:24.341073> Modify Lock SellLimit (1Leg)
+14:12:29.001844> Try Modify Lock Sell order, 
+14:12:29.264858> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.3000;execution=262.015 ms;
+14:12:29.264858> Modify Lock SellLimit (1Leg)
+14:12:34.002233> Try Modify Lock Sell order, 
+14:12:34.286240> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.4000;execution=284.008 ms;
+14:12:34.286240> Modify Lock SellLimit (1Leg)
+14:12:39.001660> Try Modify Lock Sell order, 
+14:12:39.266674> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.3000;execution=265.014 ms;
+14:12:39.267677> Modify Lock SellLimit (1Leg)
+14:12:44.001910> Try Modify Lock Sell order, 
+14:12:44.264925> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.2000;execution=262.014 ms;
+14:12:44.265933> Modify Lock SellLimit (1Leg)
+14:12:49.001985> Try Modify Lock Sell order, 
+14:12:49.258052> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.9000;execution=255.066 ms;
+14:12:49.259045> Modify Lock SellLimit (1Leg)
+14:12:54.005022> Try Modify Lock Sell order, 
+14:12:54.273034> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.0000;execution=267.013 ms;
+14:12:54.273034> Modify Lock SellLimit (1Leg)
+14:12:59.001274> Try Modify Lock Sell order, 
+14:12:59.255914> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.7000;execution=253.646 ms;
+14:12:59.256909> Modify Lock SellLimit (1Leg)
+14:13:04.001070> Try Modify Lock Sell order, 
+14:13:04.268643> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64185.8000;execution=266.581 ms;
+14:13:04.269643> Modify Lock SellLimit (1Leg)
+14:13:09.001881> Try Modify Lock Sell order, 
+14:13:09.257895> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.0000;execution=255.024 ms;
+14:13:09.259907> Modify Lock SellLimit (1Leg)
+14:13:14.001846> Try Modify Lock Sell order, 
+14:13:14.276861> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.5000;execution=274.014 ms;
+14:13:14.276861> Modify Lock SellLimit (1Leg)
+14:13:19.016534> Try Modify Lock Sell order, 
+14:13:19.272548> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.4000;execution=256.014 ms;
+14:13:19.273552> Modify Lock SellLimit (1Leg)
+14:13:24.002521> Try Modify Lock Sell order, 
+14:13:24.494544> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:13:24.532548> [1Leg]: Sell failed BTCUSDC;price=64158.4000
+14:13:29.014055> Try Modify Lock Sell order, 
+14:13:29.278700> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.3000;execution=263.645 ms;
+14:13:29.278700> Modify Lock SellLimit (1Leg)
+14:13:34.003222> Try Modify Lock Sell order, 
+14:13:34.258143> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.4000;execution=254.018 ms;
+14:13:34.258143> Modify Lock SellLimit (1Leg)
+14:13:39.002292> Try Modify Lock Sell order, 
+14:13:39.262680> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.3000;execution=259.388 ms;
+14:13:39.263675> Modify Lock SellLimit (1Leg)
+14:13:44.001195> Try Modify Lock Sell order, 
+14:13:44.308199> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:13:44.309199> [1Leg]: Sell failed BTCUSDC;price=64158.4000
+14:13:49.002192> Try Modify Lock Sell order, 
+14:13:49.305210> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:13:49.305210> [1Leg]: Sell failed BTCUSDC;price=64158.4000
+14:13:54.026357> Try Modify Lock Sell order, 
+14:13:54.337373> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:13:54.338374> [1Leg]: Sell failed BTCUSDC;price=64158.4000
+14:13:59.045619> Try Modify Lock Sell order, 
+14:13:59.309645> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.1000;execution=263.028 ms;
+14:13:59.310646> Modify Lock SellLimit (1Leg)
+14:14:04.059676> Try Modify Lock Sell order, 
+14:14:04.373694> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.0000;execution=314.018 ms;
+14:14:04.373694> Modify Lock SellLimit (1Leg)
+14:14:09.035961> Try Modify Lock Sell order, 
+14:14:09.312977> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64130.4000;execution=277.016 ms;
+14:14:09.318984> Modify Lock SellLimit (1Leg)
+14:14:14.063251> Try Modify Lock Sell order, 
+14:14:14.363266> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.0000;execution=299.017 ms;
+14:14:14.363266> Modify Lock SellLimit (1Leg)
+14:14:19.001702> Try Modify Lock Sell order, 
+14:14:19.266712> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.1000;execution=264.015 ms;
+14:14:19.266712> Modify Lock SellLimit (1Leg)
+14:14:24.002421> Try Modify Lock Sell order, 
+14:14:24.274434> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64187.1000;execution=272.014 ms;
+14:14:24.275436> Modify Lock SellLimit (1Leg)
+14:14:29.002649> Try Modify Lock Sell order, 
+14:14:29.275188> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64187.5000;execution=271.538 ms;
+14:14:29.276181> Modify Lock SellLimit (1Leg)
+14:14:34.011293> Try Modify Lock Sell order, 
+14:14:34.278310> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64187.7000;execution=260.015 ms;
+14:14:34.279314> Modify Lock SellLimit (1Leg)
+14:14:39.004774> Try Modify Lock Sell order, 
+14:14:39.334681> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:14:39.335677> [1Leg]: Sell failed BTCUSDC;price=64122.1000
+14:14:44.044365> Try Modify Lock Sell order, 
+14:14:44.507388> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:14:44.513388> [1Leg]: Sell failed BTCUSDC;price=64145.9000
+14:14:49.001959> Try Modify Lock Sell order, 
+14:14:49.270740> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.5000;execution=267.784 ms;
+14:14:49.270740> Modify Lock SellLimit (1Leg)
+14:14:54.025481> Try Modify Lock Sell order, 
+14:14:54.411498> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:14:54.425497> [1Leg]: Sell failed BTCUSDC;price=64136.8000
+14:14:59.003080> Try Modify Lock Sell order, 
+14:14:59.263115> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.6000;execution=260.036 ms;
+14:14:59.264093> Modify Lock SellLimit (1Leg)
+14:15:04.021163> Try Modify Lock Sell order, 
+14:15:04.295180> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64187.8000;execution=273.017 ms;
+14:15:04.296180> Modify Lock SellLimit (1Leg)
+14:15:09.005847> Try Modify Lock Sell order, 
+14:15:09.274113> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.0000;execution=268.266 ms;
+14:15:09.275110> Modify Lock SellLimit (1Leg)
+14:15:14.002262> Try Modify Lock Sell order, 
+14:15:14.275278> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64187.8000;execution=256.015 ms;
+14:15:14.275278> Modify Lock SellLimit (1Leg)
+14:15:19.002864> Try Modify Lock Sell order, 
+14:15:19.259882> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.5000;execution=256.018 ms;
+14:15:19.259882> Modify Lock SellLimit (1Leg)
+14:15:24.009803> Try Modify Lock Sell order, 
+14:15:24.518831> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:15:24.519833> [1Leg]: Sell failed BTCUSDC;price=64130.1000
+14:15:29.032539> Try Modify Lock Sell order, 
+14:15:29.307541> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64186.0000;execution=271.996 ms;
+14:15:29.308540> Modify Lock SellLimit (1Leg)
+14:15:34.001619> Try Modify Lock Sell order, 
+14:15:34.256446> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64187.8000;execution=253.826 ms;
+14:15:34.257446> Modify Lock SellLimit (1Leg)
+14:15:39.001320> Try Modify Lock Sell order, 
+14:15:39.258356> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.2000;execution=256.035 ms;
+14:15:39.259337> Modify Lock SellLimit (1Leg)
+14:15:44.040908> Try Modify Lock Sell order, 
+14:15:44.303924> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.1000;execution=262.017 ms;
+14:15:44.305928> Modify Lock SellLimit (1Leg)
+14:15:49.002319> Try Modify Lock Sell order, 
+14:15:49.282283> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.8000;execution=278.971 ms;
+14:15:49.282283> Modify Lock SellLimit (1Leg)
+14:15:54.001311> Try Modify Lock Sell order, 
+14:15:54.256116> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.7000;execution=253.805 ms;
+14:15:54.257114> Modify Lock SellLimit (1Leg)
+14:15:59.017295> Try Modify Lock Sell order, 
+14:15:59.274320> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.7000;execution=257.025 ms;
+14:15:59.275311> Modify Lock SellLimit (1Leg)
+14:16:04.015186> Try Modify Lock Sell order, 
+14:16:04.309143> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:16:04.309143> [1Leg]: Sell failed BTCUSDC;price=64138.1000
+14:16:09.003801> Try Modify Lock Sell order, 
+14:16:09.310763> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:16:09.311772> [1Leg]: Sell failed BTCUSDC;price=64138.1000
+14:16:14.003354> Try Modify Lock Sell order, 
+14:16:14.266376> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.8000;execution=262.021 ms;
+14:16:14.267369> Modify Lock SellLimit (1Leg)
+14:16:19.028590> Try Modify Lock Sell order, 
+14:16:19.296608> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.6000;execution=267.024 ms;
+14:16:19.296608> Modify Lock SellLimit (1Leg)
+14:16:24.007273> Try Modify Lock Sell order, 
+14:16:24.269287> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.9000;execution=261.016 ms;
+14:16:24.270286> Modify Lock SellLimit (1Leg)
+14:16:29.007266> Try Modify Lock Sell order, 
+14:16:29.305284> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:16:29.306283> [1Leg]: Sell failed BTCUSDC;price=64138.5000
+14:16:34.003391> Try Modify Lock Sell order, 
+14:16:34.259438> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64190.6000;execution=254.046 ms;
+14:16:34.261423> Modify Lock SellLimit (1Leg)
+14:16:39.001734> Try Modify Lock Sell order, 
+14:16:39.265749> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.9000;execution=262.012 ms;
+14:16:39.266747> Modify Lock SellLimit (1Leg)
+14:16:44.001431> Try Modify Lock Sell order, 
+14:16:44.263435> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.2000;execution=261.014 ms;
+14:16:44.263435> Modify Lock SellLimit (1Leg)
+14:16:49.025798> Try Modify Lock Sell order, 
+14:16:49.334822> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.1000;execution=309.024 ms;
+14:16:49.335825> Modify Lock SellLimit (1Leg)
+14:16:54.001848> Try Modify Lock Sell order, 
+14:16:54.256863> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.7000;execution=254.015 ms;
+14:16:54.257863> Modify Lock SellLimit (1Leg)
+14:16:59.001027> Try Modify Lock Sell order, 
+14:16:59.306039> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:16:59.306039> [1Leg]: Sell failed BTCUSDC;price=64154.1000
+14:17:04.001415> Try Modify Lock Sell order, 
+14:17:04.333430> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:17:04.362433> [1Leg]: Sell failed BTCUSDC;price=64150.1000
+14:17:09.002800> Try Modify Lock Sell order, 
+14:17:09.257816> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.2000;execution=254.023 ms;
+14:17:09.258806> Modify Lock SellLimit (1Leg)
+14:17:14.006329> Try Modify Lock Sell order, 
+14:17:14.458358> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:17:14.464358> [1Leg]: Sell failed BTCUSDC;price=64155.4000
+14:17:19.002329> Try Modify Lock Sell order, 
+14:17:19.314347> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:17:19.327346> [1Leg]: Sell failed BTCUSDC;price=64155.4000
+14:17:24.002801> Try Modify Lock Sell order, 
+14:17:24.350818> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:17:24.365816> [1Leg]: Sell failed BTCUSDC;price=64163.3000
+14:17:29.002949> Try Modify Lock Sell order, 
+14:17:29.262225> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.3000;execution=257.268 ms;
+14:17:29.262225> Modify Lock SellLimit (1Leg)
+14:17:34.001325> Try Modify Lock Sell order, 
+14:17:34.299340> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:17:34.301338> [1Leg]: Sell failed BTCUSDC;price=64163.3000
+14:17:39.002089> Try Modify Lock Sell order, 
+14:17:39.264124> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.2000;execution=261.035 ms;
+14:17:39.265123> Modify Lock SellLimit (1Leg)
+14:17:44.007087> Try Modify Lock Sell order, 
+14:17:44.316104> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+14:17:44.317104> [1Leg]: Sell failed BTCUSDC;price=64163.3000
+14:17:49.017623> Try Modify Lock Sell order, 
+14:17:49.312642> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64191.3000;execution=295.019 ms;
+14:17:49.313640> Modify Lock SellLimit (1Leg)
+14:17:54.029277> Try Modify Lock Sell order, 
+14:17:54.301118> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64189.3000;execution=270.840 ms;
+14:17:54.301118> Modify Lock SellLimit (1Leg)
+14:17:59.030234> Try Modify Lock Sell order, 
+14:17:59.314251> [1Leg]: SELL OK MODIFY BTCUSDC at 0.020 lot;price=64188.6000;execution=283.017 ms;
+14:17:59.314251> Modify Lock SellLimit (1Leg)
+14:18:04.047786> Try Modify Lock Sell order, 
+14:18:04.475811> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:18:04.476810> [1Leg]: Sell failed BTCUSDC;price=64198.0000

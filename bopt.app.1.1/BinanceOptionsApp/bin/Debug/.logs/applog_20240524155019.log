@@ -1,0 +1,88 @@
+15:50:27.837295> WebSocket connected! Start Partial @depth20 [Future] process...
+15:50:27.837295> WebSocket connected! Start @depth [Future] process...
+15:50:28.136313> WebSocket connected! Start Partial @depth20 [Future] process...
+15:50:28.137311> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:50:31.472747> WebSocket connected! Start Partial @depth20 [Future] process...
+15:50:31.473742> WebSocket connected! Start Partial @depth20 [Future] process...
+15:50:31.486746> WebSocket connected! Start @depth [Future] process...
+15:50:31.487745> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:50:32.462730> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 62.22689948 USDT
+15:52:30.641255> Try Open BuyLimit, Bid: 67564.9 Ask:  67565.0
+15:52:30.641255> Support: 67564.9 VolS:2.383 Resistence: 67565 VolR:0.645
+15:52:30.935605> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.37;Price=67571.60;Slippage=67571.6;Execution=292.357 ms;
+15:52:30.936603> Placed Main BuyLimit, ticketCustom = 1 ticket= 3279614119 LastBuyPrice=67565.0
+15:54:25.396678> Try Close Buy, Ask: 67525.8
+15:54:25.401669> Support: 67525.7 VolS:1.078 Resistence: 67528.3 VolR:0.771
+15:54:25.716687> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=21.16375;Price=67500.10;Slippage=67500.1;Execution=314.018 ms;
+15:54:25.717687> Close Main Buy, ticketCustom = 2 ticket = 3279614119
+15:56:27.816904> Try Open BuyLimit, Bid: 67551.4 Ask:  67551.5
+15:56:27.817905> Support: 67551.4 VolS:1.221 Resistence: 67551.5 VolR:0.644
+15:56:28.094920> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.23;Price=67551.50;Slippage=67551.5;Execution=277.015 ms;
+15:56:28.094920> Placed Main BuyLimit, ticketCustom = 3 ticket= 3279726466 LastBuyPrice=67551.5
+16:14:48.799059> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+16:14:48.968069> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+16:14:49.200084> Try Close Buy, Ask: 67371.7
+16:14:49.201083> Support: 67371.6 VolS:0.63 Resistence: 67371.7 VolR:2.117
+16:14:49.483096> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.96875;Price=67356.10;Slippage=67356.1;Execution=281.014 ms;
+16:14:49.483096> Close Main Buy, ticketCustom = 4 ticket = 3279726466
+16:14:52.114250> Try Close Buy, Ask: 67348.6
+16:14:52.114250> Support: 67341.4 VolS:0.653 Resistence: 67348.6 VolR:2.486
+16:14:52.401242> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=5.9375;Price=67344.30;Slippage=67344.3;Execution=285.992 ms;
+16:14:52.401242> Close Main Buy, ticketCustom = 5 ticket = 3280127906
+16:14:52.473239> Try Close Buy, Ask: 67344.3
+16:14:52.474238> Support: 67344.2 VolS:0.354 Resistence: 67344.3 VolR:4.668
+16:14:52.753456> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=1.6375;Price=67344.30;Slippage=67344.3;Execution=279.218 ms;
+16:14:52.754451> Close Main Buy, ticketCustom = 6 ticket = 3280127906
+16:14:53.804387> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:14:53.805384> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:14:53.978396> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:14:53.978396> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:14:54.884074> WebSocket connected! Start @depth [Future] process...
+16:14:55.072082> WebSocket connected! Start @depth [Future] process...
+16:15:36.772625> Try Close Sell, Bid: 67342.3 Ask:  67342.4
+16:15:36.775627> Support: 67342.3 VolS:1.404 Resistence: 67349.1 VolR:0.426
+16:15:37.261651> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-5.09375;Price=67354.10;Slippage=67354.1;Execution=486.024 ms;
+16:15:37.262652> Close Main Sell ticketCustom = 7 ticket= 3280127906
+16:16:58.155357> Try Open BuyLimit, Bid: 67347.2 Ask:  67347.3
+16:16:58.156358> Support: 67347.2 VolS:0.558 Resistence: 67349.6 VolR:0.345
+16:16:58.439931> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-1.93;Price=67347.60;Slippage=67347.6;Execution=278.574 ms;
+16:16:58.439931> Placed Main BuyLimit, ticketCustom = 8 ticket= 3280179049 LastBuyPrice=67347.3
+16:17:40.730761> Try place lock SellLimit, Bid: 67398.1 Ask:  67398.2
+16:17:41.017477> [1Leg]: Sell OK BTCUSDC at 67399.20;Gap=4.41625;Price=67398.20;Slippage=-1.0;Execution=286.716 ms;
+16:17:41.018477> Placed lock SellLimit, ticketCustom= 9, ticket= 3280179049 
+16:17:41.018477> Try adding BuyLimit, Bid: 67398.1 Ask:  67398.2
+16:17:41.018477> Support: 67398.1 VolS:1.374 Resistence: 67399 VolR:4
+16:17:41.310840> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=4.415;Price=67398.20;Slippage=67398.2;Execution=292.363 ms;
+16:17:41.311840> adding BuyLimit, ticket = 3280204020 ticketCustom = 10 
+16:18:45.982421> Try adding BuyLimit, Bid: 67337.5 Ask:  67337.6
+16:18:45.983412> Support: 67337.5 VolS:0.911 Resistence: 67340 VolR:0.418
+16:18:46.262426> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-5.355;Price=67337.60;Slippage=67337.6;Execution=279.014 ms;
+16:18:46.263427> adding BuyLimit, ticket = 3280204020 ticketCustom = 11 
+16:23:21.279388>  DevBUY (-): 73.14125 avgGapBuy:-23.24125 
+16:23:23.761529> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+16:23:23.962545> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+16:23:24.213556> Try adding BuyLimit, Bid: 67255.0 Ask:  67255.1
+16:23:24.214556> Support: 67255 VolS:1.904 Resistence: 67261 VolR:0.157
+16:23:25.943372> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-1.15875;Price=67310.90;Slippage=67310.9;Execution=1728.817 ms;
+16:23:25.944373> adding BuyLimit, ticket = 3280204020 ticketCustom = 12 
+16:23:28.766922> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:23:28.766922> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:23:28.964983> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+16:23:28.964983> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+16:23:29.886144> WebSocket connected! Start @depth [Future] process...
+16:23:30.082144> WebSocket connected! Start @depth [Future] process...
+16:26:06.001036> Try Open BuyLimit, Bid: 67360.2 Ask:  67360.3
+16:26:06.002039> Support: 67360.2 VolS:1.527 Resistence: 67367.5 VolR:1.223
+16:26:07.125695> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.155;Price=67360.30;Slippage=67360.3;Execution=1123.656 ms;
+16:26:07.126696> Placed Main BuyLimit, ticketCustom = 13 ticket= 3280204020 LastBuyPrice=67360.3
+16:29:36.288643> Try place lock SellLimit, Bid: 67411.5 Ask:  67411.6
+16:29:36.619661> [1Leg]: Sell OK BTCUSDC at 67412.60;Gap=2.81875;Price=67411.60;Slippage=-1.0;Execution=329.018 ms;
+16:29:36.619661> Placed lock SellLimit, ticketCustom= 14, ticket= 3280204020 
+16:29:36.620660> Try adding BuyLimit, Bid: 67411.5 Ask:  67411.6
+16:29:36.621661> Support: 67411.5 VolS:2.776 Resistence: 67413.5 VolR:0.338
+16:29:37.565717> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=2.84125;Price=67411.60;Slippage=67411.6;Execution=944.056 ms;
+16:29:37.831729> adding BuyLimit, ticket = 3280481730 ticketCustom = 15 
+16:29:54.049662> Try Open BuyLimit, Bid: 67433.3 Ask:  67433.4
+16:29:54.146667> Support: 67424.5 VolS:0.473 Resistence: 67433.4 VolR:1.952
+16:29:54.527687> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=1.585;Price=67428.30;Slippage=67428.3;Execution=310.019 ms;
+16:29:54.528689> Placed Main BuyLimit, ticketCustom = 16 ticket= 3280481730 LastBuyPrice=67433.4

@@ -1,0 +1,38 @@
+20:07:10.087999> WebSocket connected! Start Partial @depth20 [Future] process...
+20:07:10.089003> WebSocket connected! Start @depth [Future] process...
+20:07:10.103000> WebSocket connected! Start Partial @depth20 [Future] process...
+20:07:10.104001> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:07:11.104817> WebSocket connected! Start Partial @depth20 [Future] process...
+20:07:11.119843> WebSocket connected! Start Partial @depth20 [Future] process...
+20:07:11.120809> WebSocket connected! Start @depth [Future] process...
+20:07:11.138818> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:07:12.241188> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 461.06208316 USDT
+20:40:25.696879> Signal 2(s), Bid: 62978.2 Ask:  62978.3
+20:40:25.697879> Try Open BuyLimit, Bid: 62978.2 Ask:  62978.3
+20:40:25.697879> Support: 62971.9 VolS:2.115 Resistence: 63005.4 VolR:1.231
+20:40:25.962263> [1Leg]: Buy OK BTCUSDC at 62978.30;Gap=25.96625;Price=62983.90;Slippage=5.6;Execution=261.383 ms;
+20:40:25.963257> Placed Main BuyLimit, ticketCustom = 1 ticket= 2706121188
+20:40:25.963257> Try Modify main Buy order, 
+20:40:25.964257> Support: 62971.9 VolS:3.043 Resistence: 62990.3 VolR:1.5
+20:40:26.216038> [1Leg]: BUY OK MODIFY BTCUSDC at 0.100 lot;price=62982.00;execution=249.784 ms;
+20:40:26.217036> Modify main BuyLimit (1Leg)
+20:40:26.259040> Try Modify main Buy order, 
+20:40:26.260041> Support: 62971.9 VolS:3.043 Resistence: 62990.3 VolR:1.5
+20:40:27.353985> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:40:27.356985> [1Leg]: Buy failed BTCUSDC;price=62971.90
+20:40:27.356985> Error Modify main BuyLimit, ticketCustom=1 ticket=0
+20:40:28.370984> Try place lock SellLimit, Bid: 62975.9 Ask:  62976.0
+20:40:28.622997> [1Leg]: Sell OK BTCUSDC at 63080.10;Gap=6.20875;Price=62974.10;Slippage=-106.0;Execution=251.013 ms;
+20:40:28.623998> Placed lock SellLimit, ticketCustom= 2, ticket= 2706121188 
+21:23:31.871462> Signal 1(s), Bid: 63156.0 Ask:  63156.1
+21:23:31.871462> Try Open SellLimit, Ask: 63156.1
+21:23:31.872460> Support: 63152.8 VolS:0.83 Resistence: 63162 VolR:1.66
+21:23:32.120480> [1Leg]: Sell OK BTCUSDC at 63156.00;Gap=4.145;Price=63156.10;Slippage=0.1;Execution=248.019 ms;
+21:23:32.121474> Placed Main SellLimit, ticketCustom = 3 ticket = 2707199342
+21:23:34.001562> Try place lock BuyLimit, Bid: 63154.5 Ask:  63154.6
+21:23:35.109695> [1Leg]: Buy OK BTCUSDC at 63056.00;Gap=-3.15;Price=63160.00;Slippage=104.0;Execution=1108.133 ms;
+21:23:35.109695> Placed lock BuyLimit, ticketCustom= 4, ticket= 2707199342 
+21:23:36.002205> Try Delete lock Buy order, ticket = 2707199342 ticketCustom = 4
+21:23:36.002205> Support: 63159.9 VolS:2.107 Resistence: 63160.4 VolR:0.771
+21:34:08.153896> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+21:34:28.433117> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.

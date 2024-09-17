@@ -1,0 +1,58 @@
+16:52:02.357261> WebSocket connected! Start Partial @depth20 [Future] process...
+16:52:02.370256> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:52:02.372256> WebSocket connected! Start @depth [Future] process...
+16:52:02.383255> WebSocket connected! Start Partial @depth20 [Future] process...
+16:52:03.088271> WebSocket connected! Start Partial @depth20 [Future] process...
+16:52:03.088271> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:52:03.091260> WebSocket connected! Start Partial @depth20 [Future] process...
+16:52:03.946505> WebSocket connected! Start @depth [Future] process...
+16:52:04.460179> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 61.46651971 USDT
+16:52:17.199311> Try Open SellLimit, Ask: 67160.1
+16:52:17.199311> Support: 67150 VolS:0.372 Resistence: 67160.1 VolR:0.799
+16:52:17.499329> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-1.760869565217391304347826087;Price=67144.70;Slippage=67144.7;Execution=296.018 ms;
+16:52:17.499329> Placed Main SellLimit, ticketCustom = 1 ticket = 3281257779 LastSellPrice=67160.0
+16:53:24.747256> Try place lock BuyLimit, Bid: 67086.6 Ask:  67086.7
+16:53:25.029599> [1Leg]: Buy OK BTCUSDC at 67085.60;Gap=5.73;Price=67086.70;Slippage=1.1;Execution=282.343 ms;
+16:53:25.030590> Placed lock BuyLimit, ticketCustom= 2, ticket= 3281257779 
+16:53:25.030590> Try adding SellLimit, Ask: 67086.7
+16:53:25.031591> Support: 67085 VolS:3 Resistence: 67092.6 VolR:6.48
+16:53:25.677319> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=5.6325;Price=67085.10;Slippage=67085.1;Execution=645.728 ms;
+16:53:25.678328> adding Sell (1Leg), ticket = 3281295967 ticketCustom = 3
+16:53:58.277323> Try place lock BuyLimit, Bid: 67020.6 Ask:  67022.0
+16:53:58.558468> [1Leg]: Buy OK BTCUSDC at 67019.60;Gap=7.22125;Price=67022.00;Slippage=2.4;Execution=281.145 ms;
+16:53:58.558468> Placed lock BuyLimit, ticketCustom= 4, ticket= 3281295967 
+16:53:58.559463> Try adding SellLimit, Ask: 67022.0
+16:53:58.559463> Support: 67020 VolS:0.485 Resistence: 67028.4 VolR:2.281
+16:53:58.845040> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=5.95375;Price=67028.40;Slippage=67028.4;Execution=285.577 ms;
+16:53:58.846037> adding Sell (1Leg), ticket = 3281318711 ticketCustom = 5
+16:54:29.392964> Try place lock BuyLimit, Bid: 66968.0 Ask:  66968.1
+16:54:30.512026> [1Leg]: Buy OK BTCUSDC at 66967.00;Gap=-4.75;Price=66949.80;Slippage=-17.2;Execution=1119.062 ms;
+16:54:30.513024> Placed lock BuyLimit, ticketCustom= 6, ticket= 3281318711 
+16:54:30.513024> Try adding SellLimit, Ask: 66949.8
+16:54:30.513024> Support: 66937.1 VolS:2.24 Resistence: 66949.8 VolR:1.831
+16:54:30.808181> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-4.74375;Price=66949.80;Slippage=66949.8;Execution=295.157 ms;
+16:54:30.811182> adding Sell (1Leg), ticket = 3281341915 ticketCustom = 7
+16:54:38.689928> Try Close Sell, Bid: 66949.9 Ask:  66950.0
+16:54:38.690928> Support: 66946.1 VolS:0.808 Resistence: 66950 VolR:0.772
+16:54:38.979963> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-1.79;Price=66944.40;Slippage=66944.4;Execution=280.034 ms;
+16:54:38.980944> Close Main Sell ticketCustom = 8 ticket= 3281341915
+16:54:50.414915> Try Open BuyLimit, Bid: 66964.3 Ask:  66964.4
+16:54:50.415913> Support: 66964.3 VolS:2.319 Resistence: 66973.5 VolR:0.873
+16:54:50.701117> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-1.9175;Price=66980.50;Slippage=66980.5;Execution=284.204 ms;
+16:54:50.702118> Placed Main BuyLimit, ticketCustom = 9 ticket= 3281359604 LastBuyPrice=66964.4
+16:55:06.132853> Try Close Buy, Ask: 66988.1
+16:55:06.133853> Support: 66981 VolS:0.982 Resistence: 66997.1 VolR:1.053
+16:55:06.414552> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.25;Price=66981.20;Slippage=66981.2;Execution=279.700 ms;
+16:55:06.415547> Close Main Buy, ticketCustom = 10 ticket = 3281359604
+16:55:17.564902> Try Open BuyLimit, Bid: 66996.2 Ask:  66996.3
+16:55:17.567901> Support: 66996.2 VolS:1.05 Resistence: 67000 VolR:1.118
+16:55:17.849917> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=10.5225;Price=66997.50;Slippage=66997.5;Execution=281.014 ms;
+16:55:17.850919> Placed Main BuyLimit, ticketCustom = 11 ticket= 3281379216 LastBuyPrice=66996.3
+16:55:44.226515> Try Close Buy, Ask: 66992.1
+16:55:44.227516> Support: 66984.3 VolS:0.771 Resistence: 66997.1 VolR:1.086
+16:55:44.518072> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.15375;Price=66979.60;Slippage=66979.6;Execution=290.556 ms;
+16:55:44.519065> Close Main Buy, ticketCustom = 12 ticket = 3281379216
+16:56:16.029987> Try Open BuyLimit, Bid: 67029.8 Ask:  67029.9
+16:56:16.030988> Support: 67029.8 VolS:1.803 Resistence: 67036.6 VolR:0.6
+16:56:16.312371> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=2.82125;Price=67029.90;Slippage=67029.9;Execution=280.382 ms;
+16:56:16.313363> Placed Main BuyLimit, ticketCustom = 13 ticket= 3281412908 LastBuyPrice=67029.9

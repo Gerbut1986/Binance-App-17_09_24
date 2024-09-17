@@ -1,0 +1,50 @@
+18:39:34.056238> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.15097346 USDT
+18:39:34.058239> WebSocket connected! Start Partial @depth20 [Future] process...
+18:39:34.061248> WebSocket connected! Start Partial @depth20 [SPOT] process...
+18:39:34.104241> WebSocket connected! Start @depth [Future] process...
+18:39:34.119241> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:39:34.320262> WebSocket connected! Start Partial @depth20 [SPOT] process...
+18:39:34.946294> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:39:34.959290> WebSocket connected! Start @depth [Future] process...
+18:39:34.963291> WebSocket connected! Start Partial @depth20 [Future] process...
+18:39:35.511326> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 172.38975259 USDT
+19:18:37.280600> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:18:38.573674> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:18:42.293280> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:18:42.295281> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:18:43.357159> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:18:43.585166> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:18:43.594166> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:18:44.606849> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:39:54.251828>  DevBUY (+): 143.97775000 avgGapBuy:-31.84775000 
+19:48:25.067178>  DevBUY (+): 80.02512500 avgGapBuy:-25.32512500 
+19:50:01.005689>  DevBUY (+): 162.00325000 avgGapBuy:-26.36325000 
+19:50:01.351709>  DevBUY (-): 68.71325000 avgGapBuy:-26.36325000 
+19:50:06.259422>  DevBUY (+): 67.75050000 avgGapBuy:-23.76050000 
+20:30:58.119340>  DevBUY (+): 63.62237500 avgGapBuy:-30.92237500 
+20:30:58.562364>  DevBUY (-): 73.99237500 avgGapBuy:-30.92237500 
+20:30:58.641374>  DevBUY (-): 74.00237500 avgGapBuy:-30.92237500 
+20:30:59.627430>  DevBUY (-): 84.73237500 avgGapBuy:-30.92237500 
+20:31:02.938615>  DevBUY (+): 68.26387500 avgGapBuy:-23.95387500 
+20:31:03.388643>  DevBUY (+): 69.16387500 avgGapBuy:-23.95387500 
+20:31:03.653656>  DevBUY (+): 71.56387500 avgGapBuy:-23.95387500 
+20:31:16.591399>  DevSELL (-): -63.39950000 avgGapSell:-9.09050000 
+20:31:16.732409>  DevSELL (+): -67.59950000 avgGapSell:-9.09050000 
+20:31:17.098427>  DevSELL (+): -74.29950000 avgGapSell:-9.09050000 
+20:31:18.402500>  DevSELL (+): -75.64950000 avgGapSell:-9.09050000 
+20:31:18.504510>  DevSELL (+): -91.44950000 avgGapSell:-9.09050000 
+20:31:18.562519>  DevSELL (-): -97.29950000 avgGapSell:-9.09050000 
+20:31:19.172546>  DevSELL (+): -97.29950000 avgGapSell:-9.09050000 
+20:31:19.851589>  DevSELL (+): -97.99950000 avgGapSell:-9.09050000 
+20:31:22.695781>  DevSELL (-): -107.09075000 avgGapSell:-18.98925000 
+20:31:23.075781>  DevSELL (+): -114.89075000 avgGapSell:-18.98925000 
+20:31:23.973747>  DevSELL (-): -113.28075000 avgGapSell:-18.98925000 
+20:31:24.666785>  DevSELL (-): -114.85075000 avgGapSell:-18.98925000 
+20:31:44.572928>  DevBUY (-): 67.44850000 avgGapBuy:-86.52850000 
+20:31:45.272976>  DevBUY (+): 64.32587500 avgGapBuy:-80.90587500 
+20:31:45.386976>  DevBUY (+): 70.42587500 avgGapBuy:-80.90587500 
+20:31:47.619102>  DevBUY (-): 81.22587500 avgGapBuy:-80.90587500 
+20:31:47.676105>  DevBUY (+): 81.22587500 avgGapBuy:-80.90587500 
+20:31:50.012239>  DevBUY (+): 81.63587500 avgGapBuy:-80.90587500 
+20:52:00.553607>  DevSELL (+): -127.67175000 avgGapSell:-30.70825000 
+20:52:26.063135>  DevSELL (+): -62.75375000 avgGapSell:-29.55625000 

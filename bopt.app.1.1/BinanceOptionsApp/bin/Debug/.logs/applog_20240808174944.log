@@ -1,0 +1,69 @@
+17:50:08.280645> WebSocket connected! Start @depth [Future] process...
+17:50:08.280645> WebSocket connected! Start Partial @depth20 [Future] process...
+17:50:08.283646> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:50:08.284645> WebSocket connected! Start Partial @depth20 [Future] process...
+17:50:09.218383> WebSocket connected! Start Partial @depth20 [Future] process...
+17:50:09.271383> WebSocket connected! Start @depth [Future] process...
+17:50:09.279384> WebSocket connected! Start Partial @depth20 [Future] process...
+17:50:09.286385> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:50:09.701005> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 175.61015014 USDT
+17:52:08.176536>  DevSELL (+): -81.85125 avgGapSell:-37.54875 
+17:55:01.667580>  DevBUY (+): 80.74 avgGapBuy:-30.04 
+18:01:19.956849> Try Open BuyLimit, Bid: 58941.40 Ask:  58941.50
+18:01:19.956849> Order Signal open long, OrdZig=2 Order=1 StepByStepUP:1 Stk:20 StkImp:0 Lnt:2 Prg:0 Tide:20 Natiag:2 Bid: 58941.40 Ask:  58941.50
+18:01:20.219862> [1Leg]: Buy OK BTCUSDT at 0.00;Price=0.00;Slippage=58941.5;Execution=259.013 ms;
+18:01:20.220864> Placed Main BuyLimit, ticketCustom = 1 ticket= 389895494062 LastBuyPrice=58941.40
+18:01:25.000308> Try place lock SellLimit, Bid: 58962.00 Ask:58962.10 wantPrice:59144.0  EntrPrice:58944.0
+18:01:26.031336> [1Leg]: Sell OK BTCUSDT at 59144.00;Price=59144.00;Slippage=-182.9;Execution=1030.060 ms;
+18:01:26.032335> Placed lock SellLimit, ticketCustom= 2, ticket= 389895494062 
+18:01:26.032335>  
+18:02:20.027683> Try Delete lock Sell order,  ticket = 389895494062 ticketCustom = 2
+18:02:20.030684> Order Signal open adding long, OrdZig=2 Order=1 StepByStepUP:1 , stoploss=58544.0 TotalVal=0.002 pos:0.002 EntrPrice=58944.0 Stk:20 StkImp:0 Lnt:1 Prg:0 Natiag:1
+18:02:20.329701> OrderId: [389895574228]: Sell Limit OK DELETE  BTCUSDT;price=0;Execution=298.017 ms;
+18:02:20.331709> Delete lock SellLimit (1Leg)
+18:02:20.332702> Try adding BuyLimit, Bid: 58728.80 Ask:  58728.90
+18:02:20.579715> [1Leg]: Buy OK BTCUSDT at 58726.80;Price=58726.80;Slippage=0.5;Execution=247.013 ms;
+18:02:20.579715> adding BuyLimit, ticket = 389896287952 ticketCustom = 3 
+18:02:20.602718> Try place lock SellLimit, Bid: 58727.20 Ask:58727.30 wantPrice:59144.0  EntrPrice:58944.0
+18:02:20.849728> [1Leg]: Sell OK BTCUSDT at 59144.00;Price=59144.00;Slippage=-416.7;Execution=246.008 ms;
+18:02:20.850730> Placed lock SellLimit, ticketCustom= 4, ticket= 389896287952 
+18:02:20.851730>  
+18:05:51.980133>  DevBUY (+): 63.9975 avgGapBuy:-38.2975 
+18:05:52.714167>  DevBUY (-): 71.3975 avgGapBuy:-38.2975 
+18:05:53.536216>  DevBUY (+): 163.3975 avgGapBuy:-38.2975 
+18:05:53.728228>  DevBUY (-): 124.2975 avgGapBuy:-38.2975 
+18:06:10.269387> Try Modify Lock Sell order for Close at now, 
+18:06:10.269387> close long, modify for take min profit, TotalVal=0.002 pos:0.002 EntrPrice=58835.4 Stk:10 Lnt:1 Prg:0 Bid: 59024.00 Ask:  59024.10
+18:06:12.152485> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+18:06:12.195486> [1Leg]: Sell failed BTCUSDT;price=59017.30
+18:06:12.196486> srabotalo
+18:06:14.220516> Try place lock SellLimit, Bid: 59016.60 Ask:59016.70 wantPrice:59035.4  EntrPrice:58835.4
+18:06:15.306578> [1Leg]: Sell OK BTCUSDT at 59035.40;Price=59035.40;Slippage=-21.3;Execution=1085.063 ms;
+18:06:15.307581> Placed lock SellLimit, ticketCustom= 5, ticket= 389899091809 
+18:06:15.308581> close long, modify for take min profit, TotalVal=0.002 pos:0.002 EntrPrice=58835.4 Stk:10 Lnt:1 Prg:0 Bid: 59016.60 Ask:  59016.70
+18:06:15.309581> Try Modify Lock Sell order for Close at now, 
+18:06:15.309581> close long, modify for take min profit, TotalVal=0.002 pos:0.002 EntrPrice=58835.4 Stk:10 Lnt:1 Prg:0 Bid: 59016.60 Ask:  59016.70
+18:06:15.563593> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=59019.10;execution=252.013 ms;
+18:06:15.566593> Modify Lock SellLimit (1Leg) for Close at now
+18:11:47.343202>  DevBUY (-): 84.51625 avgGapBuy:-40.81625 
+18:36:11.160292> Try Open BuyLimit, Bid: 59058.50 Ask:  59058.60
+18:36:11.161294> Order Signal open long, OrdZig=2 Order=1 StepByStepUP:0 Stk:2 StkImp:2 Lnt:2 Prg:0 Tide:10 Natiag:1 Bid: 59058.50 Ask:  59058.60
+18:36:12.183862> [1Leg]: Buy OK BTCUSDT at 0.00;Price=0.00;Slippage=59068.5;Execution=1022.568 ms;
+18:36:12.184854> Placed Main BuyLimit, ticketCustom = 6 ticket= 389899091809 LastBuyPrice=59058.50
+18:36:17.019165> Try place lock SellLimit, Bid: 59120.60 Ask:59120.70 wantPrice:59268.5  EntrPrice:59068.5
+18:36:17.281180> [1Leg]: Sell OK BTCUSDT at 59268.50;Price=59268.50;Slippage=-148.4;Execution=261.015 ms;
+18:36:17.282181> Placed lock SellLimit, ticketCustom= 7, ticket= 389919649055 
+18:36:17.283179>  
+18:36:26.875499>  DevSELL (-): -77.62375 avgGapSell:-41.27625 
+18:36:36.193827>  DevBUY (+): 85.45 avgGapBuy:-35.45 
+18:55:38.276419>  DevBUY (+): 95.57625 avgGapBuy:-37.27625 
+19:05:25.733916>  DevBUY (+): 63.90 avgGapBuy:-38.50 
+19:26:09.883970> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:26:10.167000> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:26:15.004098> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:26:15.005093> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:26:15.209104> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:26:15.210103> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:26:16.039533> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:26:16.311542> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:57:12.551047>  DevBUY (+): 136.63125 avgGapBuy:-26.13125 

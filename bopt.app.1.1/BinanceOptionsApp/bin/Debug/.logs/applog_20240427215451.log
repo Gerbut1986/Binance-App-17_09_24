@@ -1,0 +1,147 @@
+21:54:57.171221> WebSocket connected! Start @depth [Future] process...
+21:54:57.174223> WebSocket connected! Start Partial @depth20 [Future] process...
+21:54:57.174223> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:54:57.175222> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:54:57.175222> WebSocket connected! Start @depth [Future] process...
+21:54:57.177223> WebSocket connected! Start Partial @depth20 [Future] process...
+21:54:58.153054> WebSocket connected! Start @depth [Future] process...
+21:54:58.163048> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:54:58.173049> WebSocket connected! Start @depth [Future] process...
+21:54:58.174049> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:54:58.175049> WebSocket connected! Start Partial @depth20 [Future] process...
+21:54:58.179049> WebSocket connected! Start Partial @depth20 [Future] process...
+21:54:58.666276> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 674.68061609 USDT
+22:17:45.139484> Signal 2(s), Bid: 63257.9 Ask:  63260.0
+22:17:45.142483> Try Open BuyLimit, Bid: 63257.9 Ask:  63260.0
+22:17:45.143485> Support: 63255.9 VolS:2.431 Resistence: 63260 VolR:0.144
+22:17:45.447940> [1Leg]: Buy OK BTCUSDC at 63257.9000;Gap=1.56;Price=63260.0000;Slippage=2.1;Execution=296.461 ms;
+22:17:45.447940> Elapsted Open BuyLimit 
+22:17:45.633949> Try Modify main Buy order, 
+22:17:45.633949> Support: 63263.5 VolS:0.98 Resistence: 63267.3 VolR:0.803
+22:17:45.893805> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63263.5000;execution=256.857 ms;
+22:17:45.893805> Modify main BuyLimit (1Leg)
+22:17:46.145817> Try Modify main Buy order, 
+22:17:46.146818> Support: 63263.9 VolS:1.34 Resistence: 63267.3 VolR:0.803
+22:17:47.239453> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63263.9000;execution=1092.634 ms;
+22:17:47.240453> Modify main BuyLimit (1Leg)
+22:17:47.675321> Try Modify main Buy order, 
+22:17:47.675321> Support: 63269.9 VolS:1.962 Resistence: 63274.8 VolR:0.881
+22:17:47.931536> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63269.9000;execution=256.216 ms;
+22:17:47.932545> Modify main BuyLimit (1Leg)
+22:17:48.190561> Try Modify main Buy order, 
+22:17:48.192563> Support: 63271.9 VolS:1.906 Resistence: 63274.8 VolR:0.881
+22:17:48.577574> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63271.9000;execution=265.018 ms;
+22:17:48.578573> Modify main BuyLimit (1Leg)
+22:17:49.320186> Try Modify main Buy order, 
+22:17:49.321185> Support: 63277.9 VolS:2.195 Resistence: 63280.3 VolR:0.751
+22:17:49.575822> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63277.9000;execution=254.638 ms;
+22:17:49.576821> Modify main BuyLimit (1Leg)
+22:17:49.821775> Try Modify main Buy order, 
+22:17:49.821775> Support: 63277.9 VolS:1.556 Resistence: 63280.3 VolR:0.726
+22:17:50.075694> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63280.2000;execution=253.920 ms;
+22:17:50.076683> Modify main BuyLimit (1Leg)
+22:17:50.923968> Try Modify main Buy order, 
+22:17:50.923968> Support: 63281.2 VolS:1.248 Resistence: 63284 VolR:0.144
+22:17:51.179837> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63281.2000;execution=254.874 ms;
+22:17:51.180837> Modify main BuyLimit (1Leg)
+22:17:52.707336> Try Modify main Buy order, 
+22:17:52.707336> Support: 63291.3 VolS:0.666 Resistence: 63297.8 VolR:0.237
+22:17:52.967053> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63291.3000;execution=259.717 ms;
+22:17:52.967053> Modify main BuyLimit (1Leg)
+22:17:53.176984> Try Modify main Buy order, 
+22:17:53.176984> Support: 63291.3 VolS:0.899 Resistence: 63295.8 VolR:0.868
+22:17:53.439100> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63291.9000;execution=262.116 ms;
+22:17:53.439100> Modify main BuyLimit (1Leg)
+22:18:02.657793> Try Modify main Buy order, 
+22:18:02.658752> Support: 63291.4 VolS:1.012 Resistence: 63297.8 VolR:0.237
+22:18:02.916760> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63295.4000;execution=258.008 ms;
+22:18:02.916760> Modify main BuyLimit (1Leg)
+22:18:03.162662> Try Modify main Buy order, 
+22:18:03.162662> Support: 63298.6 VolS:0.802 Resistence: 63301.2 VolR:0.895
+22:18:03.430673> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63299.0000;execution=267.012 ms;
+22:18:03.430673> Modify main BuyLimit (1Leg)
+22:18:03.723589> Try Modify main Buy order, 
+22:18:03.723589> Support: 63307.2 VolS:1.893 Resistence: 63314.1 VolR:0.857
+22:18:03.979667> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63307.2000;execution=255.079 ms;
+22:18:03.979667> Modify main BuyLimit (1Leg)
+22:18:07.920832> Try Modify main Buy order, 
+22:18:07.920832> Support: 63313.2 VolS:1.932 Resistence: 63321.6 VolR:0.913
+22:18:08.176041> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63313.2000;execution=254.210 ms;
+22:18:08.177040> Modify main BuyLimit (1Leg)
+22:18:12.118411> Try Modify main Buy order, 
+22:18:12.118411> Support: 63313.5 VolS:0.795 Resistence: 63314.3 VolR:0.778
+22:18:12.375988> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63313.5000;execution=256.584 ms;
+22:18:12.376987> Modify main BuyLimit (1Leg)
+22:18:12.632007> Try Modify main Buy order, 
+22:18:12.632007> Support: 63314.9 VolS:1.228 Resistence: 63322 VolR:2.092
+22:18:12.887776> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63314.9000;execution=254.774 ms;
+22:18:12.887776> Modify main BuyLimit (1Leg)
+22:18:15.807464> Try Modify main Buy order, 
+22:18:15.807464> Support: 63317.3 VolS:1.031 Resistence: 63322 VolR:2.092
+22:18:16.063477> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63317.3000;execution=256.013 ms;
+22:18:16.064477> Modify main BuyLimit (1Leg)
+22:18:17.382391> Try Modify main Buy order, 
+22:18:17.382391> Support: 63319.4 VolS:1.423 Resistence: 63322 VolR:2.236
+22:18:17.638444> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63319.4000;execution=255.053 ms;
+22:18:17.639440> Modify main BuyLimit (1Leg)
+22:18:22.001113> Try place lock SellLimit, Bid: 63314.9 Ask:  63315.0
+22:18:22.256536> [1Leg]: Sell OK BTCUSDC at 63344.4000;Gap=3.46;Price=63315.0000;Slippage=-29.4;Execution=255.423 ms;
+22:18:22.257535> Placed lock SellLimit 
+22:20:44.474872> Try Modify Lock Sell order for Close at now, 
+22:20:44.743879> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63290.5000;execution=269.007 ms;
+22:20:44.747879> Modify Lock SellLimit (1Leg) for Close at now
+22:20:44.751884> Try Modify Lock Sell order for Close at now, 
+22:20:45.008898> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63286.1000;execution=257.014 ms;
+22:20:45.009898> Modify Lock SellLimit (1Leg) for Close at now
+22:26:35.799043> Signal 1(s), Bid: 63162.1 Ask:  63162.4
+22:26:35.799043> Try Open Sell Pos, deviationSell: -11.78 Ask: 63162.4
+22:26:35.800045> Support: 63162 VolS:0.145 Resistence: 63167.7 VolR:0.684
+22:26:36.070856> [1Leg]: Sell OK BTCUSDC at 63162.4000;Gap=-11.78;Price=63162.4000;Slippage=0.0;Execution=270.811 ms;
+22:26:36.071857> Elapsted Open Sell (1Leg)
+22:26:36.447877> Try Modify main Sell order, 
+22:26:36.448877> Support: 63161 VolS:0.747 Resistence: 63162.9 VolR:0.756
+22:26:36.702902> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63162.2000;execution=254.025 ms;
+22:26:36.704904> Modify main SellLimit (1Leg)
+22:26:40.683578> Try Modify main Sell order, 
+22:26:40.683578> Support: 63161 VolS:0.747 Resistence: 63162.1 VolR:1.12
+22:26:40.937591> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63162.1000;execution=253.013 ms;
+22:26:40.939591> Modify main SellLimit (1Leg)
+22:26:52.208430> Try Modify main Sell order, 
+22:26:52.209430> Support: 63161 VolS:0.747 Resistence: 63162.1 VolR:1.517
+22:26:53.234845> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63161.8000;execution=1025.415 ms;
+22:26:53.234845> Modify main SellLimit (1Leg)
+22:26:54.808058> Try Modify main Sell order, 
+22:26:54.810059> Support: 63161 VolS:0.747 Resistence: 63161.1 VolR:2.35
+22:26:55.063082> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63161.1000;execution=253.023 ms;
+22:26:55.064072> Modify main SellLimit (1Leg)
+22:27:00.074045> Try place lock BuyLimit, Bid: 63170.8 Ask:  63170.9
+22:27:00.333375> [1Leg]: Buy OK BTCUSDC at 63136.1000;Gap=-4.055;Price=63170.9000;Slippage=34.8;Execution=258.330 ms;
+22:27:00.334380> Placed lock BuyLimit 
+22:27:54.177768> Try Modify Lock Buy order for close at now, 
+22:27:54.436764> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63189.9000;execution=255.011 ms;
+22:27:54.457760> Modify BuyLimit (1Leg) for Close at now
+22:30:34.968584> Signal 2(s), Bid: 63197.6 Ask:  63197.7
+22:30:34.968584> Try Open BuyLimit, Bid: 63197.6 Ask:  63197.7
+22:30:34.968584> Support: 63187.3 VolS:5.581 Resistence: 63203.6 VolR:0.193
+22:30:35.223776> [1Leg]: Buy OK BTCUSDC at 63197.6000;Gap=0.485;Price=63197.7000;Slippage=0.1;Execution=255.192 ms;
+22:30:35.224772> Elapsted Open BuyLimit 
+22:30:35.465784> Try Modify main Buy order, 
+22:30:35.465784> Support: 63199.7 VolS:1.772 Resistence: 63201.7 VolR:0.771
+22:30:35.721818> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63199.7000;execution=255.032 ms;
+22:30:35.722800> Modify main BuyLimit (1Leg)
+22:30:48.002677> Try place lock SellLimit, Bid: 63194.0 Ask:  63194.1
+22:30:49.035104> [1Leg]: Sell OK BTCUSDC at 63224.7000;Gap=1.28;Price=63194.1000;Slippage=-30.6;Execution=1031.426 ms;
+22:30:49.037104> Placed lock SellLimit 
+22:31:24.694978> Signal 2(s), Bid: 63192.0 Ask:  63192.1
+22:39:04.121422> Signal 2(s), Bid: 63229.1 Ask:  63229.2
+22:39:04.121422> Try Open BuyLimit, Bid: 63229.1 Ask:  63229.2
+22:39:04.122422> Support: 63227.9 VolS:36.219 Resistence: 63232.6 VolR:0.72
+22:39:05.166421> [1Leg]: Buy OK BTCUSDC at 63229.1000;Gap=2.515;Price=63229.2000;Slippage=0.1;Execution=1043.999 ms;
+22:39:05.166421> Elapsted Open BuyLimit 
+22:39:06.513316> Signal 2(s), Bid: 63228.0 Ask:  63228.1
+22:39:10.000051> Try place lock SellLimit, Bid: 63227.9 Ask:  63228.0
+22:39:10.278067> [1Leg]: Sell OK BTCUSDC at 63254.1000;Gap=6.825;Price=63228.0000;Slippage=-26.1;Execution=278.016 ms;
+22:39:10.279066> Placed lock SellLimit 
+22:39:14.345089> Try Modify Lock Sell order for Close at now, 
+22:39:14.597493> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63228.0000;execution=251.405 ms;
+22:39:14.598491> Modify Lock SellLimit (1Leg) for Close at now

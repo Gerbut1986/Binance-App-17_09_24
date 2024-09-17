@@ -1,0 +1,49 @@
+11:02:32.838226> WebSocket connected! Start Partial @depth20 [Future] process...
+11:02:32.839227> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+11:02:32.840227> WebSocket connected! Start @depth [Future] process...
+11:02:32.867233> WebSocket connected! Start Partial @depth20 [Future] process...
+11:02:33.726417> WebSocket connected! Start Partial @depth20 [Future] process...
+11:02:33.731409> WebSocket connected! Start @depth [Future] process...
+11:02:33.750409> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 418.58678009 USDT
+11:02:33.782419> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+11:02:33.801414> WebSocket connected! Start Partial @depth20 [Future] process...
+11:18:54.858803> Try Open SellLimit, Ask: 62574.1 Bid:62574.0
+11:18:54.858803> Order Signal open short, Order=1 StepByStepDN:0 Stk:20 StkImp:0 Lnt:2 Prg:0 Bid: 62574.0 Ask:  62574.1
+11:18:55.132819> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=62562.1;Execution=270.016 ms;
+11:18:55.132819> Placed Main SellLimit, ticketCustom = 1 ticket = 4363580301 LastSellPrice=62574.1
+11:19:08.134816> Try adding SellLimit, Ask: 62576.9
+11:19:08.134816> Support: 62576.8 VolS:2.704 Resistence: 62582.7 VolR:1.08
+11:19:08.375815> [1Leg]: Sell OK BTCUSDC at 62578.90;Price=62578.9;Slippage=-2.0;Execution=240.020 ms;
+11:19:08.376817> adding Sell (1Leg), ticket = 4363580301 ticketCustom = 2
+11:19:11.441037> Try adding SellLimit, Ask: 62580.0
+11:19:11.441037> Support: 62579.9 VolS:2.686 Resistence: 62582.7 VolR:1.08
+11:19:11.708046> [1Leg]: Sell OK BTCUSDC at 62582.00;Price=62582.0;Slippage=-2.0;Execution=266.014 ms;
+11:19:11.736049> adding Sell (1Leg), ticket = 4363580301 ticketCustom = 3
+11:19:12.027066> Try adding SellLimit, Ask: 62590.0
+11:19:12.027066> Support: 62589.9 VolS:1.984 Resistence: 62590 VolR:1.144
+11:19:12.267448> [1Leg]: Sell OK BTCUSDC at 62592.00;Price=62592.0;Slippage=-2.0;Execution=240.383 ms;
+11:19:12.267448> adding Sell (1Leg), ticket = 4363580301 ticketCustom = 4
+11:19:17.549236> Try adding SellLimit, Ask: 62596.0
+11:19:17.549979> Support: 62595.9 VolS:2.601 Resistence: 62600 VolR:4.301
+11:19:17.789990> [1Leg]: Sell OK BTCUSDC at 62598.00;Price=62598.0;Slippage=-2.0;Execution=240.011 ms;
+11:19:17.790990> adding Sell (1Leg), ticket = 4363580301 ticketCustom = 5
+11:24:26.098615> Try Modify Lock Buy order for close at now, 
+11:24:26.098615> Natiag Signal close short, stoploss=62734.16 TotalVal=0.010 pos:-0.010 EntrPrice=62584.16 Stk:2 Lnt:1 Prg:0 Bid: 62638.9 Ask:  62639.0
+11:24:26.519392> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+11:24:26.551392> [1Leg]: Buy failed BTCUSDC;price=62641.00
+11:24:26.551392> srabotalo
+11:24:28.632035> Try Modify Lock Buy order for close at now, 
+11:24:28.633023> Natiag Signal close short, stoploss=62734.16 TotalVal=0.010 pos:-0.010 EntrPrice=62584.16 Stk:2 Lnt:1 Prg:0 Bid: 62641.9 Ask:  62642.0
+11:24:29.725415> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+11:24:29.726411> [1Leg]: Buy failed BTCUSDC;price=62642.00
+11:24:29.727411> srabotalo
+11:27:12.072050> Try Modify Lock Buy order for close at now, 
+11:27:12.073050> Natiag Signal close short, stoploss=62734.16 TotalVal=0.010 pos:-0.010 EntrPrice=62584.16 Stk:2 Lnt:1 Prg:0 Bid: 62654.5 Ask:  62654.6
+11:27:12.372067> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+11:27:12.373067> [1Leg]: Buy failed BTCUSDC;price=62661.40
+11:27:12.373067> srabotalo
+11:27:14.401057> Try Modify Lock Buy order for close at now, 
+11:27:14.401057> Natiag Signal close short, stoploss=62734.16 TotalVal=0.010 pos:-0.010 EntrPrice=62584.16 Stk:2 Lnt:2 Prg:0 Bid: 62664.6 Ask:  62664.7
+11:27:15.454052> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+11:27:15.455050> [1Leg]: Buy failed BTCUSDC;price=62664.70
+11:27:15.455050> srabotalo

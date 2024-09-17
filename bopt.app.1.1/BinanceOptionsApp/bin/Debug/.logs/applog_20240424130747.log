@@ -1,0 +1,437 @@
+13:07:58.735809> WebSocket connected! Start @depth [Future] process...
+13:07:58.735809> WebSocket connected! Start Partial @depth20 [Future] process...
+13:07:58.736807> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:07:58.743807> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:07:58.753809> WebSocket connected! Start Partial @depth20 [Future] process...
+13:07:58.759810> WebSocket connected! Start @depth [Future] process...
+13:07:59.606511> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:07:59.608512> WebSocket connected! Start Partial @depth20 [Future] process...
+13:07:59.619517> WebSocket connected! Start @depth [Future] process...
+13:07:59.626507> WebSocket connected! Start @depth [Future] process...
+13:07:59.637351> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:07:59.651282> WebSocket connected! Start Partial @depth20 [Future] process...
+13:08:00.103785> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 748.00919670 USDT
+13:08:46.751128> Try Open Sell Pos, deviationSell: -2.59 Ask: 66305.30
+13:08:46.752128> Support: 66305.2 VolS:0.161 Resistence: 66305.3 VolR:22.757
+13:08:47.020144> [1Leg]: Sell OK BTCUSDT at 66328.3000;Gap=-2.59;Price=66305.3000;Slippage=-23.0;Execution=266.014 ms;
+13:08:47.021144> Elapsted Open Sell (1Leg)
+13:08:47.260156> Try Modify Sell order, 
+13:08:47.260156> Support: 66302.7 VolS:1.983 Resistence: 66305.3 VolR:12.051
+13:08:47.595792> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+13:08:47.596791> [1Leg]: Sell failed BTCUSDT;price=66302.8000
+13:08:51.341075> Try Modify Sell order, 
+13:08:51.342077> Support: 66294.3 VolS:0.043 Resistence: 66294.5 VolR:22.045
+13:08:51.635016> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+13:08:51.636014> [1Leg]: Sell failed BTCUSDT;price=66294.5000
+13:08:52.391645> Try Modify Sell order, 
+13:08:52.392646> Support: 66281.9 VolS:0.286 Resistence: 66286.4 VolR:11.125
+13:08:52.689664> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+13:08:52.690664> [1Leg]: Sell failed BTCUSDT;price=66286.3000
+13:08:55.965550> Try Modify Sell order, 
+13:08:55.965550> Support: 66271 VolS:2.24 Resistence: 66271.1 VolR:29.552
+13:08:56.214954> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66319.9000;execution=248.405 ms;
+13:08:56.214954> Modify SellLimit (1Leg)
+13:09:16.569053> Try Modify Sell order, 
+13:09:16.570068> Support: 66283.7 VolS:0.183 Resistence: 66287.5 VolR:22.583
+13:09:16.828067> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66328.3000;execution=256.994 ms;
+13:09:16.829068> Modify SellLimit (1Leg)
+13:09:17.116082> Try Modify Sell order, 
+13:09:17.116082> Support: 66273 VolS:1.175 Resistence: 66278.2 VolR:11.271
+13:09:17.406121> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+13:09:17.407121> [1Leg]: Sell failed BTCUSDT;price=66278.1000
+13:09:19.168516> Try Modify Sell order, 
+13:09:19.168516> Support: 66270 VolS:1.156 Resistence: 66270.1 VolR:24.501
+13:09:19.418270> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66311.2000;execution=249.754 ms;
+13:09:19.418270> Modify SellLimit (1Leg)
+13:09:20.186058> Try Modify Sell order, 
+13:09:20.186058> Support: 66264.3 VolS:0.202 Resistence: 66264.4 VolR:10.241
+13:09:20.449442> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66328.3000;execution=262.383 ms;
+13:09:20.450431> Modify SellLimit (1Leg)
+13:09:21.713293> Try Modify Sell order, 
+13:09:21.713293> Support: 66256.1 VolS:0.215 Resistence: 66258.2 VolR:11.134
+13:09:22.010312> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+13:09:22.011306> [1Leg]: Sell failed BTCUSDT;price=66258.2000
+13:09:22.264320> Try Modify Sell order, 
+13:09:22.265321> Support: 66253 VolS:1.067 Resistence: 66253.4 VolR:11.859
+13:09:22.514336> [1Leg]: SELL OK MODIFY BTCUSDT at 0.002 lot;price=66297.3000;execution=249.015 ms;
+13:09:22.515334> Modify SellLimit (1Leg)
+13:13:57.018491> Try place BuyLimit, Bid: 66296.90 Ask:  66297.00
+13:13:58.086770> [1Leg]: Buy OK BTCUSDT at 66244.6000;Gap=0.80;Price=66297.0000;Slippage=52.4;Execution=1066.285 ms;
+13:13:58.086770> Placed lock BuyLimit 
+13:13:58.087768> Try Modify Lock Buy order, 
+13:13:58.374717> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:13:58.396714> [1Leg]: Buy failed BTCUSDT;price=66297.0000
+13:14:02.024784> Try Modify Lock Buy order, 
+13:14:02.380293> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:02.382300> [1Leg]: Buy failed BTCUSDT;price=66299.9000
+13:14:07.009446> Try Modify Lock Buy order, 
+13:14:07.327468> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:07.327468> [1Leg]: Buy failed BTCUSDT;price=66309.0000
+13:14:12.005195> Try Modify Lock Buy order, 
+13:14:12.298217> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:12.299211> [1Leg]: Buy failed BTCUSDT;price=66305.0000
+13:14:17.007586> Try Modify Lock Buy order, 
+13:14:17.297589> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:17.298588> [1Leg]: Buy failed BTCUSDT;price=66300.1000
+13:14:22.006257> Try Modify Lock Buy order, 
+13:14:22.365284> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:22.366279> [1Leg]: Buy failed BTCUSDT;price=66284.1000
+13:14:27.006041> Try Modify Lock Buy order, 
+13:14:27.298968> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:27.298968> [1Leg]: Buy failed BTCUSDT;price=66284.1000
+13:14:32.006803> Try Modify Lock Buy order, 
+13:14:32.304920> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:32.306921> [1Leg]: Buy failed BTCUSDT;price=66258.8000
+13:14:37.007176> Try Modify Lock Buy order, 
+13:14:37.312196> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:37.312196> [1Leg]: Buy failed BTCUSDT;price=66260.6000
+13:14:42.010710> Try Modify Lock Buy order, 
+13:14:42.339726> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:42.340724> [1Leg]: Buy failed BTCUSDT;price=66267.7000
+13:14:47.006162> Try Modify Lock Buy order, 
+13:14:47.295177> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:47.296177> [1Leg]: Buy failed BTCUSDT;price=66267.7000
+13:14:52.007634> Try Modify Lock Buy order, 
+13:14:52.300652> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:52.300652> [1Leg]: Buy failed BTCUSDT;price=66264.3000
+13:14:57.006337> Try Modify Lock Buy order, 
+13:14:57.314353> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:57.329355> [1Leg]: Buy failed BTCUSDT;price=66251.0000
+13:15:02.030854> Try Modify Lock Buy order, 
+13:15:02.397868> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:02.398868> [1Leg]: Buy failed BTCUSDT;price=66251.0000
+13:15:07.009869> Try Modify Lock Buy order, 
+13:15:07.349211> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:07.349211> [1Leg]: Buy failed BTCUSDT;price=66251.0000
+13:15:12.013887> Try Modify Lock Buy order, 
+13:15:12.346912> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:12.347909> [1Leg]: Buy failed BTCUSDT;price=66279.6000
+13:15:17.007419> Try Modify Lock Buy order, 
+13:15:17.298438> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:17.299439> [1Leg]: Buy failed BTCUSDT;price=66291.8000
+13:15:22.006066> Try Modify Lock Buy order, 
+13:15:22.293076> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:22.294084> [1Leg]: Buy failed BTCUSDT;price=66298.0000
+13:15:27.007274> Try Modify Lock Buy order, 
+13:15:27.367881> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:27.369900> [1Leg]: Buy failed BTCUSDT;price=66290.7000
+13:15:32.015751> Try Modify Lock Buy order, 
+13:15:32.343769> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:32.344771> [1Leg]: Buy failed BTCUSDT;price=66280.4000
+13:15:37.007663> Try Modify Lock Buy order, 
+13:15:37.299683> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:37.300682> [1Leg]: Buy failed BTCUSDT;price=66285.4000
+13:15:42.007284> Try Modify Lock Buy order, 
+13:15:42.305300> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:42.307314> [1Leg]: Buy failed BTCUSDT;price=66294.0000
+13:15:47.008355> Try Modify Lock Buy order, 
+13:15:47.295371> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:47.296371> [1Leg]: Buy failed BTCUSDT;price=66287.2000
+13:15:52.008292> Try Modify Lock Buy order, 
+13:15:52.326299> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:52.326299> [1Leg]: Buy failed BTCUSDT;price=66285.4000
+13:15:57.005827> Try Modify Lock Buy order, 
+13:15:57.385848> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:15:57.386852> [1Leg]: Buy failed BTCUSDT;price=66280.8000
+13:16:02.005804> Try Modify Lock Buy order, 
+13:16:02.301172> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:02.302172> [1Leg]: Buy failed BTCUSDT;price=66291.4000
+13:16:07.011348> Try Modify Lock Buy order, 
+13:16:07.335150> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:07.353153> [1Leg]: Buy failed BTCUSDT;price=66292.0000
+13:16:12.006286> Try Modify Lock Buy order, 
+13:16:12.383308> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:12.383308> [1Leg]: Buy failed BTCUSDT;price=66296.0000
+13:16:17.013891> Try Modify Lock Buy order, 
+13:16:17.469308> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:17.469308> [1Leg]: Buy failed BTCUSDT;price=66318.3000
+13:16:22.007589> Try Modify Lock Buy order, 
+13:16:22.321606> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:22.322608> [1Leg]: Buy failed BTCUSDT;price=66318.2000
+13:16:27.009730> Try Modify Lock Buy order, 
+13:16:27.313751> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:27.314750> [1Leg]: Buy failed BTCUSDT;price=66319.8000
+13:16:32.007670> Try Modify Lock Buy order, 
+13:16:32.295689> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:32.296696> [1Leg]: Buy failed BTCUSDT;price=66334.9000
+13:16:37.008772> Try Modify Lock Buy order, 
+13:16:37.300788> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:37.334789> [1Leg]: Buy failed BTCUSDT;price=66336.0000
+13:16:42.024553> Try Modify Lock Buy order, 
+13:16:42.357148> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:42.357148> [1Leg]: Buy failed BTCUSDT;price=66350.0000
+13:16:46.949099> Try Modify Lock Buy order, 
+13:16:47.302617> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:47.303612> [1Leg]: Buy failed BTCUSDT;price=66353.3000
+13:16:47.329598> Try Modify Lock Buy order, 
+13:16:47.657619> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:47.657619> [1Leg]: Buy failed BTCUSDT;price=66353.3000
+13:16:52.007016> Try Modify Lock Buy order, 
+13:16:52.337037> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:52.337037> [1Leg]: Buy failed BTCUSDT;price=66338.2000
+13:16:57.007577> Try Modify Lock Buy order, 
+13:16:57.320595> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:16:57.321594> [1Leg]: Buy failed BTCUSDT;price=66338.4000
+13:17:02.010917> Try Modify Lock Buy order, 
+13:17:02.344929> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:17:02.344929> [1Leg]: Buy failed BTCUSDT;price=66343.9000
+13:17:04.088382> Try Modify Lock Buy order, 
+13:17:04.467960> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:17:04.469972> [1Leg]: Buy failed BTCUSDT;price=66344.0000
+13:17:04.569966> Try Modify Lock Buy order, 
+13:17:04.904986> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:17:04.904986> [1Leg]: Buy failed BTCUSDT;price=66344.0000
+13:17:07.006945> Try Modify Lock Buy order, 
+13:17:07.294965> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:17:07.294965> [1Leg]: Buy failed BTCUSDT;price=66344.0000
+13:17:10.345739> Try Modify Lock Buy order, 
+13:17:10.840761> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:17:10.872765> [1Leg]: Buy failed BTCUSDT;price=66350.0000
+13:17:12.172304> Try Modify Lock Buy order, 
+13:17:12.467321> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:17:12.468320> [1Leg]: Buy failed BTCUSDT;price=66353.2000
+13:17:12.522324> Try Modify Lock Buy order, 
+13:17:12.804340> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:17:12.805341> [1Leg]: Buy failed BTCUSDT;price=66353.3000
+13:18:58.468696> Try Modify Lock Buy order, 
+13:19:00.151795> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:00.173796> [1Leg]: Buy failed BTCUSDT;price=66360.0000
+13:19:00.182796> Try Modify Lock Buy order, 
+13:19:00.768827> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:00.768827> [1Leg]: Buy failed BTCUSDT;price=66360.0000
+13:19:03.142965> Try Modify Lock Buy order, 
+13:19:03.625993> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:03.720000> [1Leg]: Buy failed BTCUSDT;price=66333.8000
+13:19:08.020245> Try Modify Lock Buy order, 
+13:19:08.508274> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:08.527276> [1Leg]: Buy failed BTCUSDT;price=66338.1000
+13:19:12.576505> Try Modify Lock Buy order, 
+13:19:13.105537> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:13.107536> [1Leg]: Buy failed BTCUSDT;price=66364.1000
+13:19:13.139538> Try Modify Lock Buy order, 
+13:19:13.556565> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:13.577565> [1Leg]: Buy failed BTCUSDT;price=66363.7000
+13:19:13.586565> Try Modify Lock Buy order, 
+13:19:14.240600> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:14.384610> [1Leg]: Buy failed BTCUSDT;price=66367.1000
+13:19:14.691628> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+13:19:18.008818> Try Modify Lock Buy order, 
+13:19:18.473845> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:18.474845> [1Leg]: Buy failed BTCUSDT;price=66350.1000
+13:19:18.604853> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+13:19:18.605851> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+13:19:19.697915> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+13:19:19.701913> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+13:19:19.916927> WebSocket connected! Start @depth [Future] process...
+13:19:21.177999> WebSocket connected! Start @depth [Future] process...
+13:19:23.048116> Try Modify Lock Buy order, 
+13:19:23.439130> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:23.440129> [1Leg]: Buy failed BTCUSDT;price=66345.1000
+13:19:28.007383> Try Modify Lock Buy order, 
+13:19:28.407409> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:28.426409> [1Leg]: Buy failed BTCUSDT;price=66357.1000
+13:19:33.008724> Try Modify Lock Buy order, 
+13:19:33.296740> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:33.297741> [1Leg]: Buy failed BTCUSDT;price=66357.0000
+13:19:38.007889> Try Modify Lock Buy order, 
+13:19:38.299909> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:38.299909> [1Leg]: Buy failed BTCUSDT;price=66357.0000
+13:19:43.007392> Try Modify Lock Buy order, 
+13:19:43.293410> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:43.294411> [1Leg]: Buy failed BTCUSDT;price=66354.1000
+13:19:48.018740> Try Modify Lock Buy order, 
+13:19:48.365751> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:48.369750> [1Leg]: Buy failed BTCUSDT;price=66350.7000
+13:19:53.007892> Try Modify Lock Buy order, 
+13:19:53.294911> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:53.295920> [1Leg]: Buy failed BTCUSDT;price=66350.7000
+13:19:58.016523> Try Modify Lock Buy order, 
+13:19:58.319622> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:19:58.320624> [1Leg]: Buy failed BTCUSDT;price=66350.7000
+13:20:03.009511> Try Modify Lock Buy order, 
+13:20:03.302528> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:20:03.304525> [1Leg]: Buy failed BTCUSDT;price=66350.1000
+13:20:08.007446> Try Modify Lock Buy order, 
+13:20:08.297466> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:20:08.298464> [1Leg]: Buy failed BTCUSDT;price=66342.1000
+13:20:13.006912> Try Modify Lock Buy order, 
+13:20:13.312923> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:20:13.312923> [1Leg]: Buy failed BTCUSDT;price=66326.1000
+13:20:18.007647> Try Modify Lock Buy order, 
+13:20:18.294210> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:20:18.294210> [1Leg]: Buy failed BTCUSDT;price=66332.1000
+13:20:23.028134> Try Modify Lock Buy order, 
+13:20:23.319168> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:20:23.319168> [1Leg]: Buy failed BTCUSDT;price=66341.2000
+13:20:28.025329> Try Modify Lock Buy order, 
+13:20:28.312347> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:20:28.312347> [1Leg]: Buy failed BTCUSDT;price=66343.1000
+13:20:33.020348> Try Modify Lock Buy order, 
+13:20:33.453364> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:20:33.455367> [1Leg]: Buy failed BTCUSDT;price=66343.1000
+13:20:38.023606> Try Modify Lock Buy order, 
+13:20:38.427610> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:20:38.428608> [1Leg]: Buy failed BTCUSDT;price=66321.1000
+13:23:21.184802> Try Modify Lock Buy order, 
+13:23:50.697019> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:23:50.697019> [1Leg]: Buy failed BTCUSDT;price=66318.0000
+13:27:07.363313> Try Modify Lock Buy order, 
+13:27:07.373311> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+13:27:07.436313> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+13:27:08.021347> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+13:27:09.688444> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:09.736444> [1Leg]: Buy failed BTCUSDT;price=66320.0000
+13:27:12.037576> Try Modify Lock Buy order, 
+13:27:12.352597> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:12.354595> [1Leg]: Buy failed BTCUSDT;price=66306.0000
+13:27:12.385599> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+13:27:12.386600> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+13:27:12.465601> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+13:27:12.466603> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+13:27:13.490679> WebSocket connected! Start @depth [Future] process...
+13:27:13.598668> WebSocket connected! Start @depth [Future] process...
+13:27:17.007861> Try Modify Lock Buy order, 
+13:27:17.363883> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:17.432887> [1Leg]: Buy failed BTCUSDT;price=66300.0000
+13:27:22.029152> Try Modify Lock Buy order, 
+13:27:22.385169> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:22.385169> [1Leg]: Buy failed BTCUSDT;price=66328.3000
+13:27:27.008435> Try Modify Lock Buy order, 
+13:27:27.328455> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:27.352454> [1Leg]: Buy failed BTCUSDT;price=66324.7000
+13:27:32.010722> Try Modify Lock Buy order, 
+13:27:32.452749> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:32.455747> [1Leg]: Buy failed BTCUSDT;price=66311.6000
+13:27:35.890944> Try Modify Lock Buy order, 
+13:27:36.434976> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:36.434976> [1Leg]: Buy failed BTCUSDT;price=66305.6000
+13:27:36.466977> Try Modify Lock Buy order, 
+13:27:36.964004> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:36.965009> [1Leg]: Buy failed BTCUSDT;price=66302.5000
+13:27:37.028010> Try Modify Lock Buy order, 
+13:27:37.511038> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:37.533040> [1Leg]: Buy failed BTCUSDT;price=66305.6000
+13:27:37.569042> Try Modify Lock Buy order, 
+13:27:38.310086> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:38.378089> [1Leg]: Buy failed BTCUSDT;price=66317.8000
+13:27:38.385089> Try Modify Lock Buy order, 
+13:27:38.736109> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:38.737109> [1Leg]: Buy failed BTCUSDT;price=66340.2000
+13:27:42.047297> Try Modify Lock Buy order, 
+13:27:42.379318> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:42.380318> [1Leg]: Buy failed BTCUSDT;price=66351.1000
+13:27:47.007582> Try Modify Lock Buy order, 
+13:27:47.372602> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:47.372602> [1Leg]: Buy failed BTCUSDT;price=66356.9000
+13:27:52.008868> Try Modify Lock Buy order, 
+13:27:52.300886> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:52.323889> [1Leg]: Buy failed BTCUSDT;price=66352.3000
+13:27:57.009155> Try Modify Lock Buy order, 
+13:27:57.395178> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:27:57.395178> [1Leg]: Buy failed BTCUSDT;price=66348.4000
+13:28:02.031443> Try Modify Lock Buy order, 
+13:28:02.327458> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:02.327458> [1Leg]: Buy failed BTCUSDT;price=66348.4000
+13:28:07.038731> Try Modify Lock Buy order, 
+13:28:07.337748> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:07.337748> [1Leg]: Buy failed BTCUSDT;price=66356.1000
+13:28:12.017933> Try Modify Lock Buy order, 
+13:28:12.327800> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:12.328797> [1Leg]: Buy failed BTCUSDT;price=66356.1000
+13:28:17.022585> Try Modify Lock Buy order, 
+13:28:17.312731> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:17.313732> [1Leg]: Buy failed BTCUSDT;price=66356.7000
+13:28:22.007333> Try Modify Lock Buy order, 
+13:28:22.338370> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:22.344366> [1Leg]: Buy failed BTCUSDT;price=66351.1000
+13:28:27.010594> Try Modify Lock Buy order, 
+13:28:27.311614> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:27.312613> [1Leg]: Buy failed BTCUSDT;price=66357.0000
+13:28:32.048879> Try Modify Lock Buy order, 
+13:28:32.375902> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:32.376899> [1Leg]: Buy failed BTCUSDT;price=66357.0000
+13:28:37.011685> Try Modify Lock Buy order, 
+13:28:37.309700> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:37.310706> [1Leg]: Buy failed BTCUSDT;price=66351.3000
+13:28:42.007697> Try Modify Lock Buy order, 
+13:28:42.301709> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:42.302710> [1Leg]: Buy failed BTCUSDT;price=66339.9000
+13:28:47.008102> Try Modify Lock Buy order, 
+13:28:47.299120> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:47.300120> [1Leg]: Buy failed BTCUSDT;price=66339.9000
+13:28:52.074802> Try Modify Lock Buy order, 
+13:28:52.371597> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:52.371597> [1Leg]: Buy failed BTCUSDT;price=66347.7000
+13:28:57.007159> Try Modify Lock Buy order, 
+13:28:57.302179> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:28:57.303178> [1Leg]: Buy failed BTCUSDT;price=66340.0000
+13:29:02.008871> Try Modify Lock Buy order, 
+13:29:02.321892> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:02.347892> [1Leg]: Buy failed BTCUSDT;price=66333.4000
+13:29:07.011040> Try Modify Lock Buy order, 
+13:29:07.347056> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:07.348057> [1Leg]: Buy failed BTCUSDT;price=66341.3000
+13:29:12.011187> Try Modify Lock Buy order, 
+13:29:12.306205> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:12.307205> [1Leg]: Buy failed BTCUSDT;price=66333.4000
+13:29:17.008429> Try Modify Lock Buy order, 
+13:29:17.328448> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:17.332458> [1Leg]: Buy failed BTCUSDT;price=66339.9000
+13:29:22.011592> Try Modify Lock Buy order, 
+13:29:22.394623> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:22.395614> [1Leg]: Buy failed BTCUSDT;price=66339.9000
+13:29:27.062418> Try Modify Lock Buy order, 
+13:29:27.410430> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:27.425432> [1Leg]: Buy failed BTCUSDT;price=66327.0000
+13:29:32.017146> Try Modify Lock Buy order, 
+13:29:32.563165> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:32.597164> [1Leg]: Buy failed BTCUSDT;price=66322.9000
+13:29:37.008922> Try Modify Lock Buy order, 
+13:29:37.303941> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:37.304940> [1Leg]: Buy failed BTCUSDT;price=66317.6000
+13:29:42.009030> Try Modify Lock Buy order, 
+13:29:42.359052> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:42.361052> [1Leg]: Buy failed BTCUSDT;price=66310.1000
+13:29:47.007723> Try Modify Lock Buy order, 
+13:29:47.309631> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:47.309631> [1Leg]: Buy failed BTCUSDT;price=66310.1000
+13:29:52.008558> Try Modify Lock Buy order, 
+13:29:52.369576> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:52.370576> [1Leg]: Buy failed BTCUSDT;price=66308.5000
+13:29:57.008523> Try Modify Lock Buy order, 
+13:29:57.363546> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:29:57.364546> [1Leg]: Buy failed BTCUSDT;price=66308.5000
+13:30:02.010721> Try Modify Lock Buy order, 
+13:30:02.410749> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:30:02.411746> [1Leg]: Buy failed BTCUSDT;price=66310.6000
+13:30:07.048237> Try Modify Lock Buy order, 
+13:30:07.738267> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:30:07.770269> [1Leg]: Buy failed BTCUSDT;price=66317.8000
+13:30:12.023109> Try Modify Lock Buy order, 
+13:30:12.412132> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:30:12.413132> [1Leg]: Buy failed BTCUSDT;price=66315.5000
+13:30:17.012732> Try Modify Lock Buy order, 
+13:30:17.418710> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:30:17.419710> [1Leg]: Buy failed BTCUSDT;price=66326.1000
+13:30:22.008687> Try Modify Lock Buy order, 
+13:30:22.376704> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:30:22.377704> [1Leg]: Buy failed BTCUSDT;price=66332.0000
+13:30:27.034593> Try Modify Lock Buy order, 
+13:30:27.339607> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:30:27.398632> [1Leg]: Buy failed BTCUSDT;price=66332.0000
+13:30:32.009832> Try Modify Lock Buy order, 
+13:30:32.297844> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:30:32.298843> [1Leg]: Buy failed BTCUSDT;price=66341.7000
+13:30:37.019576> Try Modify Lock Buy order, 
+13:30:37.317594> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:30:37.318591> [1Leg]: Buy failed BTCUSDT;price=66334.7000
+13:30:42.009496> Try Modify Lock Buy order, 
+13:33:01.234293> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:33:01.243293> [1Leg]: Buy failed BTCUSDT;price=66329.1000
+13:33:11.095305> Try Modify Lock Buy order, 
+13:40:20.684027> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+13:40:20.686027> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+13:40:48.964941> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+13:40:48.965942> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+13:40:48.964941> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+13:40:48.967942> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..

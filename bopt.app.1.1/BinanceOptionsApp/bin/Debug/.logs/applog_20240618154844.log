@@ -1,0 +1,40 @@
+15:48:51.638412> WebSocket connected! Start Partial @depth20 [Future] process...
+15:48:51.661414> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:48:51.661414> WebSocket connected! Start @depth [Future] process...
+15:48:51.669419> WebSocket connected! Start Partial @depth20 [Future] process...
+15:48:52.592813> WebSocket connected! Start @depth [Future] process...
+15:48:52.593811> WebSocket connected! Start Partial @depth20 [Future] process...
+15:48:52.600813> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 242.15644259 USDT
+15:48:52.611812> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:48:52.649818> WebSocket connected! Start Partial @depth20 [Future] process...
+15:50:23.097161> Try Open BuyLimit, Bid: 65074.4 Ask:  65074.5
+15:50:23.097161> Step Signal open long, StepByStepUP:3 Stk:20 StkImp:0 Lnt:0 Prg:0 Tide:20 Bid: 65074.4 Ask:  65074.5
+15:50:23.355236> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-1.988571428571428571428571429;Price=65077.90;Slippage=65077.9;Execution=255.073 ms;
+15:50:23.355236> Placed Main BuyLimit, ticketCustom = 1 ticket= 3973977103 LastBuyPrice=65074.4
+15:50:30.020930> Try place lock SellLimit, Bid: 65072.9 Ask:  65073.0
+15:50:30.742377> [1Leg]: Sell OK BTCUSDC at 65073.00;Gap=0.311842105263157894736842105;Price=65073.00;Slippage=0.0;Execution=720.449 ms;
+15:50:30.742377> Placed lock SellLimit, ticketCustom= 2, ticket= 3973977103 
+15:50:37.740739> Try Modify Lock Sell order, 
+15:50:38.117405> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+15:50:38.118405> [1Leg]: Sell failed BTCUSDC;price=65072.80
+15:50:38.119406> Try Modify Lock Sell order, 
+15:50:38.417422> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+15:50:38.418422> [1Leg]: Sell failed BTCUSDC;price=65072.80
+15:50:38.419424> Try Modify Lock Sell order, 
+15:50:38.698439> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+15:50:38.699439> [1Leg]: Sell failed BTCUSDC;price=65072.80
+15:50:38.700439> Try Modify Lock Sell order, 
+15:50:38.981454> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+15:50:38.981454> [1Leg]: Sell failed BTCUSDC;price=65072.80
+15:50:38.982455> Try Modify Lock Sell order, 
+15:50:39.262469> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+15:50:39.262469> [1Leg]: Sell failed BTCUSDC;price=65072.80
+15:50:39.264472> Try Modify Lock Sell order, 
+15:50:39.544488> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+15:50:39.544488> [1Leg]: Sell failed BTCUSDC;price=65072.80
+15:50:39.547488> Try Modify Lock Sell order, 
+15:50:39.834504> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+15:50:39.835503> [1Leg]: Sell failed BTCUSDC;price=65072.80
+15:50:39.836504> Try Modify Lock Sell order, 
+15:50:40.114245> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+15:50:40.114245> [1Leg]: Sell failed BTCUSDC;price=65072.80

@@ -1,0 +1,313 @@
+18:45:23.674145> WebSocket connected! Start Partial @depth20 [Future] process...
+18:45:23.675145> WebSocket connected! Start Partial @depth20 [Future] process...
+18:45:23.696156> WebSocket connected! Start @depth [Future] process...
+18:45:23.772151> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:45:23.772151> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:45:23.772151> WebSocket connected! Start @depth [Future] process...
+18:45:24.734428> WebSocket connected! Start @depth [Future] process...
+18:45:24.739431> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:45:24.749427> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 281.42188803 USDT
+18:45:24.753426> WebSocket connected! Start @depth [Future] process...
+18:45:24.756427> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:45:24.778434> WebSocket connected! Start Partial @depth20 [Future] process...
+18:45:24.802442> WebSocket connected! Start Partial @depth20 [Future] process...
+19:24:52.275634>  DevSELL (-): -67.215 avgGapSell:-2.185 
+19:27:25.210012> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:27:25.211010> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:27:26.072064> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:27:26.816107> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:27:30.289453> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:27:30.290454> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:27:30.889488> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:27:30.890486> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:27:31.083497> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:27:31.083497> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:27:31.956549> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:27:31.957550> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:27:31.992554> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:27:32.011552> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:27:32.487579> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:27:33.662652> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:49:38.727585>  DevSELL (-): -65.9875 avgGapSell:-4.3125 
+19:49:38.746586>  DevSELL (+): -65.9875 avgGapSell:-4.3125 
+19:49:40.939710>  DevBUY (+): 68.9275 avgGapBuy:0.4725 
+19:49:49.368195>  DevBUY (-): 89.95125 avgGapBuy:1.14875 
+19:49:50.022230>  DevSELL (+): -97.8975 avgGapSell:-4.3025 
+19:50:02.375941>  DevBUY (-): 68.8425 avgGapBuy:-0.6425 
+19:51:31.613310>  DevSELL (-): -68.715 avgGapSell:-6.285 
+19:52:59.077325>  DevBUY (-): 136.775 avgGapBuy:-3.675 
+19:53:08.580869>  DevSELL (-): -83.3875 avgGapSell:-6.4125 
+19:53:09.243906>  DevBUY (+): 62.60875 avgGapBuy:-2.90875 
+19:53:39.875847>  DevBUY (-): 81.16375 avgGapBuy:-2.06375 
+19:54:00.507031>  DevBUY (+): 122.0925 avgGapBuy:-0.6925 
+19:54:01.645097>  DevSELL (-): -108.69875 avgGapSell:-5.10125 
+19:54:52.398761>  DevBUY (-): 72.90625 avgGapBuy:-1.30625 
+20:00:31.967545>  DevBUY (+): 66.69625 avgGapBuy:-1.09625 
+20:00:37.611871> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:00:38.380911> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:00:42.937174> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:00:42.937174> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:00:43.388198> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:00:43.388198> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:00:44.332254> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:00:44.726277> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:01:00.211399>  DevSELL (-): -84.6975 avgGapSell:-7.7025 
+20:01:07.110801> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:01:12.116081> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:01:12.116081> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:01:13.370154> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:01:24.682076>  DevBUY (+): 68.425 avgGapBuy:2.375 
+20:02:21.261325>  DevBUY (+): 87.2325 avgGapBuy:2.3675 
+20:02:22.723405>  DevBUY (+): 141.5325 avgGapBuy:2.3675 
+20:03:08.881055> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+20:03:13.902341> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:03:13.908355> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:03:15.575439> WebSocket connected! Start @depth [Future] process...
+20:03:26.164043>  DevSELL (-): -138.1625 avgGapSell:-3.8375 
+20:03:34.349513> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:03:39.465808> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:03:39.465808> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:03:40.835897> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:05:23.507759> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:05:28.519044> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:05:28.520046> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:05:29.784118> WebSocket connected! Start @depth [Future] process...
+20:06:25.188185>  DevBUY (-): 70.93125 avgGapBuy:1.56875 
+20:06:43.333662>  DevSELL (+): -80.6325 avgGapSell:-6.4675 
+20:06:45.450784> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:06:45.521787> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:06:50.505070> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:06:50.506071> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:06:50.558074> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:06:50.559076> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:06:50.561076> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:06:51.868152> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:06:51.954155> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:06:55.613370> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:06:55.614371> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:06:56.875436> WebSocket connected! Start @depth [Future] process...
+20:08:03.399251> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:08:03.406251> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:08:04.852335> WebSocket connected! Start @depth [Future] process...
+20:09:06.951305> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:09:06.956304> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:09:08.359381> WebSocket connected! Start @depth [Future] process...
+20:11:59.200138> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:12:04.204424> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:12:04.244426> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:12:04.541445> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:12:05.441496> WebSocket connected! Start @depth [Future] process...
+20:12:09.572732> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:12:09.573732> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:12:09.808747> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:12:10.594790> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:12:15.010046> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:12:15.011043> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:12:16.070105> WebSocket connected! Start @depth [Future] process...
+20:12:52.804612> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:12:57.807900> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:12:57.807900> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:12:58.462937> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:12:58.464938> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:12:59.178977> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:13:03.527227> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:13:03.544229> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:13:04.511286> WebSocket connected! Start @depth [Future] process...
+20:15:26.559639> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:15:31.569927> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:15:31.570929> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:15:31.986953> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:15:32.723993> WebSocket connected! Start @depth [Future] process...
+20:15:37.014239> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:15:37.014239> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:15:38.063300> WebSocket connected! Start @depth [Future] process...
+20:16:17.601569> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:16:22.652854> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:16:22.653856> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:16:24.156944> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:18:29.403532> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:18:34.449821> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:18:34.451823> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:18:35.706893> WebSocket connected! Start @depth [Future] process...
+20:20:26.488797> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:20:26.535801> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:20:30.681044> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:20:31.562087> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:20:31.563089> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:20:31.563089> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:20:31.563089> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:20:32.720155> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:20:32.721156> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:20:35.906339> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:20:35.907340> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:20:37.634437> WebSocket connected! Start @depth [Future] process...
+20:21:16.920053> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:21:21.963350> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:21:21.964346> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:21:23.142414> WebSocket connected! Start @depth [Future] process...
+20:22:34.093071> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:22:39.175672> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:22:39.176661> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:22:40.280721> WebSocket connected! Start @depth [Future] process...
+20:24:05.943577> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:24:10.969866> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:24:10.976867> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:24:11.491895> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:24:12.445948> WebSocket connected! Start @depth [Future] process...
+20:24:16.500178> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:24:16.505181> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:24:17.794254> WebSocket connected! Start @depth [Future] process...
+20:24:38.532443> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:24:43.584733> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:24:43.585734> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:24:44.819803> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:24:44.929813> WebSocket connected! Start @depth [Future] process...
+20:24:49.823093> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:24:49.825093> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:24:51.296179> WebSocket connected! Start @depth [Future] process...
+20:27:52.097544> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:27:52.462564> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+20:27:57.129831> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:27:57.129831> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:27:57.735876> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:27:57.736868> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:27:58.516912> WebSocket connected! Start @depth [Future] process...
+20:27:58.875943> WebSocket connected! Start @depth [Future] process...
+20:28:16.214926> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+20:28:21.272216> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:28:21.272216> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:28:22.473284> WebSocket connected! Start @depth [Future] process...
+20:30:09.124337> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:30:14.139626> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:30:14.139626> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:30:15.421700> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:30:47.853924> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:30:52.972218> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:30:52.973219> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:30:54.379224> WebSocket connected! Start @depth [Future] process...
+20:33:12.181565> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:33:17.299849> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:33:17.299849> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:33:19.068952> WebSocket connected! Start @depth [Future] process...
+20:36:58.736401> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:36:58.743402> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:36:59.068422> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+20:36:59.069421> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+20:37:03.757691> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:37:03.757691> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:37:04.087708> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:37:04.088708> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:37:05.310787> WebSocket connected! Start @depth [Future] process...
+20:37:05.674798> WebSocket connected! Start @depth [Future] process...
+20:38:45.867686> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:38:46.545726> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:38:50.967979> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:38:50.967979> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:38:51.624018> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:38:51.693021> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:38:52.154047> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:38:52.932091> WebSocket connected! Start @depth [Future] process...
+20:39:18.980587> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:39:24.060883> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:39:24.060883> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:39:25.537961> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:39:52.840525> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:39:52.894535> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:39:54.159601> WebSocket connected! Start @depth [Future] process...
+20:40:06.214295> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:40:11.280593> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:40:11.281586> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:40:12.651665> WebSocket connected! Start @depth [Future] process...
+20:41:50.090474> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:41:53.277659> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:41:55.169764> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:41:55.180765> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:41:56.465842> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:41:58.345948> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:41:58.345948> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:41:59.457010> WebSocket connected! Start @depth [Future] process...
+20:42:37.705541> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:42:37.714537> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:42:38.781595> WebSocket connected! Start @depth [Future] process...
+20:42:39.490640> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:42:44.526928> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:42:44.527926> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:42:45.555984> WebSocket connected! Start @depth [Future] process...
+20:45:39.291545> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:45:44.342397> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:45:44.343398> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:45:46.040496> WebSocket connected! Start @depth [Future] process...
+20:45:54.918005> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:45:59.952292> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:45:59.952292> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:46:01.263368> WebSocket connected! Start @depth [Future] process...
+20:47:33.705388> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:47:33.706389> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:47:34.887455> WebSocket connected! Start @depth [Future] process...
+20:50:01.767431> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:50:06.830721> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:50:06.831720> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:50:07.941784> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:50:51.945348> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:50:51.946348> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:50:53.097413> WebSocket connected! Start @depth [Future] process...
+20:51:20.762461> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:51:25.439728> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:51:25.820750> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:51:25.821752> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:51:26.347781> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:51:27.321835> WebSocket connected! Start @depth [Future] process...
+20:51:30.467017> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:51:30.468016> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:51:31.401069> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:51:31.402071> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:51:31.558078> WebSocket connected! Start @depth [Future] process...
+20:51:32.830151> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:54:34.257126> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:54:34.621162> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:54:35.153180> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:54:35.196181> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:54:39.298419> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:54:39.300420> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:54:39.801446> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:54:39.802447> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:54:40.180467> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:54:40.180467> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:54:40.241471> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:54:40.249471> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:54:41.137522> WebSocket connected! Start @depth [Future] process...
+20:54:41.560545> WebSocket connected! Start @depth [Future] process...
+20:54:41.649553> WebSocket connected! Start @depth [Future] process...
+20:54:41.910567> WebSocket connected! Start @depth [Future] process...
+20:56:56.703519> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:57:01.826814> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:57:01.826814> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:57:03.210892> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:57:25.962195> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:57:25.963198> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:57:27.384279> WebSocket connected! Start @depth [Future] process...
+20:57:31.452511> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:57:36.500801> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:57:36.500801> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:57:37.842876> WebSocket connected! Start @depth [Future] process...
+20:57:42.535147> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:57:47.553433> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:57:47.553433> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:57:48.043462> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:57:49.283531> WebSocket connected! Start @depth [Future] process...
+20:57:53.147758> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:57:53.148756> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:57:54.642839> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:58:12.783882> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+21:02:02.681430> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+21:02:07.737720> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:02:07.738722> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:02:08.142745> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:02:08.927788> WebSocket connected! Start @depth [Future] process...
+21:02:13.175066> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:02:13.176145> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:02:14.188102> WebSocket connected! Start @depth [Future] process...
+21:02:23.199703> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+21:02:28.211989> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:02:28.212988> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:02:29.204047> WebSocket connected! Start @depth [Future] process...

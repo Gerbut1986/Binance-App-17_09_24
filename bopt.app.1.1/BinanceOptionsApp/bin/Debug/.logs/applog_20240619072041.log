@@ -1,0 +1,92 @@
+07:20:51.727690> WebSocket connected! Start Partial @depth20 [Future] process...
+07:20:51.728690> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+07:20:51.729692> WebSocket connected! Start Partial @depth20 [Future] process...
+07:20:51.732690> WebSocket connected! Start @depth [Future] process...
+07:20:52.709720> WebSocket connected! Start Partial @depth20 [Future] process...
+07:20:52.720722> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+07:20:52.744728> WebSocket connected! Start @depth [Future] process...
+07:20:52.764723> WebSocket connected! Start Partial @depth20 [Future] process...
+07:20:53.162747> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 242.42169023 USDT
+07:23:20.760269> Try Open SellLimit, Ask: 65526.5 Bid:65526.4
+07:23:20.760269> Step Signal open short, StepByStepDN:3 Stk:10 StkImp:0 Lnt:1 Prg:0 Bid: 65526.4 Ask:  65526.5
+07:23:21.029273> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=65520.6;Execution=266.016 ms;
+07:23:21.031274> Placed Main SellLimit, ticketCustom = 1 ticket = 4007626697 LastSellPrice=65526.5
+07:23:30.018084> Try place lock BuyLimit, Bid: 65523.4 Ask:  65523.5 wantPrice:65430.4 EntrPrice:65520.5
+07:23:31.025061> [1Leg]: Buy OK BTCUSDC at 65430.40;Price=65430.4;Slippage=93.1;Execution=1006.977 ms;
+07:23:31.025061> Placed lock BuyLimit, ticketCustom= 2, ticket= 4007626697 
+07:23:35.006596> Try Modify Lock Buy order, 
+07:23:35.264600> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65430.50;execution=255.007 ms;
+07:23:35.264600> Modify Lock BuyLimit (1Leg)
+07:23:40.002283> Try Modify Lock Buy order, 
+07:23:40.258342> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65430.80;execution=255.059 ms;
+07:23:40.258342> Modify Lock BuyLimit (1Leg)
+07:23:45.002366> Try Modify Lock Buy order, 
+07:23:45.256870> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65431.20;execution=253.480 ms;
+07:23:45.256870> Modify Lock BuyLimit (1Leg)
+07:23:50.003667> Try Modify Lock Buy order, 
+07:23:50.255682> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65431.30;execution=252.015 ms;
+07:23:50.265683> Modify Lock BuyLimit (1Leg)
+07:24:10.003684> Try Modify Lock Buy order, 
+07:24:10.256397> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65431.40;execution=252.714 ms;
+07:24:10.257398> Modify Lock BuyLimit (1Leg)
+07:24:15.002630> Try Modify Lock Buy order, 
+07:24:15.256130> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65431.60;execution=253.501 ms;
+07:24:15.257132> Modify Lock BuyLimit (1Leg)
+07:24:20.002468> Try Modify Lock Buy order, 
+07:24:20.259095> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65431.80;execution=256.627 ms;
+07:24:20.260096> Modify Lock BuyLimit (1Leg)
+07:24:28.066118> Try Close Sell, Bid: 65560.2 Ask:  65560.3
+07:24:28.331347> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65560.3;Execution=265.229 ms;
+07:24:28.332349> Close Main Sell ticketCustom = 3 ticket= 4007646316
+07:24:28.334350> Try Close Sell, Bid: 65560.2 Ask:  65560.3
+07:24:28.590360> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65560.3;Execution=256.011 ms;
+07:24:28.591362> Close Main Sell ticketCustom = 4 ticket= 4007646316
+07:24:28.602374> Try Close Sell, Bid: 65560.2 Ask:  65560.3
+07:24:28.857062> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65560.3;Execution=254.689 ms;
+07:24:28.857062> Close Main Sell ticketCustom = 5 ticket= 4007646316
+07:24:28.859062> Try Close Sell, Bid: 65560.2 Ask:  65560.3
+07:24:29.114076> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65567.7;Execution=255.013 ms;
+07:24:29.114076> Close Main Sell ticketCustom = 6 ticket= 4007646316
+07:24:29.116151> Try Close Sell, Bid: 65567.6 Ask:  65567.7
+07:24:29.372094> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65567.7;Execution=255.943 ms;
+07:24:29.373090> Close Main Sell ticketCustom = 7 ticket= 4007646316
+07:24:29.375090> Try Close Sell, Bid: 65567.6 Ask:  65567.7
+07:24:29.631109> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65567.7;Execution=256.018 ms;
+07:24:29.631109> Close Main Sell ticketCustom = 8 ticket= 4007646316
+07:24:29.633105> Try Close Sell, Bid: 65567.6 Ask:  65567.7
+07:24:29.887121> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65567.7;Execution=254.016 ms;
+07:24:29.888119> Close Main Sell ticketCustom = 9 ticket= 4007646316
+07:24:29.889119> Try Close Sell, Bid: 65567.6 Ask:  65567.7
+07:24:30.143155> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65567.7;Execution=254.035 ms;
+07:24:30.144135> Close Main Sell ticketCustom = 10 ticket= 4007646316
+07:24:30.155135> Try Close Sell, Bid: 65567.6 Ask:  65567.7
+07:24:30.407193> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65567.7;Execution=251.059 ms;
+07:24:30.408148> Close Main Sell ticketCustom = 11 ticket= 4007646316
+07:24:30.412150> Try Close Sell, Bid: 65567.6 Ask:  65567.7
+07:24:30.674164> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65571.8;Execution=261.014 ms;
+07:24:30.675165> Close Main Sell ticketCustom = 12 ticket= 4007646316
+07:24:30.677165> Try Close Sell, Bid: 65571.7 Ask:  65571.8
+07:24:30.944179> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65571.8;Execution=267.013 ms;
+07:24:30.945180> Close Main Sell ticketCustom = 13 ticket= 4007646316
+07:24:30.947189> Try Close Sell, Bid: 65571.7 Ask:  65571.8
+07:24:31.210149> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65571.8;Execution=262.961 ms;
+07:24:31.211144> Close Main Sell ticketCustom = 14 ticket= 4007646316
+07:24:31.213144> Try Close Sell, Bid: 65571.7 Ask:  65571.8
+07:24:31.467169> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65571.8;Execution=254.025 ms;
+07:24:31.468159> Close Main Sell ticketCustom = 15 ticket= 4007646316
+07:24:31.469159> Try Close Sell, Bid: 65571.7 Ask:  65571.8
+07:24:31.725177> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65571.8;Execution=256.018 ms;
+07:24:31.725177> Close Main Sell ticketCustom = 16 ticket= 4007646316
+07:24:31.727173> Try Close Sell, Bid: 65571.7 Ask:  65571.8
+07:24:31.982194> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65571.8;Execution=255.021 ms;
+07:24:31.990188> Close Main Sell ticketCustom = 17 ticket= 4007646316
+07:24:31.993188> Try Close Sell, Bid: 65571.7 Ask:  65571.8
+07:24:32.257210> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65571.8;Execution=264.021 ms;
+07:24:32.257210> Close Main Sell ticketCustom = 18 ticket= 4007646316
+07:24:32.259212> Try Close Sell, Bid: 65571.7 Ask:  65571.8
+07:24:32.514220> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65571.8;Execution=255.009 ms;
+07:24:32.515217> Close Main Sell ticketCustom = 19 ticket= 4007646316
+07:24:35.004155> Try place lock SellLimit, Bid: 65570.4 Ask:65570.5 wantPrice:65658.7  EntrPrice:65566.64285715
+07:24:35.257356> [1Leg]: Sell OK BTCUSDC at 65658.70;Price=65658.7;Slippage=-88.2;Execution=253.202 ms;
+07:24:35.258353> Placed lock SellLimit, ticketCustom= 20, ticket= 4007646316 
+07:24:40.002100> Try Delete lock Sell order,  ticket = 4007646316 ticketCustom = 20

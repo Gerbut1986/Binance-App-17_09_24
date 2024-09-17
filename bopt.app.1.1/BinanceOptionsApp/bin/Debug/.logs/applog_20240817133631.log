@@ -1,0 +1,30 @@
+13:37:03.313776> WebSocket connected! Start Partial @depth20 [SPOT] process...
+13:37:03.314776> WebSocket connected! Start @depth [Future] process...
+13:37:03.315776> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:37:03.344778> WebSocket connected! Start Partial @depth20 [Future] process...
+13:37:03.606502> WebSocket connected! Start Partial @depth20 [SPOT] process...
+13:37:03.744508> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.15097346 USDT
+13:37:04.128640> WebSocket connected! Start Partial @depth20 [Future] process...
+13:37:04.156632> WebSocket connected! Start @depth [Future] process...
+13:37:04.161633> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:37:04.598278> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 162.21773589 USDT
+13:37:05.001505> Try place lock BuyLimit, Bid: 59192.20 Ask:  59192.30 wantPrice:58867.7 EntrPrice:59117.7
+13:37:05.276522> [1Leg]: Buy OK BTCUSDT at 58867.70;Price=58867.70;Slippage=324.6;Execution=270.017 ms;
+13:37:05.276522> close short, argument GapBuy:-28.88000000 modify for close, TotalVal=0.002 pos:-0.002 EntrPrice=59117.7 Stk:0 Lnt:0 Prg:0 Bid: 59192.20 Ask:  59192.30
+13:37:05.277522> Placed lock BuyLimit, ticketCustom= 1, ticket= 397161052366 
+13:37:05.277522> Try Modify Lock Buy order for close at now, 
+13:37:05.277522> close short, argument GapBuy:-28.88000000 modify for close, TotalVal=0.002 pos:-0.002 EntrPrice=59117.7 Stk:0 Lnt:0 Prg:0 Bid: 59192.20 Ask:  59192.30
+13:37:05.524999> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=59187.20;execution=244.485 ms;
+13:37:05.525999> Modify BuyLimit (1Leg) for Close at now
+13:37:10.241441> Try Modify Lock Buy order for close at now, 
+13:37:10.242442> close short, argument GapBuy:-28.88000000 modify for close, TotalVal=0.002 pos:-0.002 EntrPrice=59117.7 Stk:0 Lnt:0 Prg:0 Bid: 59194.00 Ask:  59194.10
+13:37:10.562464> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=59189.00;execution=319.018 ms;
+13:37:10.562464> Modify BuyLimit (1Leg) for Close at now
+13:37:11.844811> Try Modify Lock Buy order for close at now, 
+13:37:11.845812> close short, argument GapBuy:-28.88000000 modify for close, TotalVal=0.002 pos:-0.002 EntrPrice=59117.7 Stk:0 Lnt:0 Prg:0 Bid: 59194.40 Ask:  59194.50
+13:37:12.091166> [1Leg]: BUY OK MODIFY BTCUSDT at 0.002 lot;price=59189.40;execution=245.354 ms;
+13:37:12.092166> Modify BuyLimit (1Leg) for Close at now
+13:37:23.969693> Try Modify Lock Buy order, 
+13:37:24.331705> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:37:24.332705> [1Leg]: Buy failed BTCUSDT;price=59187.30
+13:37:24.332705> srabotalo

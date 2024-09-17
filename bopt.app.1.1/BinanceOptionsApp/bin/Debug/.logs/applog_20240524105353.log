@@ -1,0 +1,802 @@
+10:54:22.101691> WebSocket connected! Start Partial @depth20 [Future] process...
+10:54:22.101691> WebSocket connected! Start Partial @depth20 [Future] process...
+10:54:22.103692> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+10:54:22.103692> WebSocket connected! Start @depth [Future] process...
+10:54:23.173920> WebSocket connected! Start Partial @depth20 [Future] process...
+10:54:23.176921> WebSocket connected! Start @depth [Future] process...
+10:54:23.187922> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+10:54:23.610951> WebSocket connected! Start Partial @depth20 [Future] process...
+10:54:24.500425> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 96.28953070 USDT
+10:56:41.123933> Try Open BuyLimit, Bid: 67165.5 Ask:  67165.6
+10:56:41.124933> Support: 67152.1 VolS:1 Resistence: 67173.4 VolR:0.439
+10:56:41.426873> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=2.1775;Price=67165.60;Slippage=67165.6;Execution=292.940 ms;
+10:56:41.427873> Placed Main BuyLimit, ticketCustom = 1 ticket= 3273360281
+11:03:04.752287> Try Close Buy, Ask: 67155.5
+11:03:04.754287> Support: 67147.7 VolS:0.322 Resistence: 67155.5 VolR:2.811
+11:03:05.865470> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=3.365;Price=67141.20;Slippage=67141.2;Execution=1103.182 ms;
+11:03:05.866469> Close Main Buy, ticketCustom = 2 ticket = 3273360281
+11:03:05.867469> Try Close Buy, Ask: 67141.2
+11:03:05.867469> Support: 67141.1 VolS:1.173 Resistence: 67150.7 VolR:0.57
+11:03:06.150084> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.235;Price=67141.20;Slippage=67141.2;Execution=281.611 ms;
+11:03:06.150084> Close Main Buy, ticketCustom = 3 ticket = 3273506127
+11:03:06.152087> Try Close Buy, Ask: 67141.2
+11:03:06.152087> Support: 67141.1 VolS:1.168 Resistence: 67150.8 VolR:0.218
+11:03:06.428415> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.235;Price=67141.20;Slippage=67141.2;Execution=276.329 ms;
+11:03:06.428415> Close Main Buy, ticketCustom = 4 ticket = 3273506127
+11:03:06.431412> Try Close Buy, Ask: 67141.2
+11:03:06.431412> Support: 67141.1 VolS:1.168 Resistence: 67150.8 VolR:0.218
+11:03:06.707561> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.235;Price=67141.20;Slippage=67141.2;Execution=275.156 ms;
+11:03:06.708556> Close Main Buy, ticketCustom = 5 ticket = 3273506127
+11:03:06.709556> Try Close Buy, Ask: 67141.2
+11:03:06.735558> Support: 67141.1 VolS:0.892 Resistence: 67141.2 VolR:0.854
+11:03:07.012122> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.235;Price=67141.20;Slippage=67141.2;Execution=276.564 ms;
+11:03:07.013114> Close Main Buy, ticketCustom = 6 ticket = 3273506127
+11:03:07.015123> Try Close Buy, Ask: 67141.2
+11:03:07.015123> Support: 67141.1 VolS:0.89 Resistence: 67141.2 VolR:0.789
+11:03:07.292485> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.235;Price=67141.20;Slippage=67141.2;Execution=277.362 ms;
+11:03:07.293475> Close Main Buy, ticketCustom = 7 ticket = 3273506127
+11:03:07.294475> Try Close Buy, Ask: 67141.2
+11:03:07.294475> Support: 67141.1 VolS:0.89 Resistence: 67141.2 VolR:0.789
+11:03:07.572619> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.235;Price=67141.20;Slippage=67141.2;Execution=278.144 ms;
+11:03:07.573616> Close Main Buy, ticketCustom = 8 ticket = 3273506127
+11:03:07.588620> Try Close Buy, Ask: 67141.2
+11:03:07.589617> Support: 67141.1 VolS:0.582 Resistence: 67141.2 VolR:0.789
+11:03:07.865203> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.235;Price=67141.20;Slippage=67141.2;Execution=275.586 ms;
+11:03:07.865203> Close Main Buy, ticketCustom = 9 ticket = 3273506127
+11:03:07.867194> Try Close Buy, Ask: 67141.2
+11:03:07.867194> Support: 67141.1 VolS:0.582 Resistence: 67141.2 VolR:0.789
+11:03:08.148138> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.23875;Price=67141.20;Slippage=67141.2;Execution=280.944 ms;
+11:03:08.150137> Close Main Buy, ticketCustom = 10 ticket = 3273506127
+11:13:00.293570> Try Close Sell, Bid: 67100.5 Ask:  67100.6
+11:13:00.293570> Support: 67094.8 VolS:0.19 Resistence: 67100.6 VolR:3.762
+11:13:01.132282> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=4.05875;Price=67100.60;Slippage=67100.6;Execution=837.711 ms;
+11:13:01.133273> Close Main Sell ticketCustom = 11 ticket= 3273506127
+11:13:01.135273> Try Close Sell, Bid: 67100.5 Ask:  67100.6
+11:13:01.135273> Support: 67100.5 VolS:1.69 Resistence: 67108.5 VolR:0.295
+11:13:01.416288> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.14125;Price=67100.70;Slippage=67100.7;Execution=281.015 ms;
+11:13:01.416288> Close Main Sell ticketCustom = 12 ticket= 3273709158
+11:13:01.418290> Try Close Sell, Bid: 67100.6 Ask:  67100.7
+11:13:01.418290> Support: 67100.6 VolS:2.273 Resistence: 67108.5 VolR:0.195
+11:13:01.705996> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.04125;Price=67100.70;Slippage=67100.7;Execution=287.707 ms;
+11:13:01.705996> Close Main Sell ticketCustom = 13 ticket= 3273709158
+11:13:01.707998> Try Close Sell, Bid: 67100.6 Ask:  67100.7
+11:13:01.707998> Support: 67100.6 VolS:2.273 Resistence: 67108.5 VolR:0.195
+11:13:01.992012> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.04125;Price=67102.70;Slippage=67102.7;Execution=284.015 ms;
+11:13:01.993013> Close Main Sell ticketCustom = 14 ticket= 3273709158
+11:13:02.004013> Try Close Sell, Bid: 67102.6 Ask:  67102.7
+11:13:02.004013> Support: 67102.6 VolS:0.412 Resistence: 67102.7 VolR:1.112
+11:13:02.288031> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-0.04125;Price=67102.70;Slippage=67102.7;Execution=284.018 ms;
+11:13:02.289031> Close Main Sell ticketCustom = 15 ticket= 3273709158
+11:13:02.294031> Try Close Sell, Bid: 67102.6 Ask:  67102.7
+11:13:02.295032> Support: 67102.6 VolS:0.412 Resistence: 67102.7 VolR:1.112
+11:13:02.578050> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-0.04125;Price=67100.60;Slippage=67100.6;Execution=283.018 ms;
+11:13:02.579048> Close Main Sell ticketCustom = 16 ticket= 3273709158
+11:13:02.582048> Try Close Sell, Bid: 67100.5 Ask:  67100.6
+11:13:02.582048> Support: 67100.5 VolS:0.799 Resistence: 67102.7 VolR:0.8
+11:13:02.864424> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.14125;Price=67100.60;Slippage=67100.6;Execution=282.376 ms;
+11:13:02.864424> Close Main Sell ticketCustom = 17 ticket= 3273709158
+11:13:02.866423> Try Close Sell, Bid: 67100.5 Ask:  67100.6
+11:13:02.866423> Support: 67100.5 VolS:0.799 Resistence: 67102.7 VolR:0.8
+11:13:03.146439> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.14125;Price=67100.60;Slippage=67100.6;Execution=280.015 ms;
+11:13:03.146439> Close Main Sell ticketCustom = 18 ticket= 3273709158
+11:13:03.148440> Try Close Sell, Bid: 67100.5 Ask:  67100.6
+11:13:03.148440> Support: 67100.5 VolS:0.823 Resistence: 67102.7 VolR:0.8
+11:13:03.429135> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.37125;Price=67100.60;Slippage=67100.6;Execution=280.695 ms;
+11:13:03.430147> Close Main Sell ticketCustom = 19 ticket= 3273709158
+11:13:03.433147> Try Close Sell, Bid: 67100.5 Ask:  67100.6
+11:13:03.433147> Support: 67100.5 VolS:0.823 Resistence: 67102.7 VolR:0.8
+11:13:03.713165> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.37125;Price=67100.60;Slippage=67100.6;Execution=280.017 ms;
+11:13:03.714163> Close Main Sell ticketCustom = 20 ticket= 3273709158
+11:13:03.715164> Try Close Sell, Bid: 67100.5 Ask:  67100.6
+11:13:03.715164> Support: 67100.5 VolS:0.823 Resistence: 67102.7 VolR:0.683
+11:13:03.997178> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.37125;Price=67100.60;Slippage=67100.6;Execution=282.014 ms;
+11:13:03.997178> Close Main Sell ticketCustom = 21 ticket= 3273709158
+11:13:04.000180> Try Close Buy, Ask: 67100.6
+11:13:04.000180> Support: 67100.5 VolS:0.823 Resistence: 67102.7 VolR:0.683
+11:13:04.283012> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.37375;Price=67100.60;Slippage=67100.6;Execution=282.833 ms;
+11:13:04.284007> Close Main Buy, ticketCustom = 22 ticket = 3273709158
+11:13:04.285007> Try Close Buy, Ask: 67100.6
+11:13:04.285007> Support: 67100.5 VolS:0.578 Resistence: 67106 VolR:1.56
+11:13:04.566029> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.37375;Price=67100.60;Slippage=67100.6;Execution=281.022 ms;
+11:13:04.567023> Close Main Buy, ticketCustom = 23 ticket = 3273710210
+11:13:04.568024> Try Close Buy, Ask: 67100.6
+11:13:04.569024> Support: 67100.5 VolS:0.505 Resistence: 67106 VolR:1.56
+11:13:04.866041> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.27375;Price=67100.60;Slippage=67100.6;Execution=297.017 ms;
+11:13:04.866041> Close Main Buy, ticketCustom = 24 ticket = 3273710210
+11:13:04.869041> Try Close Buy, Ask: 67100.6
+11:13:04.869041> Support: 67100.5 VolS:0.505 Resistence: 67106 VolR:1.56
+11:13:05.150055> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.27375;Price=67100.60;Slippage=67100.6;Execution=281.015 ms;
+11:13:05.150055> Close Main Buy, ticketCustom = 25 ticket = 3273710210
+11:13:05.152057> Try Close Buy, Ask: 67100.6
+11:13:05.152057> Support: 67100.5 VolS:0.409 Resistence: 67106 VolR:1.56
+11:13:05.434085> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.27375;Price=67100.60;Slippage=67100.6;Execution=282.029 ms;
+11:13:05.435073> Close Main Buy, ticketCustom = 26 ticket = 3273710210
+11:13:05.436073> Try Close Buy, Ask: 67100.6
+11:13:05.436073> Support: 67100.5 VolS:0.409 Resistence: 67106 VolR:1.56
+11:13:05.716089> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.27375;Price=67100.60;Slippage=67100.6;Execution=279.015 ms;
+11:13:05.717088> Close Main Buy, ticketCustom = 27 ticket = 3273710210
+11:13:05.718089> Try Close Buy, Ask: 67100.6
+11:13:05.718089> Support: 67100.5 VolS:0.415 Resistence: 67106 VolR:1.56
+11:13:06.106498> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:06.107498> [1Leg]: Sell FAILED BTCUSDC;Gap=-2.27375;Price=67100.60
+11:13:06.108498> Try Close Buy, Ask: 67100.6
+11:13:06.108498> Support: 67100.5 VolS:0.415 Resistence: 67106 VolR:1.56
+11:13:06.429155> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:06.430155> [1Leg]: Sell FAILED BTCUSDC;Gap=-2.27375;Price=67100.60
+11:13:06.431155> Try Close Buy, Ask: 67100.6
+11:13:06.434155> Support: 67100.5 VolS:0.497 Resistence: 67106 VolR:1.56
+11:13:06.755174> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:06.755174> [1Leg]: Sell FAILED BTCUSDC;Gap=-2.27375;Price=67100.60
+11:13:06.756174> Try Close Buy, Ask: 67100.6
+11:13:06.756174> Support: 67100.5 VolS:0.497 Resistence: 67106 VolR:1.56
+11:13:07.075191> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:07.076192> [1Leg]: Sell FAILED BTCUSDC;Gap=3.82625;Price=67097.70
+11:13:07.077192> Try Close Buy, Ask: 67097.7
+11:13:07.077192> Support: 67097.6 VolS:0.279 Resistence: 67097.7 VolR:2.381
+11:13:07.393234> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:07.394234> [1Leg]: Sell FAILED BTCUSDC;Gap=0.92625;Price=67097.70
+11:13:07.395235> Try Close Buy, Ask: 67097.7
+11:13:07.395235> Support: 67097.6 VolS:0.279 Resistence: 67097.7 VolR:2.285
+11:13:07.713670> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:07.714670> [1Leg]: Sell FAILED BTCUSDC;Gap=0.92625;Price=67097.70
+11:13:07.715679> Try Close Buy, Ask: 67097.7
+11:13:07.715679> Support: 67097.6 VolS:0.279 Resistence: 67097.7 VolR:2.285
+11:13:08.036814> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:08.042814> [1Leg]: Sell FAILED BTCUSDC;Gap=0.92625;Price=67097.70
+11:13:08.057816> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:08.058815> Support: 67097.6 VolS:0.456 Resistence: 67097.7 VolR:1.727
+11:13:08.339830> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.92875;Price=67097.70;Slippage=67097.7;Execution=280.025 ms;
+11:13:08.339830> Close Main Sell ticketCustom = 28 ticket= 3273710210
+11:13:08.350831> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:08.350831> Support: 67097.6 VolS:0.456 Resistence: 67097.7 VolR:1.727
+11:13:08.634846> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.8425;Price=67097.70;Slippage=67097.7;Execution=283.014 ms;
+11:13:08.635847> Close Main Sell ticketCustom = 29 ticket= 3273711637
+11:13:08.636848> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:08.636848> Support: 67092 VolS:0.263 Resistence: 67097.7 VolR:1.236
+11:13:08.957763> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:08.957763> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:08.959764> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:08.959764> Support: 67092 VolS:0.263 Resistence: 67097.7 VolR:1.236
+11:13:09.293782> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:09.294783> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:09.297783> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:09.297783> Support: 67092 VolS:0.263 Resistence: 67097.7 VolR:0.958
+11:13:09.610802> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:09.611801> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:09.612802> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:09.612802> Support: 67092 VolS:0.263 Resistence: 67097.7 VolR:1.13
+11:13:09.926957> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:09.926957> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:09.929958> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:09.929958> Support: 67092 VolS:0.263 Resistence: 67097.7 VolR:1.13
+11:13:10.242976> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:10.242976> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:10.243976> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:10.243976> Support: 67092 VolS:0.263 Resistence: 67097.7 VolR:0.814
+11:13:10.557049> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:10.558038> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:10.559046> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:10.559046> Support: 67092 VolS:0.263 Resistence: 67097.7 VolR:0.814
+11:13:10.873059> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:10.874055> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:10.875056> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:10.875056> Support: 67097.6 VolS:0.467 Resistence: 67097.7 VolR:0.721
+11:13:11.189074> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:11.189074> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:11.191074> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:11.191074> Support: 67097.6 VolS:0.55 Resistence: 67097.7 VolR:0.522
+11:13:11.511520> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:11.524521> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:11.531520> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:11.532522> Support: 67097.6 VolS:0.55 Resistence: 67097.7 VolR:0.522
+11:13:11.852539> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:11.853540> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:11.854541> Try Close Sell, Bid: 67097.6 Ask:  67097.7
+11:13:11.854541> Support: 67097.6 VolS:0.542 Resistence: 67097.7 VolR:0.521
+11:13:12.175334> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:12.176332> [1Leg]: Buy FAILED BTCUSDC;Gap=0.8425;Price=67097.70
+11:13:12.177332> Try Close Buy, Ask: 67097.7
+11:13:12.177332> Support: 67097.6 VolS:0.542 Resistence: 67097.7 VolR:0.521
+11:13:12.459357> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.8425;Price=67097.70;Slippage=67097.7;Execution=281.025 ms;
+11:13:12.460348> Close Main Buy, ticketCustom = 30 ticket = 3273711637
+11:13:12.464349> Try Close Buy, Ask: 67097.7
+11:13:12.465349> Support: 67092 VolS:0.263 Resistence: 67101.3 VolR:1.5
+11:13:12.754363> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.8425;Price=67096.70;Slippage=67096.7;Execution=289.014 ms;
+11:13:12.755364> Close Main Buy, ticketCustom = 31 ticket = 3273712822
+11:13:12.760367> Try Close Buy, Ask: 67096.7
+11:13:12.761366> Support: 67092 VolS:0.263 Resistence: 67096.7 VolR:1.526
+11:13:13.078384> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:13.079384> [1Leg]: Sell FAILED BTCUSDC;Gap=-0.1575;Price=67096.70
+11:13:13.084385> Try Close Buy, Ask: 67096.7
+11:13:13.084385> Support: 67092 VolS:0.263 Resistence: 67096.7 VolR:1.526
+11:13:13.402409> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:13.403403> [1Leg]: Sell FAILED BTCUSDC;Gap=-0.1575;Price=67096.10
+11:13:13.447405> Try Close Buy, Ask: 67096.1
+11:13:13.448404> Support: 67092 VolS:0.263 Resistence: 67096.1 VolR:1.522
+11:13:13.764429> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:13.765424> [1Leg]: Sell FAILED BTCUSDC;Gap=-0.77;Price=67096.10
+11:13:13.768424> Try Close Buy, Ask: 67096.1
+11:13:13.769423> Support: 67092.1 VolS:0.4 Resistence: 67096.1 VolR:1.918
+11:13:14.084443> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:14.085442> [1Leg]: Sell FAILED BTCUSDC;Gap=-0.77;Price=67096.10
+11:13:14.086443> Try Close Buy, Ask: 67096.1
+11:13:14.086443> Support: 67092.1 VolS:0.4 Resistence: 67096.1 VolR:1.918
+11:13:14.402460> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:14.403460> [1Leg]: Sell FAILED BTCUSDC;Gap=-0.77;Price=67095.00
+11:13:14.406462> Try Close Buy, Ask: 67095.0
+11:13:14.406462> Support: 67089.3 VolS:0.19 Resistence: 67095 VolR:1.476
+11:13:14.726481> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:14.727479> [1Leg]: Sell FAILED BTCUSDC;Gap=-1.67;Price=67095.00
+11:13:14.750480> Try Close Buy, Ask: 67093.7
+11:13:14.751482> Support: 67087.5 VolS:0.306 Resistence: 67093.7 VolR:1.424
+11:13:15.069497> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:15.069497> [1Leg]: Sell FAILED BTCUSDC;Gap=-2.97;Price=67093.70
+11:13:15.071500> Try Close Buy, Ask: 67093.7
+11:13:15.071500> Support: 67087.5 VolS:0.306 Resistence: 67093.7 VolR:1.424
+11:13:15.400833> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:15.402833> [1Leg]: Sell FAILED BTCUSDC;Gap=-1.27;Price=67093.70
+11:13:15.404834> Try Close Buy, Ask: 67093.7
+11:13:15.404834> Support: 67087.5 VolS:0.345 Resistence: 67093.7 VolR:1.427
+11:13:15.867865> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:15.868860> [1Leg]: Sell FAILED BTCUSDC;Gap=-1.27;Price=67087.80
+11:13:15.871861> Try Close Buy, Ask: 67087.8
+11:13:15.871861> Support: 67081.6 VolS:0.347 Resistence: 67089.8 VolR:1.012
+11:13:16.190878> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:16.190878> [1Leg]: Sell FAILED BTCUSDC;Gap=-7.17;Price=67087.80
+11:13:16.192878> Try Close Sell, Bid: 67087.7 Ask:  67087.8
+11:13:16.193879> Support: 67081.6 VolS:0.347 Resistence: 67089.8 VolR:1.012
+11:13:16.474904> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.43;Price=67083.70;Slippage=67083.7;Execution=281.025 ms;
+11:13:16.475895> Close Main Sell ticketCustom = 32 ticket= 3273712822
+11:13:16.476895> Try Close Sell, Bid: 67083.6 Ask:  67083.7
+11:13:16.476895> Support: 67075.7 VolS:0.444 Resistence: 67090.9 VolR:1.131
+11:13:16.772256> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=7.23;Price=67083.70;Slippage=67083.7;Execution=294.362 ms;
+11:13:16.773268> Close Main Sell ticketCustom = 33 ticket= 3273716273
+11:13:16.774268> Try Close Sell, Bid: 67083.6 Ask:  67083.7
+11:13:16.774268> Support: 67075.7 VolS:0.444 Resistence: 67090.9 VolR:1.131
+11:13:17.114002> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:17.114996> [1Leg]: Buy FAILED BTCUSDC;Gap=7.23;Price=67083.10
+11:13:17.115996> Try Close Sell, Bid: 67083.0 Ask:  67083.1
+11:13:17.115996> Support: 67073.8 VolS:0.178 Resistence: 67083.1 VolR:1.598
+11:13:17.436002> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:17.437000> [1Leg]: Buy FAILED BTCUSDC;Gap=6.63;Price=67083.10
+11:13:17.438000> Try Close Sell, Bid: 67083.0 Ask:  67083.1
+11:13:17.438000> Support: 67073.8 VolS:0.178 Resistence: 67083.1 VolR:1.718
+11:13:17.755190> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:17.755190> [1Leg]: Buy FAILED BTCUSDC;Gap=6.63;Price=67083.10
+11:13:17.758189> Try Close Sell, Bid: 67083.0 Ask:  67083.1
+11:13:17.758189> Support: 67073.8 VolS:0.178 Resistence: 67083.1 VolR:1.718
+11:13:18.081716> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:18.083716> [1Leg]: Buy FAILED BTCUSDC;Gap=6.63;Price=67083.10
+11:13:18.084718> Try Close Sell, Bid: 67083.0 Ask:  67083.1
+11:13:18.084718> Support: 67083 VolS:0.096 Resistence: 67083.1 VolR:2.548
+11:13:18.403151> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:18.404148> [1Leg]: Buy FAILED BTCUSDC;Gap=6.63;Price=67083.10
+11:13:18.405148> Try Close Sell, Bid: 67083.0 Ask:  67083.1
+11:13:18.405148> Support: 67083 VolS:0.096 Resistence: 67083.1 VolR:2.548
+11:13:18.725168> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:18.726166> [1Leg]: Buy FAILED BTCUSDC;Gap=6.63;Price=67082.70
+11:13:18.751167> Try Close Sell, Bid: 67082.6 Ask:  67082.7
+11:13:18.751167> Support: 67075.4 VolS:0.174 Resistence: 67083.1 VolR:2.414
+11:13:19.079188> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:19.080187> [1Leg]: Buy FAILED BTCUSDC;Gap=6.10875;Price=67081.10
+11:13:19.084183> Try Close Sell, Bid: 67081.0 Ask:  67081.1
+11:13:19.085187> Support: 67073.2 VolS:0.14 Resistence: 67081.1 VolR:1.848
+11:13:19.400247> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:19.400247> [1Leg]: Buy FAILED BTCUSDC;Gap=4.50875;Price=67081.10
+11:13:19.402244> Try Close Sell, Bid: 67081.0 Ask:  67081.1
+11:13:19.402244> Support: 67073.2 VolS:0.14 Resistence: 67081.1 VolR:1.848
+11:13:19.715263> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:19.716264> [1Leg]: Buy FAILED BTCUSDC;Gap=4.50875;Price=67071.80
+11:13:19.717265> Try Close Sell, Bid: 67071.7 Ask:  67071.8
+11:13:19.717265> Support: 67068.2 VolS:0.475 Resistence: 67076.9 VolR:1.412
+11:13:20.030282> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:20.030282> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.79125;Price=67072.00
+11:13:20.031282> Try Close Buy, Ask: 67072.0
+11:13:20.031282> Support: 67071.9 VolS:0.592 Resistence: 67081.1 VolR:0.796
+11:13:20.313227> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-4.59125;Price=67072.00;Slippage=67072.0;Execution=281.944 ms;
+11:13:20.314218> Close Main Buy, ticketCustom = 34 ticket = 3273716273
+11:13:20.317217> Try Close Buy, Ask: 67072.0
+11:13:20.317217> Support: 67071.9 VolS:0.592 Resistence: 67081.1 VolR:0.796
+11:13:20.598165> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-4.59125;Price=67072.00;Slippage=67072.0;Execution=280.948 ms;
+11:13:20.599158> Close Main Buy, ticketCustom = 35 ticket = 3273717663
+11:13:20.602157> Try Close Buy, Ask: 67072.0
+11:13:20.621158> Support: 67068.4 VolS:0.557 Resistence: 67079.5 VolR:0.519
+11:13:20.940188> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:20.940188> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.59125;Price=67072.00
+11:13:20.942177> Try Close Buy, Ask: 67072.0
+11:13:20.942177> Support: 67068.4 VolS:0.557 Resistence: 67079.5 VolR:0.519
+11:13:21.279197> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:21.281198> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.59125;Price=67072.00
+11:13:21.284197> Try Close Buy, Ask: 67072.0
+11:13:21.284197> Support: 67068.2 VolS:0.475 Resistence: 67079.5 VolR:0.219
+11:13:21.601085> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:21.601085> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.59125;Price=67072.00
+11:13:21.602086> Try Close Buy, Ask: 67072.0
+11:13:21.602086> Support: 67068.2 VolS:0.475 Resistence: 67072 VolR:0.694
+11:13:21.937656> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:21.937656> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.59125;Price=67072.00
+11:13:21.939657> Try Close Buy, Ask: 67072.0
+11:13:21.939657> Support: 67068.2 VolS:0.475 Resistence: 67072 VolR:0.694
+11:13:22.261685> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:22.262675> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.59125;Price=67072.00
+11:13:22.263676> Try Close Buy, Ask: 67072.0
+11:13:22.263676> Support: 67068.2 VolS:0.475 Resistence: 67072 VolR:0.385
+11:13:22.584812> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:22.598806> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.59125;Price=67072.00
+11:13:22.604806> Try Close Buy, Ask: 67072.0
+11:13:22.605807> Support: 67068.2 VolS:0.475 Resistence: 67079.3 VolR:0.219
+11:13:22.922825> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:22.923825> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.59125;Price=67072.00
+11:13:22.924825> Try Close Buy, Ask: 67072.0
+11:13:22.924825> Support: 67068.2 VolS:0.475 Resistence: 67079.3 VolR:0.219
+11:13:23.239487> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:23.239487> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.59125;Price=67072.00
+11:13:23.240487> Try Close Buy, Ask: 67072.0
+11:13:23.240487> Support: 67068.2 VolS:0.475 Resistence: 67079.6 VolR:0.219
+11:13:23.556372> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:23.558372> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.59125;Price=67072.00
+11:13:23.559372> Try Close Buy, Ask: 67072.0
+11:13:23.559372> Support: 67068.2 VolS:0.475 Resistence: 67079.6 VolR:0.219
+11:13:23.873952> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:23.874949> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.59125;Price=67072.00
+11:13:23.876949> Try Close Buy, Ask: 67072.0
+11:13:23.876949> Support: 67070 VolS:2 Resistence: 67072 VolR:0.406
+11:13:24.198967> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:24.199968> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.6525;Price=67072.00
+11:13:24.200968> Try Close Sell, Bid: 67071.9 Ask:  67072.0
+11:13:24.200968> Support: 67070 VolS:2 Resistence: 67072 VolR:0.406
+11:13:24.482983> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-4.6525;Price=67072.00;Slippage=67072.0;Execution=280.020 ms;
+11:13:24.482983> Close Main Sell ticketCustom = 36 ticket= 3273717663
+11:13:24.485986> Try Close Sell, Bid: 67071.9 Ask:  67072.0
+11:13:24.485986> Support: 67070 VolS:2 Resistence: 67079.8 VolR:0.343
+11:13:24.768665> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-4.6525;Price=67072.00;Slippage=67072.0;Execution=281.681 ms;
+11:13:24.769660> Close Main Sell ticketCustom = 37 ticket= 3273718709
+11:13:24.770661> Try Close Sell, Bid: 67071.9 Ask:  67072.0
+11:13:24.770661> Support: 67070 VolS:2 Resistence: 67079.8 VolR:0.343
+11:13:25.085810> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:25.087809> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.6525;Price=67075.60
+11:13:25.106811> Try Close Sell, Bid: 67075.5 Ask:  67075.6
+11:13:25.107811> Support: 67070 VolS:2 Resistence: 67081.1 VolR:0.449
+11:13:25.428829> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:25.428829> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.0525;Price=67075.60
+11:13:25.431829> Try Close Sell, Bid: 67075.5 Ask:  67075.6
+11:13:25.431829> Support: 67070 VolS:2 Resistence: 67081.1 VolR:0.449
+11:13:25.744854> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:25.745848> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.0525;Price=67075.60
+11:13:25.746848> Try Close Sell, Bid: 67075.5 Ask:  67075.6
+11:13:25.746848> Support: 67070 VolS:2 Resistence: 67081.1 VolR:0.449
+11:13:26.072977> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:26.073975> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.0525;Price=67075.60
+11:13:26.074976> Try Close Sell, Bid: 67075.5 Ask:  67075.6
+11:13:26.074976> Support: 67070 VolS:2 Resistence: 67079.7 VolR:0.5
+11:13:26.393906> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:26.394906> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.0525;Price=67078.70
+11:13:26.395906> Try Close Sell, Bid: 67078.6 Ask:  67078.7
+11:13:26.395906> Support: 67073.2 VolS:0.4 Resistence: 67086.6 VolR:0.278
+11:13:26.711736> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:26.711736> [1Leg]: Buy FAILED BTCUSDC;Gap=2.0475;Price=67078.70
+11:13:26.712737> Try Close Sell, Bid: 67078.6 Ask:  67078.7
+11:13:26.712737> Support: 67073.2 VolS:0.4 Resistence: 67086.6 VolR:0.278
+11:13:27.026246> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:27.027244> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.6525;Price=67078.70
+11:13:27.028244> Try Close Sell, Bid: 67078.6 Ask:  67078.7
+11:13:27.028244> Support: 67076.2 VolS:0.4 Resistence: 67078.7 VolR:0.353
+11:13:27.352042> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:27.353041> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.6525;Price=67078.70
+11:13:27.354041> Try Close Sell, Bid: 67078.6 Ask:  67078.7
+11:13:27.354041> Support: 67076.2 VolS:0.4 Resistence: 67078.7 VolR:0.353
+11:13:27.668478> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:27.668478> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.6525;Price=67078.70
+11:13:27.669478> Try Close Sell, Bid: 67078.6 Ask:  67078.7
+11:13:27.669478> Support: 67076.1 VolS:0.4 Resistence: 67078.7 VolR:0.353
+11:13:27.984610> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:27.985608> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.6525;Price=67078.70
+11:13:27.986608> Try Close Sell, Bid: 67078.6 Ask:  67078.7
+11:13:27.986608> Support: 67076.1 VolS:0.4 Resistence: 67078.7 VolR:0.353
+11:13:28.299541> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:28.300541> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.6525;Price=67078.70
+11:13:28.311560> Try Close Buy, Ask: 67078.7
+11:13:28.312542> Support: 67076.1 VolS:0.4 Resistence: 67078.7 VolR:0.429
+11:13:28.594446> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.6525;Price=67078.70;Slippage=67078.7;Execution=281.904 ms;
+11:13:28.595446> Close Main Buy, ticketCustom = 38 ticket = 3273718709
+11:13:28.611447> Try Close Buy, Ask: 67078.7
+11:13:28.612444> Support: 67076.1 VolS:0.4 Resistence: 67078.7 VolR:0.429
+11:13:28.894464> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.6525;Price=67078.70;Slippage=67078.7;Execution=282.019 ms;
+11:13:28.895463> Close Main Buy, ticketCustom = 39 ticket = 3273719896
+11:13:28.898465> Try Close Buy, Ask: 67078.7
+11:13:28.898465> Support: 67076.4 VolS:0.4 Resistence: 67085.6 VolR:0.4
+11:13:29.216482> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:29.216482> [1Leg]: Sell FAILED BTCUSDC;Gap=-2.74625;Price=67077.30
+11:13:29.217482> Try Close Buy, Ask: 67077.3
+11:13:29.217482> Support: 67076.1 VolS:0.4 Resistence: 67077.3 VolR:0.311
+11:13:29.536254> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:29.537254> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.14625;Price=67077.30
+11:13:29.538254> Try Close Buy, Ask: 67077.3
+11:13:29.538254> Support: 67076.1 VolS:0.4 Resistence: 67077.3 VolR:0.311
+11:13:29.857274> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:29.858272> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.14625;Price=67077.30
+11:13:29.861272> Try Close Buy, Ask: 67077.3
+11:13:29.861272> Support: 67076.5 VolS:0.4 Resistence: 67077.3 VolR:0.311
+11:13:30.177290> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:30.178291> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.14625;Price=67077.30
+11:13:30.179291> Try Close Buy, Ask: 67077.3
+11:13:30.179291> Support: 67076.5 VolS:0.4 Resistence: 67077.3 VolR:0.311
+11:13:30.498304> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:30.499301> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.14625;Price=67077.30
+11:13:30.502302> Try Close Buy, Ask: 67077.3
+11:13:30.502302> Support: 67076.5 VolS:0.4 Resistence: 67078.4 VolR:0.303
+11:13:30.822403> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:30.823402> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.14625;Price=67077.30
+11:13:30.824403> Try Close Buy, Ask: 67077.3
+11:13:30.824403> Support: 67076.5 VolS:0.4 Resistence: 67078.4 VolR:0.303
+11:13:31.162422> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:31.177422> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.14625;Price=67077.30
+11:13:31.179423> Try Close Buy, Ask: 67077.3
+11:13:31.179423> Support: 67076.1 VolS:0.4 Resistence: 67078.4 VolR:0.303
+11:13:31.494442> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:31.495441> [1Leg]: Sell FAILED BTCUSDC;Gap=-4.14625;Price=67078.40
+11:13:31.496442> Try Close Buy, Ask: 67078.4
+11:13:31.496442> Support: 67078.3 VolS:0.559 Resistence: 67078.4 VolR:1.158
+11:13:31.829488> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:31.831488> [1Leg]: Sell FAILED BTCUSDC;Gap=-3.04625;Price=67078.40
+11:13:31.832488> Try Close Buy, Ask: 67078.4
+11:13:31.833490> Support: 67078.3 VolS:0.559 Resistence: 67078.4 VolR:1.158
+11:13:32.176507> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:32.176507> [1Leg]: Sell FAILED BTCUSDC;Gap=-3.04625;Price=67078.40
+11:13:32.179509> Try Close Sell, Bid: 67078.3 Ask:  67078.4
+11:13:32.179509> Support: 67078.3 VolS:0.71 Resistence: 67086.6 VolR:0.278
+11:13:32.460068> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.04625;Price=67078.40;Slippage=67078.4;Execution=280.559 ms;
+11:13:32.461060> Close Main Sell ticketCustom = 40 ticket= 3273719896
+11:13:32.464060> Try Close Sell, Bid: 67078.3 Ask:  67078.4
+11:13:32.464060> Support: 67078.3 VolS:0.71 Resistence: 67084.1 VolR:0.192
+11:13:32.782595> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:32.783584> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.04625;Price=67078.40
+11:13:32.784585> Try Close Sell, Bid: 67078.3 Ask:  67078.4
+11:13:32.784585> Support: 67078.3 VolS:0.71 Resistence: 67084.1 VolR:0.192
+11:13:33.101603> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:33.102603> [1Leg]: Buy FAILED BTCUSDC;Gap=-9.24625;Price=67086.00
+11:13:33.104602> Try Close Sell, Bid: 67085.9 Ask:  67086.0
+11:13:33.104602> Support: 67085.9 VolS:0.461 Resistence: 67091.6 VolR:0.5
+11:13:33.419992> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:33.422989> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.64625;Price=67086.00
+11:13:33.423992> Try Close Sell, Bid: 67085.9 Ask:  67086.0
+11:13:33.423992> Support: 67085.9 VolS:0.461 Resistence: 67091.6 VolR:0.5
+11:13:33.776255> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:33.778253> [1Leg]: Buy FAILED BTCUSDC;Gap=-8.94625;Price=67090.70
+11:13:33.779253> Try Close Sell, Bid: 67090.6 Ask:  67090.7
+11:13:33.779253> Support: 67085.9 VolS:0.512 Resistence: 67090.7 VolR:1.123
+11:13:34.093361> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:34.094367> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.24625;Price=67090.70
+11:13:34.096365> Try Close Sell, Bid: 67090.6 Ask:  67090.7
+11:13:34.096365> Support: 67085.9 VolS:0.512 Resistence: 67090.7 VolR:0.849
+11:13:34.418376> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:34.418376> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.95625;Price=67090.70
+11:13:34.435377> Try Close Sell, Bid: 67090.6 Ask:  67090.7
+11:13:34.435377> Support: 67085.9 VolS:0.512 Resistence: 67090.7 VolR:0.849
+11:13:34.756395> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:34.756395> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.95625;Price=67090.70
+11:13:34.760393> Try Close Sell, Bid: 67090.6 Ask:  67090.7
+11:13:34.760393> Support: 67085.9 VolS:0.512 Resistence: 67090.7 VolR:0.524
+11:13:35.076415> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:35.077413> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.95625;Price=67090.70
+11:13:35.078413> Try Close Sell, Bid: 67090.6 Ask:  67090.7
+11:13:35.079412> Support: 67085.9 VolS:0.512 Resistence: 67090.7 VolR:0.374
+11:13:35.404458> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:35.405443> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.95625;Price=67090.70
+11:13:35.407430> Try Close Sell, Bid: 67090.6 Ask:  67090.7
+11:13:35.407430> Support: 67085.9 VolS:0.512 Resistence: 67090.7 VolR:0.374
+11:13:35.721450> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:35.721450> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.95625;Price=67090.70
+11:13:35.722451> Try Close Sell, Bid: 67090.6 Ask:  67090.7
+11:13:35.722451> Support: 67085.9 VolS:0.512 Resistence: 67095.7 VolR:0.577
+11:13:36.056244> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:13:36.062244> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.95625;Price=67090.70
+11:13:36.072246> Try Open BuyLimit, Bid: 67090.6 Ask:  67090.7
+11:13:36.072246> Support: 67085.9 VolS:0.512 Resistence: 67095.7 VolR:0.577
+11:13:36.355227> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.95625;Price=67090.70;Slippage=67090.7;Execution=281.982 ms;
+11:13:36.356225> Placed Main BuyLimit, ticketCustom = 41 ticket= 3273723330
+11:14:43.115649> Try Close Buy, Ask: 67034.2
+11:14:43.116649> Support: 67034.1 VolS:0.419 Resistence: 67034.2 VolR:1.303
+11:14:43.398666> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-4.82375;Price=67034.20;Slippage=67034.2;Execution=282.017 ms;
+11:14:43.398666> Close Main Buy, ticketCustom = 42 ticket = 3273723330
+11:14:43.402666> Try Close Buy, Ask: 67034.2
+11:14:43.403666> Support: 67029.7 VolS:0.212 Resistence: 67034.2 VolR:1.314
+11:14:43.690689> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.02375;Price=67034.20;Slippage=67034.2;Execution=287.023 ms;
+11:14:43.691683> Close Main Buy, ticketCustom = 43 ticket = 3273750422
+11:14:43.693681> Try Close Buy, Ask: 67034.2
+11:14:43.693681> Support: 67029.7 VolS:0.212 Resistence: 67034.2 VolR:1.314
+11:14:43.975943> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.02375;Price=67034.20;Slippage=67034.2;Execution=282.262 ms;
+11:14:43.975943> Close Main Buy, ticketCustom = 44 ticket = 3273750422
+11:14:43.977945> Try Close Buy, Ask: 67034.2
+11:14:43.977945> Support: 67029.7 VolS:0.212 Resistence: 67034.2 VolR:1.359
+11:14:44.260728> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-1.52375;Price=67034.20;Slippage=67034.2;Execution=281.783 ms;
+11:14:44.260728> Close Main Buy, ticketCustom = 45 ticket = 3273750422
+11:14:44.261729> Try Close Buy, Ask: 67034.2
+11:14:44.262731> Support: 67029.7 VolS:0.212 Resistence: 67034.2 VolR:1.359
+11:14:45.097300> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-1.31625;Price=67032.70;Slippage=67032.7;Execution=834.570 ms;
+11:14:45.098300> Close Main Buy, ticketCustom = 46 ticket = 3273750422
+11:14:45.100301> Try Close Buy, Ask: 67032.7
+11:14:45.100301> Support: 67026.6 VolS:0.159 Resistence: 67032.7 VolR:1.875
+11:14:45.383316> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.38375;Price=67032.70;Slippage=67032.7;Execution=283.015 ms;
+11:14:45.384315> Close Main Buy, ticketCustom = 47 ticket = 3273750422
+11:14:45.386317> Try Close Buy, Ask: 67032.7
+11:14:45.386317> Support: 67026.6 VolS:0.159 Resistence: 67032.7 VolR:1.875
+11:14:45.667332> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=1.88375;Price=67028.60;Slippage=67028.6;Execution=281.016 ms;
+11:14:45.667332> Close Main Buy, ticketCustom = 48 ticket = 3273750422
+11:14:45.668334> Try Close Buy, Ask: 67028.6
+11:14:45.669330> Support: 67026.6 VolS:0.159 Resistence: 67028.6 VolR:1.245
+11:14:45.952115> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.21625;Price=67028.60;Slippage=67028.6;Execution=282.785 ms;
+11:14:45.952115> Close Main Buy, ticketCustom = 49 ticket = 3273750422
+11:14:45.954115> Try Close Buy, Ask: 67028.6
+11:14:45.954115> Support: 67026.6 VolS:0.159 Resistence: 67028.6 VolR:1.245
+11:14:46.235148> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.21625;Price=67028.60;Slippage=67028.6;Execution=281.032 ms;
+11:14:46.236152> Close Main Buy, ticketCustom = 50 ticket = 3273750422
+11:16:46.833208> Try place lock BuyLimit, Bid: 66976.8 Ask:  66976.9
+11:16:47.118622> [1Leg]: Buy OK BTCUSDC at 66975.80;Gap=-7.4425;Price=66976.90;Slippage=1.1;Execution=285.414 ms;
+11:16:47.118622> Placed lock BuyLimit, ticketCustom= 51, ticket= 3273750422 
+11:16:47.119614> Try adding SellLimit, Ask: 66976.9
+11:16:47.119614> Support: 66976.8 VolS:0.335 Resistence: 66976.9 VolR:1.029
+11:16:47.763349> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-7.4425;Price=66976.90;Slippage=66976.9;Execution=643.735 ms;
+11:16:47.765351> adding Sell (1Leg), ticket = 3273814691 ticketCustom = 52
+11:18:00.912746> Try place lock BuyLimit, Bid: 66909.1 Ask:  66909.2
+11:18:02.023520> [1Leg]: Buy OK BTCUSDC at 66908.10;Gap=-26.755;Price=66909.20;Slippage=1.1;Execution=1110.774 ms;
+11:18:02.023520> Placed lock BuyLimit, ticketCustom= 53, ticket= 3273814691 
+11:18:02.024521> Try adding SellLimit, Ask: 66909.2
+11:18:02.024521> Support: 66900 VolS:2.019 Resistence: 66909.2 VolR:1.055
+11:18:02.308469> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-26.7125;Price=66909.20;Slippage=66909.2;Execution=283.948 ms;
+11:18:02.308469> adding Sell (1Leg), ticket = 3273849908 ticketCustom = 54
+11:19:34.321855> Try Close Sell, Bid: 66895.9 Ask:  66896.0
+11:19:34.322855> Support: 66895.9 VolS:0.459 Resistence: 66896 VolR:0.489
+11:19:35.138709> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=1.00;Price=66896.00;Slippage=66896.0;Execution=815.854 ms;
+11:19:35.139708> Close Main Sell ticketCustom = 55 ticket= 3273849908
+11:19:35.145709> Try Close Sell, Bid: 66895.9 Ask:  66896.0
+11:19:35.145709> Support: 66895.9 VolS:0.609 Resistence: 66900 VolR:0.481
+11:19:35.430729> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.76;Price=66896.00;Slippage=66896.0;Execution=285.021 ms;
+11:19:35.431725> Close Main Sell ticketCustom = 56 ticket= 3273890432
+11:19:35.433724> Try Close Sell, Bid: 66895.9 Ask:  66896.0
+11:19:35.433724> Support: 66895.9 VolS:0.609 Resistence: 66900 VolR:0.481
+11:19:35.720227> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.76;Price=66896.00;Slippage=66896.0;Execution=286.503 ms;
+11:19:35.721213> Close Main Sell ticketCustom = 57 ticket= 3273890432
+11:19:35.722214> Try Close Sell, Bid: 66895.9 Ask:  66896.0
+11:19:35.722214> Support: 66895.9 VolS:0.627 Resistence: 66900 VolR:0.481
+11:19:36.010794> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.76;Price=66896.00;Slippage=66896.0;Execution=288.580 ms;
+11:19:36.011787> Close Main Sell ticketCustom = 58 ticket= 3273890432
+11:19:36.013787> Try Close Sell, Bid: 66895.9 Ask:  66896.0
+11:19:36.013787> Support: 66895.9 VolS:0.67 Resistence: 66900 VolR:0.481
+11:19:36.293140> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.76;Price=66896.00;Slippage=66896.0;Execution=279.353 ms;
+11:19:36.293140> Close Main Sell ticketCustom = 59 ticket= 3273890432
+11:19:36.296143> Try Close Sell, Bid: 66895.9 Ask:  66896.0
+11:19:36.296143> Support: 66895.9 VolS:0.67 Resistence: 66900 VolR:0.481
+11:19:36.576155> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.76;Price=66899.20;Slippage=66899.2;Execution=280.012 ms;
+11:19:36.576155> Close Main Sell ticketCustom = 60 ticket= 3273890432
+11:19:36.585157> Try Close Sell, Bid: 66899.1 Ask:  66899.2
+11:19:36.586158> Support: 66899.1 VolS:0.673 Resistence: 66900 VolR:0.481
+11:19:36.868860> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-0.56;Price=66899.20;Slippage=66899.2;Execution=282.702 ms;
+11:19:36.868860> Close Main Sell ticketCustom = 61 ticket= 3273890432
+11:19:36.871860> Try Close Sell, Bid: 66899.1 Ask:  66899.2
+11:19:36.871860> Support: 66899.1 VolS:0.673 Resistence: 66900 VolR:0.481
+11:19:37.155015> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-0.56;Price=66892.10;Slippage=66892.1;Execution=283.155 ms;
+11:19:37.156008> Close Main Sell ticketCustom = 62 ticket= 3273890432
+11:19:37.157008> Try Close Sell, Bid: 66892.0 Ask:  66892.1
+11:19:37.157008> Support: 66885.4 VolS:0.314 Resistence: 66892.1 VolR:1.667
+11:19:37.440940> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-3.36;Price=66892.10;Slippage=66892.1;Execution=283.932 ms;
+11:19:37.441945> Close Main Sell ticketCustom = 63 ticket= 3273890432
+11:19:37.443937> Try Close Sell, Bid: 66892.0 Ask:  66892.1
+11:19:37.443937> Support: 66885.4 VolS:0.314 Resistence: 66892.1 VolR:1.667
+11:19:37.759956> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:37.760957> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.36;Price=66889.40
+11:19:37.761957> Try Close Sell, Bid: 66889.3 Ask:  66889.4
+11:19:37.761957> Support: 66885.4 VolS:0.35 Resistence: 66889.4 VolR:0.602
+11:19:38.138270> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:38.139270> [1Leg]: Buy FAILED BTCUSDC;Gap=-6.06;Price=66888.10
+11:19:38.159271> Try Close Buy, Ask: 66888.1
+11:19:38.160271> Support: 66879.1 VolS:0.314 Resistence: 66888.1 VolR:1.518
+11:19:38.444513> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-3.865;Price=66888.10;Slippage=66888.1;Execution=284.242 ms;
+11:19:38.445514> Close Main Buy, ticketCustom = 64 ticket = 3273890432
+11:19:38.447515> Try Close Buy, Ask: 66888.1
+11:19:38.447515> Support: 66879.1 VolS:0.314 Resistence: 66888.1 VolR:1.518
+11:19:38.721848> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-3.865;Price=66885.20;Slippage=66885.2;Execution=274.333 ms;
+11:19:38.722844> Close Main Buy, ticketCustom = 65 ticket = 3273892915
+11:19:38.724843> Try Close Buy, Ask: 66885.2
+11:19:38.724843> Support: 66879.1 VolS:0.314 Resistence: 66890.2 VolR:1.698
+11:19:39.007229> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-5.165;Price=66885.20;Slippage=66885.2;Execution=282.387 ms;
+11:19:39.008233> Close Main Buy, ticketCustom = 66 ticket = 3273892915
+11:19:39.011228> Try Close Buy, Ask: 66885.2
+11:19:39.011228> Support: 66879.1 VolS:0.314 Resistence: 66890.2 VolR:1.698
+11:19:39.307242> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-5.165;Price=66890.10;Slippage=66890.1;Execution=283.015 ms;
+11:19:39.307242> Close Main Buy, ticketCustom = 67 ticket = 3273892915
+11:19:39.309243> Try Close Buy, Ask: 66890.1
+11:19:39.309243> Support: 66885.1 VolS:1.119 Resistence: 66900 VolR:0.521
+11:19:39.592740> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-5.365;Price=66888.10;Slippage=66888.1;Execution=283.497 ms;
+11:19:39.593737> Close Main Buy, ticketCustom = 68 ticket = 3273892915
+11:19:39.595736> Try Close Buy, Ask: 66888.1
+11:19:39.595736> Support: 66885.1 VolS:0.457 Resistence: 66889.4 VolR:1.438
+11:19:39.918094> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:39.920094> [1Leg]: Sell FAILED BTCUSDC;Gap=-7.365;Price=66888.10
+11:19:39.921095> Try Close Buy, Ask: 66888.1
+11:19:39.921095> Support: 66885.1 VolS:0.457 Resistence: 66889.4 VolR:1.438
+11:19:40.239405> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:40.239405> [1Leg]: Sell FAILED BTCUSDC;Gap=-3.665;Price=66888.10
+11:19:40.241403> Try Close Buy, Ask: 66888.1
+11:19:40.241403> Support: 66877.3 VolS:0.324 Resistence: 66889.4 VolR:1.438
+11:19:40.555449> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:40.556450> [1Leg]: Sell FAILED BTCUSDC;Gap=-3.0975;Price=66888.10
+11:19:40.580451> Try Close Buy, Ask: 66888.1
+11:19:40.581452> Support: 66877.3 VolS:0.324 Resistence: 66889.4 VolR:1.438
+11:19:40.894469> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:40.895469> [1Leg]: Sell FAILED BTCUSDC;Gap=-3.0975;Price=66888.10
+11:19:40.896470> Try Close Buy, Ask: 66888.1
+11:19:40.896470> Support: 66877.3 VolS:0.324 Resistence: 66888.1 VolR:1.611
+11:19:41.240489> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:41.242489> [1Leg]: Sell FAILED BTCUSDC;Gap=-3.0975;Price=66888.10
+11:19:41.245491> Try Close Buy, Ask: 66888.1
+11:19:41.245491> Support: 66877.3 VolS:0.324 Resistence: 66888.1 VolR:1.443
+11:19:41.579390> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:41.579390> [1Leg]: Sell FAILED BTCUSDC;Gap=-3.0975;Price=66888.10
+11:19:41.580391> Try Close Buy, Ask: 66888.1
+11:19:41.580391> Support: 66877.3 VolS:0.324 Resistence: 66888.1 VolR:1.443
+11:19:41.901818> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:41.902818> [1Leg]: Sell FAILED BTCUSDC;Gap=-3.0975;Price=66888.10
+11:19:41.903819> Try Close Buy, Ask: 66888.1
+11:19:41.903819> Support: 66888 VolS:0.421 Resistence: 66889.4 VolR:1.438
+11:19:42.222836> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:42.223837> [1Leg]: Sell FAILED BTCUSDC;Gap=-3.0975;Price=66889.40
+11:19:42.225836> Try Close Sell, Bid: 66889.3 Ask:  66889.4
+11:19:42.225836> Support: 66889.3 VolS:1.278 Resistence: 66889.4 VolR:1.441
+11:19:42.501738> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-5.47625;Price=66889.40;Slippage=66889.4;Execution=275.902 ms;
+11:19:42.501738> Close Main Sell ticketCustom = 69 ticket= 3273892915
+11:19:42.504738> Try Close Sell, Bid: 66889.3 Ask:  66889.4
+11:19:42.504738> Support: 66889.3 VolS:1.278 Resistence: 66889.4 VolR:1.441
+11:19:42.781099> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-5.47625;Price=66889.40;Slippage=66889.4;Execution=275.363 ms;
+11:19:42.782099> Close Main Sell ticketCustom = 70 ticket= 3273895048
+11:19:42.798100> Try Close Sell, Bid: 66894.4 Ask:  66894.5
+11:19:42.799100> Support: 66889.3 VolS:0.59 Resistence: 66900 VolR:0.557
+11:19:43.115475> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:43.115475> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.37625;Price=66894.50
+11:19:43.118467> Try Close Sell, Bid: 66894.4 Ask:  66894.5
+11:19:43.118467> Support: 66889.3 VolS:0.59 Resistence: 66900 VolR:0.557
+11:19:43.435427> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:43.436428> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.37625;Price=66894.50
+11:19:43.437428> Try Close Sell, Bid: 66894.4 Ask:  66894.5
+11:19:43.437428> Support: 66894.4 VolS:0.648 Resistence: 66900 VolR:0.521
+11:19:43.759040> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:43.760033> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.37625;Price=66894.50
+11:19:43.762033> Try Close Sell, Bid: 66894.4 Ask:  66894.5
+11:19:43.762033> Support: 66894.4 VolS:0.648 Resistence: 66900 VolR:0.521
+11:19:44.108016> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:44.122013> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.37625;Price=66894.50
+11:19:44.128013> Try Close Sell, Bid: 66894.4 Ask:  66894.5
+11:19:44.129013> Support: 66889.3 VolS:0.519 Resistence: 66894.5 VolR:0.705
+11:19:44.440031> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:44.441031> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.37625;Price=66894.50
+11:19:44.442032> Try Close Sell, Bid: 66894.4 Ask:  66894.5
+11:19:44.442032> Support: 66889.3 VolS:0.519 Resistence: 66900 VolR:0.521
+11:19:44.752341> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:44.752341> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.37625;Price=66894.50
+11:19:44.755341> Try Close Sell, Bid: 66894.4 Ask:  66894.5
+11:19:44.755341> Support: 66889.3 VolS:0.519 Resistence: 66900 VolR:0.521
+11:19:45.111326> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:45.112327> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.37625;Price=66899.50
+11:19:45.116326> Try Close Sell, Bid: 66899.4 Ask:  66899.5
+11:19:45.117328> Support: 66899.4 VolS:0.613 Resistence: 66900 VolR:0.481
+11:19:45.433751> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:45.434751> [1Leg]: Buy FAILED BTCUSDC;Gap=0.32375;Price=66899.50
+11:19:45.436750> Try Close Sell, Bid: 66899.4 Ask:  66899.5
+11:19:45.436750> Support: 66898.1 VolS:0.451 Resistence: 66900 VolR:0.481
+11:19:45.758906> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:45.758906> [1Leg]: Buy FAILED BTCUSDC;Gap=0.5825;Price=66899.50
+11:19:45.787908> Try Close Sell, Bid: 66899.4 Ask:  66899.5
+11:19:45.788908> Support: 66898.1 VolS:0.451 Resistence: 66900 VolR:0.481
+11:19:46.128929> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:46.129926> [1Leg]: Buy FAILED BTCUSDC;Gap=0.5825;Price=66902.30
+11:19:46.148935> Try Close Buy, Ask: 66902.3
+11:19:46.148935> Support: 66894.4 VolS:0.26 Resistence: 66907.7 VolR:0.567
+11:19:46.426943> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=3.2475;Price=66903.50;Slippage=66903.5;Execution=278.009 ms;
+11:19:46.426943> Close Main Buy, ticketCustom = 71 ticket = 3273895048
+11:19:46.427944> Try Close Buy, Ask: 66903.5
+11:19:46.429943> Support: 66903.4 VolS:0.386 Resistence: 66909 VolR:0.5
+11:19:46.702265> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.0475;Price=66903.50;Slippage=66903.5;Execution=272.322 ms;
+11:19:46.703255> Close Main Buy, ticketCustom = 72 ticket = 3273897106
+11:19:46.707255> Try Close Buy, Ask: 66903.5
+11:19:46.707255> Support: 66903.4 VolS:0.386 Resistence: 66909 VolR:0.5
+11:19:47.028985> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:47.028985> [1Leg]: Sell FAILED BTCUSDC;Gap=0.0475;Price=66903.50
+11:19:47.031987> Try Close Buy, Ask: 66903.5
+11:19:47.031987> Support: 66903.4 VolS:0.383 Resistence: 66906.8 VolR:0.54
+11:19:47.379347> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:47.379347> [1Leg]: Sell FAILED BTCUSDC;Gap=0.0475;Price=66903.50
+11:19:47.381345> Try Close Buy, Ask: 66903.5
+11:19:47.381345> Support: 66903.4 VolS:0.383 Resistence: 66906.8 VolR:0.54
+11:19:47.697978> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:47.697978> [1Leg]: Sell FAILED BTCUSDC;Gap=0.0475;Price=66903.50
+11:19:47.699986> Try Close Buy, Ask: 66903.5
+11:19:47.699986> Support: 66903.4 VolS:0.62 Resistence: 66909 VolR:0.5
+11:19:48.045564> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:48.047556> [1Leg]: Sell FAILED BTCUSDC;Gap=0.0475;Price=66906.00
+11:19:48.048567> Try Close Buy, Ask: 66906.0
+11:19:48.049556> Support: 66903.4 VolS:0.244 Resistence: 66906 VolR:0.643
+11:19:48.358579> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:48.359574> [1Leg]: Sell FAILED BTCUSDC;Gap=2.5475;Price=66906.00
+11:19:48.360574> Try Close Buy, Ask: 66906.0
+11:19:48.360574> Support: 66903.4 VolS:0.244 Resistence: 66906 VolR:0.643
+11:19:48.688126> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:48.689126> [1Leg]: Sell FAILED BTCUSDC;Gap=2.5475;Price=66906.00
+11:19:48.698129> Try Close Buy, Ask: 66906.0
+11:19:48.698129> Support: 66905.9 VolS:0.497 Resistence: 66912 VolR:0.796
+11:19:49.014146> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:49.015146> [1Leg]: Sell FAILED BTCUSDC;Gap=1.3475;Price=66906.60
+11:19:49.016147> Try Close Buy, Ask: 66906.6
+11:19:49.016147> Support: 66906.5 VolS:0.945 Resistence: 66912 VolR:0.796
+11:19:49.331168> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:49.332164> [1Leg]: Sell FAILED BTCUSDC;Gap=-1.4525;Price=66906.60
+11:19:49.333164> Try Close Buy, Ask: 66906.6
+11:19:49.333164> Support: 66906.5 VolS:0.945 Resistence: 66912 VolR:0.796
+11:19:49.650399> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:49.651396> [1Leg]: Sell FAILED BTCUSDC;Gap=-1.4525;Price=66906.60
+11:19:49.652398> Try Close Buy, Ask: 66906.6
+11:19:49.652398> Support: 66906.5 VolS:0.857 Resistence: 66912 VolR:0.796
+11:19:49.971755> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:49.972754> [1Leg]: Sell FAILED BTCUSDC;Gap=-1.4525;Price=66906.60
+11:19:49.973754> Try Close Buy, Ask: 66906.6
+11:19:49.973754> Support: 66906.5 VolS:0.857 Resistence: 66912 VolR:0.796
+11:19:50.292216> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:50.292216> [1Leg]: Sell FAILED BTCUSDC;Gap=-1.4525;Price=66910.10
+11:19:50.307216> Try Close Sell, Bid: 66910.0 Ask:  66910.1
+11:19:50.307216> Support: 66910 VolS:0.563 Resistence: 66910.1 VolR:0.617
+11:19:50.616627> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=2.1825;Price=66910.10;Slippage=66910.1;Execution=309.411 ms;
+11:19:50.617401> Close Main Sell ticketCustom = 73 ticket= 3273897106
+11:19:50.620413> Try Close Sell, Bid: 66910.0 Ask:  66910.1
+11:19:50.620413> Support: 66910 VolS:0.615 Resistence: 66914.3 VolR:0.876
+11:19:50.928358> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:50.929364> [1Leg]: Buy FAILED BTCUSDC;Gap=0.6025;Price=66910.10
+11:19:50.931360> Try Close Sell, Bid: 66910.0 Ask:  66910.1
+11:19:50.931360> Support: 66910 VolS:0.615 Resistence: 66914.3 VolR:0.876
+11:19:51.248376> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:51.248376> [1Leg]: Buy FAILED BTCUSDC;Gap=0.6025;Price=66911.80
+11:19:51.249376> Try Close Sell, Bid: 66911.7 Ask:  66911.8
+11:19:51.249376> Support: 66906.5 VolS:0.35 Resistence: 66911.8 VolR:1.572
+11:19:51.568283> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:51.568283> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3025;Price=66911.80
+11:19:51.569283> Try Close Sell, Bid: 66911.7 Ask:  66911.8
+11:19:51.569283> Support: 66906.5 VolS:0.35 Resistence: 66911.8 VolR:1.263
+11:19:51.916556> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:51.917554> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3025;Price=66911.80
+11:19:51.918554> Try Close Sell, Bid: 66911.7 Ask:  66911.8
+11:19:51.918554> Support: 66906.5 VolS:0.35 Resistence: 66911.8 VolR:1.263
+11:19:52.239292> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:52.239292> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3025;Price=66911.80
+11:19:52.241292> Try Close Sell, Bid: 66911.7 Ask:  66911.8
+11:19:52.241292> Support: 66906.5 VolS:0.224 Resistence: 66911.8 VolR:1.013
+11:19:52.562856> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:52.563854> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3025;Price=66911.80
+11:19:52.564855> Try Close Sell, Bid: 66911.7 Ask:  66911.8
+11:19:52.564855> Support: 66906.5 VolS:0.224 Resistence: 66911.8 VolR:1.013
+11:19:52.880642> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:52.894642> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3025;Price=66911.80
+11:19:52.895642> Try Close Sell, Bid: 66911.7 Ask:  66911.8
+11:19:52.895642> Support: 66907.8 VolS:0.191 Resistence: 66911.8 VolR:0.565
+11:19:53.213579> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:53.213579> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3025;Price=66911.80
+11:19:53.228580> Try Close Sell, Bid: 66911.7 Ask:  66911.8
+11:19:53.228580> Support: 66907.8 VolS:0.191 Resistence: 66911.8 VolR:0.565
+11:19:53.576600> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:53.578599> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3025;Price=66911.80
+11:19:53.580607> Try Close Sell, Bid: 66911.7 Ask:  66911.8
+11:19:53.580607> Support: 66907.8 VolS:0.191 Resistence: 66911.8 VolR:0.716
+11:19:53.896617> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:53.897618> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3025;Price=66911.80
+11:19:53.919619> Try Close Sell, Bid: 66911.7 Ask:  66911.8
+11:19:53.920619> Support: 66907.8 VolS:0.191 Resistence: 66911.8 VolR:0.716
+11:19:54.239519> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2019 Message: Margin is insufficient.
+11:19:54.240519> [1Leg]: Buy FAILED BTCUSDC;Gap=0.2025;Price=66911.80
+11:19:54.241520> Try Open BuyLimit, Bid: 66911.7 Ask:  66911.8
+11:19:54.242518> Support: 66911.7 VolS:0.311 Resistence: 66915.1 VolR:1
+11:19:54.517158> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.2025;Price=66911.80;Slippage=66911.8;Execution=273.635 ms;
+11:19:54.517158> Placed Main BuyLimit, ticketCustom = 74 ticket= 3273901219
+11:21:23.660335> Try place lock SellLimit, Bid: 66967.9 Ask:  66968.0
+11:21:23.945653> [1Leg]: Sell OK BTCUSDC at 66969.00;Gap=7.9025;Price=66968.00;Slippage=-1.0;Execution=285.318 ms;
+11:21:23.945653> Placed lock SellLimit, ticketCustom= 75, ticket= 3273901219 
+11:21:23.946652> Try adding BuyLimit, Bid: 66967.9 Ask:  66968.0
+11:21:23.946652> Support: 66963 VolS:0.988 Resistence: 66974.3 VolR:0.476
+11:21:24.233407> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=7.895;Price=66968.00;Slippage=66968.0;Execution=286.755 ms;
+11:21:24.234412> adding BuyLimit, ticket = 3273942601 ticketCustom = 76 

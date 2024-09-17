@@ -1,0 +1,54 @@
+14:32:26.068134> WebSocket connected! Start Partial @depth20 [Future] process...
+14:32:26.070115> WebSocket connected! Start Partial @depth20 [Future] process...
+14:32:26.087116> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:32:26.087116> WebSocket connected! Start @depth [Future] process...
+14:32:26.803270> WebSocket connected! Start @depth [Future] process...
+14:32:26.805264> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:32:26.820257> WebSocket connected! Start Partial @depth20 [Future] process...
+14:32:26.821257> WebSocket connected! Start Partial @depth20 [Future] process...
+14:32:27.721765> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 101.52571862 USDT
+14:32:45.612625> Signal 2(s), Move:0 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 70094.6 Ask:  70094.7
+14:32:45.613626> Try Open BuyLimit, Bid: 70094.6 Ask:  70094.7
+14:32:45.613626> Support: 70094.5 VolS:1.507 Resistence: 70094.7 VolR:1.083
+14:32:45.930443> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-29.733333333333333333333333333;Price=70119.90;Slippage=70119.9;Execution=308.811 ms;
+14:32:45.930443> Placed Main BuyLimit, ticketCustom = 1 ticket= 3200905623
+14:32:45.931433> Try Modify main Buy order, 
+14:32:45.931433> Support: 70111.2 VolS:0.966 Resistence: 70120.3 VolR:1.646
+14:32:46.289454> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:32:46.289454> [1Leg]: Buy failed BTCUSDC;price=70106.20
+14:32:46.290455> Error Modify main BuyLimit, ticketCustom=1 ticket=0
+14:32:47.302362> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70106.1 Ask:  70106.2
+14:32:47.303350> Try Open SellLimit, Ask: 70106.2
+14:32:47.303350> Support: 70106.1 VolS:2.009 Resistence: 70106.2 VolR:1.682
+14:32:47.593283> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=0.309090909090909090909090909;Price=70106.20;Slippage=70106.2;Execution=289.933 ms;
+14:32:47.593283> Placed Main SellLimit, ticketCustom = 2 ticket = 3200905623
+14:32:47.594276> Try Modify main Buy order, 
+14:32:47.594276> Support: 70106.1 VolS:2.009 Resistence: 70106.2 VolR:1.682
+14:32:47.916296> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:32:47.917294> [1Leg]: Buy failed BTCUSDC;price=70106.20
+14:32:47.917294> Error Modify main BuyLimit, ticketCustom=2 ticket=0
+14:32:48.929942> Try Modify main Buy order, 
+14:32:48.929942> Support: 70127.9 VolS:1.298 Resistence: 70128.5 VolR:0.959
+14:32:49.246600> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+14:32:49.246600> [1Leg]: Buy failed BTCUSDC;price=70128.00
+14:32:49.246600> Error Modify main BuyLimit, ticketCustom=2 ticket=0
+14:35:00.058280> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70102.0 Ask:  70102.1
+14:35:00.060281> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70102.0 Ask:  70102.1
+14:35:00.067279> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70102.0 Ask:  70102.1
+14:35:00.085282> Signal 1(s), Move:0 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70102.0 Ask:  70102.1
+14:41:40.160391> Signal 1(s), Move:0 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.161391> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.165391> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.170391> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.172391> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.175391> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.176393> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.178391> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.180392> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.202393> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.203394> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.235395> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.310402> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.312401> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.402405> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0
+14:41:40.426406> Signal 1(s), Move:1 Stk:0 Lnt:1 Prg:0 Fon:0 Bid: 70006.3 Ask:  70008.0

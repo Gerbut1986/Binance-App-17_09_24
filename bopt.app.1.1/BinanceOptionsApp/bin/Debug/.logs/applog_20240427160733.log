@@ -1,0 +1,1037 @@
+16:07:40.914997> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:07:40.915998> WebSocket connected! Start Partial @depth20 [Future] process...
+16:07:40.917996> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:07:40.918996> WebSocket connected! Start @depth [Future] process...
+16:07:40.925994> WebSocket connected! Start @depth [Future] process...
+16:07:40.957000> WebSocket connected! Start Partial @depth20 [Future] process...
+16:07:41.946999> WebSocket connected! Start Partial @depth20 [Future] process...
+16:07:41.967998> WebSocket connected! Start @depth [Future] process...
+16:07:41.967998> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:07:41.975011> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+16:07:41.978002> WebSocket connected! Start @depth [Future] process...
+16:07:42.005003> WebSocket connected! Start Partial @depth20 [Future] process...
+16:07:42.559464> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 675.04081367 USDT
+16:26:25.126333> Signal 2(s), Bid: 63137.7 Ask:  63137.8
+16:26:25.131333> Try Open BuyLimit, Bid: 63137.7 Ask:  63137.8
+16:26:25.131333> Support: 63137.7 VolS:1.217 Resistence: 63147.9 VolR:0.081
+16:26:26.162056> [1Leg]: Buy OK BTCUSDC at 63137.7000;Gap=2.645;Price=63144.9000;Slippage=7.2;Execution=1026.723 ms;
+16:26:26.163055> Elapsted Open BuyLimit 
+16:26:26.164056> Try Modify main Buy order, 
+16:26:26.164056> Support: 63144.8 VolS:1.773 Resistence: 63150.8 VolR:0.607
+16:26:26.493427> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:26:26.494436> [1Leg]: Buy failed BTCUSDC;price=63144.9000
+16:26:26.510428> Try Modify main Buy order, 
+16:26:26.510428> Support: 63144.8 VolS:1.773 Resistence: 63150.8 VolR:0.607
+16:26:26.772441> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63144.8000;execution=262.013 ms;
+16:26:26.778441> Modify main BuyLimit (1Leg)
+16:26:34.938232> Try Modify main Buy order, 
+16:26:34.938232> Support: 63147.8 VolS:2.792 Resistence: 63154.5 VolR:0.68
+16:26:35.210504> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63147.8000;execution=270.272 ms;
+16:26:35.210504> Modify main BuyLimit (1Leg)
+16:26:38.628334> Try Modify main Buy order, 
+16:26:38.629334> Support: 63149.8 VolS:1.604 Resistence: 63150.2 VolR:0.578
+16:26:38.894352> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63149.8000;execution=265.018 ms;
+16:26:38.895349> Modify main BuyLimit (1Leg)
+16:26:40.409367> Try Modify main Buy order, 
+16:26:40.411334> Support: 63154.6 VolS:1.023 Resistence: 63162.4 VolR:0.193
+16:26:40.674097> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63155.2000;execution=262.763 ms;
+16:26:40.674097> Modify main BuyLimit (1Leg)
+16:26:40.863105> Try Modify main Buy order, 
+16:26:40.863105> Support: 63155.9 VolS:1.995 Resistence: 63157.1 VolR:0.692
+16:26:41.124384> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63155.9000;execution=261.280 ms;
+16:26:41.125378> Modify main BuyLimit (1Leg)
+16:26:45.063844> Try place lock SellLimit, Bid: 63142.0 Ask:  63142.1
+16:26:45.317628> [1Leg]: Sell OK BTCUSDC at 63255.9000;Gap=5.11;Price=63136.6000;Slippage=-119.3;Execution=252.782 ms;
+16:26:45.318646> Placed lock SellLimit 
+16:29:49.953661> Try Modify Lock Sell order for Close at now, 
+16:29:50.223438> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63059.2000;execution=258.772 ms;
+16:29:50.223438> Modify Lock SellLimit (1Leg) for Close at now
+16:29:54.258029> Signal 1(s), Bid: 63048.9 Ask:  63049.0
+16:29:54.259027> Try Modify Lock Sell order for Close at now, 
+16:29:54.516376> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63049.0000;execution=256.347 ms;
+16:29:54.518375> Modify Lock SellLimit (1Leg) for Close at now
+16:39:25.836594> Signal 2(s), Bid: 63126.9 Ask:  63127.0
+16:39:25.836594> Try Open BuyLimit, Bid: 63126.9 Ask:  63127.0
+16:39:25.836594> Support: 63126.9 VolS:2.114 Resistence: 63132.5 VolR:0.303
+16:39:26.098626> [1Leg]: Buy OK BTCUSDC at 63126.9000;Gap=-2.58;Price=63127.0000;Slippage=0.1;Execution=261.033 ms;
+16:39:26.099609> Elapsted Open BuyLimit 
+16:39:26.359651> Try Modify main Buy order, 
+16:39:26.359651> Support: 63130.6 VolS:2.66 Resistence: 63134.2 VolR:0.618
+16:39:26.620655> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63130.6000;execution=261.004 ms;
+16:39:26.621640> Modify main BuyLimit (1Leg)
+16:39:27.941797> Try Modify main Buy order, 
+16:39:27.941797> Support: 63133.6 VolS:1.458 Resistence: 63134.2 VolR:0.618
+16:39:28.201818> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63133.6000;execution=259.012 ms;
+16:39:28.202821> Modify main BuyLimit (1Leg)
+16:39:32.402055> Try Modify main Buy order, 
+16:39:32.403046> Support: 63134.1 VolS:0.924 Resistence: 63134.2 VolR:0.537
+16:39:32.662062> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63134.1000;execution=259.016 ms;
+16:39:32.663061> Modify main BuyLimit (1Leg)
+16:39:35.605421> Try Modify main Buy order, 
+16:39:35.605421> Support: 63137.7 VolS:0.748 Resistence: 63144.8 VolR:0.195
+16:39:35.901437> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63137.7000;execution=295.023 ms;
+16:39:35.915440> Modify main BuyLimit (1Leg)
+16:39:43.000688> Try place lock SellLimit, Bid: 63136.0 Ask:  63136.1
+16:39:44.000379> [1Leg]: Sell OK BTCUSDC at 63237.7000;Gap=4.915;Price=63136.1000;Slippage=-101.6;Execution=998.694 ms;
+16:39:44.000379> Placed lock SellLimit 
+16:52:22.143480> Try Modify Lock Sell order for Close at now, 
+16:52:22.457506> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63118.0000;execution=314.027 ms;
+16:52:22.460509> Modify Lock SellLimit (1Leg) for Close at now
+17:15:34.368947> Signal 2(s), Bid: 63286.8 Ask:  63286.9
+17:15:34.369946> Try Open BuyLimit, Bid: 63286.8 Ask:  63286.9
+17:15:34.369946> Support: 63286.8 VolS:1.945 Resistence: 63292.7 VolR:0.124
+17:15:34.632962> [1Leg]: Buy OK BTCUSDC at 63286.8000;Gap=-2.17;Price=63286.9000;Slippage=0.1;Execution=262.016 ms;
+17:15:34.633961> Elapsted Open BuyLimit 
+17:15:34.847974> Try Modify main Buy order, 
+17:15:34.852974> Support: 63290.4 VolS:2.3 Resistence: 63294.4 VolR:0.678
+17:15:35.110991> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63290.4000;execution=258.017 ms;
+17:15:35.111989> Modify main BuyLimit (1Leg)
+17:15:35.355004> Try Modify main Buy order, 
+17:15:35.355004> Support: 63299 VolS:0.652 Resistence: 63307 VolR:1.581
+17:15:36.558526> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63304.0000;execution=1202.525 ms;
+17:15:36.559527> Modify main BuyLimit (1Leg)
+17:15:36.883545> Try Modify main Buy order, 
+17:15:36.884546> Support: 63312 VolS:0.804 Resistence: 63322.6 VolR:0.158
+17:15:37.209574> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63316.3000;execution=325.028 ms;
+17:15:37.210564> Modify main BuyLimit (1Leg)
+17:15:37.396574> Try Modify main Buy order, 
+17:15:37.397574> Support: 63329.1 VolS:0.831 Resistence: 63330.7 VolR:0.379
+17:15:37.660591> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63329.1000;execution=263.018 ms;
+17:15:37.661590> Modify main BuyLimit (1Leg)
+17:15:37.894602> Signal 2(s), Bid: 63333.4 Ask:  63333.5
+17:15:37.896603> Try Modify main Buy order, 
+17:15:37.896603> Support: 63332.9 VolS:0.948 Resistence: 63336 VolR:0.087
+17:15:38.160626> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63333.4000;execution=264.023 ms;
+17:15:38.161617> Modify main BuyLimit (1Leg)
+17:15:41.001406> Try place lock SellLimit, Bid: 63302.0 Ask:  63302.1
+17:15:41.300423> [1Leg]: Sell OK BTCUSDC at 63430.1000;Gap=2.135;Price=63302.1000;Slippage=-128.0;Execution=299.018 ms;
+17:15:41.300423> Placed lock SellLimit 
+17:16:45.958387> Try Modify Lock Sell order for Close at now, 
+17:16:46.223402> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63266.0000;execution=264.012 ms;
+17:16:46.225403> Modify Lock SellLimit (1Leg) for Close at now
+17:16:59.029267> Try Modify Lock Sell order for Close at now, 
+17:16:59.784519> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63246.2000;execution=754.249 ms;
+17:16:59.786519> Modify Lock SellLimit (1Leg) for Close at now
+17:16:59.798520> Try Modify Lock Sell order for Close at now, 
+17:17:00.076535> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63241.4000;execution=278.015 ms;
+17:17:00.084535> Modify Lock SellLimit (1Leg) for Close at now
+17:18:18.670589> Signal 1(s), Bid: 63183.4 Ask:  63183.5
+17:18:18.671590> Try Open Sell Pos, deviationSell: -3.245 Ask: 63183.5
+17:18:18.671590> Support: 63175.3 VolS:0.118 Resistence: 63188.9 VolR:1.053
+17:18:18.945606> [1Leg]: Sell OK BTCUSDC at 63183.5000;Gap=-3.245;Price=63183.5000;Slippage=0.0;Execution=273.016 ms;
+17:18:18.945606> Elapsted Open Sell (1Leg)
+17:18:20.748684> Try Modify main Sell order, 
+17:18:20.749685> Support: 63170.1 VolS:0.695 Resistence: 63175.1 VolR:1.455
+17:18:21.007718> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63175.1000;execution=258.033 ms;
+17:18:21.008698> Modify main SellLimit (1Leg)
+17:18:24.905494> Try Modify main Sell order, 
+17:18:24.905494> Support: 63167.2 VolS:1.576 Resistence: 63172.5 VolR:0.98
+17:18:25.199516> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:18:25.199516> [1Leg]: Sell failed BTCUSDC;price=63172.5000
+17:18:25.201513> Try place lock BuyLimit, Bid: 63172.4 Ask:  63172.5
+17:18:26.230828> [1Leg]: Buy OK BTCUSDC at 63075.1000;Gap=0.60;Price=63172.5000;Slippage=97.4;Execution=1028.313 ms;
+17:18:26.231819> Placed lock BuyLimit 
+17:22:22.038133> Signal 2(s), Bid: 63194.5 Ask:  63194.6
+17:22:22.038133> Try Modify Lock Buy order for close at now, 
+17:22:22.303786> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63194.5000;execution=264.655 ms;
+17:22:22.303786> Modify BuyLimit (1Leg) for Close at now
+17:26:13.846370> Signal 1(s), Bid: 63102.3 Ask:  63102.4
+17:26:13.854368> Try Open Sell Pos, deviationSell: 3.255 Ask: 63102.4
+17:26:13.856378> Support: 63100 VolS:0.159 Resistence: 63102.4 VolR:2.023
+17:26:14.115382> [1Leg]: Sell OK BTCUSDC at 63102.4000;Gap=3.255;Price=63102.4000;Slippage=0.0;Execution=257.986 ms;
+17:26:14.116382> Elapsted Open Sell (1Leg)
+17:26:14.352403> Try Modify main Sell order, 
+17:26:14.352403> Support: 63096.6 VolS:0.615 Resistence: 63101.7 VolR:1.486
+17:26:14.611413> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63100.6000;execution=258.016 ms;
+17:26:14.612411> Modify main SellLimit (1Leg)
+17:26:14.877424> Try Modify main Sell order, 
+17:26:14.878427> Support: 63096.6 VolS:0.615 Resistence: 63105.3 VolR:1.233
+17:26:15.136445> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63100.1000;execution=258.018 ms;
+17:26:15.136445> Modify main SellLimit (1Leg)
+17:26:19.008133> Try place lock BuyLimit, Bid: 63107.9 Ask:  63108.0
+17:26:20.082228> [1Leg]: Buy OK BTCUSDC at 63000.1000;Gap=-10.285;Price=63108.0000;Slippage=107.9;Execution=1071.094 ms;
+17:26:20.085227> Placed lock BuyLimit 
+17:29:48.456832> Signal 1(s), Bid: 63106.0 Ask:  63106.1
+17:29:50.596209> Signal 1(s), Bid: 63095.7 Ask:  63095.8
+17:31:00.099350> Try Modify Lock Buy order for close at now, 
+17:31:00.396385> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63091.4000;execution=290.034 ms;
+17:31:00.482372> Modify BuyLimit (1Leg) for Close at now
+17:31:21.591693> Try Modify Lock Buy order for close at now, 
+17:31:21.851706> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63113.5000;execution=259.014 ms;
+17:31:21.852706> Modify BuyLimit (1Leg) for Close at now
+17:32:39.081959> Signal 2(s), Bid: 63161.9 Ask:  63162.1
+17:32:39.081959> Try Modify Lock Buy order for close at now, 
+17:32:40.097465> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63161.9000;execution=1014.506 ms;
+17:32:40.099462> Modify BuyLimit (1Leg) for Close at now
+17:43:19.929031> Signal 1(s), Bid: 63127.2 Ask:  63128.1
+17:43:19.929031> Try Open Sell Pos, deviationSell: 2.70 Ask: 63123.7
+17:43:19.930032> Support: 63118.8 VolS:1.584 Resistence: 63123.7 VolR:0.834
+17:43:20.190050> [1Leg]: Sell OK BTCUSDC at 63123.7000;Gap=2.70;Price=63123.7000;Slippage=0.0;Execution=260.018 ms;
+17:43:20.190050> Elapsted Open Sell (1Leg)
+17:43:22.149497> Try Modify main Sell order, 
+17:43:22.149497> Support: 63118.8 VolS:1.576 Resistence: 63121.7 VolR:2.366
+17:43:22.408527> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63121.7000;execution=258.029 ms;
+17:43:22.411520> Modify main SellLimit (1Leg)
+17:43:22.624524> Try Modify main Sell order, 
+17:43:22.624524> Support: 63118.8 VolS:1.538 Resistence: 63123.1 VolR:0.693
+17:43:22.891539> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63118.9000;execution=267.015 ms;
+17:43:22.892539> Modify main SellLimit (1Leg)
+17:43:27.000258> Try place lock BuyLimit, Bid: 63121.9 Ask:  63122.0
+17:43:28.026262> [1Leg]: Buy OK BTCUSDC at 63018.9000;Gap=-3.065;Price=63122.0000;Slippage=103.1;Execution=1023.998 ms;
+17:43:28.028250> Placed lock BuyLimit 
+17:44:52.364942> Signal 2(s), Bid: 63045.4 Ask:  63045.5
+17:44:52.365942> Try Open BuyLimit, Bid: 63045.4 Ask:  63045.5
+17:44:52.366942> Support: 63045.4 VolS:2.624 Resistence: 63053 VolR:0.335
+17:44:52.652961> [1Leg]: Buy OK BTCUSDC at 63045.4000;Gap=-5.795;Price=63045.5000;Slippage=0.1;Execution=259.018 ms;
+17:44:52.653958> Elapsted Open BuyLimit 
+17:44:53.016978> Try Modify main Buy order, 
+17:44:53.016978> Support: 63045.4 VolS:0.353 Resistence: 63052.6 VolR:0.684
+17:44:53.807452> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63050.0000;execution=790.474 ms;
+17:44:53.809392> Modify main BuyLimit (1Leg)
+17:44:59.001760> Try place lock SellLimit, Bid: 63039.4 Ask:  63039.5
+17:44:59.265768> [1Leg]: Sell OK BTCUSDC at 63150.0000;Gap=4.45;Price=63039.5000;Slippage=-110.5;Execution=263.013 ms;
+17:44:59.265768> Placed lock SellLimit 
+17:55:00.204846> Signal 1(s), Bid: 63015.7 Ask:  63015.8
+17:55:00.205844> Try Modify Lock Sell order for Close at now, 
+17:55:00.464861> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63015.8000;execution=259.018 ms;
+17:55:00.465857> Modify Lock SellLimit (1Leg) for Close at now
+17:56:52.120573> Signal 2(s), Bid: 63052.5 Ask:  63052.6
+17:56:52.120573> Try Open BuyLimit, Bid: 63052.5 Ask:  63052.6
+17:56:52.121574> Support: 63052.5 VolS:2.05 Resistence: 63054 VolR:0.072
+17:56:52.380587> [1Leg]: Buy OK BTCUSDC at 63052.5000;Gap=-2.91;Price=63052.6000;Slippage=0.1;Execution=259.014 ms;
+17:56:52.380587> Elapsted Open BuyLimit 
+17:56:52.644604> Try Modify main Buy order, 
+17:56:52.646603> Support: 63055.6 VolS:2.344 Resistence: 63061.1 VolR:0.692
+17:56:52.906618> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63055.6000;execution=260.015 ms;
+17:56:52.929618> Modify main BuyLimit (1Leg)
+17:56:55.642251> Try Modify main Buy order, 
+17:56:55.643254> Support: 63057.9 VolS:2.209 Resistence: 63059.7 VolR:0.623
+17:56:55.947282> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63057.9000;execution=304.028 ms;
+17:56:55.950282> Modify main BuyLimit (1Leg)
+17:56:57.303757> Try Modify main Buy order, 
+17:56:57.304747> Support: 63059.6 VolS:1.281 Resistence: 63059.7 VolR:0.626
+17:56:58.302739> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63059.6000;execution=996.991 ms;
+17:56:58.303737> Modify main BuyLimit (1Leg)
+17:57:16.952969> Try Modify main Buy order, 
+17:57:16.952969> Support: 63063.9 VolS:1.573 Resistence: 63068 VolR:0.707
+17:57:17.266988> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:57:17.267987> [1Leg]: Buy failed BTCUSDC;price=63064.0000
+17:57:17.270989> Try Modify main Buy order, 
+17:57:17.270989> Support: 63063.9 VolS:1.573 Resistence: 63068 VolR:0.707
+17:57:17.563004> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:57:17.563004> [1Leg]: Buy failed BTCUSDC;price=63064.0000
+17:57:17.608006> Try Modify main Buy order, 
+17:57:17.609008> Support: 63063.9 VolS:1.91 Resistence: 63068 VolR:0.707
+17:57:17.930025> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:57:17.931027> [1Leg]: Buy failed BTCUSDC;price=63064.0000
+17:57:17.932030> Try Modify main Buy order, 
+17:57:17.932030> Support: 63063.9 VolS:1.91 Resistence: 63068 VolR:0.707
+17:57:18.255051> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:57:18.258045> [1Leg]: Buy failed BTCUSDC;price=63064.0000
+17:57:18.339058> Try Modify main Buy order, 
+17:57:18.340060> Support: 63063.9 VolS:1.709 Resistence: 63068 VolR:0.707
+17:57:18.692066> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:57:18.737072> [1Leg]: Buy failed BTCUSDC;price=63064.0000
+17:57:18.816077> Try Modify main Buy order, 
+17:57:18.817076> Support: 63063.9 VolS:1.583 Resistence: 63068 VolR:0.707
+17:57:19.188105> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:57:19.221099> [1Leg]: Buy failed BTCUSDC;price=63064.0000
+17:57:19.256100> Try place lock SellLimit, Bid: 63063.9 Ask:  63064.0
+17:57:19.508118> [1Leg]: Sell OK BTCUSDC at 63159.6000;Gap=-0.84;Price=63064.0000;Slippage=-95.6;Execution=251.022 ms;
+17:57:19.508118> Placed lock SellLimit 
+18:06:38.269106> Try Modify Lock Sell order for Close at now, 
+18:06:38.574119> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63053.1000;execution=297.013 ms;
+18:06:38.575123> Modify Lock SellLimit (1Leg) for Close at now
+18:14:54.383283> Signal 1(s), Bid: 63073.9 Ask:  63074.0
+18:14:54.384285> Try Open Sell Pos, deviationSell: 0.635 Ask: 63074.0
+18:14:54.384285> Support: 63072 VolS:0.075 Resistence: 63074 VolR:1.823
+18:14:54.674311> [1Leg]: Sell OK BTCUSDC at 63074.0000;Gap=0.635;Price=63074.0000;Slippage=0.0;Execution=289.028 ms;
+18:14:54.676311> Elapsted Open Sell (1Leg)
+18:14:54.907313> Try Modify main Sell order, 
+18:14:54.907313> Support: 63065.7 VolS:0.651 Resistence: 63069.4 VolR:1.839
+18:14:55.197729> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63069.4000;execution=289.416 ms;
+18:14:55.198729> Modify main SellLimit (1Leg)
+18:15:05.378357> Try Modify main Sell order, 
+18:15:05.379356> Support: 63061.1 VolS:0.633 Resistence: 63062.1 VolR:0.984
+18:15:05.628397> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63062.1000;execution=249.041 ms;
+18:15:05.629391> Modify main SellLimit (1Leg)
+18:15:11.844529> Try Modify main Sell order, 
+18:15:11.847528> Support: 63054.6 VolS:0.698 Resistence: 63058.1 VolR:1.753
+18:15:12.095541> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63058.1000;execution=248.013 ms;
+18:15:12.096543> Modify main SellLimit (1Leg)
+18:15:19.124334> Try Modify main Sell order, 
+18:15:19.125334> Support: 63050 VolS:1.849 Resistence: 63050.7 VolR:0.815
+18:15:20.244753> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63050.7000;execution=1119.419 ms;
+18:15:20.245753> Modify main SellLimit (1Leg)
+18:15:30.209738> Signal 1(s), Bid: 63047.0 Ask:  63047.1
+18:15:30.209738> Try Modify main Sell order, 
+18:15:30.210739> Support: 63040.6 VolS:0.145 Resistence: 63050.1 VolR:1.966
+18:15:30.461752> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63047.1000;execution=251.013 ms;
+18:15:30.495756> Modify main SellLimit (1Leg)
+18:15:30.687764> Try Modify main Sell order, 
+18:15:30.687764> Support: 63036.8 VolS:1.576 Resistence: 63045.1 VolR:1.894
+18:15:30.980783> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63045.1000;execution=292.017 ms;
+18:15:30.981782> Modify main SellLimit (1Leg)
+18:15:31.201888> Try Modify main Sell order, 
+18:15:31.201888> Support: 63036.8 VolS:1.576 Resistence: 63038.5 VolR:1.028
+18:15:31.506812> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63038.5000;execution=304.017 ms;
+18:15:31.538816> Modify main SellLimit (1Leg)
+18:15:32.256856> Try Modify main Sell order, 
+18:15:32.257857> Support: 63036.8 VolS:1.383 Resistence: 63036.9 VolR:2.822
+18:15:32.507869> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63036.9000;execution=250.011 ms;
+18:15:32.508871> Modify main SellLimit (1Leg)
+18:15:33.397759> Try Modify main Sell order, 
+18:15:33.397759> Support: 63034.3 VolS:0.615 Resistence: 63036.2 VolR:1.675
+18:15:33.644776> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63036.2000;execution=246.017 ms;
+18:15:33.645774> Modify main SellLimit (1Leg)
+18:15:38.887681> Signal 1(s), Bid: 63032.8 Ask:  63032.9
+18:15:38.887681> Try Modify main Sell order, 
+18:15:38.888681> Support: 63025.2 VolS:0.236 Resistence: 63032.9 VolR:2.521
+18:15:39.135706> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63032.9000;execution=246.025 ms;
+18:15:39.136695> Modify main SellLimit (1Leg)
+18:15:39.409535> Try Modify main Sell order, 
+18:15:39.409535> Support: 63027.5 VolS:0.629 Resistence: 63029.4 VolR:1.429
+18:15:39.692553> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63029.4000;execution=283.018 ms;
+18:15:39.693553> Modify main SellLimit (1Leg)
+18:15:46.801413> Signal 1(s), Bid: 63025.6 Ask:  63026.1
+18:15:46.801413> Try Modify main Sell order, 
+18:15:46.802426> Support: 63022.6 VolS:0.16 Resistence: 63026.4 VolR:0.938
+18:15:47.079439> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63026.1000;execution=277.012 ms;
+18:15:47.080440> Modify main SellLimit (1Leg)
+18:15:47.302452> Try Modify main Sell order, 
+18:15:47.302452> Support: 63021.2 VolS:0.617 Resistence: 63025.2 VolR:1.531
+18:15:47.562470> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63025.2000;execution=260.018 ms;
+18:15:47.563468> Modify main SellLimit (1Leg)
+18:15:53.244934> Try Modify main Sell order, 
+18:15:53.244934> Support: 63016 VolS:0.761 Resistence: 63020.3 VolR:2.411
+18:15:53.508949> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63020.3000;execution=264.015 ms;
+18:15:53.509949> Modify main SellLimit (1Leg)
+18:15:57.950083> Try Modify main Sell order, 
+18:15:57.950083> Support: 63019.6 VolS:0.669 Resistence: 63020.3 VolR:1.868
+18:15:58.198092> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63019.7000;execution=247.019 ms;
+18:15:58.198092> Modify main SellLimit (1Leg)
+18:16:05.000375> Try place lock BuyLimit, Bid: 63023.9 Ask:  63024.0
+18:16:05.316384> [1Leg]: Buy OK BTCUSDC at 62919.7000;Gap=-6.65;Price=63024.0000;Slippage=104.3;Execution=315.015 ms;
+18:16:05.317385> Placed lock BuyLimit 
+18:18:23.409792> Try Modify Lock Buy order for close at now, 
+18:18:23.688812> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63063.0000;execution=279.021 ms;
+18:18:23.688812> Modify BuyLimit (1Leg) for Close at now
+18:21:12.245876> Signal 1(s), Bid: 63025.3 Ask:  63025.4
+18:21:12.246866> Try Open Sell Pos, deviationSell: -0.03 Ask: 63025.4
+18:21:12.247877> Support: 63020 VolS:0.078 Resistence: 63025.5 VolR:1.128
+18:21:12.522140> [1Leg]: Sell OK BTCUSDC at 63025.4000;Gap=-0.03;Price=63025.4000;Slippage=0.0;Execution=274.263 ms;
+18:21:12.522140> Elapsted Open Sell (1Leg)
+18:21:12.768156> Try Modify main Sell order, 
+18:21:12.787155> Support: 63015 VolS:0.717 Resistence: 63020.1 VolR:1.348
+18:21:13.041169> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63020.1000;execution=254.013 ms;
+18:21:13.042172> Modify main SellLimit (1Leg)
+18:21:15.316868> Try Modify main Sell order, 
+18:21:15.317866> Support: 63016.9 VolS:0.629 Resistence: 63018.1 VolR:0.996
+18:21:15.567228> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63017.0000;execution=249.363 ms;
+18:21:15.568227> Modify main SellLimit (1Leg)
+18:21:21.001562> Try place lock BuyLimit, Bid: 63021.7 Ask:  63021.8
+18:21:22.038187> [1Leg]: Buy OK BTCUSDC at 62917.0000;Gap=7.675;Price=63017.2000;Slippage=100.2;Execution=1031.626 ms;
+18:21:22.039186> Placed lock BuyLimit 
+18:21:23.751266> Signal 1(s), Bid: 63017.1 Ask:  63017.2
+18:30:12.921432> Try Modify Lock Buy order for close at now, 
+18:30:13.185432> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63002.1000;execution=262.001 ms;
+18:30:13.186433> Modify BuyLimit (1Leg) for Close at now
+18:46:14.615832> Signal 1(s), Bid: 62816.8 Ask:  62817.1
+18:46:14.615832> Try Open Sell Pos, deviationSell: 0.715 Ask: 62817.1
+18:46:14.615832> Support: 62809.1 VolS:0.128 Resistence: 62820.1 VolR:1.295
+18:46:14.864847> [1Leg]: Sell OK BTCUSDC at 62817.1000;Gap=0.715;Price=62817.1000;Slippage=0.0;Execution=248.014 ms;
+18:46:14.865847> Elapsted Open Sell (1Leg)
+18:46:15.120067> Try Modify main Sell order, 
+18:46:15.120864> Support: 62809 VolS:0.586 Resistence: 62816 VolR:1.64
+18:46:16.163995> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62816.0000;execution=1043.131 ms;
+18:46:16.164994> Modify main SellLimit (1Leg)
+18:46:22.304257> Try Modify main Sell order, 
+18:46:22.305248> Support: 62810.6 VolS:0.091 Resistence: 62816 VolR:1.225
+18:46:22.568241> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62814.9000;execution=262.004 ms;
+18:46:22.570242> Modify main SellLimit (1Leg)
+18:46:25.000034> Try place lock BuyLimit, Bid: 62825.9 Ask:  62826.0
+18:46:25.262038> [1Leg]: Buy OK BTCUSDC at 62714.9000;Gap=-1.50;Price=62826.0000;Slippage=111.1;Execution=261.014 ms;
+18:46:25.263040> Placed lock BuyLimit 
+18:47:12.963168> Signal 1(s), Bid: 62840.0 Ask:  62840.1
+18:50:55.843626> Signal 1(s), Bid: 62807.8 Ask:  62807.9
+18:51:41.135494> Try Modify Lock Buy order for close at now, 
+18:51:42.189634> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62807.9000;execution=1047.138 ms;
+18:51:42.190635> Modify BuyLimit (1Leg) for Close at now
+18:51:42.192636> Try Modify Lock Buy order for close at now, 
+18:51:42.542656> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62817.7000;execution=350.020 ms;
+18:51:42.542656> Modify BuyLimit (1Leg) for Close at now
+19:01:59.699808> Signal 2(s), Bid: 62921.6 Ask:  62921.7
+19:01:59.699808> Try Open BuyLimit, Bid: 62921.6 Ask:  62921.7
+19:01:59.700807> Support: 62917.6 VolS:0.905 Resistence: 62934.1 VolR:0.078
+19:01:59.991822> [1Leg]: Buy OK BTCUSDC at 62921.6000;Gap=-4.705;Price=62921.7000;Slippage=0.1;Execution=285.017 ms;
+19:01:59.995822> Elapsted Open BuyLimit 
+19:02:00.235836> Try Modify main Buy order, 
+19:02:00.236838> Support: 62926.2 VolS:1.758 Resistence: 62930.3 VolR:0.613
+19:02:00.483855> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62926.2000;execution=247.017 ms;
+19:02:00.484852> Modify main BuyLimit (1Leg)
+19:02:03.315710> Try Modify main Buy order, 
+19:02:03.315710> Support: 62937.6 VolS:1.443 Resistence: 62938.5 VolR:0.692
+19:02:03.622726> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62937.6000;execution=306.016 ms;
+19:02:03.647727> Modify main BuyLimit (1Leg)
+19:02:15.001061> Try place lock SellLimit, Bid: 62910.6 Ask:  62910.7
+19:02:16.675151> [1Leg]: Sell OK BTCUSDC at 63037.6000;Gap=-3.56;Price=62908.7000;Slippage=-128.9;Execution=1673.095 ms;
+19:02:16.676151> Placed lock SellLimit 
+19:07:50.415627> Signal 2(s), Bid: 62945.4 Ask:  62945.5
+19:10:13.355041> Try Modify Lock Sell order for Close at now, 
+19:10:13.633058> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62963.9000;execution=272.014 ms;
+19:10:13.634059> Modify Lock SellLimit (1Leg) for Close at now
+19:25:01.354190> Signal 2(s), Bid: 63037.1 Ask:  63037.2
+19:25:01.354190> Try Open BuyLimit, Bid: 63037.1 Ask:  63037.2
+19:25:01.355181> Support: 63035.1 VolS:1.882 Resistence: 63045.1 VolR:0.314
+19:25:01.615116> [1Leg]: Buy OK BTCUSDC at 63037.1000;Gap=-2.165;Price=63037.2000;Slippage=0.1;Execution=259.935 ms;
+19:25:01.616119> Elapsted Open BuyLimit 
+19:25:01.848131> Try Modify main Buy order, 
+19:25:01.852132> Support: 63038.2 VolS:2.46 Resistence: 63042.5 VolR:0.693
+19:25:02.122149> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63038.2000;execution=269.016 ms;
+19:25:02.123148> Modify main BuyLimit (1Leg)
+19:25:09.546277> Try Modify main Buy order, 
+19:25:09.546277> Support: 63038.2 VolS:0.624 Resistence: 63041 VolR:0.641
+19:25:09.802367> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63040.8000;execution=255.097 ms;
+19:25:09.803368> Modify main BuyLimit (1Leg)
+19:25:19.012417> Try place lock SellLimit, Bid: 63040.0 Ask:  63040.1
+19:25:20.152807> [1Leg]: Sell OK BTCUSDC at 63140.8000;Gap=-5.84;Price=63040.1000;Slippage=-100.7;Execution=1139.389 ms;
+19:25:20.153807> Placed lock SellLimit 
+19:26:27.418739> Try Modify Lock Sell order for Close at now, 
+19:26:27.915768> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63014.1000;execution=496.029 ms;
+19:26:27.916768> Modify Lock SellLimit (1Leg) for Close at now
+19:26:27.988771> Try Modify Lock Sell order for Close at now, 
+19:26:28.383794> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62952.1000;execution=394.021 ms;
+19:26:28.384795> Modify Lock SellLimit (1Leg) for Close at now
+19:26:28.386796> Try Modify Lock Sell order for Close at now, 
+19:26:28.687811> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62927.7000;execution=301.015 ms;
+19:26:28.688811> Modify Lock SellLimit (1Leg) for Close at now
+19:29:53.903027> Signal 1(s), Bid: 62778.0 Ask:  62778.1
+19:29:53.903027> Try Open Sell Pos, deviationSell: 1.895 Ask: 62778.1
+19:29:53.904029> Support: 62772 VolS:0.081 Resistence: 62778.1 VolR:3.422
+19:29:54.195053> [1Leg]: Sell OK BTCUSDC at 62778.1000;Gap=1.895;Price=62778.1000;Slippage=0.0;Execution=291.024 ms;
+19:29:54.199054> Elapsted Open Sell (1Leg)
+19:29:54.973098> Try Modify main Sell order, 
+19:29:54.973098> Support: 62771.6 VolS:0.599 Resistence: 62777.3 VolR:0.651
+19:29:55.226621> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62776.1000;execution=253.523 ms;
+19:29:55.227619> Modify main SellLimit (1Leg)
+19:29:55.472632> Try Modify main Sell order, 
+19:29:55.486633> Support: 62771.6 VolS:0.599 Resistence: 62774.1 VolR:2.743
+19:29:55.734646> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62774.1000;execution=247.006 ms;
+19:29:55.751647> Modify main SellLimit (1Leg)
+19:29:56.030665> Try Modify main Sell order, 
+19:29:56.030665> Support: 62766.5 VolS:0.592 Resistence: 62771.8 VolR:1.144
+19:29:56.288679> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62771.0000;execution=257.013 ms;
+19:29:56.289681> Modify main SellLimit (1Leg)
+19:29:56.569695> Try Modify main Sell order, 
+19:29:56.570695> Support: 62761.4 VolS:0.28 Resistence: 62769.3 VolR:2.418
+19:29:56.826708> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62769.3000;execution=256.013 ms;
+19:29:56.828713> Modify main SellLimit (1Leg)
+19:29:57.622754> Try Modify main Sell order, 
+19:29:57.624757> Support: 62759.4 VolS:1.576 Resistence: 62764.8 VolR:2.767
+19:29:57.976775> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62764.8000;execution=352.018 ms;
+19:29:57.977776> Modify main SellLimit (1Leg)
+19:29:59.777879> Try Modify main Sell order, 
+19:29:59.778880> Support: 62762.5 VolS:0.79 Resistence: 62774.4 VolR:0.475
+19:30:01.245962> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+19:30:01.245962> [1Leg]: Sell failed BTCUSDC;price=62774.0000
+19:30:03.006065> Try place lock BuyLimit, Bid: 62764.7 Ask:  62764.8
+19:30:03.341081> [1Leg]: Buy OK BTCUSDC at 62664.8000;Gap=0.15;Price=62764.8000;Slippage=100.0;Execution=333.018 ms;
+19:30:03.342082> Placed lock BuyLimit 
+19:31:43.231190> Try Modify Lock Buy order for close at now, 
+19:31:44.006234> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62788.7000;execution=759.040 ms;
+19:31:44.006234> Modify BuyLimit (1Leg) for Close at now
+19:32:18.351870> Try Modify Lock Buy order for close at now, 
+19:32:18.699893> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62830.5000;execution=344.018 ms;
+19:32:18.701889> Modify BuyLimit (1Leg) for Close at now
+19:32:18.704889> Try Modify Lock Buy order for close at now, 
+19:32:19.040910> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62834.1000;execution=336.021 ms;
+19:32:19.041909> Modify BuyLimit (1Leg) for Close at now
+19:56:12.439204> Signal 1(s), Bid: 62802.0 Ask:  62802.1
+19:56:12.440194> Try Open Sell Pos, deviationSell: 3.365 Ask: 62802.1
+19:56:12.441193> Support: 62798 VolS:0.147 Resistence: 62802.1 VolR:1.013
+19:56:12.696207> [1Leg]: Sell OK BTCUSDC at 62802.1000;Gap=3.365;Price=62802.1000;Slippage=0.0;Execution=255.013 ms;
+19:56:12.697206> Elapsted Open Sell (1Leg)
+19:56:12.942220> Try Modify main Sell order, 
+19:56:12.943221> Support: 62793.4 VolS:0.678 Resistence: 62799.8 VolR:1.72
+19:56:13.448249> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62799.8000;execution=505.028 ms;
+19:56:13.449250> Modify main SellLimit (1Leg)
+19:56:23.965771> Try Modify main Sell order, 
+19:56:23.965771> Support: 62786.3 VolS:0.707 Resistence: 62794.4 VolR:2.329
+19:56:24.279787> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62794.4000;execution=314.016 ms;
+19:56:24.351792> Modify main SellLimit (1Leg)
+19:56:30.368138> Try Modify main Sell order, 
+19:56:30.369139> Support: 62787.5 VolS:0.597 Resistence: 62790.1 VolR:2.717
+19:56:30.690156> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62790.1000;execution=321.017 ms;
+19:56:30.691156> Modify main SellLimit (1Leg)
+19:56:31.068179> Try Modify main Sell order, 
+19:56:31.069178> Support: 62780.4 VolS:0.67 Resistence: 62784.4 VolR:3.205
+19:56:32.508260> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62784.4000;execution=1439.082 ms;
+19:56:32.560263> Modify main SellLimit (1Leg)
+19:56:34.475372> Try Modify main Sell order, 
+19:56:34.475372> Support: 62782.8 VolS:0.956 Resistence: 62782.9 VolR:1.436
+19:56:34.685383> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62782.9000;execution=209.009 ms;
+19:56:34.701385> Modify main SellLimit (1Leg)
+19:56:39.000631> Try place lock BuyLimit, Bid: 62783.5 Ask:  62783.6
+19:56:39.307649> [1Leg]: Buy OK BTCUSDC at 62682.9000;Gap=-9.295;Price=62783.6000;Slippage=100.7;Execution=282.013 ms;
+19:56:39.307649> Placed lock BuyLimit 
+19:59:15.119524> Try Modify Lock Buy order for close at now, 
+19:59:15.941569> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62744.7000;execution=814.045 ms;
+19:59:15.942571> Modify BuyLimit (1Leg) for Close at now
+20:15:18.679692> Signal 2(s), Bid: 62781.6 Ask:  62781.7
+20:15:18.684695> Try Open BuyLimit, Bid: 62781.6 Ask:  62781.7
+20:15:18.684695> Support: 62781 VolS:1.706 Resistence: 62784.9 VolR:0.203
+20:15:19.003713> [1Leg]: Buy OK BTCUSDC at 62781.6000;Gap=-1.245;Price=62781.7000;Slippage=0.1;Execution=319.018 ms;
+20:15:19.158727> Elapsted Open BuyLimit 
+20:15:19.270727> Try Modify main Buy order, 
+20:15:19.271728> Support: 62784.2 VolS:2.502 Resistence: 62789.2 VolR:0.641
+20:15:20.597809> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62784.2000;execution=1326.081 ms;
+20:15:20.599804> Modify main BuyLimit (1Leg)
+20:15:20.627813> Try Modify main Buy order, 
+20:15:20.628806> Support: 62789.8 VolS:2.219 Resistence: 62796.2 VolR:1.576
+20:15:20.929824> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62789.8000;execution=301.018 ms;
+20:15:20.929824> Modify main BuyLimit (1Leg)
+20:15:33.037448> Try place lock SellLimit, Bid: 62780.0 Ask:  62780.1
+20:15:33.320464> [1Leg]: Sell OK BTCUSDC at 62889.8000;Gap=-2.695;Price=62780.1000;Slippage=-109.7;Execution=282.015 ms;
+20:15:33.321471> Placed lock SellLimit 
+20:15:41.019907> Try Modify Lock Sell order for Close at now, 
+20:15:41.490933> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62780.1000;execution=471.026 ms;
+20:15:41.498935> Modify Lock SellLimit (1Leg) for Close at now
+20:17:40.638032> Try Modify Lock Sell order for Close at now, 
+20:17:40.972051> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=62769.9000;execution=298.017 ms;
+20:17:40.973063> Modify Lock SellLimit (1Leg) for Close at now
+20:40:00.322946> Signal 2(s), Bid: 62988.2 Ask:  62988.3
+20:40:00.322946> Try Open BuyLimit, Bid: 62988.2 Ask:  62988.3
+20:40:00.323946> Support: 62988.2 VolS:0.823 Resistence: 62990 VolR:0.125
+20:40:00.601958> [1Leg]: Buy OK BTCUSDC at 62988.2000;Gap=-5.735;Price=62988.3000;Slippage=0.1;Execution=278.012 ms;
+20:40:00.602961> Elapsted Open BuyLimit 
+20:40:00.875975> Try Modify main Buy order, 
+20:40:00.920978> Support: 62989.2 VolS:0.68 Resistence: 62991.8 VolR:0.626
+20:40:01.346004> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62989.9000;execution=425.026 ms;
+20:40:01.347004> Modify main BuyLimit (1Leg)
+20:40:01.895036> Try Modify main Buy order, 
+20:40:01.895036> Support: 62996 VolS:0.881 Resistence: 63000 VolR:1.016
+20:40:02.392063> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=62996.0000;execution=497.027 ms;
+20:40:02.392063> Modify main BuyLimit (1Leg)
+20:40:07.054333> Try place lock SellLimit, Bid: 62990.0 Ask:  62990.1
+20:40:08.111390> [1Leg]: Sell OK BTCUSDC at 63096.0000;Gap=2.565;Price=62990.1000;Slippage=-105.9;Execution=1057.057 ms;
+20:40:08.111390> Placed lock SellLimit 
+20:40:22.590190> Try Modify Lock Sell order for Close at now, 
+20:40:23.024216> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=63066.6000;execution=432.026 ms;
+20:40:23.025214> Modify Lock SellLimit (1Leg) for Close at now
+20:41:22.011596> Signal 2(s), Bid: 63168.3 Ask:  63168.9
+20:41:22.012596> Try Open BuyLimit, Bid: 63168.3 Ask:  63168.9
+20:41:22.013596> Support: 63165.9 VolS:1.311 Resistence: 63177.2 VolR:0.05
+20:41:22.614631> [1Leg]: Buy OK BTCUSDC at 63168.3000;Gap=9.995;Price=63193.6000;Slippage=25.3;Execution=601.035 ms;
+20:41:22.615632> Elapsted Open BuyLimit 
+20:41:22.616631> Try Modify main Buy order, 
+20:41:22.616631> Support: 63184.9 VolS:0.31 Resistence: 63194.8 VolR:1.576
+20:41:23.121660> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:41:23.122660> [1Leg]: Buy failed BTCUSDC;price=63189.7000
+20:41:23.126657> Try Modify main Buy order, 
+20:41:23.127660> Support: 63187.9 VolS:0.712 Resistence: 63194.8 VolR:1.576
+20:41:23.500681> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63188.9000;execution=373.021 ms;
+20:41:23.501682> Modify main BuyLimit (1Leg)
+20:41:23.738701> Try Modify main Buy order, 
+20:41:23.739701> Support: 63189.2 VolS:0.673 Resistence: 63200 VolR:3.192
+20:41:24.322729> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:41:24.351728> [1Leg]: Buy failed BTCUSDC;price=63189.7000
+20:41:27.006882> Try place lock SellLimit, Bid: 63186.6 Ask:  63186.7
+20:41:27.508909> [1Leg]: Sell OK BTCUSDC at 63288.9000;Gap=-7.62;Price=63194.7000;Slippage=-94.2;Execution=402.021 ms;
+20:41:27.509912> Placed lock SellLimit 
+20:43:10.999927> Signal 2(s), Bid: 63220.9 Ask:  63221.0
+20:43:11.000845> Try Open BuyLimit, Bid: 63220.9 Ask:  63221.0
+20:43:11.000845> Support: 63213.4 VolS:30 Resistence: 63222 VolR:0.794
+20:43:11.424870> [1Leg]: Buy OK BTCUSDC at 63220.9000;Gap=0.005;Price=63221.0000;Slippage=0.1;Execution=423.024 ms;
+20:43:11.424870> Elapsted Open BuyLimit 
+20:43:12.360934> Signal 2(s), Bid: 63220.9 Ask:  63221.0
+20:43:13.275974> Signal 2(s), Bid: 63220.9 Ask:  63221.0
+20:43:13.560991> Signal 2(s), Bid: 63220.9 Ask:  63221.0
+20:43:14.057021> Signal 2(s), Bid: 63220.9 Ask:  63221.0
+20:43:14.398039> Signal 2(s), Bid: 63214.9 Ask:  63215.0
+20:43:14.543046> Signal 2(s), Bid: 63214.9 Ask:  63215.0
+20:43:17.044192> Try place lock SellLimit, Bid: 63214.9 Ask:  63215.0
+20:43:18.379269> [1Leg]: Sell OK BTCUSDC at 63320.9000;Gap=0.12;Price=63215.0000;Slippage=-105.9;Execution=1331.077 ms;
+20:43:18.379269> Placed lock SellLimit 
+20:44:04.109891> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:44:09.378212> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:44:09.380208> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:44:09.640208> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:44:10.707267> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:44:14.819503> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:44:14.820504> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:44:16.030574> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:50:05.076586> Signal 2(s), Bid: 63125.9 Ask:  63126.0
+20:50:05.077587> Try Open BuyLimit, Bid: 63125.9 Ask:  63126.0
+20:50:05.077587> Support: 63125.9 VolS:1.001 Resistence: 63127 VolR:0.719
+20:50:06.376661> [1Leg]: Buy OK BTCUSDC at 63125.9000;Gap=3.815;Price=63135.8000;Slippage=9.9;Execution=1299.074 ms;
+20:50:06.377662> Elapsted Open BuyLimit 
+20:50:06.377662> Try Modify main Buy order, 
+20:50:06.377662> Support: 63126 VolS:0.663 Resistence: 63142.2 VolR:0.364
+20:50:06.853692> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+20:50:06.882691> [1Leg]: Buy failed BTCUSDC;price=63135.8000
+20:50:06.922740> Try Modify main Buy order, 
+20:50:06.923695> Support: 63126 VolS:0.663 Resistence: 63142.2 VolR:0.364
+20:50:07.259714> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63135.7000;execution=335.020 ms;
+20:50:07.259714> Modify main BuyLimit (1Leg)
+20:50:07.274713> Signal 2(s), Bid: 63143.3 Ask:  63143.4
+20:50:07.274713> Try Modify main Buy order, 
+20:50:07.274713> Support: 63143.3 VolS:1.065 Resistence: 63146.3 VolR:0.597
+20:50:07.647733> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63143.3000;execution=373.020 ms;
+20:50:07.648735> Modify main BuyLimit (1Leg)
+20:50:07.652735> Try Modify main Buy order, 
+20:50:07.653734> Support: 63175.9 VolS:50 Resistence: 63188.9 VolR:0.585
+20:50:07.956751> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63182.5000;execution=303.018 ms;
+20:50:07.957754> Modify main BuyLimit (1Leg)
+20:50:08.439781> Signal 2(s), Bid: 63143.3 Ask:  63143.4
+20:50:09.058815> Signal 2(s), Bid: 63131.9 Ask:  63132.0
+20:50:09.469840> Signal 2(s), Bid: 63177.9 Ask:  63178.0
+20:50:10.325888> Signal 2(s), Bid: 63131.0 Ask:  63131.1
+20:50:11.556957> Signal 2(s), Bid: 63135.9 Ask:  63136.0
+20:50:12.120991> Signal 2(s), Bid: 63177.9 Ask:  63178.0
+20:50:12.681022> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:50:13.258056> Signal 2(s), Bid: 63175.9 Ask:  63176.0
+20:50:13.584077> Signal 2(s), Bid: 63175.9 Ask:  63176.0
+20:50:17.740313> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:50:17.741314> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:50:18.254343> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:50:18.542359> Try Modify main Buy order, 
+20:50:18.542359> Support: 63175.9 VolS:47.568 Resistence: 63191.3 VolR:0.314
+20:50:18.901380> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63185.8000;execution=359.021 ms;
+20:50:18.901380> Modify main BuyLimit (1Leg)
+20:50:18.931381> Signal 2(s), Bid: 63133.9 Ask:  63134.0
+20:50:19.162396> Try Modify main Buy order, 
+20:50:19.163395> Support: 63177 VolS:1.871 Resistence: 63186 VolR:0.661
+20:50:19.407409> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:50:19.421410> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63185.9000;execution=258.015 ms;
+20:50:19.421410> Modify main BuyLimit (1Leg)
+20:50:23.400640> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:50:23.401638> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:50:24.465705> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:50:52.270297> Signal 2(s), Bid: 63181.4 Ask:  63181.5
+20:50:52.491306> Signal 2(s), Bid: 63181.4 Ask:  63181.5
+20:50:59.093685> Signal 2(s), Bid: 63151.9 Ask:  63182.0
+20:50:59.126684> Signal 2(s), Bid: 63151.9 Ask:  63182.0
+20:50:59.955732> Try Modify main Buy order, 
+20:50:59.956733> Support: 63187.9 VolS:2.309 Resistence: 63188.4 VolR:0.674
+20:51:00.312753> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63187.9000;execution=356.020 ms;
+20:51:00.313755> Modify main BuyLimit (1Leg)
+20:51:00.732778> Signal 2(s), Bid: 63187.9 Ask:  63188.0
+20:51:01.595828> Signal 2(s), Bid: 63162.8 Ask:  63162.9
+20:51:07.913188> Signal 2(s), Bid: 63163.5 Ask:  63163.6
+20:51:22.907050> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:51:23.437080> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:51:24.393137> Signal 2(s), Bid: 63169.9 Ask:  63170.0
+20:51:25.085176> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:51:25.446197> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:51:26.008226> Signal 2(s), Bid: 63183.9 Ask:  63184.0
+20:51:29.561431> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:51:29.562432> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:51:30.718506> WebSocket connected! Start @depth [Future] process...
+20:51:36.781844> Signal 2(s), Bid: 63182.5 Ask:  63182.6
+20:51:37.055862> Signal 2(s), Bid: 63182.5 Ask:  63182.6
+20:51:37.394880> Signal 2(s), Bid: 63183.9 Ask:  63184.0
+20:51:37.424880> Signal 2(s), Bid: 63183.9 Ask:  63184.0
+20:51:38.097922> Signal 2(s), Bid: 63176.0 Ask:  63176.1
+20:51:39.358992> Signal 2(s), Bid: 63177.9 Ask:  63178.0
+20:51:39.816020> Signal 2(s), Bid: 63177.9 Ask:  63178.0
+20:51:40.484059> Signal 2(s), Bid: 63177.9 Ask:  63178.0
+20:51:40.829076> Signal 2(s), Bid: 63177.9 Ask:  63178.0
+20:51:40.979086> Signal 2(s), Bid: 63177.9 Ask:  63178.0
+20:51:46.872428> Signal 2(s), Bid: 63177.9 Ask:  63178.0
+20:51:47.534460> Signal 2(s), Bid: 63175.9 Ask:  63176.0
+20:51:49.908599> Signal 2(s), Bid: 63185.8 Ask:  63185.9
+20:51:50.361624> Signal 2(s), Bid: 63183.9 Ask:  63184.0
+20:51:50.812651> Signal 2(s), Bid: 63185.9 Ask:  63186.0
+20:51:54.821881> Signal 2(s), Bid: 63183.9 Ask:  63184.0
+20:52:03.514377> Signal 2(s), Bid: 63181.4 Ask:  63181.5
+20:52:03.648389> Signal 2(s), Bid: 63181.9 Ask:  63182.0
+20:52:03.912401> Signal 2(s), Bid: 63183.9 Ask:  63184.0
+20:52:16.960149> Signal 2(s), Bid: 63184.1 Ask:  63184.2
+20:52:17.021152> Signal 2(s), Bid: 63184.1 Ask:  63184.2
+20:52:17.219164> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:17.253164> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:17.714193> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:17.718193> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:18.227224> Signal 2(s), Bid: 63175.9 Ask:  63176.0
+20:52:18.675247> Signal 2(s), Bid: 63175.9 Ask:  63176.0
+20:52:18.806255> Signal 2(s), Bid: 63175.9 Ask:  63176.0
+20:52:19.256280> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:19.707307> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:19.802310> Signal 2(s), Bid: 63185.9 Ask:  63186.0
+20:52:20.238336> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:20.708365> Signal 2(s), Bid: 63183.9 Ask:  63184.0
+20:52:21.348401> Signal 2(s), Bid: 63183.9 Ask:  63184.0
+20:52:22.277455> Signal 2(s), Bid: 63185.9 Ask:  63184.0
+20:52:22.335456> Try Modify main Buy order, 
+20:52:22.362483> Support: 63175.9 VolS:46.877 Resistence: 63184 VolR:1.345
+20:52:22.790484> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63183.9000;execution=426.025 ms;
+20:52:22.790484> Modify main BuyLimit (1Leg)
+20:52:22.938492> Signal 2(s), Bid: 63183.9 Ask:  63184.0
+20:52:23.161506> Try Modify main Buy order, 
+20:52:23.161506> Support: 63192.8 VolS:0.941 Resistence: 63196.8 VolR:1.576
+20:52:24.477581> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63192.8000;execution=1315.076 ms;
+20:52:24.477581> Modify main BuyLimit (1Leg)
+20:52:27.138734> Try Modify main Buy order, 
+20:52:27.139739> Support: 63195.7 VolS:2.248 Resistence: 63196.8 VolR:1.576
+20:52:27.505756> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63195.7000;execution=365.021 ms;
+20:52:27.506754> Modify main BuyLimit (1Leg)
+20:52:27.754768> Try Modify main Buy order, 
+20:52:27.781770> Support: 63175.9 VolS:46.877 Resistence: 63184 VolR:1.248
+20:52:28.088786> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63183.9000;execution=307.016 ms;
+20:52:28.089786> Modify main BuyLimit (1Leg)
+20:52:28.091789> Signal 2(s), Bid: 63183.9 Ask:  63184.0
+20:52:28.197791> Try Modify main Buy order, 
+20:52:28.198795> Support: 63195.9 VolS:1.292 Resistence: 63196.8 VolR:1.584
+20:52:28.446808> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63195.9000;execution=248.013 ms;
+20:52:28.447808> Modify main BuyLimit (1Leg)
+20:52:33.020071> Signal 2(s), Bid: 63195.9 Ask:  63196.0
+20:52:33.775113> Signal 2(s), Bid: 63186.0 Ask:  63186.1
+20:52:34.181136> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:35.501213> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:35.842230> Signal 2(s), Bid: 63175.9 Ask:  63176.0
+20:52:36.056245> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:36.186250> Signal 2(s), Bid: 63175.9 Ask:  63176.0
+20:52:36.401265> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:36.506268> Signal 2(s), Bid: 63175.9 Ask:  63176.0
+20:52:36.663279> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:52:44.200711> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:54:10.197642> Signal 2(s), Bid: 63175.9 Ask:  63176.0
+20:54:10.310647> Signal 2(s), Bid: 63185.9 Ask:  63186.0
+20:54:11.126723> Signal 2(s), Bid: 63185.9 Ask:  63186.0
+20:54:12.089751> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:12.417770> Signal 2(s), Bid: 63192.8 Ask:  63192.9
+20:54:12.848795> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:13.799852> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:14.296877> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:14.680897> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:16.880023> Try Modify main Buy order, 
+20:54:16.882024> Support: 63197.2 VolS:0.777 Resistence: 63200 VolR:0.234
+20:54:17.178050> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63197.4000;execution=295.025 ms;
+20:54:17.180056> Modify main BuyLimit (1Leg)
+20:54:23.035377> Try Modify main Buy order, 
+20:54:23.035377> Support: 63197.4 VolS:0.633 Resistence: 63199.1 VolR:0.709
+20:54:23.971431> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63197.9000;execution=935.052 ms;
+20:54:23.972432> Modify main BuyLimit (1Leg)
+20:54:34.315024> Try Modify main Buy order, 
+20:54:34.320026> Support: 63211.9 VolS:1.582 Resistence: 63221.1 VolR:0.275
+20:54:34.533035> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63211.9000;execution=212.009 ms;
+20:54:34.553045> Modify main BuyLimit (1Leg)
+20:54:34.906059> Try Modify main Buy order, 
+20:54:34.906059> Support: 63211.9 VolS:1.948 Resistence: 63215.4 VolR:0.708
+20:54:35.380085> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63212.9000;execution=474.026 ms;
+20:54:35.380085> Modify main BuyLimit (1Leg)
+20:54:39.697333> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:54:40.290368> Signal 2(s), Bid: 63182.0 Ask:  63182.1
+20:54:40.489377> Try Modify main Buy order, 
+20:54:40.490380> Support: 63220.9 VolS:1.257 Resistence: 63227 VolR:0.342
+20:54:40.828397> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63220.9000;execution=338.018 ms;
+20:54:40.828397> Modify main BuyLimit (1Leg)
+20:54:40.833397> Try Modify main Buy order, 
+20:54:40.834398> Support: 63226.9 VolS:1.677 Resistence: 63230 VolR:0.817
+20:54:41.111415> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63226.9000;execution=277.017 ms;
+20:54:41.112415> Modify main BuyLimit (1Leg)
+20:54:41.427433> Signal 2(s), Bid: 63226.9 Ask:  63227.0
+20:54:42.182477> Signal 2(s), Bid: 63226.9 Ask:  63227.0
+20:54:43.649559> Try Modify main Buy order, 
+20:54:43.651560> Support: 63226.9 VolS:0.989 Resistence: 63228.1 VolR:0.731
+20:54:43.929576> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63227.9000;execution=278.016 ms;
+20:54:43.929576> Modify main BuyLimit (1Leg)
+20:54:44.866628> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:45.388660> Signal 2(s), Bid: 63226.9 Ask:  63227.0
+20:54:45.750679> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:46.836742> Signal 2(s), Bid: 63226.9 Ask:  63227.0
+20:54:47.091768> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:47.880801> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:48.304826> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:48.763855> Signal 2(s), Bid: 63183.8 Ask:  63183.9
+20:54:49.395888> Signal 2(s), Bid: 63225.3 Ask:  63225.4
+20:54:55.565243> Signal 2(s), Bid: 63225.3 Ask:  63225.4
+20:54:56.117274> Signal 2(s), Bid: 63225.3 Ask:  63225.4
+20:54:56.380303> Signal 2(s), Bid: 63225.3 Ask:  63225.4
+20:54:58.936436> Signal 2(s), Bid: 63225.3 Ask:  63225.4
+20:54:59.205450> Signal 2(s), Bid: 63211.9 Ask:  63212.0
+20:54:59.708481> Signal 2(s), Bid: 63212.9 Ask:  63213.0
+20:55:02.307629> Signal 2(s), Bid: 63225.3 Ask:  63225.4
+20:55:05.559817> Signal 2(s), Bid: 63219.0 Ask:  63219.1
+20:55:05.638820> Try Modify main Buy order, 
+20:55:05.639820> Support: 63225.3 VolS:37.738 Resistence: 63238.1 VolR:0.407
+20:55:05.905835> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63233.3000;execution=266.015 ms;
+20:55:05.906836> Modify main BuyLimit (1Leg)
+20:55:05.907837> Signal 2(s), Bid: 63233.3 Ask:  63233.4
+20:55:06.102847> Try Modify main Buy order, 
+20:55:06.103848> Support: 63225.3 VolS:37.738 Resistence: 63234 VolR:0.787
+20:55:06.376864> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63233.9000;execution=272.016 ms;
+20:55:06.377864> Modify main BuyLimit (1Leg)
+20:55:06.572874> Signal 2(s), Bid: 63219.9 Ask:  63220.0
+20:55:06.593876> Signal 2(s), Bid: 63219.9 Ask:  63220.0
+20:55:07.720940> Signal 2(s), Bid: 63232.0 Ask:  63232.1
+20:55:21.146720> Signal 2(s), Bid: 63226.9 Ask:  63227.0
+20:55:21.547733> Signal 2(s), Bid: 63226.9 Ask:  63227.0
+20:55:22.034761> Signal 2(s), Bid: 63232.0 Ask:  63232.1
+20:55:23.809863> Try Modify main Buy order, 
+20:55:23.814863> Support: 63233.9 VolS:2.655 Resistence: 63242 VolR:0.731
+20:55:24.189882> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63234.3000;execution=375.018 ms;
+20:55:24.190885> Modify main BuyLimit (1Leg)
+20:55:24.354894> Try Modify main Buy order, 
+20:55:24.354894> Support: 63235.9 VolS:1.219 Resistence: 63242 VolR:0.731
+20:55:24.606907> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63235.9000;execution=252.014 ms;
+20:55:24.613908> Modify main BuyLimit (1Leg)
+20:55:35.833552> Try Modify main Buy order, 
+20:55:35.833552> Support: 63239.1 VolS:1.849 Resistence: 63244.3 VolR:0.782
+20:55:36.414584> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63239.1000;execution=580.031 ms;
+20:55:36.415587> Modify main BuyLimit (1Leg)
+20:55:43.581997> Try Modify main Buy order, 
+20:55:43.584997> Support: 63248.3 VolS:0.381 Resistence: 63259.2 VolR:0.631
+20:55:44.660057> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63251.9000;execution=1074.059 ms;
+20:55:44.664058> Modify main BuyLimit (1Leg)
+20:55:44.692060> Try Modify main Buy order, 
+20:55:44.693061> Support: 63263.5 VolS:0.997 Resistence: 63271.7 VolR:1.576
+20:55:45.193089> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63263.5000;execution=500.028 ms;
+20:55:45.193089> Modify main BuyLimit (1Leg)
+20:55:48.540281> Signal 2(s), Bid: 63262.0 Ask:  63262.1
+20:55:48.847297> Signal 2(s), Bid: 63225.3 Ask:  63225.4
+20:55:49.363328> Signal 2(s), Bid: 63225.3 Ask:  63225.4
+20:55:50.004378> Signal 2(s), Bid: 63257.8 Ask:  63257.9
+20:55:53.694576> Signal 2(s), Bid: 63258.0 Ask:  63258.1
+20:55:54.011595> Signal 2(s), Bid: 63256.0 Ask:  63256.1
+20:55:55.191663> Signal 2(s), Bid: 63256.0 Ask:  63225.4
+20:55:57.398787> Signal 2(s), Bid: 63256.0 Ask:  63256.1
+20:56:01.848043> Signal 2(s), Bid: 63246.0 Ask:  63246.1
+20:56:02.211065> Signal 2(s), Bid: 63256.0 Ask:  63256.1
+20:56:03.518139> Signal 2(s), Bid: 63232.0 Ask:  63256.1
+20:56:03.955167> Signal 2(s), Bid: 63232.0 Ask:  63232.1
+20:56:04.358187> Signal 2(s), Bid: 63232.0 Ask:  63232.1
+20:56:05.388246> Try Modify main Buy order, 
+20:56:05.389248> Support: 63263.5 VolS:1.214 Resistence: 63267.9 VolR:0.793
+20:56:05.637259> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63263.9000;execution=248.011 ms;
+20:56:05.638262> Modify main BuyLimit (1Leg)
+20:56:05.690265> Try Modify main Buy order, 
+20:56:05.973278> Support: 63267.8 VolS:1.043 Resistence: 63271.7 VolR:1.576
+20:56:06.235295> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63267.8000;execution=261.014 ms;
+20:56:06.236296> Modify main BuyLimit (1Leg)
+20:56:10.168535> Signal 2(s), Bid: 63232.0 Ask:  63232.1
+20:57:01.240450> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:57:02.511536> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:57:06.429751> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:57:06.430747> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:57:07.588519> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:57:07.744823> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:57:07.744823> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:57:08.769879> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:57:10.621986> Signal 2(s), Bid: 63230.0 Ask:  63230.1
+20:57:28.957039> Signal 2(s), Bid: 63254.4 Ask:  63254.5
+20:57:31.398179> Try Modify main Buy order, 
+20:57:31.398179> Support: 63260.1 VolS:0.275 Resistence: 63276.5 VolR:0.795
+20:57:32.256230> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63274.0000;execution=857.052 ms;
+20:57:32.257229> Modify main BuyLimit (1Leg)
+20:57:32.929266> Try Modify main Buy order, 
+20:57:32.930266> Support: 63275.5 VolS:0.76 Resistence: 63276.5 VolR:0.835
+20:57:33.218283> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63275.8000;execution=288.016 ms;
+20:57:33.218283> Modify main BuyLimit (1Leg)
+20:57:36.338462> Try Modify main Buy order, 
+20:57:36.338462> Support: 63275.9 VolS:1.2 Resistence: 63278.3 VolR:0.738
+20:57:36.611478> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63275.9000;execution=272.015 ms;
+20:57:36.612477> Modify main BuyLimit (1Leg)
+20:57:36.681482> Try Modify main Buy order, 
+20:57:36.681482> Support: 63276 VolS:0.879 Resistence: 63284.3 VolR:0.847
+20:57:37.201512> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63281.9000;execution=520.031 ms;
+20:57:37.201512> Modify main BuyLimit (1Leg)
+20:58:03.142999> Try Modify main Buy order, 
+20:58:03.143999> Support: 63283.9 VolS:1.663 Resistence: 63287.5 VolR:0.802
+20:58:03.675029> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63283.9000;execution=531.030 ms;
+20:58:03.675029> Modify main BuyLimit (1Leg)
+20:58:03.692031> Try Modify main Buy order, 
+20:58:03.692031> Support: 63310 VolS:0.982 Resistence: 63311.5 VolR:0.894
+20:58:03.951047> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63310.0000;execution=259.016 ms;
+20:58:03.951047> Modify main BuyLimit (1Leg)
+20:58:04.391070> Try Modify main Buy order, 
+20:58:04.392071> Support: 63311.4 VolS:0.805 Resistence: 63312.5 VolR:1.297
+20:58:04.852099> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63312.4000;execution=455.029 ms;
+20:58:04.852099> Modify main BuyLimit (1Leg)
+20:58:28.832471> Try Modify main Buy order, 
+20:58:28.833472> Support: 63313.8 VolS:0.791 Resistence: 63318 VolR:0.868
+20:58:29.146494> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63313.9000;execution=313.022 ms;
+20:58:29.273498> Modify main BuyLimit (1Leg)
+20:58:33.329739>  DevSELL (-): -140.45 avgGapSell:-35.95 
+20:58:33.410734>  DevSELL (-): -144.85 avgGapSell:-35.95 
+20:58:35.669861>  DevSELL (-): -157.35 avgGapSell:-35.95 
+20:58:36.333902>  DevSELL (-): -151.55 avgGapSell:-35.95 
+20:58:36.860932>  DevSELL (-): -166.05 avgGapSell:-35.95 
+20:58:37.350958>  DevSELL (+): -165.25 avgGapSell:-35.95 
+20:59:09.248789> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:59:14.493089> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:59:14.495091> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:59:15.226131> Try Modify main Buy order, 
+20:59:15.227132> Support: 63363.4 VolS:1.201 Resistence: 63381.8 VolR:0.788
+20:59:15.435143> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=63372.0000;execution=208.011 ms;
+20:59:15.441142> Modify main BuyLimit (1Leg)
+20:59:15.977173> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:59:19.033349> Try place lock SellLimit, Bid: 63270.0 Ask:  63270.1
+20:59:19.294365> [1Leg]: Sell OK BTCUSDC at 63464.5000;Gap=0.45;Price=63270.1000;Slippage=-194.4;Execution=259.015 ms;
+20:59:19.294365> Placed lock SellLimit 
+20:59:19.500376>  DevBUY (-): 168.94 avgGapBuy:-69.14 
+20:59:24.539664>  DevBUY (-): 137.425 avgGapBuy:-61.925 
+20:59:24.728677>  DevBUY (+): 131.125 avgGapBuy:-61.925 
+20:59:24.999691>  DevBUY (-): 125.225 avgGapBuy:-61.925 
+20:59:29.081927>  DevSELL (+): -130.885 avgGapSell:-29.215 
+20:59:31.147047>  DevSELL (+): -134.585 avgGapSell:-29.215 
+21:01:01.397219>  DevBUY (-): 131.88 avgGapBuy:-159.98 
+21:01:04.862419>  DevBUY (-): 133.34 avgGapBuy:-153.14 
+21:01:22.561431>  DevBUY (-): 131.56 avgGapBuy:-23.56 
+21:01:22.787449>  DevBUY (+): 131.56 avgGapBuy:-23.56 
+21:01:22.941455>  DevBUY (-): 129.56 avgGapBuy:-23.56 
+21:01:23.019457>  DevBUY (+): 124.26 avgGapBuy:-23.56 
+21:01:23.110464>  DevSELL (-): -176.865 avgGapSell:-23.535 
+21:01:23.142467>  DevSELL (-): -187.665 avgGapSell:-23.535 
+21:01:32.645011>  DevBUY (+): 127.585 avgGapBuy:-3.085 
+21:02:02.229704>  DevSELL (-): -129.495 avgGapSell:59.995 
+21:02:02.370715>  DevSELL (+): -159.895 avgGapSell:59.995 
+21:02:02.397717>  DevSELL (-): -300.495 avgGapSell:59.995 
+21:03:02.603169>  DevBUY (-): 124.42 avgGapBuy:-126.22 
+21:03:02.683174>  DevBUY (+): 124.42 avgGapBuy:-126.22 
+21:03:12.279724> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:03:17.408016>  DevSELL (-): -153.17 avgGapSell:-52.43 
+21:03:17.409018> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:03:17.409018> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:03:18.493080> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:03:18.616087>  DevSELL (-): -155.57 avgGapSell:-52.43 
+21:03:18.803099> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:03:24.136402> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:03:24.185404> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:03:25.322473> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:03:27.091572>  DevBUY (+): 133.08 avgGapBuy:-52.08 
+21:03:27.923621>  DevBUY (+): 134.08 avgGapBuy:-52.08 
+21:03:28.104629>  DevSELL (-): -136.02 avgGapSell:-52.08 
+21:03:28.487651>  DevBUY (+): 131.38 avgGapBuy:-52.08 
+21:04:30.649231>  DevSELL (-): -125.07 avgGapSell:-30.13 
+21:05:07.331328> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:05:10.921538> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:05:11.112537> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:05:11.204543>  DevBUY (-): 137.895 avgGapBuy:-89.795 
+21:05:11.213544>  DevBUY (+): 151.695 avgGapBuy:-89.795 
+21:05:11.554563>  DevBUY (-): 160.195 avgGapBuy:-89.795 
+21:05:12.523632> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:05:12.553619> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:05:13.947700> WebSocket connected! Start @depth [Future] process...
+21:05:16.084823> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:05:16.091820> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:05:16.166826> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:05:16.166826> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:05:17.076889> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:05:17.419898> WebSocket connected! Start @depth [Future] process...
+21:05:17.485903> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:05:22.180171> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:05:22.183173> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:05:23.265232> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:08:28.548857> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+21:08:33.878162> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:08:33.886163> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:08:35.022230> WebSocket connected! Start @depth [Future] process...
+21:09:34.301643> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:09:35.111673> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:09:39.377918> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:09:39.428921> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:09:40.142964> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:09:40.142964> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:09:40.561985> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:09:41.282028> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:09:55.511863> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:10:00.679150> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:10:00.680141> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:10:01.764201> WebSocket connected! Start @depth [Future] process...
+21:11:07.334964> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:11:07.335963> WebSocket [SubscribePartialDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:11:12.443254> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:11:12.444255> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:11:13.525316> WebSocket connected! Start @depth [Future] process...
+21:11:15.345420> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:11:20.425711> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:11:20.425711> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:11:20.524719> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:11:21.578778> WebSocket connected! Start @depth [Future] process...
+21:11:25.666012> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:11:25.667012> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:11:25.962030> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:11:26.657069> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:11:31.075324> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:11:31.075324> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:11:32.204393> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:16:00.324761> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:16:00.779788> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:16:05.509060> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:16:05.509060> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:16:05.903089> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:16:05.904082> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:16:06.006088> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:16:06.221099> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:16:06.750129> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:16:07.087150> WebSocket connected! Start @depth [Future] process...
+21:16:11.232398> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:16:11.233397> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:16:11.234399> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:16:11.235388> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:16:12.229443> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:16:12.422456> WebSocket connected! Start @depth [Future] process...
+21:16:33.080646> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:16:33.081640> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:16:34.339725> WebSocket connected! Start @depth [Future] process...
+21:18:05.701727> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:18:10.949026> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:18:10.949026> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:18:12.174096> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:18:18.830480> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:18:18.831480> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:18:20.012546> WebSocket connected! Start @depth [Future] process...
+21:18:40.022700> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:18:40.426715> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:18:44.268936> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:18:45.189990> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:18:45.190993> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:18:45.447004> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:18:45.619015> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:18:46.369056> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:18:46.902087> WebSocket connected! Start @depth [Future] process...
+21:18:49.419234> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:18:49.419234> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:18:50.634302> WebSocket connected! Start @depth [Future] process...
+21:19:21.266058> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:19:23.006157> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An established connection was aborted by the software in your host machine.
+21:22:01.751262> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:22:06.972562> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:22:06.972562> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:22:07.694602> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:22:08.215633> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:22:08.527648> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:22:12.970903> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:22:12.971903> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:22:13.737947> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:22:13.737947> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:22:14.369985> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:22:14.976019> WebSocket connected! Start @depth [Future] process...
+21:23:28.944261> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:23:34.035551> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:23:34.047552> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:23:35.229620> WebSocket connected! Start @depth [Future] process...
+21:24:00.719080> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:24:00.784086> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:24:01.852146> WebSocket connected! Start @depth [Future] process...
+21:24:49.261866> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:24:49.503879> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:24:54.525168> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:24:54.526168> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:24:54.579169> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:24:54.580172> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:24:55.883258> WebSocket connected! Start @depth [Future] process...
+21:24:55.979251> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:27:40.303678> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:27:45.321964> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:27:45.322959> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:27:46.809046> WebSocket connected! Start @depth [Future] process...
+21:27:51.141292> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:27:56.194583> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:27:56.195583> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:27:57.241641> WebSocket connected! Start @depth [Future] process...
+21:28:07.954260> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+21:28:13.066549> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:28:13.074550> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:28:14.120609> WebSocket connected! Start @depth [Future] process...

@@ -1,0 +1,26 @@
+22:05:05.721584> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:05:06.011600> WebSocket connected! Start @depth [Future] process...
+22:05:06.077607> WebSocket connected! Start Partial @depth20 [Future] process...
+22:05:06.708877> WebSocket connected! Start Partial @depth20 [Future] process...
+22:05:06.712869> WebSocket connected! Start @depth [Future] process...
+22:05:06.713869> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+22:05:06.719869> WebSocket connected! Start Partial @depth20 [Future] process...
+22:05:06.767880> WebSocket connected! Start Partial @depth20 [Future] process...
+22:05:07.506126> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 628.74676662 USDT
+22:53:56.261547> Signal 1(s), Bid: 59271.1 Ask:  59271.2
+22:53:56.261547> Try Open SellLimit, Ask: 59271.2
+22:53:56.262547> Support: 59265.1 VolS:0.335 Resistence: 59271.2 VolR:1.981
+22:53:57.278269> [1Leg]: Sell OK BTCUSDC at 59271.2000;Gap=0.345;Price=59270.9000;Slippage=-0.3;Execution=1012.722 ms;
+22:53:57.279262> Placed Main SellLimit, ticketCustom = 1 ticket = 2587088567
+22:53:57.279262> Try Modify main Sell order, 
+22:53:57.538277> [1Leg]: SELL OK MODIFY BTCUSDC at 0.010 lot;price=59270.9000;execution=257.014 ms;
+22:53:57.539277> Modify main SellLimit, ticketCustom=1 ticket=0
+22:53:57.546276> Try Modify main Sell order, 
+22:53:57.836292> [1Leg]: SELL OK MODIFY BTCUSDC at 0.010 lot;price=59268.1000;execution=289.016 ms;
+22:53:57.836292> Modify main SellLimit, ticketCustom=1 ticket=2587088567
+22:53:57.999321> Try Modify main Sell order, 
+22:53:58.368911> [1Leg]: SELL OK MODIFY BTCUSDC at 0.010 lot;price=59254.1000;execution=368.596 ms;
+22:53:58.369915> Modify main SellLimit, ticketCustom=1 ticket=2587088567
+22:54:08.025531> Try place lock BuyLimit, Bid: 59262.0 Ask:  59262.1
+22:54:08.284986> [1Leg]: Buy OK BTCUSDC at 59154.1000;Gap=-0.38;Price=59262.1000;Slippage=108.0;Execution=253.455 ms;
+22:54:08.287981> Placed lock BuyLimit, ticketCustom= 2, ticket= 2587088567 

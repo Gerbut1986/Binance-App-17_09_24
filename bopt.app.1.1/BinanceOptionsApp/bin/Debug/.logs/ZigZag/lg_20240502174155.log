@@ -1,0 +1,221 @@
+17:41:56.925727> WebSocket connected! Start Partial @depth20 [Future] process...
+17:41:57.216744> WebSocket connected! Start @depth [Future] process...
+17:41:57.230743> WebSocket connected! Start Partial @depth20 [Future] process...
+17:41:57.666399> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:41:59.517880> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:41:59.517880> WebSocket connected! Start Partial @depth20 [Future] process...
+17:41:59.537886> WebSocket connected! Start Partial @depth20 [Future] process...
+17:41:59.952914> WebSocket connected! Start @depth [Future] process...
+17:42:05.967848> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 625.54304650 USDT
+17:42:58.449499> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:42:58.450483> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:42:59.488860> WebSocket connected! Start @depth [Future] process...
+17:43:55.775828> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:43:55.775828> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:43:58.153699> WebSocket connected! Start @depth [Future] process...
+17:44:29.258534> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:44:29.258534> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:44:30.284327> WebSocket connected! Start @depth [Future] process...
+17:45:38.976301> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:45:38.977287> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:45:40.524734> WebSocket connected! Start @depth [Future] process...
+17:46:39.020032> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:46:39.020032> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:46:40.352175> WebSocket connected! Start @depth [Future] process...
+17:47:39.988590> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:47:39.990595> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:47:40.986524> WebSocket connected! Start @depth [Future] process...
+17:47:45.983125> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:47:45.983125> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:47:47.897320> WebSocket connected! Start @depth [Future] process...
+17:48:59.659307> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:48:59.659307> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:49:00.689225> WebSocket connected! Start @depth [Future] process...
+17:49:02.540885> Signal 2(s), Bid: 58986.0 Ask:  58986.1
+17:49:02.601866> Try Open BuyLimit, Bid: 58986.0 Ask:  58986.1
+17:49:02.601866> Support: 58986 VolS:1.068 Resistence: 58986.8 VolR:0.721
+17:49:20.128516> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:49:20.129512> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:49:20.263517> [1Leg]: Buy OK BTCUSDC at 58986.0000;Gap=9.215;Price=58980.1000;Slippage=-5.9;Execution=17656.651 ms;
+17:49:20.264520> Placed Main BuyLimit, ticketCustom = 1 ticket= 2578163300
+17:49:20.267519> Try Modify main Buy order, 
+17:49:20.267519> Support: 58975.4 VolS:1.502 Resistence: 58983 VolR:0.683
+17:49:20.621541> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:49:20.621541> [1Leg]: Buy failed BTCUSDC;price=58980.1000
+17:49:20.622541> Error Modify main BuyLimit, ticketCustom=1 ticket=2578163300
+17:49:20.623542> Try Modify main Buy order, 
+17:49:20.631541> Support: 58975.4 VolS:1.502 Resistence: 58983 VolR:0.683
+17:49:20.924557> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:49:20.925592> [1Leg]: Buy failed BTCUSDC;price=58984.0000
+17:49:20.925592> Error Modify main BuyLimit, ticketCustom=1 ticket=2578163300
+17:49:20.931557> Try Modify main Buy order, 
+17:49:20.932559> Support: 58981.9 VolS:2.327 Resistence: 58995.7 VolR:0.588
+17:49:21.166571> WebSocket connected! Start @depth [Future] process...
+17:49:21.229576> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:49:21.229576> [1Leg]: Buy failed BTCUSDC;price=58986.0000
+17:49:21.229576> Error Modify main BuyLimit, ticketCustom=1 ticket=2578163300
+17:49:21.231575> Try Modify main Buy order, 
+17:49:21.231575> Support: 58985.9 VolS:0.869 Resistence: 58986.1 VolR:0.785
+17:49:21.524592> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:49:21.525592> [1Leg]: Buy failed BTCUSDC;price=58986.0000
+17:49:21.526595> Error Modify main BuyLimit, ticketCustom=1 ticket=2578163300
+17:49:21.528592> Try Modify main Buy order, 
+17:49:21.528592> Support: 58985.9 VolS:0.869 Resistence: 58986.1 VolR:0.785
+17:49:21.834664> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:49:21.835634> [1Leg]: Buy failed BTCUSDC;price=58992.0000
+17:49:21.835634> Error Modify main BuyLimit, ticketCustom=1 ticket=2578163300
+17:49:21.837618> Try Modify main Buy order, 
+17:49:21.838611> Support: 58985.9 VolS:0.817 Resistence: 58992.1 VolR:0.5
+17:49:22.612679> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:49:22.612679> [1Leg]: Buy failed BTCUSDC;price=58997.4000
+17:49:22.613679> Error Modify main BuyLimit, ticketCustom=1 ticket=2578163300
+17:49:22.614679> Try Modify main Buy order, 
+17:49:22.615680> Support: 58993 VolS:1.5 Resistence: 59005.8 VolR:1.01
+17:49:29.661557> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:49:29.662562> [1Leg]: Buy failed BTCUSDC;price=59032.1000
+17:49:29.662562> Error Modify main BuyLimit, ticketCustom=1 ticket=2578163300
+17:49:29.664553> Try place lock SellLimit, Bid: 59032.0 Ask:  59032.1
+17:49:30.930689> [1Leg]: Sell OK BTCUSDC at 59086.0000;Gap=2.02;Price=59036.4000;Slippage=-49.6;Execution=1266.136 ms;
+17:49:30.931692> Placed lock SellLimit, ticketCustom= 2, ticket= 2578163300 
+17:51:20.118459> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:51:20.118459> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:51:21.150697> WebSocket connected! Start @depth [Future] process...
+17:51:26.660491> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:51:26.660491> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:51:27.671422> WebSocket connected! Start @depth [Future] process...
+17:53:26.903355> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:53:26.903355> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:53:27.902406> WebSocket connected! Start @depth [Future] process...
+17:54:27.935078> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+17:54:32.973801> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:54:32.973801> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:54:35.309901> WebSocket connected! Start @depth [Future] process...
+17:57:05.058560> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:57:05.058560> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:57:07.069289> WebSocket connected! Start @depth [Future] process...
+17:57:29.070146> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:57:29.070146> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:57:33.055158> WebSocket connected! Start @depth [Future] process...
+17:59:40.061522> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:59:40.062518> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:59:41.389593> WebSocket connected! Start @depth [Future] process...
+18:00:06.299204> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+18:00:06.300197> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+18:00:07.294252> WebSocket connected! Start @depth [Future] process...
+18:01:50.275799> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+18:01:50.276789> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+18:01:51.309144> WebSocket connected! Start @depth [Future] process...
+18:02:04.645347> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+18:02:04.645347> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+18:02:06.030924> WebSocket connected! Start @depth [Future] process...
+18:03:05.183071> Signal 1(s), Bid: 59144.5 Ask:  59144.6
+18:03:05.183071> Try Open SellLimit, Ask: 59144.6
+18:03:05.184064> Support: 59144.5 VolS:3.397 Resistence: 59146.1 VolR:0.726
+18:03:12.310558> [1Leg]: Sell OK BTCUSDC at 59144.6000;Gap=-2.515;Price=59090.1000;Slippage=-54.5;Execution=7126.494 ms;
+18:03:12.310558> Placed Main SellLimit, ticketCustom = 3 ticket = 2578692949
+18:03:12.311559> Try Modify main Sell order, 
+18:03:19.124113> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1021 Message: Timestamp for this request was 1000ms ahead of the server's time.
+18:03:19.125113> [1Leg]: Sell failed BTCUSDC;price=59067.3000
+18:03:19.125113> Error Modify main SellLimit, ticketCustom=3 ticket=0
+18:03:58.881076> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+18:03:58.882058> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+18:04:00.849465> WebSocket connected! Start @depth [Future] process...
+18:04:20.027019> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+18:04:20.027019> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+18:04:20.998495> WebSocket connected! Start @depth [Future] process...
+18:04:53.001881> Try place lock BuyLimit, Bid: 59109.3 Ask:  59109.4
+18:05:12.805266> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1021 Message: Timestamp for this request is outside of the recvWindow.
+18:05:12.805266> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.29;Price=59111.3000
+18:05:12.806266> Placed lock BuyLimit, ticketCustom= 4, ticket=  
+18:05:44.209518> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+18:05:44.209518> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+18:05:45.546687> WebSocket connected! Start @depth [Future] process...
+18:06:14.758523> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+18:06:14.758523> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+18:06:16.809984> WebSocket connected! Start @depth [Future] process...
+18:07:24.590502> Signal 1(s), Bid: 59058.0 Ask:  59058.1
+18:07:24.592499> Try adding SellLimit, Ask: 59058.1
+18:07:24.594501> Support: 59054.7 VolS:0.684 Resistence: 59058.1 VolR:2.561
+18:07:31.773004> [1Leg]: Sell OK BTCUSDC at 59058.1000;Gap=9.975;Price=59035.7000;Slippage=-22.4;Execution=7174.501 ms;
+18:07:31.773004> adding Sell (1Leg), ticket = 2578692949 ticketCustom = 5
+18:07:43.293794> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+18:07:43.293794> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+18:07:45.255167> WebSocket connected! Start @depth [Future] process...
+18:07:55.004608> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:07:55.005609> Support: 59078 VolS:1.232 Resistence: 59078.1 VolR:0.987
+18:08:13.130878> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:13.156880> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:13.157879> Support: 59075 VolS:0.7 Resistence: 59080.1 VolR:1.22
+18:08:13.457900> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:13.459906> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:13.459906> Support: 59079.9 VolS:2.392 Resistence: 59089.5 VolR:0.208
+18:08:13.751913> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:13.753914> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:13.753914> Support: 59079.9 VolS:2.392 Resistence: 59089.5 VolR:0.208
+18:08:14.079933> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:14.084932> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:14.084932> Support: 59089.9 VolS:1.796 Resistence: 59101.7 VolR:1.195
+18:08:14.378949> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:14.380950> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:14.380950> Support: 59089.9 VolS:1.796 Resistence: 59101.7 VolR:1.195
+18:08:15.174605> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:15.177604> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:15.177604> Support: 59096.4 VolS:1.325 Resistence: 59096.5 VolR:0.857
+18:08:20.616976> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:20.619971> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:20.620972> Support: 59146 VolS:2.668 Resistence: 59146.1 VolR:0.83
+18:08:27.800101> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:27.803102> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:27.803102> Support: 59140 VolS:0.945 Resistence: 59148.6 VolR:0.196
+18:08:28.121122> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:28.124124> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:28.124124> Support: 59140 VolS:0.945 Resistence: 59148.6 VolR:0.196
+18:08:28.427140> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:28.428140> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:28.428140> Support: 59145.9 VolS:2.482 Resistence: 59158 VolR:0.23
+18:08:29.229746> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:29.231747> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:29.232748> Support: 59149.9 VolS:3.808 Resistence: 59150.7 VolR:0.71
+18:08:35.844415> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:35.847406> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:35.848406> Support: 59125.9 VolS:1.38 Resistence: 59135.3 VolR:0.608
+18:08:44.998236> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:45.000238> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:45.000238> Support: 59163.9 VolS:0.976 Resistence: 59164 VolR:1.142
+18:08:45.530271> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:45.532284> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:45.532284> Support: 59159.5 VolS:0.81 Resistence: 59160.1 VolR:0.805
+18:08:45.825286> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:45.848288> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:45.848288> Support: 59159.5 VolS:0.81 Resistence: 59160.1 VolR:0.864
+18:08:46.148315> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:46.150320> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:46.150320> Support: 59159.5 VolS:0.81 Resistence: 59160.1 VolR:0.864
+18:08:46.449320> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:46.491323> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:46.491323> Support: 59159.5 VolS:0.81 Resistence: 59160.1 VolR:0.881
+18:08:46.834342> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:46.835343> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:46.835343> Support: 59159.5 VolS:0.81 Resistence: 59160.1 VolR:0.881
+18:08:47.134360> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:47.137360> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:47.138361> Support: 59154 VolS:0.863 Resistence: 59160.1 VolR:1.504
+18:08:54.419352> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:54.422352> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:54.422352> Support: 59156.4 VolS:1.031 Resistence: 59164 VolR:0.364
+18:08:54.749370> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:54.756372> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:54.757371> Support: 59156.4 VolS:1.031 Resistence: 59164 VolR:0.364
+18:08:55.529360> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:55.530362> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:55.530362> Support: 59152.8 VolS:0.838 Resistence: 59152.9 VolR:1.683
+18:08:55.823385> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:55.825378> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:55.825378> Support: 59152.8 VolS:0.838 Resistence: 59152.9 VolR:1.683
+18:08:56.117396> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+18:08:56.118396> Try Delete lock Buy order, ticket =  ticketCustom = 4
+18:08:56.119397> Support: 59152.8 VolS:1.309 Resistence: 59152.9 VolR:1.689
+18:09:00.089177> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+18:09:00.089177> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+18:09:01.098304> WebSocket connected! Start @depth [Future] process...
+18:09:04.295249> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....

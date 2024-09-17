@@ -1,0 +1,101 @@
+17:16:33.359039> WebSocket connected! Start @depth [Future] process...
+17:16:33.360039> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:16:33.360039> WebSocket connected! Start Partial @depth20 [Future] process...
+17:16:33.361038> WebSocket connected! Start Partial @depth20 [Future] process...
+17:16:34.418618> WebSocket connected! Start Partial @depth20 [Future] process...
+17:16:34.440620> WebSocket connected! Start @depth [Future] process...
+17:16:34.441620> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:16:34.473630> WebSocket connected! Start Partial @depth20 [Future] process...
+17:16:34.540627> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 243.23959675 USDT
+17:17:11.715346> Try Open BuyLimit, Bid: 64858.0 Ask:  64858.1
+17:17:11.715346> Step Signal open long, StepByStepUP:3 Stk:20 StkImp:0 Lnt:1 Prg:0 Tide:10 Bid: 64858.0 Ask:  64858.1
+17:17:12.000279> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-6.349206349206349206349206349;Price=64865.10;Slippage=64865.1;Execution=280.946 ms;
+17:17:12.000279> Placed Main BuyLimit, ticketCustom = 1 ticket= 3978351603 LastBuyPrice=64858.0
+17:17:56.083331> Try place lock SellLimit, Bid: 64847.9 Ask:  64848.0
+17:17:57.157389> [1Leg]: Sell OK BTCUSDC at 64848.00;Gap=-2.17625;Price=64928.90;Slippage=80.9;Execution=1073.061 ms;
+17:17:57.158389> Placed lock SellLimit, ticketCustom= 2, ticket= 3978351603 
+17:17:57.311399> Try Close Buy, Ask: 64970.0 Bid:64969.7 
+17:17:57.312398> TakeProfit Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 Lnt:1 Prg:0 Bid: 64969.7 Ask:  64970.0
+17:17:57.982437> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.44375;Price=64928.90;Slippage=64928.9;Execution=326.019 ms;
+17:17:58.055437> Close Main Buy, ticketCustom = 3 ticket = 3978396306
+17:18:07.678232> Try Close Buy, Ask: 64956.0 Bid:64955.9 
+17:18:07.678232> TakeProfit Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 Lnt:0 Prg:0 Bid: 64955.9 Ask:  64956.0
+17:18:08.062256> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=11.825;Price=64958.10;Slippage=64958.1;Execution=384.024 ms;
+17:18:08.064255> Close Main Buy, ticketCustom = 4 ticket = 3978396306
+17:18:08.162259> Try Close Buy, Ask: 64958.1 Bid:64958.0 
+17:18:08.163259> TakeProfit Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 Lnt:0 Prg:0 Bid: 64958.0 Ask:  64958.1
+17:18:08.475280> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=7.225;Price=64958.10;Slippage=64958.1;Execution=312.021 ms;
+17:18:08.476279> Close Main Buy, ticketCustom = 5 ticket = 3978396306
+17:18:08.479278> Try Close Buy, Ask: 64958.1 Bid:64958.0 
+17:18:08.479278> TakeProfit Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 Lnt:0 Prg:0 Bid: 64958.0 Ask:  64958.1
+17:18:08.788294> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=11.025;Price=64958.10;Slippage=64958.1;Execution=309.017 ms;
+17:18:08.796295> Close Main Buy, ticketCustom = 6 ticket = 3978396306
+17:18:08.799298> Try Close Buy, Ask: 64958.1 Bid:64958.0 
+17:18:08.799298> TakeProfit Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 Lnt:0 Prg:0 Bid: 64958.0 Ask:  64958.1
+17:18:09.064311> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=4.025;Price=64953.00;Slippage=64953.0;Execution=265.014 ms;
+17:18:09.064311> Close Main Buy, ticketCustom = 7 ticket = 3978396306
+17:18:09.066313> Try Close Buy, Ask: 64953.0 Bid:64952.9 
+17:18:09.066313> TakeProfit Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 Lnt:0 Prg:0 Bid: 64952.9 Ask:  64953.0
+17:18:09.335326> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-1.075;Price=64953.00;Slippage=64953.0;Execution=269.013 ms;
+17:18:09.336327> Close Main Buy, ticketCustom = 8 ticket = 3978396306
+17:18:09.337328> Try Close Buy, Ask: 64953.0 Bid:64952.9 
+17:18:09.337328> TakeProfit Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 Lnt:0 Prg:0 Bid: 64952.9 Ask:  64953.0
+17:18:09.607345> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=7.625;Price=64952.10;Slippage=64952.1;Execution=270.017 ms;
+17:18:09.608343> Close Main Buy, ticketCustom = 9 ticket = 3978396306
+17:18:09.609344> Try Close Buy, Ask: 64952.1 Bid:64952.0 
+17:18:09.609344> TakeProfit Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 Lnt:0 Prg:0 Bid: 64952.0 Ask:  64952.1
+17:18:09.877362> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=6.725;Price=64952.10;Slippage=64952.1;Execution=268.018 ms;
+17:18:09.878359> Close Main Buy, ticketCustom = 10 ticket = 3978396306
+17:18:09.879359> Try Close Buy, Ask: 64952.1 Bid:64952.0 
+17:18:09.879359> TakeProfit Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 Lnt:0 Prg:0 Bid: 64952.0 Ask:  64952.1
+17:18:10.147377> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=10.525;Price=64944.20;Slippage=64944.2;Execution=267.017 ms;
+17:18:10.148409> Close Main Buy, ticketCustom = 11 ticket = 3978396306
+17:18:10.151377> Try Close Buy, Ask: 64944.2 Bid:64944.1 
+17:18:10.151377> Lenta Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 StkImp:2 Lnt:0 Prg:0 Bid: 64944.1 Ask:  64944.2
+17:18:10.417396> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=2.625;Price=64944.20;Slippage=64944.2;Execution=266.019 ms;
+17:18:10.418390> Close Main Buy, ticketCustom = 12 ticket = 3978396306
+17:18:10.419390> Try Close Buy, Ask: 64944.2 Bid:64944.1 
+17:18:10.419390> Lenta Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 StkImp:2 Lnt:0 Prg:0 Bid: 64944.1 Ask:  64944.2
+17:18:10.688405> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=6.525;Price=64944.20;Slippage=64944.2;Execution=268.014 ms;
+17:18:10.688405> Close Main Buy, ticketCustom = 13 ticket = 3978396306
+17:18:10.702405> Try Close Buy, Ask: 64944.2 Bid:64944.1 
+17:18:10.702405> Lenta Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 StkImp:2 Lnt:0 Prg:0 Bid: 64944.1 Ask:  64944.2
+17:18:10.974419> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=6.525;Price=64944.20;Slippage=64944.2;Execution=271.014 ms;
+17:18:10.974419> Close Main Buy, ticketCustom = 14 ticket = 3978396306
+17:18:10.975420> Try Close Buy, Ask: 64944.2 Bid:64944.1 
+17:18:10.975420> Lenta Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 StkImp:2 Lnt:0 Prg:0 Bid: 64944.1 Ask:  64944.2
+17:18:11.361443> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=8.825;Price=64941.30;Slippage=64941.3;Execution=386.023 ms;
+17:18:11.361443> Close Main Buy, ticketCustom = 15 ticket = 3978396306
+17:18:11.443447> Try Close Buy, Ask: 64941.3 Bid:64941.2 
+17:18:11.443447> Lenta Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 StkImp:2 Lnt:0 Prg:0 Bid: 64941.2 Ask:  64941.3
+17:18:11.725475> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=6.125;Price=64949.00;Slippage=64949.0;Execution=281.026 ms;
+17:18:11.726465> Close Main Buy, ticketCustom = 16 ticket = 3978396306
+17:18:11.728467> Try Close Buy, Ask: 64949.0 Bid:64948.7 
+17:18:11.728467> TakeProfit Signal close long, stoploss=64816.1 TotalVal=0.002 pos:0.002 EntrPrice=64866.1 Stk:10 Lnt:0 Prg:0 Bid: 64948.7 Ask:  64949.0
+17:18:12.202490> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=13.625;Price=64956.00;Slippage=64956.0;Execution=474.023 ms;
+17:18:12.206489> Close Main Buy, ticketCustom = 17 ticket = 3978396306
+17:18:12.220493> Try place lock BuyLimit, Bid: 64955.9 Ask:  64956.0
+17:18:12.491735> [1Leg]: Buy OK BTCUSDC at 64955.90;Gap=11.6625;Price=64956.00;Slippage=0.1;Execution=270.243 ms;
+17:18:12.492753> Placed lock BuyLimit, ticketCustom= 18, ticket= 3978396306 
+17:18:17.001503> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:17.367561> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:19.380922> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:19.692940> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:21.696033> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:21.998154> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:24.001455> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:24.302461> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:26.310746> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:26.618283> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:28.646414> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:28.959972> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:30.967501> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:31.289178> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:33.291785> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:33.619696> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:35.623476> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:35.931351> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:37.935516> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:38.243529> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:18:40.249367> Try Delete lock Buy order, ticket = 3978396306 ticketCustom = 18
+17:18:40.564387> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....

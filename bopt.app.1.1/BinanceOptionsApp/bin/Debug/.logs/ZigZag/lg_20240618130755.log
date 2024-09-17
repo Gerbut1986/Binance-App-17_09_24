@@ -1,0 +1,116 @@
+13:07:56.361070> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:07:56.364077> WebSocket connected! Start Partial @depth20 [Future] process...
+13:07:56.373071> WebSocket connected! Start Partial @depth20 [Future] process...
+13:07:56.373071> WebSocket connected! Start @depth [Future] process...
+13:07:56.979113> WebSocket connected! Start @depth [Future] process...
+13:07:57.016114> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+13:07:57.038111> WebSocket connected! Start Partial @depth20 [Future] process...
+13:07:57.042119> WebSocket connected! Start Partial @depth20 [Future] process...
+13:07:57.055109> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 242.40983796 USDT
+13:08:23.922067> Try Open BuyLimit, Bid: 65383.9 Ask:  65384.0
+13:08:23.923049> Step Signal open long, StepByStepUP:3 Stk:20 StkImp:0 Lnt:0 Prg:0 Tide:20 Bid: 65383.9 Ask:  65384.0
+13:08:24.195065> [1Leg]: Buy OK BTCUSDC at 65383.90;Gap=1.3958333333333333333333333333;Price=65389.60;Slippage=5.7;Execution=269.017 ms;
+13:08:24.202064> Placed Main BuyLimit, ticketCustom = 1 ticket= 3969133292 LastBuyPrice=65383.9
+13:08:24.203065> Try Modify main Buy order, 
+13:08:24.203065> Support: 65389.5 VolS:0.543 Resistence: 65389.6 VolR:1.005
+13:08:24.465080> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65389.50;execution=259.015 ms;
+13:08:24.466080> Modify main BuyLimit (1Leg) ticketCustom=1 ticket=3969133292
+13:08:31.687588> Try Modify main Buy order, 
+13:08:31.719579> Support: 65395.3 VolS:0.724 Resistence: 65395.4 VolR:1.002
+13:08:32.257612> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65395.30;execution=371.022 ms;
+13:08:32.257612> Modify main BuyLimit (1Leg) ticketCustom=1 ticket=3969133292
+13:08:41.382638> Try Modify main Buy order, 
+13:08:41.382638> Support: 65400.9 VolS:1.759 Resistence: 65403.9 VolR:0.114
+13:08:41.769203> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:08:41.769203> [1Leg]: Buy failed BTCUSDC;price=65403.30
+13:08:41.770202> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:08:46.790442> Try Modify main Buy order, 
+13:08:46.790442> Support: 65413.5 VolS:1.801 Resistence: 65413.6 VolR:0.343
+13:08:47.087852> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:08:47.088858> [1Leg]: Buy failed BTCUSDC;price=65413.60
+13:08:47.088858> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:08:52.181004> Try Modify main Buy order, 
+13:08:52.181004> Support: 65407.8 VolS:0.48 Resistence: 65412.6 VolR:2.391
+13:08:52.485020> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:08:52.486020> [1Leg]: Buy failed BTCUSDC;price=65402.10
+13:08:52.486020> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:08:57.521070> Try Modify main Buy order, 
+13:08:57.522061> Support: 65391.7 VolS:0.263 Resistence: 65397.7 VolR:1.614
+13:08:57.814078> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:08:57.814078> [1Leg]: Buy failed BTCUSDC;price=65397.70
+13:08:57.815078> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:09:32.240787> Try Delete main Buy order, 
+13:09:33.863883> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:09:33.864880> Error Delete main BuyLimit, ticketCustom=1 ticket=3969133292
+13:09:34.872938> Try Modify main Buy order, 
+13:09:34.872938> Support: 65399.4 VolS:0.462 Resistence: 65404.9 VolR:1.171
+13:09:35.203960> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:09:35.204957> [1Leg]: Buy failed BTCUSDC;price=65404.90
+13:09:35.204957> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:09:40.221543> Try Delete main Buy order, 
+13:09:40.516201> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:09:40.517201> Error Delete main BuyLimit, ticketCustom=1 ticket=3969133292
+13:09:41.521681> Try Modify main Buy order, 
+13:09:41.521681> Support: 65395.7 VolS:0.46 Resistence: 65402.1 VolR:2.447
+13:09:41.831606> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:09:41.832611> [1Leg]: Buy failed BTCUSDC;price=65402.10
+13:09:41.832611> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:09:46.855630> Try Delete main Buy order, 
+13:09:47.155575> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:09:47.156573> Error Delete main BuyLimit, ticketCustom=1 ticket=3969133292
+13:09:48.163358> Try Modify main Buy order, 
+13:09:48.177357> Support: 65395.9 VolS:1.018 Resistence: 65402.1 VolR:0.574
+13:09:48.474376> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:09:48.474376> [1Leg]: Buy failed BTCUSDC;price=65396.00
+13:09:48.474376> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:09:53.765403> Try Delete main Buy order, 
+13:09:54.066414> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:09:54.068414> Error Delete main BuyLimit, ticketCustom=1 ticket=3969133292
+13:09:55.147490> Try Modify main Buy order, 
+13:09:55.147490> Support: 65408.6 VolS:1.872 Resistence: 65414.3 VolR:1.064
+13:09:55.452492> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:09:55.453492> [1Leg]: Buy failed BTCUSDC;price=65408.70
+13:09:55.454491> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:00.462114> Try Delete main Buy order, 
+13:10:00.791130> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:10:00.803131> Error Delete main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:01.872195> Try Modify main Buy order, 
+13:10:01.892196> Support: 65401.3 VolS:0.465 Resistence: 65407.7 VolR:2.168
+13:10:02.188213> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:10:02.189213> [1Leg]: Buy failed BTCUSDC;price=65407.70
+13:10:02.189213> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:07.431523> Try Delete main Buy order, 
+13:10:07.953549> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:10:07.953549> Error Delete main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:09.000607> Try Modify main Buy order, 
+13:10:09.001607> Support: 65406.7 VolS:0.578 Resistence: 65412 VolR:1.964
+13:10:09.307725> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:10:09.308725> [1Leg]: Buy failed BTCUSDC;price=65412.00
+13:10:09.309724> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:14.459612> Try Delete main Buy order, 
+13:10:15.176650> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:10:15.197653> Error Delete main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:16.224711> Try Modify main Buy order, 
+13:10:16.225712> Support: 65411.9 VolS:0.47 Resistence: 65414.3 VolR:1.064
+13:10:16.527729> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:10:16.528728> [1Leg]: Buy failed BTCUSDC;price=65412.00
+13:10:16.529729> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:21.693735> Try Delete main Buy order, 
+13:10:22.011748> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:10:22.011748> Error Delete main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:23.095810> Try Modify main Buy order, 
+13:10:23.096810> Support: 65425.8 VolS:2.279 Resistence: 65425.9 VolR:0.209
+13:10:23.557836> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:10:23.558837> [1Leg]: Buy failed BTCUSDC;price=65425.90
+13:10:23.558837> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:28.813831> Try Delete main Buy order, 
+13:10:29.266857> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:10:29.267858> Error Delete main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:30.325649> Try Modify main Buy order, 
+13:10:30.325649> Support: 65434 VolS:0.922 Resistence: 65441.4 VolR:0.999
+13:10:30.703671> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:10:30.703671> [1Leg]: Buy failed BTCUSDC;price=65441.40
+13:10:30.704671> Error Modify main BuyLimit, ticketCustom=1 ticket=3969133292
+13:10:35.710262> Try Delete main Buy order, 
+13:10:37.657375> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+13:10:37.669376> Error Delete main BuyLimit, ticketCustom=1 ticket=3969133292

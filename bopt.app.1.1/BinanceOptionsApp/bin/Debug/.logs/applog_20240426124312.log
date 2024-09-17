@@ -1,0 +1,181 @@
+12:43:22.112995> WebSocket connected! Start @depth [Future] process...
+12:43:22.112995> WebSocket connected! Start Partial @depth20 [Future] process...
+12:43:22.113994> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:43:22.119993> WebSocket connected! Start Partial @depth20 [Future] process...
+12:43:22.121994> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:43:22.131995> WebSocket connected! Start @depth [Future] process...
+12:43:23.106904> WebSocket connected! Start @depth [Future] process...
+12:43:23.122894> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:43:23.126895> WebSocket connected! Start Partial @depth20 [Future] process...
+12:43:23.128900> WebSocket connected! Start Partial @depth20 [Future] process...
+12:43:23.129899> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:43:23.133895> WebSocket connected! Start @depth [Future] process...
+12:43:23.644616> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 692.90047740 USDT
+12:44:15.104480> Try Open Sell Pos, deviationSell: 2.45 Ask: 64462.0
+12:44:15.105478> Support: 64461.9 VolS:0.746 Resistence: 64462 VolR:0.791
+12:44:15.400556> [1Leg]: Sell OK BTCUSDC at 64462.0000;Gap=2.45;Price=64456.5000;Slippage=-5.5;Execution=290.071 ms;
+12:44:15.401595> Elapsted Open Sell (1Leg)
+12:44:15.590540> Try Modify Sell order, 
+12:44:15.591541> Support: 64447.8 VolS:0.33 Resistence: 64460.1 VolR:1.57
+12:44:15.854560> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=64456.5000;execution=261.015 ms;
+12:44:15.855556> Modify SellLimit (1Leg)
+12:44:21.270932> Try Modify Sell order, 
+12:44:21.271937> Support: 64449.3 VolS:0.995 Resistence: 64449.4 VolR:1.289
+12:44:21.553940> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=64449.4000;execution=281.004 ms;
+12:44:21.554941> Modify SellLimit (1Leg)
+12:44:36.017525> Try place BuyLimit, Bid: 64453.9 Ask:  64454.0
+12:44:36.843001> [1Leg]: Buy OK BTCUSDC at 64384.4000;Gap=-1.835;Price=64454.0000;Slippage=69.6;Execution=824.479 ms;
+12:44:36.844001> Placed lock BuyLimit 
+12:44:36.844001> Try Modify Lock Buy order, 
+12:44:37.198021> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:44:37.198021> [1Leg]: Buy failed BTCUSDC;price=64454.0000
+12:44:41.002466> Try Modify Lock Buy order, 
+12:44:41.280815> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64384.3000;execution=277.348 ms;
+12:44:41.280815> Modify BuyLimit (1Leg)
+12:44:46.002698> Try Modify Lock Buy order, 
+12:44:46.283716> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64385.0000;execution=280.017 ms;
+12:44:46.284714> Modify BuyLimit (1Leg)
+12:44:51.009224> Try Modify Lock Buy order, 
+12:44:51.351728> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:44:51.352722> [1Leg]: Buy failed BTCUSDC;price=64445.3000
+12:44:56.004808> Try Modify Lock Buy order, 
+12:44:56.302128> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64385.4000;execution=294.304 ms;
+12:44:56.306118> Modify BuyLimit (1Leg)
+12:45:01.005477> Try Modify Lock Buy order, 
+12:45:01.335497> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:45:01.336497> [1Leg]: Buy failed BTCUSDC;price=64445.3000
+12:45:06.001134> Try Modify Lock Buy order, 
+12:45:06.281354> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64385.5000;execution=279.209 ms;
+12:45:06.282344> Modify BuyLimit (1Leg)
+12:45:11.010621> Try Modify Lock Buy order, 
+12:45:11.289938> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64386.6000;execution=278.322 ms;
+12:45:11.290936> Modify BuyLimit (1Leg)
+12:45:16.002312> Try Modify Lock Buy order, 
+12:45:16.283329> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64388.3000;execution=281.018 ms;
+12:45:16.285330> Modify BuyLimit (1Leg)
+12:45:21.001961> Try Modify Lock Buy order, 
+12:45:21.281205> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64387.1000;execution=278.244 ms;
+12:45:21.281205> Modify BuyLimit (1Leg)
+12:45:26.001405> Try Modify Lock Buy order, 
+12:45:26.279394> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64386.9000;execution=277.015 ms;
+12:45:26.280398> Modify BuyLimit (1Leg)
+12:45:31.003290> Try Modify Lock Buy order, 
+12:45:31.304306> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64385.5000;execution=299.014 ms;
+12:45:31.305306> Modify BuyLimit (1Leg)
+12:45:36.001345> Try Modify Lock Buy order, 
+12:45:36.280373> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64385.1000;execution=278.027 ms;
+12:45:36.286430> Modify BuyLimit (1Leg)
+12:45:41.006733> Try Modify Lock Buy order, 
+12:45:41.321286> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:45:41.321286> [1Leg]: Buy failed BTCUSDC;price=64425.4000
+12:45:46.002311> Try Modify Lock Buy order, 
+12:45:46.284327> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64383.1000;execution=281.016 ms;
+12:45:46.285323> Modify BuyLimit (1Leg)
+12:45:51.002122> Try Modify Lock Buy order, 
+12:45:51.291155> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64383.3000;execution=282.033 ms;
+12:45:51.292152> Modify BuyLimit (1Leg)
+12:45:56.001705> Try Modify Lock Buy order, 
+12:45:56.320820> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:45:56.334820> [1Leg]: Buy failed BTCUSDC;price=64442.0000
+12:46:01.001971> Try Modify Lock Buy order, 
+12:46:01.281984> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64383.1000;execution=279.020 ms;
+12:46:01.282980> Modify BuyLimit (1Leg)
+12:46:06.001971> Try Modify Lock Buy order, 
+12:46:06.316990> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:46:06.316990> [1Leg]: Buy failed BTCUSDC;price=64442.0000
+12:46:11.002996> Try Modify Lock Buy order, 
+12:46:11.319016> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:46:11.319016> [1Leg]: Buy failed BTCUSDC;price=64438.2000
+12:46:16.003895> Try Modify Lock Buy order, 
+12:46:16.284912> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64383.2000;execution=280.015 ms;
+12:46:16.285913> Modify BuyLimit (1Leg)
+12:46:21.001027> Try Modify Lock Buy order, 
+12:46:21.283041> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64383.0000;execution=280.015 ms;
+12:46:21.283041> Modify BuyLimit (1Leg)
+12:46:26.002310> Try Modify Lock Buy order, 
+12:46:26.315318> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:46:26.317318> [1Leg]: Buy failed BTCUSDC;price=64430.3000
+12:46:31.001020> Try Modify Lock Buy order, 
+12:46:31.287033> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64382.6000;execution=285.018 ms;
+12:46:31.287033> Modify BuyLimit (1Leg)
+12:46:36.001262> Try Modify Lock Buy order, 
+12:46:36.315280> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:46:36.316274> [1Leg]: Buy failed BTCUSDC;price=64426.1000
+12:46:41.002481> Try Modify Lock Buy order, 
+12:46:41.281976> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64383.6000;execution=278.503 ms;
+12:46:41.281976> Modify BuyLimit (1Leg)
+12:46:46.046505> Try Modify Lock Buy order, 
+12:46:46.327530> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64383.9000;execution=280.019 ms;
+12:46:46.328519> Modify BuyLimit (1Leg)
+12:46:51.001655> Try Modify Lock Buy order, 
+12:46:51.429690> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:46:51.431690> [1Leg]: Buy failed BTCUSDC;price=64416.9000
+12:46:56.001250> Try Modify Lock Buy order, 
+12:46:56.286267> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64384.0000;execution=283.939 ms;
+12:46:56.286267> Modify BuyLimit (1Leg)
+12:47:01.001984> Try Modify Lock Buy order, 
+12:47:01.281007> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64383.8000;execution=278.024 ms;
+12:47:01.282001> Modify BuyLimit (1Leg)
+12:47:06.001882> Try Modify Lock Buy order, 
+12:47:06.337895> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:47:06.337895> [1Leg]: Buy failed BTCUSDC;price=64419.8000
+12:47:11.001198> Try Modify Lock Buy order, 
+12:47:11.349067> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:47:11.350067> [1Leg]: Buy failed BTCUSDC;price=64419.8000
+12:47:16.003210> Try Modify Lock Buy order, 
+12:47:16.323228> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:47:16.323228> [1Leg]: Buy failed BTCUSDC;price=64423.9000
+12:47:21.001666> Try Modify Lock Buy order, 
+12:47:21.279684> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64384.2000;execution=277.017 ms;
+12:47:21.280683> Modify BuyLimit (1Leg)
+12:47:26.001451> Try Modify Lock Buy order, 
+12:47:26.287468> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64384.9000;execution=284.017 ms;
+12:47:26.287468> Modify BuyLimit (1Leg)
+12:47:31.001268> Try Modify Lock Buy order, 
+12:47:31.280277> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64385.3000;execution=278.012 ms;
+12:47:31.280277> Modify BuyLimit (1Leg)
+12:47:36.002573> Try Modify Lock Buy order, 
+12:47:36.317593> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:47:36.318592> [1Leg]: Buy failed BTCUSDC;price=64417.3000
+12:47:41.002313> Try Modify Lock Buy order, 
+12:47:41.321325> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:47:41.322324> [1Leg]: Buy failed BTCUSDC;price=64417.3000
+12:47:46.001773> Try Modify Lock Buy order, 
+12:47:46.322692> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:47:46.323695> [1Leg]: Buy failed BTCUSDC;price=64425.0000
+12:47:51.001071> Try Modify Lock Buy order, 
+12:47:51.280089> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64385.6000;execution=278.016 ms;
+12:47:51.281087> Modify BuyLimit (1Leg)
+12:47:56.002142> Try Modify Lock Buy order, 
+12:47:56.280161> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64385.9000;execution=276.019 ms;
+12:47:56.281158> Modify BuyLimit (1Leg)
+12:48:01.002955> Try Modify Lock Buy order, 
+12:48:01.317974> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:48:01.317974> [1Leg]: Buy failed BTCUSDC;price=64418.2000
+12:48:06.001032> Try Modify Lock Buy order, 
+12:48:06.347052> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:48:06.348053> [1Leg]: Buy failed BTCUSDC;price=64418.2000
+12:48:11.015526> Try Modify Lock Buy order, 
+12:48:11.397549> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:48:11.398548> [1Leg]: Buy failed BTCUSDC;price=64418.2000
+12:48:16.001116> Try Modify Lock Buy order, 
+12:48:16.281964> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64386.9000;execution=279.847 ms;
+12:48:16.282961> Modify BuyLimit (1Leg)
+12:48:21.011027> Try Modify Lock Buy order, 
+12:48:21.335019> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:48:21.336021> [1Leg]: Buy failed BTCUSDC;price=64420.8000
+12:48:26.001855> Try Modify Lock Buy order, 
+12:48:26.318875> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+12:48:26.318875> [1Leg]: Buy failed BTCUSDC;price=64419.2000
+12:48:31.001253> Try Modify Lock Buy order, 
+12:48:31.284381> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64386.8000;execution=282.129 ms;
+12:48:31.284381> Modify BuyLimit (1Leg)
+12:48:36.001913> Try Modify Lock Buy order, 
+12:48:36.283928> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64386.6000;execution=281.014 ms;
+12:48:36.283928> Modify BuyLimit (1Leg)
+12:48:41.002702> Try Modify Lock Buy order, 
+12:48:41.286722> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64387.1000;execution=284.020 ms;
+12:48:41.287719> Modify BuyLimit (1Leg)
+12:48:46.003089> Try Modify Lock Buy order, 
+12:48:46.300576> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=64387.5000;execution=281.488 ms;
+12:48:46.301586> Modify BuyLimit (1Leg)

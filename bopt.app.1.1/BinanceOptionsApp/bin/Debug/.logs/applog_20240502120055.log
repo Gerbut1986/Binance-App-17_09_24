@@ -1,0 +1,163 @@
+12:01:01.698562> WebSocket connected! Start @depth [Future] process...
+12:01:01.702562> WebSocket connected! Start Partial @depth20 [Future] process...
+12:01:01.718565> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:01:02.616030> WebSocket connected! Start Partial @depth20 [Future] process...
+12:01:02.686028> WebSocket connected! Start Partial @depth20 [Future] process...
+12:01:02.696004> WebSocket connected! Start @depth [Future] process...
+12:01:02.717031> WebSocket connected! Start Partial @depth20 [Future] process...
+12:01:03.178632> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+12:01:04.531415> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 622.95422651 USDT
+12:26:26.215280> Signal 1(s), Bid: 57808.0 Ask:  57808.1
+12:26:26.215280> Try Open SellLimit, Ask: 57808.1
+12:26:26.215280> Support: 57808 VolS:0.832 Resistence: 57808.1 VolR:1.606
+12:26:33.406714> [1Leg]: Sell OK BTCUSDC at 57808.1000;Gap=-3.50;Price=57784.1000;Slippage=-24.0;Execution=7188.433 ms;
+12:26:33.408714> Placed Main SellLimit, ticketCustom = 1 ticket = 2568749051
+12:26:33.408714> Try Modify main Sell order, 
+12:26:33.408714> Support: 57782.7 VolS:0.743 Resistence: 57784.1 VolR:1.657
+12:26:33.661727> [1Leg]: SELL OK MODIFY BTCUSDC at 0.010 lot;price=57784.1000;execution=251.013 ms;
+12:26:33.663730> Modify main SellLimit, ticketCustom=1 ticket=0
+12:44:08.314173> Signal 2(s), Bid: 57687.9 Ask:  57688.0
+12:44:08.325172> Try Open BuyLimit, Bid: 57687.9 Ask:  57688.0
+12:44:08.325172> Support: 57687.9 VolS:1.921 Resistence: 57690.8 VolR:0.761
+12:44:08.575194> [1Leg]: Buy OK BTCUSDC at 57687.9000;Gap=1.275;Price=57688.0000;Slippage=0.1;Execution=250.022 ms;
+12:44:08.575194> Placed Main BuyLimit, ticketCustom = 2 ticket= 2568749051
+12:44:09.000206> Try Modify main Buy order, 
+12:44:09.000206> Support: 57687.9 VolS:1.88 Resistence: 57689 VolR:0.743
+12:44:09.334559> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:09.334559> [1Leg]: Buy failed BTCUSDC;price=57688.0000
+12:44:09.335558> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:09.336559> Try Modify main Buy order, 
+12:44:09.336559> Support: 57687.9 VolS:1.88 Resistence: 57689 VolR:0.743
+12:44:09.632577> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:09.632577> [1Leg]: Buy failed BTCUSDC;price=57688.0000
+12:44:09.632577> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:09.634585> Try Modify main Buy order, 
+12:44:09.634585> Support: 57687.9 VolS:1.88 Resistence: 57689 VolR:0.743
+12:44:09.986596> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:10.010598> [1Leg]: Buy failed BTCUSDC;price=57688.0000
+12:44:10.010598> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:10.011598> Try Modify main Buy order, 
+12:44:10.011598> Support: 57687.9 VolS:1.885 Resistence: 57688.3 VolR:0.814
+12:44:10.311468> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:10.311468> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:10.311468> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:10.313478> Try Modify main Buy order, 
+12:44:10.313478> Support: 57687.2 VolS:0.723 Resistence: 57693.3 VolR:1.5
+12:44:10.611485> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:10.611485> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:10.612485> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:10.613494> Try Modify main Buy order, 
+12:44:10.613494> Support: 57687.2 VolS:0.723 Resistence: 57693.3 VolR:1.5
+12:44:10.909502> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:10.909502> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:10.910502> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:10.911511> Try Modify main Buy order, 
+12:44:10.911511> Support: 57684 VolS:0.305 Resistence: 57693.3 VolR:1.5
+12:44:11.249521> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:11.250523> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:11.250523> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:11.262520> Try Modify main Buy order, 
+12:44:11.263520> Support: 57684 VolS:0.305 Resistence: 57693.3 VolR:1.5
+12:44:11.562542> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:11.563540> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:11.564541> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:11.565541> Try Modify main Buy order, 
+12:44:11.565541> Support: 57686.6 VolS:1.005 Resistence: 57693.3 VolR:1.5
+12:44:11.863565> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:11.864557> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:11.864557> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:11.865557> Try Modify main Buy order, 
+12:44:11.865557> Support: 57686.6 VolS:1.005 Resistence: 57693.3 VolR:1.5
+12:44:12.181271> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:12.182270> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:12.182270> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:12.201270> Try Modify main Buy order, 
+12:44:12.202273> Support: 57687.2 VolS:1.061 Resistence: 57687.3 VolR:1.322
+12:44:12.499290> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:12.499290> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:12.499290> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:12.501304> Try Modify main Buy order, 
+12:44:12.501304> Support: 57687.2 VolS:1.061 Resistence: 57687.3 VolR:1.322
+12:44:12.824308> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:12.824308> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:12.824308> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:12.827308> Try Modify main Buy order, 
+12:44:12.827308> Support: 57687.2 VolS:1.26 Resistence: 57687.3 VolR:1.322
+12:44:13.123619> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:13.123619> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:13.124619> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:13.125634> Try Modify main Buy order, 
+12:44:13.125634> Support: 57687.2 VolS:1.26 Resistence: 57687.3 VolR:1.322
+12:44:13.491655> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:13.492640> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:13.492640> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:13.493640> Try Modify main Buy order, 
+12:44:13.493640> Support: 57687.2 VolS:0.76 Resistence: 57687.3 VolR:1.328
+12:44:13.809074> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:13.810074> [1Leg]: Buy failed BTCUSDC;price=57687.3000
+12:44:13.810074> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:13.811074> Try Modify main Buy order, 
+12:44:13.811074> Support: 57687.2 VolS:0.76 Resistence: 57687.3 VolR:1.328
+12:44:14.107558> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:14.107558> [1Leg]: Buy failed BTCUSDC;price=57686.1000
+12:44:14.108558> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:14.109559> Try Modify main Buy order, 
+12:44:14.109559> Support: 57685.4 VolS:0.744 Resistence: 57686.1 VolR:1.301
+12:44:14.402820> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:14.402820> [1Leg]: Buy failed BTCUSDC;price=57686.1000
+12:44:14.402820> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:14.404826> Try Modify main Buy order, 
+12:44:14.404826> Support: 57685.4 VolS:0.744 Resistence: 57686.1 VolR:1.301
+12:44:14.692836> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:14.692836> [1Leg]: Buy failed BTCUSDC;price=57685.7000
+12:44:14.693835> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:14.694835> Try Modify main Buy order, 
+12:44:14.694835> Support: 57682.4 VolS:0.687 Resistence: 57686.1 VolR:1.258
+12:44:14.988847> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:14.989848> [1Leg]: Buy failed BTCUSDC;price=57685.7000
+12:44:14.989848> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:14.990848> Try Modify main Buy order, 
+12:44:14.990848> Support: 57682.4 VolS:0.687 Resistence: 57686.1 VolR:1.258
+12:44:15.278865> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+12:44:15.279865> [1Leg]: Buy failed BTCUSDC;price=57685.7000
+12:44:15.279865> Error Modify main BuyLimit, ticketCustom=2 ticket=2569138064
+12:44:15.280865> Try place lock SellLimit, Bid: 57685.6 Ask:  57685.7
+12:44:15.538879> [1Leg]: Sell OK BTCUSDC at 57787.9000;Gap=6.325;Price=57685.7000;Slippage=-102.2;Execution=258.014 ms;
+12:44:15.538879> Placed lock SellLimit, ticketCustom= 3, ticket= 2569140181 
+13:03:52.034652>  DevBUY (-): 125.915 avgGapBuy:-27.715 
+13:14:33.036468> Signal 2(s), Bid: 57774.9 Ask:  57775.0
+13:14:33.157463> Try Open BuyLimit, Bid: 57774.9 Ask:  57775.0
+13:14:33.158463> Support: 57769.1 VolS:1.5 Resistence: 57779 VolR:0.786
+13:14:36.067629> [1Leg]: Buy OK BTCUSDC at 57774.9000;Gap=0.65;Price=57789.7000;Slippage=14.8;Execution=2908.167 ms;
+13:14:36.123635> Placed Main BuyLimit, ticketCustom = 4 ticket= 2569140181
+13:14:36.133633> Try Modify main Buy order, 
+13:14:36.197638> Support: 57789.6 VolS:3.102 Resistence: 57789.7 VolR:0.774
+13:14:38.780786> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:38.780786> [1Leg]: Buy failed BTCUSDC;price=57804.5000
+13:14:38.781787> Error Modify main BuyLimit, ticketCustom=4 ticket=2569140181
+13:14:39.007799> Try Modify main Buy order, 
+13:14:39.013798> Support: 57807.5 VolS:1.986 Resistence: 57813 VolR:1.337
+13:14:45.155152> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:45.193151> [1Leg]: Buy failed BTCUSDC;price=57782.1000
+13:14:45.194153> Error Modify main BuyLimit, ticketCustom=4 ticket=2569611954
+13:14:45.205155> Try Modify main Buy order, 
+13:14:45.206154> Support: 57780.1 VolS:0.742 Resistence: 57782.1 VolR:1.877
+13:14:49.563404> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:49.591407> [1Leg]: Buy failed BTCUSDC;price=57772.6000
+13:14:49.592405> Error Modify main BuyLimit, ticketCustom=4 ticket=2569611954
+13:14:49.596406> Try Modify main Buy order, 
+13:14:49.597406> Support: 57766.9 VolS:0.301 Resistence: 57772.6 VolR:0.71
+13:14:57.364850> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:14:57.868887> [1Leg]: Buy failed BTCUSDC;price=57764.1000
+13:14:57.871881> Error Modify main BuyLimit, ticketCustom=4 ticket=2569611954
+13:14:58.406910> Try place lock SellLimit, Bid: 57764.0 Ask:  57764.1
+13:15:00.765045> [1Leg]: Sell OK BTCUSDC at 57874.9000;Gap=-11.325;Price=57764.1000;Slippage=-110.8;Execution=2358.136 ms;
+13:15:00.765045> Placed lock SellLimit, ticketCustom= 5, ticket= 2569625336 
+13:26:29.259567> Signal 1(s), Bid: 57663.8 Ask:  57663.9
+13:26:29.348579> Try adding SellLimit, Ask: 57663.9
+13:26:29.350573> Support: 57660.7 VolS:0.145 Resistence: 57668.2 VolR:0.713
+13:26:29.621595> [1Leg]: Sell OK BTCUSDC at 57663.9000;Gap=-1.53;Price=57663.7000;Slippage=-0.2;Execution=268.009 ms;
+13:26:29.623587> adding Sell (1Leg), ticket = 2569625336 ticketCustom = 6
+13:26:29.624598> Try Modify Lock Sell order for Close at now, 
+13:26:29.891340> [1Leg]: SELL OK MODIFY BTCUSDC at 0.010 lot;price=57663.7000;execution=265.739 ms;
+13:26:29.892337> Modify Lock SellLimit (1Leg) for Close at now

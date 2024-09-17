@@ -1,0 +1,47 @@
+23:31:32.352275> WebSocket connected! Start @depth [Future] process...
+23:31:32.352275> WebSocket connected! Start Partial @depth20 [Future] process...
+23:31:32.375276> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+23:31:32.376278> WebSocket connected! Start Partial @depth20 [Future] process...
+23:31:33.405019> WebSocket connected! Start Partial @depth20 [Future] process...
+23:31:33.407009> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+23:31:33.421009> WebSocket connected! Start Partial @depth20 [Future] process...
+23:31:33.424012> WebSocket connected! Start @depth [Future] process...
+23:31:33.964832> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 46.82477945 USDT
+23:40:50.661953> Try Open SellLimit, Ask: 68729.0
+23:40:50.663944> Support: 68726.4 VolS:0.849 Resistence: 68729 VolR:2.646
+23:40:50.957961> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-14.505;Price=68729.00;Slippage=68729.0;Execution=289.026 ms;
+23:40:50.957961> Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 68728.6 Ask:  68729.0
+23:40:50.958955> Placed Main SellLimit, ticketCustom = 1 ticket = 3336791938 LastSellPrice=68728.6
+00:01:36.551459> Try Close Partly Short, Bid: 68640.0 Ask:  68640.1
+00:01:36.834301> [1Leg]: Buy OK BTCUSDC at 68639.00;Gap=-18.21625;Price=68640.10;Slippage=1.1;Execution=280.840 ms;
+00:01:36.835305> Close Partly Short, ticketCustom= 2, ticket= 3336791938 
+00:01:40.171792> Try Open SellLimit, Ask: 68643.4
+00:01:40.188794> Support: 68643.3 VolS:1.512 Resistence: 68649.3 VolR:0.779
+00:01:40.486811> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=22.105;Price=68643.40;Slippage=68643.4;Execution=296.017 ms;
+00:01:40.486811> Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 68643.3 Ask:  68643.4
+00:01:40.487811> Placed Main SellLimit, ticketCustom = 3 ticket = 3337066367 LastSellPrice=68643.3
+00:01:41.221251> Try Close Sell, Bid: 68632.0 Ask:  68632.1, stoploss=0
+00:01:41.222250> Support: 68632 VolS:1.081 Resistence: 68639.2 VolR:0.838
+00:01:41.499620> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=5.505;Price=68632.10;Slippage=68632.1;Execution=276.370 ms;
+00:01:41.500618> Move:1 Stk:1 Lnt:2 Prg:0 Fon:0 Bid: 68632.0 Ask:  68632.1
+00:01:41.501619> Close Main Sell ticketCustom = 4 ticket= 3337066367
+00:07:42.587397> Try Open Buy, Bid: 68651.0 Ask:  68651.1
+00:07:42.587397> Support: 68651 VolS:1.417 Resistence: 68655.1 VolR:0.541
+00:07:42.871763> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-5.55375;Price=68651.10;Slippage=68651.1;Execution=283.373 ms;
+00:07:42.872774> Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 68651.0 Ask:  68651.1
+00:07:42.872774> Placed Main BuyLimit, ticketCustom = 5 ticket= 3337175441 LastBuyPrice=68651.1
+00:07:42.876762> Try Close Buy, Ask: 68651.1, stoploss=69021.1
+00:07:42.876762> Support: 68651 VolS:1.417 Resistence: 68655.1 VolR:0.541
+00:07:43.160780> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-7.25375;Price=68651.10;Slippage=68651.1;Execution=284.018 ms;
+00:07:43.160780> Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 68651.0 Ask:  68651.1
+00:07:43.161778> Close Main Buy, ticketCustom = 6 ticket = 3337175441
+00:08:27.743965> Try Open Buy, Bid: 68651.1 Ask:  68651.2
+00:08:27.743965> Support: 68651.1 VolS:2.863 Resistence: 68652.6 VolR:0.464
+00:08:28.027734> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-7.295;Price=68658.00;Slippage=68658.0;Execution=283.769 ms;
+00:08:28.028738> Move:1 Stk:0 Lnt:2 Prg:0 Fon:0 Bid: 68657.9 Ask:  68658.0
+00:08:28.029732> Placed Main BuyLimit, ticketCustom = 7 ticket= 3337190285 LastBuyPrice=68651.2
+00:08:28.030732> Try Close Buy, Ask: 68658.0, stoploss=0
+00:08:28.030732> Support: 68657.9 VolS:1.225 Resistence: 68659.8 VolR:0.464
+00:08:28.316750> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-0.495;Price=68658.00;Slippage=68658.0;Execution=286.018 ms;
+00:08:28.316750> Move:1 Stk:0 Lnt:0 Prg:0 Fon:0 Bid: 68657.9 Ask:  68658.0
+00:08:28.317752> Close Main Buy, ticketCustom = 8 ticket = 3337190285

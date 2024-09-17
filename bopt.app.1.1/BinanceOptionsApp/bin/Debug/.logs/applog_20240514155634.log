@@ -1,0 +1,680 @@
+15:57:09.435181> WebSocket connected! Start Partial @depth20 [Future] process...
+15:57:09.436167> WebSocket connected! Start Partial @depth20 [Future] process...
+15:57:09.446162> WebSocket connected! Start @depth [Future] process...
+15:57:09.454162> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:57:11.101769> WebSocket connected! Start @depth [Future] process...
+15:57:11.102758> WebSocket connected! Start Partial @depth20 [Future] process...
+15:57:11.107760> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:57:12.100227> WebSocket connected! Start Partial @depth20 [Future] process...
+15:57:13.449519> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 371.78766430 USDT
+16:15:59.215328> Signal 1(s), Stk:2 Lnt:2 Prg:0 Fon:1 Bid: 61732.6 Ask:  61732.7
+16:15:59.219329> Try Open SellLimit, Ask: 61732.7
+16:15:59.220329> Support: 61727.7 VolS:2.258 Resistence: 61732.7 VolR:0.401
+16:15:59.498685> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-3.73125;Price=61732.70;Slippage=61732.7;Execution=275.354 ms;
+16:15:59.498685> Placed Main SellLimit, ticketCustom = 1 ticket = 2951471621
+16:16:02.017655> Try place lock BuyLimit, Bid: 61724.0 Ask:  61724.1
+16:16:03.062422> [1Leg]: Buy OK BTCUSDC at 61663.00;Gap=0.0475;Price=61733.70;Slippage=70.7;Execution=1042.782 ms;
+16:16:03.064420> Placed lock BuyLimit, ticketCustom= 2, ticket= 2951471621 
+16:16:05.528362> Signal 1(s), Stk:2 Lnt:2 Prg:0 Fon:1 Bid: 61732.8 Ask:  61732.9
+16:16:05.533363> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61732.8 Ask:  61732.9
+16:16:05.743375> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61732.8 Ask:  61732.9
+16:16:05.749375> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61732.8 Ask:  61732.9
+16:16:08.314521> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61737.1 Ask:  61737.2
+16:16:09.072667> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61737.1 Ask:  61737.2
+16:16:11.204037> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61738.4 Ask:  61738.5
+16:16:11.206037> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61738.4 Ask:  61738.5
+16:16:11.290041> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61741.4 Ask:  61741.6
+16:16:11.407049> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61741.4 Ask:  61741.6
+16:16:11.606280> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61741.4 Ask:  61741.6
+16:16:11.648275> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61741.4 Ask:  61741.6
+16:16:11.782279> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61756.9 Ask:  61757.0
+16:16:11.926289> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61756.9 Ask:  61757.0
+16:16:12.003294> Try Modify Lock Buy order, 
+16:16:12.277307> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61727.90;execution=251.015 ms;
+16:16:12.278309> Modify Lock BuyLimit (1Leg)
+16:16:12.286311> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61756.9 Ask:  61757.0
+16:16:14.001757> Try Modify Lock Buy order, 
+16:16:14.263984> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61667.30;execution=260.216 ms;
+16:16:14.265988> Modify Lock BuyLimit (1Leg)
+16:17:28.001045> Try Modify Lock Buy order, 
+16:17:28.751305> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61728.70;execution=749.260 ms;
+16:17:28.751305> Modify Lock BuyLimit (1Leg)
+16:17:35.343962> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61763.0 Ask:  61763.1
+16:17:35.570968> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61763.0 Ask:  61763.1
+16:17:35.579969> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61763.0 Ask:  61763.1
+16:17:35.598970> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61763.0 Ask:  61763.1
+16:17:35.692975> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61763.0 Ask:  61763.1
+16:18:02.832756> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61784.3 Ask:  61784.4
+16:18:03.037769> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61799.9 Ask:  61800.0
+16:18:03.121775> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61799.9 Ask:  61800.0
+16:18:03.903458> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61807.3 Ask:  61807.4
+16:18:04.124470> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61807.5 Ask:  61807.6
+16:18:04.551146> Signal 1(s), Stk:0 Lnt:0 Prg:0 Fon:1 Bid: 61821.8 Ask:  61821.9
+16:18:04.590144> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61821.8 Ask:  61821.9
+16:18:08.383394> Signal 1(s), Stk:0 Lnt:0 Prg:0 Fon:1 Bid: 61810.7 Ask:  61810.8
+16:23:42.001279> Try Modify Lock Buy order, 
+16:23:42.981377> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61806.20;execution=980.098 ms;
+16:23:42.982367> Modify Lock BuyLimit (1Leg)
+16:24:02.001950> Try Modify Lock Buy order, 
+16:24:02.249969> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61858.00;execution=248.019 ms;
+16:24:02.249969> Modify Lock BuyLimit (1Leg)
+16:24:22.001732> Try Modify Lock Buy order, 
+16:24:22.249750> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:24:22.250745> [1Leg]: Buy failed BTCUSDC;price=61858.10
+16:24:24.287477> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:24:24.290483> Support: 61851.1 VolS:0.985 Resistence: 61855.3 VolR:2.243
+16:24:24.699497> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:26.707471> Try Modify Lock Buy order, 
+16:24:27.002489> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:24:27.003488> [1Leg]: Buy failed BTCUSDC;price=61850.10
+16:24:29.017186> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:24:29.017186> Support: 61850 VolS:1.881 Resistence: 61850.1 VolR:0.994
+16:24:29.299123> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:31.313265> Try Modify Lock Buy order, 
+16:24:31.577235> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:24:31.577235> [1Leg]: Buy failed BTCUSDC;price=61850.10
+16:24:33.604485> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:24:33.606484> Support: 61857.9 VolS:2.082 Resistence: 61859.6 VolR:1.003
+16:24:33.932505> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:35.950995> Try Modify Lock Buy order, 
+16:24:36.207022> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:24:36.208026> [1Leg]: Buy failed BTCUSDC;price=61864.00
+16:24:38.230074> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:24:38.232063> Support: 61863.9 VolS:1.914 Resistence: 61864.8 VolR:1.081
+16:24:38.515072> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:40.525914> Try Modify Lock Buy order, 
+16:24:40.782924> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:24:40.783917> [1Leg]: Buy failed BTCUSDC;price=61867.30
+16:24:42.800335> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:24:42.801335> Support: 61865.1 VolS:1.091 Resistence: 61867.3 VolR:1.726
+16:24:43.091353> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:45.108575> Try Modify Lock Buy order, 
+16:24:45.404976> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:24:45.405976> [1Leg]: Buy failed BTCUSDC;price=61865.20
+16:24:47.429791> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:24:47.430791> Support: 61869.1 VolS:3.355 Resistence: 61870.6 VolR:1.036
+16:24:47.712289> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:49.733236> Try Modify Lock Buy order, 
+16:24:50.026245> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:24:50.028239> [1Leg]: Buy failed BTCUSDC;price=61877.00
+16:24:52.053485> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:24:52.054485> Support: 61884.6 VolS:2.063 Resistence: 61889.1 VolR:1.015
+16:24:52.364503> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:54.400364> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:24:54.401358> Support: 61885.4 VolS:1.013 Resistence: 61885.9 VolR:0.847
+16:24:54.770379> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:56.833462> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:24:56.836462> Support: 61885.8 VolS:1.172 Resistence: 61886.9 VolR:0.976
+16:24:57.195280> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:24:59.212885> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:24:59.213885> Support: 61879.9 VolS:1.07 Resistence: 61885.9 VolR:0.991
+16:24:59.499902> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:01.518250> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:01.519279> Support: 61879.9 VolS:3.599 Resistence: 61885.1 VolR:1
+16:25:01.831257> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:03.832683> Try Modify Lock Buy order, 
+16:25:04.096639> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:25:04.097638> [1Leg]: Buy failed BTCUSDC;price=61880.00
+16:25:06.114164> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:06.116164> Support: 61878.1 VolS:0.381 Resistence: 61882 VolR:1.855
+16:25:06.449174> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:08.492325> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:08.495323> Support: 61891.9 VolS:2.793 Resistence: 61896.1 VolR:0.896
+16:25:08.784329> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:10.806311> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:10.807311> Support: 61905.2 VolS:2.272 Resistence: 61906.2 VolR:1.008
+16:25:11.096660> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:13.107403> Signal 1(s), Stk:2 Lnt:2 Prg:0 Fon:1 Bid: 61921.7 Ask:  61921.8
+16:25:13.107403> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:13.108403> Support: 61921.3 VolS:0.962 Resistence: 61927.8 VolR:0.964
+16:25:13.391420> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:15.453828> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61926.9 Ask:  61927.0
+16:25:15.454828> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:15.454828> Support: 61922.5 VolS:1.082 Resistence: 61930.1 VolR:2.17
+16:25:15.741845> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:17.794567> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:17.795564> Support: 61902.8 VolS:0.894 Resistence: 61904.1 VolR:1.362
+16:25:18.095141> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:20.115850> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:20.116851> Support: 61908.6 VolS:1.747 Resistence: 61909.8 VolR:1.012
+16:25:20.429869> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:22.462941> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:22.463932> Support: 61894.8 VolS:0.987 Resistence: 61894.9 VolR:3.618
+16:25:22.747511> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:24.799008> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:24.801006> Support: 61885.4 VolS:0.946 Resistence: 61887.3 VolR:1.064
+16:25:25.099025> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:27.119396> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:27.120397> Support: 61879.8 VolS:1.047 Resistence: 61881.5 VolR:1.996
+16:25:27.426413> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:29.475282> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:29.478284> Support: 61866.6 VolS:0.907 Resistence: 61871.2 VolR:4.226
+16:25:29.773290> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:31.785285> Try Modify Lock Buy order, 
+16:25:32.043294> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:25:32.044296> [1Leg]: Buy failed BTCUSDC;price=61868.10
+16:25:34.062922> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:34.063922> Support: 61868 VolS:1.016 Resistence: 61868.1 VolR:2.537
+16:25:34.382951> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:36.402579> Try Modify Lock Buy order, 
+16:25:36.706598> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:25:36.706598> [1Leg]: Buy failed BTCUSDC;price=61864.20
+16:25:38.727637> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:38.728639> Support: 61862.9 VolS:1.074 Resistence: 61863.1 VolR:1.998
+16:25:39.018030> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:41.030632> Try Modify Lock Buy order, 
+16:25:41.322509> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:25:41.323512> [1Leg]: Buy failed BTCUSDC;price=61863.00
+16:25:43.344020> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:43.345014> Support: 61856.9 VolS:0.879 Resistence: 61858 VolR:1.505
+16:25:43.632032> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:45.634491> Try Modify Lock Buy order, 
+16:25:45.994504> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:25:45.994504> [1Leg]: Buy failed BTCUSDC;price=61856.00
+16:25:48.031845> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:48.032845> Support: 61857.9 VolS:1.973 Resistence: 61859.2 VolR:1.503
+16:25:48.317871> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:50.331061> Try Modify Lock Buy order, 
+16:25:50.591069> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:25:50.592074> [1Leg]: Buy failed BTCUSDC;price=61858.00
+16:25:52.622442> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:52.622442> Support: 61859.1 VolS:2.164 Resistence: 61863.2 VolR:1.081
+16:25:52.912066> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:54.922527> Try Modify Lock Buy order, 
+16:25:55.215534> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:25:55.215534> [1Leg]: Buy failed BTCUSDC;price=61862.90
+16:25:57.282381> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:25:57.286381> Support: 61869.9 VolS:1.75 Resistence: 61873.6 VolR:1.041
+16:25:57.581400> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:25:59.607021> Try Modify Lock Buy order, 
+16:25:59.910046> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:25:59.912038> [1Leg]: Buy failed BTCUSDC;price=61875.60
+16:26:02.023039> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:02.025054> Support: 61875.5 VolS:1.195 Resistence: 61875.6 VolR:1.465
+16:26:02.327060> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:04.344066> Try Modify Lock Buy order, 
+16:26:04.648774> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:26:04.649772> [1Leg]: Buy failed BTCUSDC;price=61863.70
+16:26:06.671143> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:06.672143> Support: 61863.9 VolS:0.624 Resistence: 61864 VolR:1.089
+16:26:06.960203> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:08.998486> Try Modify Lock Buy order, 
+16:26:09.256507> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:26:09.259498> [1Leg]: Buy failed BTCUSDC;price=61856.90
+16:26:11.368231> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:11.368231> Support: 61855.3 VolS:0.841 Resistence: 61856.9 VolR:3.631
+16:26:11.662248> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:13.675375> Try Modify Lock Buy order, 
+16:26:13.984222> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:26:13.985223> [1Leg]: Buy failed BTCUSDC;price=61862.00
+16:26:16.080614> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:16.081614> Support: 61861.9 VolS:1.64 Resistence: 61862.3 VolR:1.095
+16:26:16.370631> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:18.381775> Try Modify Lock Buy order, 
+16:26:18.679783> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:26:18.680783> [1Leg]: Buy failed BTCUSDC;price=61870.00
+16:26:20.703502> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:20.704503> Support: 61869.9 VolS:1.428 Resistence: 61870.7 VolR:1.086
+16:26:21.081527> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:23.102053> Try Modify Lock Buy order, 
+16:26:23.406066> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:26:23.407067> [1Leg]: Buy failed BTCUSDC;price=61870.00
+16:26:25.424957> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:25.425922> Support: 61853.9 VolS:1.059 Resistence: 61860.1 VolR:3.59
+16:26:25.712939> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:27.718999> Try Modify Lock Buy order, 
+16:26:28.012009> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:26:28.012009> [1Leg]: Buy failed BTCUSDC;price=61858.00
+16:26:30.056242> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:30.057251> Support: 61854 VolS:1.022 Resistence: 61863.8 VolR:0.558
+16:26:30.343258> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:32.344252> Try Modify Lock Buy order, 
+16:26:32.659098> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:26:32.661098> [1Leg]: Buy failed BTCUSDC;price=61848.40
+16:26:34.699601> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:34.699601> Support: 61851.9 VolS:2.199 Resistence: 61855.1 VolR:0.721
+16:26:35.041635> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:37.051326> Try Modify Lock Buy order, 
+16:26:37.354338> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:26:37.354338> [1Leg]: Buy failed BTCUSDC;price=61856.00
+16:26:39.362274> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:39.363272> Support: 61855.9 VolS:1.532 Resistence: 61856 VolR:1.231
+16:26:39.651290> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:41.664643> Try Modify Lock Buy order, 
+16:26:41.928659> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:26:41.929655> [1Leg]: Buy failed BTCUSDC;price=61856.00
+16:26:43.957709> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:43.958708> Support: 61855.9 VolS:1.597 Resistence: 61856.8 VolR:0.953
+16:26:44.264726> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:46.314473> Try Modify Lock Buy order, 
+16:26:47.085225> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:26:47.086220> [1Leg]: Buy failed BTCUSDC;price=61856.00
+16:26:49.119734> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:49.120734> Support: 61855.9 VolS:1.022 Resistence: 61856.8 VolR:0.953
+16:26:49.407752> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:51.429057> Try Modify Lock Buy order, 
+16:26:51.743072> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:26:51.743072> [1Leg]: Buy failed BTCUSDC;price=61856.00
+16:26:53.761250> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:53.762251> Support: 61845.8 VolS:0.977 Resistence: 61851.6 VolR:1.873
+16:26:54.064268> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:26:56.099198> Try Modify Lock Buy order, 
+16:26:56.356203> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:26:56.356203> [1Leg]: Buy failed BTCUSDC;price=61852.00
+16:26:58.374362> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:26:58.375362> Support: 61851.9 VolS:2.932 Resistence: 61856.5 VolR:0.969
+16:26:58.687996> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:00.691716> Try Modify Lock Buy order, 
+16:27:00.948743> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:27:00.950726> [1Leg]: Buy failed BTCUSDC;price=61852.00
+16:27:02.985954> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:02.985954> Support: 61851.9 VolS:2.791 Resistence: 61853 VolR:1.073
+16:27:03.266958> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:05.342246> Try Modify Lock Buy order, 
+16:27:05.654251> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:27:05.656251> [1Leg]: Buy failed BTCUSDC;price=61852.00
+16:27:07.689744> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:07.689744> Support: 61853.9 VolS:1.515 Resistence: 61860 VolR:0.678
+16:27:07.974761> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:09.991348> Try Modify Lock Buy order, 
+16:27:10.246361> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:27:10.247363> [1Leg]: Buy failed BTCUSDC;price=61860.00
+16:27:12.266445> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:12.267455> Support: 61869.9 VolS:1.072 Resistence: 61873.2 VolR:0.932
+16:27:12.613667> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:14.627141> Try Modify Lock Buy order, 
+16:27:14.927274> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:27:14.928274> [1Leg]: Buy failed BTCUSDC;price=61878.00
+16:27:16.952011> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:16.954011> Support: 61877.9 VolS:2.012 Resistence: 61887.5 VolR:0.564
+16:27:17.256123> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:19.270366> Try Modify Lock Buy order, 
+16:27:19.526689> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:27:19.527689> [1Leg]: Buy failed BTCUSDC;price=61898.00
+16:27:21.547412> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:21.548412> Support: 61899.9 VolS:3.071 Resistence: 61903.6 VolR:1.011
+16:27:21.853310> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:23.878247> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:23.878247> Support: 61905.2 VolS:3.361 Resistence: 61905.7 VolR:1.075
+16:27:24.161264> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:26.227542> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:26.228550> Support: 61923.9 VolS:0.964 Resistence: 61924 VolR:1.456
+16:27:26.509566> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:28.536351> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:28.537351> Support: 61927 VolS:2.668 Resistence: 61929.3 VolR:1.044
+16:27:28.819368> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:30.847059> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:30.848058> Support: 61927 VolS:2.071 Resistence: 61928 VolR:1.194
+16:27:31.129075> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:33.152724> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:33.153726> Support: 61918.7 VolS:1.482 Resistence: 61922.5 VolR:1.008
+16:27:33.441276> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:35.459364> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:35.460363> Support: 61929.7 VolS:1.009 Resistence: 61930 VolR:1.126
+16:27:35.744380> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:37.766871> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:37.767872> Support: 61924.2 VolS:0.28 Resistence: 61929.6 VolR:1.896
+16:27:38.046888> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:40.062732> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:40.062732> Support: 61928.7 VolS:0.999 Resistence: 61929.6 VolR:2.022
+16:27:40.349802> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:42.373117> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:42.374116> Support: 61931.9 VolS:1.875 Resistence: 61933.1 VolR:0.933
+16:27:42.656110> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:44.684787> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:44.684787> Support: 61931.9 VolS:1.598 Resistence: 61933.1 VolR:0.933
+16:27:44.976798> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:47.019554> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:47.020555> Support: 61931.9 VolS:1.222 Resistence: 61933.2 VolR:0.927
+16:27:47.310064> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:49.342572> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:49.343571> Support: 61913.2 VolS:1.621 Resistence: 61921.9 VolR:0.307
+16:27:49.644569> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:51.657131> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:51.658140> Support: 61906.7 VolS:0.926 Resistence: 61913.3 VolR:2.251
+16:27:51.963149> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:53.973947> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:53.974945> Support: 61907.4 VolS:0.927 Resistence: 61908.3 VolR:1.911
+16:27:54.256962> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:56.268035> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:56.269036> Support: 61904.1 VolS:1.058 Resistence: 61906 VolR:3.425
+16:27:56.562052> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:27:58.579045> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:27:58.579045> Support: 61904.1 VolS:1.458 Resistence: 61904.5 VolR:1.682
+16:27:58.887262> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:00.901781> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:00.902780> Support: 61903.8 VolS:0.945 Resistence: 61904.1 VolR:1.13
+16:28:01.184812> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:03.215587> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:03.216587> Support: 61900.8 VolS:2.796 Resistence: 61907.3 VolR:0.342
+16:28:03.647314> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:05.662834> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:05.662834> Support: 61910.6 VolS:1.105 Resistence: 61911.9 VolR:1.761
+16:28:05.951851> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:08.014653> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:08.015653> Support: 61906.3 VolS:0.941 Resistence: 61911.9 VolR:2.987
+16:28:08.296218> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:10.310952> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:10.311950> Support: 61903.7 VolS:1.011 Resistence: 61904.9 VolR:0.932
+16:28:10.602966> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:12.636811> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:12.637812> Support: 61903.4 VolS:1.077 Resistence: 61908 VolR:1.547
+16:28:12.920972> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:14.994344> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:14.995343> Support: 61907.6 VolS:0.915 Resistence: 61909.2 VolR:1.083
+16:28:15.297472> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:17.324210> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:17.325211> Support: 61899 VolS:0.362 Resistence: 61907.7 VolR:1.267
+16:28:17.610329> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:19.722077> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:19.723069> Support: 61897 VolS:1.081 Resistence: 61900.5 VolR:1.685
+16:28:20.013112> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:22.064210> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:22.064210> Support: 61898.7 VolS:0.949 Resistence: 61900.5 VolR:1.556
+16:28:22.348145> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:24.377514> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:24.378514> Support: 61892.2 VolS:1.1 Resistence: 61896.5 VolR:3.133
+16:28:24.676883> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:26.726876> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:26.727874> Support: 61896 VolS:1.228 Resistence: 61900.7 VolR:1.097
+16:28:27.011889> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:29.022030> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:29.022030> Support: 61896 VolS:1.228 Resistence: 61900.9 VolR:1
+16:28:29.336049> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:31.361770> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:31.363771> Support: 61896 VolS:1.631 Resistence: 61896.3 VolR:1.015
+16:28:31.651788> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:33.679965> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:33.680965> Support: 61896 VolS:1.086 Resistence: 61896.1 VolR:1.819
+16:28:33.965388> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:35.989831> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:35.991831> Support: 61925.9 VolS:2.611 Resistence: 61929 VolR:0.9
+16:28:36.281009> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:38.317733> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:38.319732> Support: 61925.9 VolS:2.044 Resistence: 61926 VolR:0.765
+16:28:38.643749> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:40.662938> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:40.663938> Support: 61925.9 VolS:2.609 Resistence: 61930.2 VolR:1.037
+16:28:40.960953> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:42.975092> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:42.975092> Support: 61925.9 VolS:2.956 Resistence: 61928.9 VolR:0.912
+16:28:43.285109> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:45.335391> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:45.336384> Support: 61955.5 VolS:2.916 Resistence: 61960.2 VolR:1.089
+16:28:45.616409> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:47.623828> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:47.623828> Support: 61978 VolS:3.578 Resistence: 61978.1 VolR:3.252
+16:28:47.909846> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:49.932267> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:49.932267> Support: 61958.4 VolS:0.614 Resistence: 61962.9 VolR:2.258
+16:28:50.226282> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:52.238770> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:52.238770> Support: 61960.4 VolS:0.585 Resistence: 61960.5 VolR:3.106
+16:28:52.525786> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:54.530812> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:54.530812> Support: 61950.9 VolS:0.798 Resistence: 61953.7 VolR:1.812
+16:28:54.901808> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:56.933294> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:56.933294> Support: 61942.8 VolS:0.28 Resistence: 61947.8 VolR:2.303
+16:28:57.683384> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:28:59.700021> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:28:59.700021> Support: 61953.9 VolS:1.042 Resistence: 61956.5 VolR:0.979
+16:29:00.580567> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:02.616244> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:29:02.619245> Support: 61948.1 VolS:0.402 Resistence: 61950.2 VolR:3.092
+16:29:03.489697> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:05.505625> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:29:05.505625> Support: 61979.2 VolS:3.143 Resistence: 61983.3 VolR:1.009
+16:29:06.335701> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:08.377861> Try Modify Lock Buy order, 
+16:29:08.640870> BinanceFuture - Vxxv1AWf[USD_M] Timeout error.
+16:29:08.640870> [1Leg]: Buy failed BTCUSDC;price=61969.60
+16:29:10.648512> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:29:10.649511> Support: 61976 VolS:1.728 Resistence: 61976.1 VolR:1.739
+16:29:11.382288> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:13.404819> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:29:13.408822> Support: 61979.7 VolS:1.183 Resistence: 61979.8 VolR:2.256
+16:29:14.207959> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:16.225091> Try Modify Lock Buy order, 
+16:29:16.531108> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -5027 Message: No need to modify the order.
+16:29:16.532106> [1Leg]: Buy failed BTCUSDC;price=61974.10
+16:29:18.536970> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:29:18.536970> Support: 61962.6 VolS:1.007 Resistence: 61966.1 VolR:2.934
+16:29:19.247388> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:21.252043> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:29:21.253043> Support: 61965.9 VolS:0.743 Resistence: 61966 VolR:1.906
+16:29:21.800277> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:23.804911> Try Delete lock Buy order, ticket = 2951471621 ticketCustom = 2
+16:29:23.805911> Support: 61950.3 VolS:1.103 Resistence: 61950.4 VolR:2.079
+16:29:24.132931> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+16:29:26.145677> Try Modify Lock Buy order for close at now, 
+16:29:26.436360> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:29:26.437361> [1Leg]: Buy failed BTCUSDC;price=61942.10
+16:29:42.495980> Signal 2(s), Stk:2 Lnt:1 Prg:0 Fon:2 Bid: 61935.4 Ask:  61935.5
+16:29:42.506981> Try Open BuyLimit, Bid: 61935.4 Ask:  61935.5
+16:29:42.506981> Support: 61931.3 VolS:1.068 Resistence: 61935.5 VolR:3.176
+16:29:42.752994> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.625;Price=61935.50;Slippage=61935.5;Execution=245.008 ms;
+16:29:42.753994> Placed Main BuyLimit, ticketCustom = 3 ticket= 2951957775
+16:29:44.000164> Try Modify main Buy order, 
+16:29:44.001163> Support: 61923.9 VolS:1.091 Resistence: 61927.7 VolR:2.055
+16:29:44.284178> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:29:44.285171> [1Leg]: Buy failed BTCUSDC;price=61927.70
+16:29:44.285171> Error Modify main BuyLimit, ticketCustom=3 ticket=0
+16:29:45.290950> Try Modify main Buy order, 
+16:29:45.290950> Support: 61923.9 VolS:1.091 Resistence: 61927.7 VolR:2.458
+16:29:45.585079> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:29:45.586073> [1Leg]: Buy failed BTCUSDC;price=61927.70
+16:29:45.586073> Error Modify main BuyLimit, ticketCustom=3 ticket=0
+16:29:46.604007> Try place lock SellLimit, Bid: 61925.2 Ask:  61925.3
+16:29:46.873590> [1Leg]: Sell OK BTCUSDC at 61950.50;Gap=-5.375;Price=61925.30;Slippage=-25.2;Execution=269.584 ms;
+16:29:46.874582> Placed lock SellLimit, ticketCustom= 4, ticket= 2951957775 
+16:59:25.668991> Signal 2(s), Stk:0 Lnt:1 Prg:0 Fon:2 Bid: 61643.0 Ask:  61643.1
+16:59:25.668991> Try Open BuyLimit, Bid: 61643.0 Ask:  61643.1
+16:59:25.668991> Support: 61634.4 VolS:1.013 Resistence: 61648.4 VolR:2.088
+16:59:25.932262> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=6.50875;Price=61637.50;Slippage=61637.5;Execution=262.272 ms;
+16:59:25.933262> Placed Main BuyLimit, ticketCustom = 5 ticket= 2953018860
+16:59:26.005268> Try Modify main Buy order, 
+16:59:26.005268> Support: 61636 VolS:1.281 Resistence: 61637.5 VolR:2.225
+16:59:26.309952> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:59:26.309952> [1Leg]: Buy failed BTCUSDC;price=61637.50
+16:59:26.310951> Error Modify main BuyLimit, ticketCustom=5 ticket=0
+16:59:27.327941> Signal 2(s), Stk:0 Lnt:0 Prg:0 Fon:2 Bid: 61637.4 Ask:  61637.5
+16:59:27.327941> Try Modify main Buy order, 
+16:59:27.327941> Support: 61637.4 VolS:1.134 Resistence: 61637.5 VolR:2.157
+16:59:27.620562> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+16:59:27.620562> [1Leg]: Buy failed BTCUSDC;price=61637.50
+16:59:27.620562> Error Modify main BuyLimit, ticketCustom=5 ticket=0
+16:59:28.697525> Try place lock SellLimit, Bid: 61639.9 Ask:  61640.0
+16:59:29.061222> [1Leg]: Sell OK BTCUSDC at 61666.30;Gap=-0.18875;Price=61640.00;Slippage=-26.3;Execution=362.700 ms;
+16:59:29.062230> Placed lock SellLimit, ticketCustom= 6, ticket= 2953018860 
+16:59:52.242287> Signal 2(s), Stk:1 Lnt:0 Prg:0 Fon:2 Bid: 61634.3 Ask:  61634.4
+17:00:16.020767> Try Modify Lock Sell order, 
+17:00:16.355558> [1Leg]: SELL OK MODIFY BTCUSDC at 0.050 lot;price=61619.00;execution=334.791 ms;
+17:00:16.356562> Modify Lock SellLimit (1Leg)
+17:00:18.004716> Try Modify Lock Sell order, 
+17:00:18.755075> [1Leg]: SELL OK MODIFY BTCUSDC at 0.050 lot;price=61670.20;execution=749.359 ms;
+17:00:18.755075> Modify Lock SellLimit (1Leg)
+17:01:18.001970> Try Modify Lock Sell order, 
+17:01:18.263984> [1Leg]: SELL OK MODIFY BTCUSDC at 0.050 lot;price=61728.60;execution=261.015 ms;
+17:01:18.264986> Modify Lock SellLimit (1Leg)
+17:01:22.004170> Try Modify Lock Sell order, 
+17:01:22.268171> [1Leg]: SELL OK MODIFY BTCUSDC at 0.050 lot;price=61667.90;execution=261.001 ms;
+17:01:22.269171> Modify Lock SellLimit (1Leg)
+17:02:00.001379> Try Modify Lock Sell order, 
+17:02:00.265225> [1Leg]: SELL OK MODIFY BTCUSDC at 0.050 lot;price=61617.30;execution=261.847 ms;
+17:02:00.265225> Modify Lock SellLimit (1Leg)
+17:02:02.003824> Try Modify Lock Sell order, 
+17:02:02.293838> [1Leg]: SELL OK MODIFY BTCUSDC at 0.050 lot;price=61555.50;execution=286.005 ms;
+17:02:02.294834> Modify Lock SellLimit (1Leg)
+17:12:03.070870> Signal 2(s), Stk:0 Lnt:1 Prg:0 Fon:2 Bid: 61381.9 Ask:  61382.0
+17:12:03.111869> Try Open BuyLimit, Bid: 61381.9 Ask:  61382.0
+17:12:03.111869> Support: 61380.7 VolS:1.029 Resistence: 61382.9 VolR:0.958
+17:12:03.373885> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.51625;Price=61382.00;Slippage=61382.0;Execution=261.017 ms;
+17:12:03.374883> Placed Main BuyLimit, ticketCustom = 7 ticket= 2953555281
+17:12:04.000070> Try Modify main Buy order, 
+17:12:04.000070> Support: 61379.9 VolS:1.798 Resistence: 61382.9 VolR:0.958
+17:12:04.300866> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:12:04.302876> [1Leg]: Buy failed BTCUSDC;price=61380.00
+17:12:04.302876> Error Modify main BuyLimit, ticketCustom=7 ticket=0
+17:12:05.312799> Try Modify main Buy order, 
+17:12:05.312799> Support: 61373.1 VolS:1.101 Resistence: 61385.1 VolR:1.5
+17:12:05.612808> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:12:05.612808> [1Leg]: Buy failed BTCUSDC;price=61369.70
+17:12:05.613807> Error Modify main BuyLimit, ticketCustom=7 ticket=0
+17:12:06.629719> Try place lock SellLimit, Bid: 61357.9 Ask:  61358.0
+17:12:06.901645> [1Leg]: Sell OK BTCUSDC at 61351.80;Gap=-7.72;Price=61358.00;Slippage=6.2;Execution=270.925 ms;
+17:12:06.901645> Placed lock SellLimit, ticketCustom= 8, ticket= 2953555281 
+17:14:03.167667> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61462.0 Ask:  61462.1
+17:14:03.169665> Try Open SellLimit, Ask: 61462.1
+17:14:03.170665> Support: 61462 VolS:3.46 Resistence: 61467.4 VolR:1.076
+17:14:03.438681> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-4.235;Price=61462.10;Slippage=61462.1;Execution=268.016 ms;
+17:14:03.438681> Placed Main SellLimit, ticketCustom = 9 ticket = 2953673877
+17:14:04.800891> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61460.0 Ask:  61460.1
+17:14:04.898897> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61460.0 Ask:  61460.1
+17:14:04.902897> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61460.0 Ask:  61460.1
+17:14:04.903898> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61460.0 Ask:  61460.1
+17:14:05.161911> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61460.0 Ask:  61460.1
+17:14:05.179913> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61460.0 Ask:  61460.1
+17:14:05.353924> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61462.0 Ask:  61462.1
+17:14:06.157191> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61462.0 Ask:  61462.1
+17:14:06.285198> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61462.0 Ask:  61462.1
+17:14:06.588217> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61462.0 Ask:  61462.1
+17:14:06.980240> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61462.0 Ask:  61462.1
+17:14:07.894981> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61462.0 Ask:  61462.1
+17:14:08.001988> Try place lock BuyLimit, Bid: 61462.0 Ask:  61462.1
+17:14:10.222644> [1Leg]: Buy OK BTCUSDC at 61346.00;Gap=-6.15375;Price=61471.50;Slippage=125.5;Execution=2219.657 ms;
+17:14:10.222644> Placed lock BuyLimit, ticketCustom= 10, ticket= 2953673877 
+17:14:10.227641> Try Modify Lock Buy order, 
+17:14:10.488657> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61421.90;execution=260.017 ms;
+17:14:10.489655> Modify Lock BuyLimit (1Leg)
+17:14:12.028641> Try Modify Lock Buy order, 
+17:14:14.235463> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61351.10;execution=2202.821 ms;
+17:14:14.236460> Modify Lock BuyLimit (1Leg)
+17:14:17.827171> Signal 1(s), Stk:0 Lnt:0 Prg:0 Fon:1 Bid: 61456.0 Ask:  61456.1
+17:14:28.548936> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61430.0 Ask:  61430.1
+17:14:28.956958> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61435.9 Ask:  61436.0
+17:14:29.015963> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61435.9 Ask:  61436.0
+17:14:29.184971> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61443.2 Ask:  61443.3
+17:14:30.256174> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61443.3 Ask:  61443.4
+17:14:30.275179> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61443.3 Ask:  61443.4
+17:14:37.826363> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61453.9 Ask:  61454.0
+17:14:38.615819> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61463.9 Ask:  61464.0
+17:15:02.001751> Try Modify Lock Buy order, 
+17:15:02.264759> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61311.80;execution=262.012 ms;
+17:15:02.265758> Modify Lock BuyLimit (1Leg)
+17:15:04.001859> Try Modify Lock Buy order, 
+17:15:05.445162> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61351.00;execution=1442.295 ms;
+17:15:05.445162> Modify Lock BuyLimit (1Leg)
+17:15:10.001231> Try Modify Lock Buy order, 
+17:15:12.708161> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61311.30;execution=2705.930 ms;
+17:15:12.709150> Modify Lock BuyLimit (1Leg)
+17:15:44.002337> Try Modify Lock Buy order, 
+17:15:46.458090> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61257.00;execution=2454.760 ms;
+17:15:46.460090> Modify Lock BuyLimit (1Leg)
+17:15:58.027203> Try Modify Lock Buy order, 
+17:15:58.777807> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61311.10;execution=749.607 ms;
+17:15:58.778830> Modify Lock BuyLimit (1Leg)
+17:16:44.002284> Try Modify Lock Buy order, 
+17:16:44.299299> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:16:44.299299> [1Leg]: Buy failed BTCUSDC;price=61293.80
+17:16:46.346453> Try Modify Lock Buy order, 
+17:16:47.709919> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:16:47.710910> [1Leg]: Buy failed BTCUSDC;price=61321.50
+17:18:54.533166> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:18:54.535165> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:18:55.617579> WebSocket connected! Start @depth [Future] process...
+17:20:22.725571> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:20:22.725571> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:20:23.745975> WebSocket connected! Start @depth [Future] process...
+17:21:41.104723> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:21:41.104723> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:21:42.445682> WebSocket connected! Start @depth [Future] process...
+17:21:58.887392> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:21:58.887392> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:21:59.885814> WebSocket connected! Start @depth [Future] process...
+17:22:59.832904> Signal 1(s), Stk:2 Lnt:2 Prg:0 Fon:1 Bid: 61409.2 Ask:  61409.3
+17:22:59.832904> Try Open SellLimit, Ask: 61409.3
+17:22:59.833906> Support: 61409 VolS:1.2 Resistence: 61410 VolR:0.03
+17:23:00.095918> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-7.725;Price=61421.60;Slippage=61421.6;Execution=262.012 ms;
+17:23:00.096919> Placed Main SellLimit, ticketCustom = 11 ticket = 2954197703
+17:23:02.782038> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61421.5 Ask:  61421.6
+17:23:02.883046> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61421.5 Ask:  61421.6
+17:23:03.019043> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61421.5 Ask:  61421.6
+17:23:03.109047> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61432.9 Ask:  61433.0
+17:23:03.156052> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61432.9 Ask:  61433.0
+17:23:03.215053> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61432.9 Ask:  61433.0
+17:23:03.244070> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61432.9 Ask:  61433.0
+17:23:03.372063> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61432.9 Ask:  61433.0
+17:23:03.618080> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61436.7 Ask:  61436.8
+17:23:03.937380> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61436.7 Ask:  61436.8
+17:23:04.480021> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61432.9 Ask:  61433.0
+17:23:05.470087> Signal 1(s), Stk:0 Lnt:0 Prg:0 Fon:1 Bid: 61435.4 Ask:  61435.5
+17:23:06.038049> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61432.3 Ask:  61432.4
+17:23:06.040097> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61432.3 Ask:  61432.4
+17:23:07.001248> Try place lock BuyLimit, Bid: 61432.3 Ask:  61432.4
+17:23:11.481801> [1Leg]: Buy OK BTCUSDC at 61340.30;Gap=-11.245;Price=61478.10;Slippage=137.8;Execution=4479.437 ms;
+17:23:11.481801> Placed lock BuyLimit, ticketCustom= 12, ticket= 2954197703 
+17:23:11.487798> Signal 1(s), Stk:2 Lnt:2 Prg:0 Fon:1 Bid: 61478.0 Ask:  61478.1
+17:23:11.487798> Try Modify Lock Buy order, 
+17:23:11.750815> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61415.50;execution=263.017 ms;
+17:23:11.751815> Modify Lock BuyLimit (1Leg)
+17:23:15.045218> Try Modify Lock Buy order, 
+17:23:18.364483> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61344.60;execution=3317.265 ms;
+17:23:18.364483> Modify Lock BuyLimit (1Leg)
+17:23:26.002902> Try Modify Lock Buy order, 
+17:23:29.794006> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61417.30;execution=3791.104 ms;
+17:23:29.795001> Modify Lock BuyLimit (1Leg)
+17:23:56.518767> Signal 1(s), Stk:2 Lnt:2 Prg:0 Fon:1 Bid: 61524.9 Ask:  61525.0
+17:24:01.004288> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61541.3 Ask:  61541.4
+17:24:01.054290> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61541.3 Ask:  61541.4
+17:24:01.248300> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61550.7 Ask:  61550.8
+17:24:01.298304> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61550.7 Ask:  61550.8
+17:24:01.526320> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61550.7 Ask:  61550.8
+17:24:01.551319> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61550.7 Ask:  61550.8
+17:24:01.861352> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61556.7 Ask:  61556.8
+17:24:01.879357> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61556.7 Ask:  61556.8
+17:24:03.001137> Try Modify Lock Buy order, 
+17:24:06.195999> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61554.10;execution=3193.863 ms;
+17:24:06.195999> Modify Lock BuyLimit (1Leg)
+17:24:06.201000> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61628.1 Ask:  61628.2
+17:24:06.852739> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:24:06.853722> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:24:07.875783> WebSocket connected! Start @depth [Future] process...
+17:24:08.003789> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61659.9 Ask:  61660.0
+17:24:08.042791> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61659.9 Ask:  61660.0
+17:24:14.002605> Try Modify Lock Buy order, 
+17:24:14.739675> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61617.60;execution=736.060 ms;
+17:24:14.740674> Modify Lock BuyLimit (1Leg)
+17:24:15.451475> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:24:15.451475> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:24:16.447320> WebSocket connected! Start @depth [Future] process...
+17:24:18.008303> Try Modify Lock Buy order, 
+17:24:22.118113> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61554.20;execution=4108.801 ms;
+17:24:22.118113> Modify Lock BuyLimit (1Leg)
+17:24:22.142111> Try Modify Lock Buy order, 
+17:24:22.418129> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61616.80;execution=276.018 ms;
+17:24:22.418129> Modify Lock BuyLimit (1Leg)
+17:24:26.007726> Try Modify Lock Buy order, 
+17:24:26.302466> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61554.10;execution=290.739 ms;
+17:24:26.302466> Modify Lock BuyLimit (1Leg)
+17:24:28.024168> Try Modify Lock Buy order, 
+17:24:28.288316> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61616.40;execution=262.149 ms;
+17:24:28.289317> Modify Lock BuyLimit (1Leg)
+17:24:30.001690> Try Modify Lock Buy order, 
+17:24:31.065923> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61667.60;execution=1063.234 ms;
+17:24:31.067923> Modify Lock BuyLimit (1Leg)
+17:24:34.002262> Try Modify Lock Buy order, 
+17:24:35.328721> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61614.80;execution=1325.459 ms;
+17:24:35.328721> Modify Lock BuyLimit (1Leg)
+17:24:36.001295> Try Modify Lock Buy order, 
+17:24:36.262902> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61666.00;execution=260.598 ms;
+17:24:36.263919> Modify Lock BuyLimit (1Leg)
+17:24:46.002621> Try Modify Lock Buy order, 
+17:24:51.688341> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+17:24:51.689341> [1Leg]: Buy failed BTCUSDC;price=61793.00
+17:25:33.525568> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:25:33.528539> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:25:34.533990> WebSocket connected! Start @depth [Future] process...
+17:25:49.566034> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+17:25:49.568031> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+17:25:50.569194> WebSocket connected! Start @depth [Future] process...

@@ -1,0 +1,72 @@
+09:52:10.023292> WebSocket connected! Start Partial @depth20 [Future] process...
+09:52:10.062293> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:52:10.063295> WebSocket connected! Start Partial @depth20 [Future] process...
+09:52:10.063295> WebSocket connected! Start @depth [Future] process...
+09:52:11.041475> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:52:11.068484> WebSocket connected! Start @depth [Future] process...
+09:52:11.072485> WebSocket connected! Start Partial @depth20 [Future] process...
+09:52:11.075477> WebSocket connected! Start Partial @depth20 [Future] process...
+09:52:11.569977> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 377.91050301 USDT
+13:54:57.022931> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61656.5 Ask:  61656.6
+13:54:57.024931> Try Open SellLimit, Ask: 61656.6
+13:54:57.024931> Support: 61656.5 VolS:4.156 Resistence: 61658.9 VolR:1.078
+13:54:57.327949> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-2.02625;Price=61656.60;Slippage=61656.6;Execution=299.018 ms;
+13:54:57.327949> Placed Main SellLimit, ticketCustom = 1 ticket = 2946964978
+13:55:00.008163> Try place lock BuyLimit, Bid: 61656.5 Ask:  61656.6
+13:55:01.227234> [1Leg]: Buy OK BTCUSDC at 61563.70;Gap=-2.67125;Price=61656.60;Slippage=92.9;Execution=1216.089 ms;
+13:55:01.228240> Placed lock BuyLimit, ticketCustom= 2, ticket= 2946964978 
+13:55:02.703818> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61656.5 Ask:  61656.6
+13:55:02.811827> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61664.3 Ask:  61664.4
+13:55:02.900832> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61664.3 Ask:  61664.4
+13:55:03.204848> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61664.3 Ask:  61664.4
+13:55:20.001387> Try Modify Lock Buy order, 
+13:55:20.265399> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61663.50;execution=260.012 ms;
+13:55:20.265399> Modify Lock BuyLimit (1Leg)
+13:55:35.929262> Signal 1(s), Stk:0 Lnt:2 Prg:0 Fon:1 Bid: 61685.3 Ask:  61685.4
+13:57:52.016137> Try Modify Lock Buy order, 
+13:57:53.284208> [1Leg]: BUY OK MODIFY BTCUSDC at 0.050 lot;price=61719.60;execution=1227.072 ms;
+13:57:53.285210> Modify Lock BuyLimit (1Leg)
+13:58:12.019816> Try Modify Lock Buy order, 
+13:58:12.357834> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+13:58:12.358833> [1Leg]: Buy failed BTCUSDC;price=61716.30
+15:25:38.813537> Signal 2(s), Stk:0 Lnt:1 Prg:0 Fon:2 Bid: 61875.8 Ask:  61875.9
+15:25:38.815537> Try Open BuyLimit, Bid: 61875.8 Ask:  61875.9
+15:25:38.816538> Support: 61868.7 VolS:0.281 Resistence: 61876.9 VolR:2.056
+15:25:39.078562> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-19.47;Price=61875.90;Slippage=61875.9;Execution=262.025 ms;
+15:25:39.079553> Placed Main BuyLimit, ticketCustom = 3 ticket= 2949160678
+15:25:40.001626> Try Modify main Buy order, 
+15:25:40.002626> Support: 61871.9 VolS:0.16 Resistence: 61875.7 VolR:3.32
+15:25:40.360647> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+15:25:40.360647> [1Leg]: Buy failed BTCUSDC;price=61870.00
+15:25:40.360647> Error Modify main BuyLimit, ticketCustom=3 ticket=0
+15:25:41.366593> Signal 2(s), Stk:0 Lnt:0 Prg:0 Fon:2 Bid: 61866.3 Ask:  61866.4
+15:25:41.366593> Try Modify main Buy order, 
+15:25:41.367594> Support: 61866.3 VolS:1.347 Resistence: 61866.4 VolR:1.092
+15:25:41.672753> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -2013 Message: Order does not exist.
+15:25:41.672753> [1Leg]: Buy failed BTCUSDC;price=61866.40
+15:25:41.673753> Error Modify main BuyLimit, ticketCustom=3 ticket=0
+15:25:42.677812> Try place lock SellLimit, Bid: 61861.3 Ask:  61861.4
+15:25:43.032829> [1Leg]: Sell OK BTCUSDC at 61895.50;Gap=-6.20375;Price=61861.40;Slippage=-34.1;Execution=354.017 ms;
+15:25:43.033832> Placed lock SellLimit, ticketCustom= 4, ticket= 2949160678 
+15:25:43.035831> Signal 2(s), Stk:0 Lnt:1 Prg:0 Fon:2 Bid: 61861.3 Ask:  61861.4
+15:25:43.134858> Signal 2(s), Stk:0 Lnt:0 Prg:0 Fon:2 Bid: 61861.3 Ask:  61861.4
+15:25:43.830877> Signal 2(s), Stk:0 Lnt:1 Prg:0 Fon:2 Bid: 61861.3 Ask:  61861.4
+15:25:44.016888> Signal 2(s), Stk:0 Lnt:0 Prg:0 Fon:2 Bid: 61850.4 Ask:  61850.5
+15:25:44.067891> Signal 2(s), Stk:0 Lnt:1 Prg:0 Fon:2 Bid: 61850.4 Ask:  61850.5
+15:25:44.132894> Signal 2(s), Stk:0 Lnt:1 Prg:0 Fon:2 Bid: 61850.4 Ask:  61850.5
+15:25:46.040505> Try Modify Lock Sell order, 
+15:25:46.353524> [1Leg]: SELL OK MODIFY BTCUSDC at 0.050 lot;price=61836.10;execution=312.018 ms;
+15:25:46.354524> Modify Lock SellLimit (1Leg)
+15:30:22.441543>  DevBUY (+): 192.3625 avgGapBuy:-9.5625 
+15:30:22.748553>  DevBUY (-): 162.8625 avgGapBuy:-9.5625 
+15:30:24.717161>  DevSELL (+): -142.94625 avgGapSell:-4.05375 
+15:30:44.254926> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+15:30:44.255917> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+15:30:45.275984> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:30:55.684656> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+15:30:55.684656> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+15:30:56.690006> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+15:30:59.230000> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+15:30:59.231001> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+15:31:00.229382> WebSocket connected! Start @depth [Future] process...
+15:31:31.063147> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.

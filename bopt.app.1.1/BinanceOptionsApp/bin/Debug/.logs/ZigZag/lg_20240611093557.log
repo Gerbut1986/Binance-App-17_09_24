@@ -1,0 +1,72 @@
+09:35:58.163993> WebSocket connected! Start @depth [Future] process...
+09:35:58.164994> WebSocket connected! Start Partial @depth20 [Future] process...
+09:35:58.164994> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:35:58.164994> WebSocket connected! Start Partial @depth20 [Future] process...
+09:35:59.136659> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+09:35:59.148671> WebSocket connected! Start Partial @depth20 [Future] process...
+09:35:59.152665> WebSocket connected! Start @depth [Future] process...
+09:35:59.158664> WebSocket connected! Start Partial @depth20 [Future] process...
+09:35:59.745068> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 248.52125931 USDT
+09:45:42.552831> Try Open Buy, Bid: 67706.6 Ask:  67706.7
+09:45:42.552831> Lenta Signal open long, OpenLong:True Stk:1 StkImp:1 Lnt:2 Prg:0 Tide:20 Bid: 67706.6 Ask:  67706.7
+09:45:42.553822> Support: 67706.2 VolS:1.678 Resistence: 67706.7 VolR:4.09
+09:45:43.539611> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.96875;Price=67712.00;Slippage=67712.0;Execution=981.781 ms;
+09:45:43.540594> Move:0 Stk:1 Lnt:2 Prg:0 Bid: 67711.9 Ask:  67712.0
+09:45:43.554596> Placed Main Buy, ticketCustom = 1 ticket= 3744924244 LastBuyPrice=67706.7
+09:53:23.330328> Try adding BuyLimit, Bid: 67591.0 Ask:  67591.1
+09:53:23.330328> Lenta Signal open adding long, OpenLong:True , stoploss=67406.7 TotalVal=0.002 pos:0.002 EntrPrice=67706.7 Stk:20 StkImp:1 Lnt:2 Prg:0
+09:53:24.862330> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-2.9675;Price=67605.00;Slippage=67605.0;Execution=1532.003 ms;
+09:53:24.863325> adding BuyLimit, ticket = 3744924244 ticketCustom = 2 
+09:56:34.482165> Try Close Buy, TotalVal=0.004 pos0.004 Bid: 67604.8 Ask: 67604.9, stoploss=67406.7
+09:56:34.482165> Lenta Signal close long, stoploss=67406.7 TotalVal=0.004 pos:0.004 EntrPrice=67706.7 Stk:10 StkImp:1 Lnt:1 Prg:0 Bid: 67604.8 Ask:  67604.9
+09:56:35.618143> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=1.36625;Price=67589.00;Slippage=67589.0;Execution=1135.978 ms;
+09:56:35.619133> Move:1 Stk:1 Lnt:1 Prg:0 Fon:0 Bid: 67588.9 Ask:  67589.0
+09:56:35.620134> Close Main Buy, ticketCustom = 3 ticket = 3744924244
+09:56:42.311603>  DevBUY (-): 68.05375 avgGapBuy:-4.45375 
+09:56:48.034283> Try Open Buy, Bid: 67353.6 Ask:  67366.7
+09:56:48.040285> Lenta Signal open long, OpenLong:True Stk:1 StkImp:1 Lnt:2 Prg:0 Tide:10 Bid: 67353.6 Ask:  67366.7
+09:56:48.081284> Support: 67333 VolS:0.835 Resistence: 67371.4 VolR:0.742
+09:56:48.542326> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1008 Message: Server is currently overloaded with other requests. Please try again in a few minutes.
+09:56:48.576326> [1Leg]: Buy FAILED BTCUSDC;Gap=26.6625;Price=67353.70
+09:56:48.578315> Try Open Buy, Bid: 67348.0 Ask:  67353.7
+09:56:48.578315> Lenta Signal open long, OpenLong:True Stk:1 StkImp:1 Lnt:2 Prg:0 Tide:10 Bid: 67348.0 Ask:  67353.7
+09:56:48.578315> Support: 67333 VolS:0.835 Resistence: 67371.4 VolR:0.742
+09:56:49.571030> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=10.1625;Price=67367.00;Slippage=67367.0;Execution=991.715 ms;
+09:56:49.572016> Move:1 Stk:1 Lnt:2 Prg:0 Bid: 67366.6 Ask:  67367.0
+09:56:49.572016> Placed Main Buy, ticketCustom = 4 ticket= 3745223474 LastBuyPrice=67353.7
+09:56:50.609998> Try Close Buy, TotalVal=0.002 pos0.002 Bid: 67436.6 Ask: 67451.2, stoploss=67053.7
+09:56:50.611000> TakeProfit Signal close long, stoploss=67053.7 TotalVal=0.002 pos:0.002 EntrPrice=67353.7 Stk:1 Lnt:0 Prg:0 Bid: 67436.6 Ask:  67451.2
+09:56:51.513576> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-11.43;Price=67457.60;Slippage=67457.6;Execution=902.576 ms;
+09:56:51.514584> Move:1 Stk:1 Lnt:0 Prg:0 Fon:0 Bid: 67448.0 Ask:  67457.6
+09:56:51.514584> Close Main Buy, ticketCustom = 5 ticket = 3745223474
+10:42:19.160726> Try Open Buy, Bid: 67475.9 Ask:  67476.0
+10:42:19.162725> Lenta Signal open long, OpenLong:True Stk:20 StkImp:1 Lnt:0 Prg:0 Tide:10 Bid: 67475.9 Ask:  67476.0
+10:42:19.162725> Support: 67473.9 VolS:2.028 Resistence: 67476 VolR:0.449
+10:42:19.330736> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+10:42:19.666754> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+10:42:19.953775> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+10:42:20.152783> WebSocket [ConnectToDepthStream()] [future] error: Received an unexpected EOF or 0 bytes from the transport stream.
+10:42:20.422798> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=-12.59875;Price=67665.60;Slippage=67665.6;Execution=1260.073 ms;
+10:42:20.422798> Move:1 Stk:2 Lnt:1 Prg:0 Bid: 67665.5 Ask:  67665.6
+10:42:20.423800> Placed Main Buy, ticketCustom = 6 ticket= 3746384723 LastBuyPrice=67476.0
+10:42:20.424800> Try Close Buy, TotalVal=0.002 pos0.002 Bid: 67665.5 Ask: 67665.6, stoploss=67176.0
+10:42:20.424800> TakeProfit Signal close long, stoploss=67176.0 TotalVal=0.002 pos:0.002 EntrPrice=67476.0 Stk:2 Lnt:0 Prg:0 Bid: 67665.5 Ask:  67665.6
+10:42:20.730817> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=18.96625;Price=67665.60;Slippage=67665.6;Execution=306.017 ms;
+10:42:20.730817> Move:1 Stk:2 Lnt:0 Prg:0 Fon:0 Bid: 67665.5 Ask:  67665.6
+10:42:20.731816> Close Main Buy, ticketCustom = 7 ticket = 3746384723
+10:42:21.684843> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+10:42:24.527200> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+10:42:24.528198> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+10:42:24.669208> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+10:42:24.670206> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+10:42:24.955841> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+10:42:24.955841> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+10:42:25.131848> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+10:42:25.131848> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+10:42:25.160849> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+10:42:25.160849> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+10:42:25.498876> WebSocket connected! Start @depth [Future] process...
+10:42:25.612874> WebSocket connected! Start @depth [Future] process...
+10:42:25.916896> WebSocket connected! Start @depth [Future] process...
+10:42:26.094910> WebSocket connected! Start @depth [Future] process...
+10:42:26.114903> WebSocket connected! Start @depth [Future] process...

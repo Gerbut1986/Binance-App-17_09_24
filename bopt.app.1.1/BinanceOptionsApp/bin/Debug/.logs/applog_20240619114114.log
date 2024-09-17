@@ -1,0 +1,56 @@
+11:41:19.920319> WebSocket connected! Start @depth [Future] process...
+11:41:19.922319> WebSocket connected! Start Partial @depth20 [Future] process...
+11:41:19.922319> WebSocket connected! Start Partial @depth20 [Future] process...
+11:41:19.923319> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+11:41:20.861265> WebSocket connected! Start Partial @depth20 [Future] process...
+11:41:20.866248> WebSocket connected! Start @depth [Future] process...
+11:41:20.887511> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+11:41:20.931514> WebSocket connected! Start Partial @depth20 [Future] process...
+11:41:21.367538> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 239.03743778 USDT
+11:44:15.186645> Try Open SellLimit, Ask: 65128.4 Bid:65128.3
+11:44:15.186645> Step Signal open short, StepByStepDN:3 Stk:10 StkImp:0 Lnt:2 Prg:0 Bid: 65128.3 Ask:  65128.4
+11:44:16.168793> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=65128.4;Execution=977.154 ms;
+11:44:16.169789> Placed Main SellLimit, ticketCustom = 1 ticket = 4012809656 LastSellPrice=65128.4
+11:44:21.016600> Try place lock BuyLimit, Bid: 65128.3 Ask:  65128.4 wantPrice:65038.0 EntrPrice:65128.3
+11:44:21.260968> [1Leg]: Buy OK BTCUSDC at 65038.00;Price=65038.0;Slippage=90.4;Execution=243.369 ms;
+11:44:21.260968>  
+11:44:21.261967> Placed lock BuyLimit, ticketCustom= 2, ticket= 4012809656 
+11:44:33.002019> Try Modify Lock Buy order, 
+11:44:33.251025> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65038.10;execution=244.024 ms;
+11:44:33.251025> Modify Lock BuyLimit (1Leg)
+11:44:42.002670> Try Modify Lock Buy order, 
+11:44:42.245360> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65038.20;execution=241.694 ms;
+11:44:42.246355> Modify Lock BuyLimit (1Leg)
+11:44:48.005221> Try Modify Lock Buy order, 
+11:44:48.250215> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65038.30;execution=243.995 ms;
+11:44:48.251216> Modify Lock BuyLimit (1Leg)
+11:45:03.004743> Try Modify Lock Buy order, 
+11:45:03.249758> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65038.70;execution=243.015 ms;
+11:45:03.250750> Modify Lock BuyLimit (1Leg)
+11:45:09.003748> Try Modify Lock Buy order, 
+11:45:09.249182> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65039.10;execution=244.434 ms;
+11:45:09.250166> Modify Lock BuyLimit (1Leg)
+11:45:12.002480> Try Modify Lock Buy order, 
+11:45:12.248206> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65039.20;execution=245.726 ms;
+11:45:12.249196> Modify Lock BuyLimit (1Leg)
+11:45:18.002772> Try Modify Lock Buy order, 
+11:45:18.253855> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65039.90;execution=251.083 ms;
+11:45:18.253855> Modify Lock BuyLimit (1Leg)
+11:45:24.002590> Try Modify Lock Buy order, 
+11:45:24.273614> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65040.00;execution=270.013 ms;
+11:45:24.274608> Modify Lock BuyLimit (1Leg)
+11:45:27.003315> Try Modify Lock Buy order, 
+11:45:27.247334> [1Leg]: BUY OK MODIFY BTCUSDC at 0.002 lot;price=65040.20;execution=243.010 ms;
+11:45:27.248334> Modify Lock BuyLimit (1Leg)
+11:45:28.939187> Try Delete lock Buy order, ticket = 4012809656 ticketCustom = 2
+11:45:28.939187> Lenta Signal close short, stoploss=65188.3 TotalVal=0.002 pos:-0.002 EntrPrice=65128.3 Stk:1 StkImp:1 Lnt:2 Prg:0 Bid: 65116.2 Ask:  65116.3
+11:45:29.184912> OrderId: [4012810336]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=244.733 ms;
+11:45:29.185921> Delete lock BuyLimit (1Leg)
+11:45:29.186922> Try Close Sell, Bid: 65125.9 Ask:  65126.0
+11:45:29.186922> Lenta Signal close short, stoploss=65188.3 TotalVal=0.002 pos:-0.002 EntrPrice=65128.3 Stk:1 StkImp:1 Lnt:2 Prg:0 Bid: 65116.2 Ask:  65116.3
+11:45:29.428931> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65126.0;Execution=241.002 ms;
+11:45:29.429924> Close Main Sell ticketCustom = 3 ticket= 4012827665
+11:45:30.003327> Try place lock BuyLimit, Bid: 65126.2 Ask:  65126.3 wantPrice:65040.2 EntrPrice:65128.3
+11:45:30.245695> [1Leg]: Buy OK BTCUSDC at 65040.20;Price=65040.2;Slippage=87.9;Execution=242.368 ms;
+11:45:30.246695>  
+11:45:30.247696> Placed lock BuyLimit, ticketCustom= 4, ticket= 4012827665 

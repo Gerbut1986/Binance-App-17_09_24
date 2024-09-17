@@ -1,0 +1,568 @@
+14:43:19.050834> WebSocket connected! Start @depth [Future] process...
+14:43:19.051835> WebSocket connected! Start Partial @depth20 [SPOT] process...
+14:43:19.094836> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:43:19.101837> WebSocket connected! Start Partial @depth20 [Future] process...
+14:43:19.306850> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.15097346 USDT
+14:43:19.314851> WebSocket connected! Start Partial @depth20 [SPOT] process...
+14:43:19.873880> WebSocket connected! Start Partial @depth20 [Future] process...
+14:43:19.888889> WebSocket connected! Start @depth [Future] process...
+14:43:19.915884> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:43:20.375163> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 154.47882235 USDT
+15:05:09.652922> Try Open SellLimit, Ask: 61260.10 Bid:61260.00
+15:05:09.654927> Gap Signal open short, OrdZig=0 Order=0 StepByStepDN:0 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 61260.00 Ask:  61260.10
+15:05:09.933553> [1Leg]: Sell OK BTCUSDT at 61261.10;Price=61261.10;Slippage=-1.0;Execution=274.633 ms;
+15:05:09.934546> Placed Main SellLimit, ticketCustom = 1 ticket = 401349370803 LastSellPrice=61261.10
+15:05:20.001173> Try Open SellLimit, Ask: 61247.10 Bid:61247.00
+15:05:20.003171> Gap Signal open short, OrdZig=0 Order=0 StepByStepDN:0 Stk:1 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 61247.00 Ask:  61247.10
+15:05:20.252434> [1Leg]: Sell OK BTCUSDT at 61248.10;Price=61248.10;Slippage=-1.0;Execution=248.262 ms;
+15:05:20.253434> Placed Main SellLimit, ticketCustom = 2 ticket = 401349370803 LastSellPrice=61248.10
+15:05:22.844832>  SellLimit executed, LastSellPrice:61248.10
+15:05:30.254934> Try place lock BuyLimit, Bid: 61250.00 Ask:  61250.10 wantPrice:60948.1 EntrPrice:61248.1
+15:05:30.504878> [1Leg]: Buy OK BTCUSDT at 60948.10;Price=60948.10;Slippage=302.0;Execution=249.944 ms;
+15:05:30.505872>  
+15:05:30.505872> Placed lock BuyLimit, ticketCustom= 3, ticket= 401349370803 
+15:18:18.440208> Try Modify Lock Buy order for close at now, 
+15:18:18.440208> close short, modify for take min profit, TotalVal=0.020 pos:-0.020 EntrPrice=61254.6 Stk:20 Lnt:2 Prg:0 Bid: 61091.90 Ask:  61092.00
+15:18:18.692635> [1Leg]: BUY OK MODIFY BTCUSDT at 0.020 lot;price=61086.90;execution=250.428 ms;
+15:18:18.693626> Modify BuyLimit (1Leg) for Close at now
+15:18:18.905636> Try Modify Lock Buy order for close at now, 
+15:18:18.923638> close short, modify for take min profit, TotalVal=0.020 pos:-0.020 EntrPrice=61254.6 Stk:20 Lnt:2 Prg:0 Bid: 61093.00 Ask:  61093.10
+15:18:19.184706> [1Leg]: BUY OK MODIFY BTCUSDT at 0.020 lot;price=61088.00;execution=257.069 ms;
+15:18:19.184706> Modify BuyLimit (1Leg) for Close at now
+15:18:19.435024> Try Modify Lock Buy order for close at now, 
+15:18:19.436024> close short, modify for take min profit, TotalVal=0.020 pos:-0.020 EntrPrice=61254.6 Stk:20 Lnt:2 Prg:0 Bid: 61093.10 Ask:  61093.20
+15:18:19.686371> [1Leg]: BUY OK MODIFY BTCUSDT at 0.020 lot;price=61088.10;execution=250.348 ms;
+15:18:19.686371> Modify BuyLimit (1Leg) for Close at now
+15:18:19.939400> Try Modify Lock Buy order for close at now, 
+15:18:19.939400> close short, modify for take min profit, TotalVal=0.020 pos:-0.020 EntrPrice=61254.6 Stk:20 Lnt:2 Prg:0 Bid: 61098.00 Ask:  61098.10
+15:18:20.187069> [1Leg]: BUY OK MODIFY BTCUSDT at 0.020 lot;price=61093.00;execution=247.668 ms;
+15:18:20.188066> Modify BuyLimit (1Leg) for Close at now
+15:18:20.463143> Try Modify Lock Buy order for close at now, 
+15:18:20.467141> close short, modify for take min profit, TotalVal=0.020 pos:-0.020 EntrPrice=61254.6 Stk:20 Lnt:2 Prg:0 Bid: 61098.90 Ask:  61099.00
+15:18:20.727365> [1Leg]: BUY OK MODIFY BTCUSDT at 0.020 lot;price=61093.90;execution=249.224 ms;
+15:18:20.728359> Modify BuyLimit (1Leg) for Close at now
+15:18:20.962370> Try Modify Lock Buy order for close at now, 
+15:18:20.963370> close short, modify for take min profit, TotalVal=0.020 pos:-0.020 EntrPrice=61254.6 Stk:20 Lnt:2 Prg:0 Bid: 61099.10 Ask:  61099.20
+15:18:21.212423> [1Leg]: BUY OK MODIFY BTCUSDT at 0.020 lot;price=61094.10;execution=249.053 ms;
+15:18:21.213418> Modify BuyLimit (1Leg) for Close at now
+15:18:21.469436> Try Modify Lock Buy order, 
+15:18:21.719504> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=60954.60;execution=249.072 ms;
+15:18:21.719504> Modify Lock BuyLimit (1Leg)
+15:18:22.480871> Try Modify Lock Buy order for close at now, 
+15:18:22.481869> close short, modify for take min profit, TotalVal=0.020 pos:-0.020 EntrPrice=61254.6 Stk:20 Lnt:2 Prg:0 Bid: 61085.30 Ask:  61085.40
+15:18:22.730887> [1Leg]: BUY OK MODIFY BTCUSDT at 0.020 lot;price=61080.30;execution=249.018 ms;
+15:18:22.730887> Modify BuyLimit (1Leg) for Close at now
+15:18:33.798969> Try Modify Lock Buy order for close at now, 
+15:18:33.798969> close short, modify for take min profit, TotalVal=0.020 pos:-0.020 EntrPrice=61254.6 Stk:20 Lnt:2 Prg:0 Bid: 61085.40 Ask:  61085.50
+15:18:34.048964> [1Leg]: BUY OK MODIFY BTCUSDT at 0.020 lot;price=61080.40;execution=249.018 ms;
+15:18:34.049961> Modify BuyLimit (1Leg) for Close at now
+15:19:00.196742> Try Open BuyLimit, Bid: 61094.40 Ask:  61094.50
+15:19:00.196742> Gap Signal open long, OrdZig=0 Order=2 StepByStepUP:0 Stk:20 StkImp:1 Lnt:2 Prg:0 Tide:10 Natiag:2 Bid: 61094.40 Ask:  61094.50
+15:19:01.210532> [1Leg]: Buy OK BTCUSDT at 61093.40;Price=61093.40;Slippage=1.1;Execution=1013.790 ms;
+15:19:01.210532> Placed Main BuyLimit, ticketCustom = 4 ticket= 401356371165 LastBuyPrice=61093.40
+15:19:05.862340>  BuyLimit executed, LastBuyPrice:61093.40
+15:19:11.215442> Try place lock SellLimit, Bid: 61094.40 Ask:61094.50 wantPrice:61393.4  EntrPrice:61093.4
+15:19:11.465460> [1Leg]: Sell OK BTCUSDT at 61393.40;Price=61393.40;Slippage=-298.9;Execution=249.024 ms;
+15:19:11.465460> Placed lock SellLimit, ticketCustom= 5, ticket= 401356371165 
+15:19:11.466452>  
+15:31:19.166478> Try Modify Lock Sell order for Close at now, 
+15:31:19.166478> close long, modify for take min profit, TotalVal=0.010 pos:0.010 EntrPrice=61093.4 Stk:10 Lnt:2 Prg:0 Bid: 61265.80 Ask:  61265.90
+15:31:19.420480> [1Leg]: SELL OK MODIFY BTCUSDT at 0.010 lot;price=61270.90;execution=253.015 ms;
+15:31:19.420480> Modify Lock SellLimit (1Leg) for Close at now
+15:31:19.670038> Try Modify Lock Sell order for Close at now, 
+15:31:19.670038> close long, modify for take min profit, TotalVal=0.010 pos:0.010 EntrPrice=61093.4 Stk:10 Lnt:2 Prg:0 Bid: 61260.60 Ask:  61260.70
+15:31:19.923040> [1Leg]: SELL OK MODIFY BTCUSDT at 0.010 lot;price=61265.70;execution=252.011 ms;
+15:31:19.929043> Modify Lock SellLimit (1Leg) for Close at now
+15:31:23.837278> Try Modify Lock Sell order for Close at now, 
+15:31:23.837278> close long, modify for take min profit, TotalVal=0.010 pos:0.010 EntrPrice=61093.4 Stk:10 Lnt:2 Prg:0 Bid: 61255.70 Ask:  61255.80
+15:31:24.092281> [1Leg]: SELL OK MODIFY BTCUSDT at 0.010 lot;price=61260.80;execution=254.015 ms;
+15:31:24.094281> Modify Lock SellLimit (1Leg) for Close at now
+15:31:24.879221> Try Modify Lock Sell order, 
+15:31:25.139238> [1Leg]: SELL OK MODIFY BTCUSDT at 0.010 lot;price=61393.40;execution=259.018 ms;
+15:31:25.144235> Modify Lock SellLimit (1Leg)
+15:33:10.870179> Try Delete lock Sell order,  ticket = 401356371165 ticketCustom = 5
+15:33:10.871171> Gap Signal open adding long, OrdZig=1 Order=2 StepByStepUP:0 , stoploss=60293.4 TotalVal=0.010 pos:0.010 EntrPrice=61093.4 Stk:10 StkImp:2 Lnt:1 Prg:0 Natiag:1
+15:33:11.432204> OrderId: [401356436574]: Sell Limit OK DELETE  BTCUSDT;price=0;Execution=560.033 ms;
+15:33:11.433203> Delete lock SellLimit (1Leg)
+15:33:11.434205> Try adding BuyLimit, Bid: 60987.10 Ask:  60988.80
+15:33:11.838020> [1Leg]: Buy OK BTCUSDT at 60985.10;Price=60985.10;Slippage=3.7;Execution=403.816 ms;
+15:33:11.838020> adding BuyLimit, ticket = 401364946530 ticketCustom = 6 
+15:33:11.842022> Try place lock SellLimit, Bid: 60987.10 Ask:60988.80 wantPrice:61393.4  EntrPrice:61093.4
+15:33:12.131599> [1Leg]: Sell OK BTCUSDT at 61393.40;Price=61393.40;Slippage=-395.6;Execution=288.580 ms;
+15:33:12.132592> Placed lock SellLimit, ticketCustom= 7, ticket= 401364946530 
+15:33:12.132592>  
+15:33:19.447237>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.448236> Try Delete main Buy order, Ord=True
+15:33:19.448236>  
+15:33:19.450249>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.450249> Try Delete main Buy order, Ord=True
+15:33:19.450249>  
+15:33:19.452244>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.452244> Try Delete main Buy order, Ord=True
+15:33:19.453236>  
+15:33:19.454237>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.455237> Try Delete main Buy order, Ord=True
+15:33:19.455237>  
+15:33:19.457245>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.457245> Try Delete main Buy order, Ord=True
+15:33:19.457245>  
+15:33:19.459244>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.459244> Try Delete main Buy order, Ord=True
+15:33:19.460237>  
+15:33:19.461237>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.462236> Try Delete main Buy order, Ord=True
+15:33:19.462236>  
+15:33:19.463238>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.463238> Try Delete main Buy order, Ord=True
+15:33:19.464236>  
+15:33:19.465238>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.465238> Try Delete main Buy order, Ord=True
+15:33:19.466239>  
+15:33:19.468250>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.468250> Try Delete main Buy order, Ord=True
+15:33:19.468250>  
+15:33:19.470254>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.470254> Try Delete main Buy order, Ord=True
+15:33:19.470254>  
+15:33:19.472246>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.472246> Try Delete main Buy order, Ord=True
+15:33:19.472246>  
+15:33:19.475248>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.475248> Try Delete main Buy order, Ord=True
+15:33:19.476238>  
+15:33:19.477240>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.478239> Try Delete main Buy order, Ord=True
+15:33:19.478239>  
+15:33:19.480239>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.480239> Try Delete main Buy order, Ord=True
+15:33:19.481239>  
+15:33:19.483240>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.484239> Try Delete main Buy order, Ord=True
+15:33:19.484239>  
+15:33:19.486240>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.486240> Try Delete main Buy order, Ord=True
+15:33:19.487240>  
+15:33:19.489252>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.489252> Try Delete main Buy order, Ord=True
+15:33:19.490239>  
+15:33:19.491239>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.491239> Try Delete main Buy order, Ord=True
+15:33:19.492240>  
+15:33:19.494247>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.494247> Try Delete main Buy order, Ord=True
+15:33:19.494247>  
+15:33:19.496247>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.496247> Try Delete main Buy order, Ord=True
+15:33:19.496247>  
+15:33:19.498239>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.498239> Try Delete main Buy order, Ord=True
+15:33:19.499240>  
+15:33:19.501250>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.501250> Try Delete main Buy order, Ord=True
+15:33:19.501250>  
+15:33:19.503247>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.503247> Try Delete main Buy order, Ord=True
+15:33:19.504239>  
+15:33:19.505240>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.505240> Try Delete main Buy order, Ord=True
+15:33:19.506240>  
+15:33:19.508248>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.508248> Try Delete main Buy order, Ord=True
+15:33:19.508248>  
+15:33:19.510248>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.510248> Try Delete main Buy order, Ord=True
+15:33:19.510248>  
+15:33:19.512240>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.512240> Try Delete main Buy order, Ord=True
+15:33:19.513241>  
+15:33:19.515244>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.515244> Try Delete main Buy order, Ord=True
+15:33:19.515244>  
+15:33:19.517254>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.517254> Try Delete main Buy order, Ord=True
+15:33:19.518240>  
+15:33:19.519241>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.519241> Try Delete main Buy order, Ord=True
+15:33:19.520240>  
+15:33:19.521242>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.521242> Try Delete main Buy order, Ord=True
+15:33:19.522241>  
+15:33:19.523241>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.523241> Try Delete main Buy order, Ord=True
+15:33:19.524241>  
+15:33:19.526252>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.526252> Try Delete main Buy order, Ord=True
+15:33:19.526252>  
+15:33:19.528250>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.528250> Try Delete main Buy order, Ord=True
+15:33:19.528250>  
+15:33:19.530250>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.530250> Try Delete main Buy order, Ord=True
+15:33:19.530250>  
+15:33:19.532241>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.532241> Try Delete main Buy order, Ord=True
+15:33:19.533242>  
+15:33:19.620246>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.620246> Try Delete main Buy order, Ord=True
+15:33:19.620246>  
+15:33:19.634246>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.634246> Try Delete main Buy order, Ord=True
+15:33:19.634246>  
+15:33:19.648246>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.648246> Try Delete main Buy order, Ord=True
+15:33:19.648246>  
+15:33:19.652247>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.652247> Try Delete main Buy order, Ord=True
+15:33:19.653248>  
+15:33:19.661247>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.661247> Try Delete main Buy order, Ord=True
+15:33:19.662248>  
+15:33:19.668251>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.668251> Try Delete main Buy order, Ord=True
+15:33:19.669249>  
+15:33:19.684248>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.685248> Try Delete main Buy order, Ord=True
+15:33:19.685248>  
+15:33:19.686248>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.686248> Try Delete main Buy order, Ord=True
+15:33:19.687247>  
+15:33:19.697248>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.698250> Try Delete main Buy order, Ord=True
+15:33:19.698250>  
+15:33:19.701251>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.701251> Try Delete main Buy order, Ord=True
+15:33:19.701251>  
+15:33:19.703251>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.703251> Try Delete main Buy order, Ord=True
+15:33:19.703251>  
+15:33:19.705262>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.705262> Try Delete main Buy order, Ord=True
+15:33:19.705262>  
+15:33:19.707251>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.707251> Try Delete main Buy order, Ord=True
+15:33:19.707251>  
+15:33:19.710252>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.710252> Try Delete main Buy order, Ord=True
+15:33:19.710252>  
+15:33:19.713261>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.713261> Try Delete main Buy order, Ord=True
+15:33:19.713261>  
+15:33:19.715251>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.715251> Try Delete main Buy order, Ord=True
+15:33:19.715251>  
+15:33:19.718251>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.718251> Try Delete main Buy order, Ord=True
+15:33:19.718251>  
+15:33:19.720252>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.720252> Try Delete main Buy order, Ord=True
+15:33:19.720252>  
+15:33:19.722252>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.722252> Try Delete main Buy order, Ord=True
+15:33:19.722252>  
+15:33:19.725253>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.725253> Try Delete main Buy order, Ord=True
+15:33:19.725253>  
+15:33:19.727252>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.727252> Try Delete main Buy order, Ord=True
+15:33:19.727252>  
+15:33:19.730253>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.730253> Try Delete main Buy order, Ord=True
+15:33:19.730253>  
+15:33:19.732253>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.732253> Try Delete main Buy order, Ord=True
+15:33:19.734254>  
+15:33:19.736253>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.736253> Try Delete main Buy order, Ord=True
+15:33:19.736253>  
+15:33:19.739261>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.739261> Try Delete main Buy order, Ord=True
+15:33:19.739261>  
+15:33:19.741260>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.741260> Try Delete main Buy order, Ord=True
+15:33:19.741260>  
+15:33:19.743252>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.743252> Try Delete main Buy order, Ord=True
+15:33:19.743252>  
+15:33:19.747253>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.748255> Try Delete main Buy order, Ord=True
+15:33:19.748255>  
+15:33:19.751252>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.751252> Try Delete main Buy order, Ord=True
+15:33:19.752253>  
+15:33:19.754254>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.754254> Try Delete main Buy order, Ord=True
+15:33:19.754254>  
+15:33:19.756254>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.756254> Try Delete main Buy order, Ord=True
+15:33:19.756254>  
+15:33:19.758254>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.758254> Try Delete main Buy order, Ord=True
+15:33:19.758254>  
+15:33:19.761255>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.761255> Try Delete main Buy order, Ord=True
+15:33:19.761255>  
+15:33:19.764255>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.764255> Try Delete main Buy order, Ord=True
+15:33:19.764255>  
+15:33:19.766254>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.766254> Try Delete main Buy order, Ord=True
+15:33:19.766254>  
+15:33:19.782255>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.782255> Try Delete main Buy order, Ord=True
+15:33:19.783256>  
+15:33:19.785269>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.785269> Try Delete main Buy order, Ord=True
+15:33:19.785269>  
+15:33:19.787265>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.787265> Try Delete main Buy order, Ord=True
+15:33:19.787265>  
+15:33:19.789264>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.791253> Try Delete main Buy order, Ord=True
+15:33:19.791253>  
+15:33:19.792256>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.792256> Try Delete main Buy order, Ord=True
+15:33:19.793255>  
+15:33:19.794265>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.794265> Try Delete main Buy order, Ord=True
+15:33:19.794265>  
+15:33:19.796264>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.796264> Try Delete main Buy order, Ord=True
+15:33:19.796264>  
+15:33:19.798264>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.798264> Try Delete main Buy order, Ord=True
+15:33:19.798264>  
+15:33:19.800264>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.800264> Try Delete main Buy order, Ord=True
+15:33:19.800264>  
+15:33:19.804256>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.805256> Try Delete main Buy order, Ord=True
+15:33:19.805256>  
+15:33:19.806257>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.806257> Try Delete main Buy order, Ord=True
+15:33:19.806257>  
+15:33:19.808256>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.808256> Try Delete main Buy order, Ord=True
+15:33:19.808256>  
+15:33:19.810255>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.810255> Try Delete main Buy order, Ord=True
+15:33:19.810255>  
+15:33:19.811257>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.811257> Try Delete main Buy order, Ord=True
+15:33:19.811257>  
+15:33:19.813257>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.814257> Try Delete main Buy order, Ord=True
+15:33:19.814257>  
+15:33:19.816257>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.816257> Try Delete main Buy order, Ord=True
+15:33:19.816257>  
+15:33:19.818258>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.818258> Try Delete main Buy order, Ord=True
+15:33:19.819258>  
+15:33:19.822256>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.822256> Try Delete main Buy order, Ord=True
+15:33:19.822256>  
+15:33:19.824259>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.824259> Try Delete main Buy order, Ord=True
+15:33:19.825256>  
+15:33:19.826258>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.826258> Try Delete main Buy order, Ord=True
+15:33:19.826258>  
+15:33:19.827258>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.827258> Try Delete main Buy order, Ord=True
+15:33:19.827258>  
+15:33:19.828258>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.828258> Try Delete main Buy order, Ord=True
+15:33:19.828258>  
+15:33:19.833258>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.834257> Try Delete main Buy order, Ord=True
+15:33:19.834257>  
+15:33:19.835258>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.835258> Try Delete main Buy order, Ord=True
+15:33:19.835258>  
+15:33:19.836258>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.836258> Try Delete main Buy order, Ord=True
+15:33:19.836258>  
+15:33:19.838258>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.838258> Try Delete main Buy order, Ord=True
+15:33:19.839259>  
+15:33:19.841257>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.841257> Try Delete main Buy order, Ord=True
+15:33:19.841257>  
+15:33:19.842261>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.842261> Try Delete main Buy order, Ord=True
+15:33:19.842261>  
+15:33:19.844259>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.844259> Try Delete main Buy order, Ord=True
+15:33:19.844259>  
+15:33:19.848257>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.848257> Try Delete main Buy order, Ord=True
+15:33:19.848257>  
+15:33:19.849259>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.850257> Try Delete main Buy order, Ord=True
+15:33:19.850257>  
+15:33:19.851260>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.851260> Try Delete main Buy order, Ord=True
+15:33:19.851260>  
+15:33:19.853258>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.853258> Try Delete main Buy order, Ord=True
+15:33:19.853258>  
+15:33:19.854260>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.854260> Try Delete main Buy order, Ord=True
+15:33:19.854260>  
+15:33:19.856260>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.856260> Try Delete main Buy order, Ord=True
+15:33:19.856260>  
+15:33:19.858259>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.858259> Try Delete main Buy order, Ord=True
+15:33:19.858259>  
+15:33:19.859260>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.859260> Try Delete main Buy order, Ord=True
+15:33:19.859260>  
+15:33:19.861260>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.861260> Try Delete main Buy order, Ord=True
+15:33:19.861260>  
+15:33:19.863260>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.863260> Try Delete main Buy order, Ord=True
+15:33:19.863260>  
+15:33:19.864262>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.864262> Try Delete main Buy order, Ord=True
+15:33:19.864262>  
+15:33:19.867258>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.867258> Try Delete main Buy order, Ord=True
+15:33:19.867258>  
+15:33:19.868260>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.868260> Try Delete main Buy order, Ord=True
+15:33:19.868260>  
+15:33:19.906261>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.907263> Try Delete main Buy order, Ord=True
+15:33:19.907263>  
+15:33:19.909263>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.909263> Try Delete main Buy order, Ord=True
+15:33:19.910262>  
+15:33:19.911263>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.911263> Try Delete main Buy order, Ord=True
+15:33:19.912263>  
+15:33:19.914279>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.914279> Try Delete main Buy order, Ord=True
+15:33:19.915263>  
+15:33:19.916271>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.916271> Try Delete main Buy order, Ord=True
+15:33:19.917262>  
+15:33:19.918263>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.918263> Try Delete main Buy order, Ord=True
+15:33:19.919263>  
+15:33:19.936262>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.936262> Try Delete main Buy order, Ord=True
+15:33:19.936262>  
+15:33:19.944263>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.944263> Try Delete main Buy order, Ord=True
+15:33:19.945265>  
+15:33:19.948265>  delete Main Buy Limit, LastBuyPrice:60985.10
+15:33:19.956264> Try Delete main Buy order, Ord=True
+15:33:19.989268>  
+15:33:19.991268>  BuyLimit executed, LastBuyPrice:60985.10
+15:35:00.324999> Try Delete lock Sell order,  ticket = 401364946530 ticketCustom = 7
+15:35:00.324999> Gap Signal close long, OrdZig=1 Order=2 stoploss=60239.25 TotalVal=0.020 pos:0.020 EntrPrice=61039.25 Stk:10 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 60904.10 Ask:  60904.20
+15:35:00.578006> OrderId: [401364950071]: Sell Limit OK DELETE  BTCUSDT;price=0;Execution=251.015 ms;
+15:35:00.578006> Delete lock SellLimit (1Leg)
+15:35:00.579007> Try Close Buy urgently, Ask: 60904.20 Bid:60904.10 
+15:35:00.579007> Gap Signal close long, OrdZig=1 Order=2 stoploss=60239.25 TotalVal=0.020 pos:0.020 EntrPrice=61039.25 Stk:10 StkImp:2 Lnt:2 Prg:0 Natiag:1 Bid: 60904.10 Ask:  60904.20
+15:35:00.832035> [1Leg]: Sell OK BTCUSDT at 0.00;Price=0.00;Slippage=60904.2;Execution=253.028 ms;
+15:35:00.833023> Close Main Buy, ticketCustom = 8 ticket = 401366010366
+15:35:00.835036> Try Open SellLimit, Ask: 60904.20 Bid:60904.10
+15:35:00.835036> Gap Signal open short, OrdZig=1 Order=2 StepByStepDN:0 Stk:10 StkImp:2 Lnt:0 Prg:0 Natiag:1 Bid: 60904.10 Ask:  60904.20
+15:35:01.089082> [1Leg]: Sell OK BTCUSDT at 60905.20;Price=60905.20;Slippage=-1.0;Execution=253.060 ms;
+15:35:01.089082> Placed Main SellLimit, ticketCustom = 9 ticket = 401366010366 LastSellPrice=60905.20
+15:35:01.285078>  SellLimit executed, LastSellPrice:60905.20
+15:35:06.000741> Try place lock BuyLimit, Bid: 60913.50 Ask:  60913.60 wantPrice:60606.9 EntrPrice:60906.9
+15:35:07.038802> [1Leg]: Buy OK BTCUSDT at 60606.90;Price=60606.90;Slippage=306.7;Execution=1037.068 ms;
+15:35:07.038802>  
+15:35:07.038802> Placed lock BuyLimit, ticketCustom= 10, ticket= 401366010366 
+15:42:38.211064> Try Modify Lock Buy order for close at now, 
+15:42:38.212064> close short, modify for take min profit, TotalVal=0.010 pos:-0.010 EntrPrice=60906.9 Stk:20 Lnt:1 Prg:0 Bid: 60782.80 Ask:  60782.90
+15:42:38.465080> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=60777.80;execution=253.015 ms;
+15:42:38.465080> Modify BuyLimit (1Leg) for Close at now
+15:42:38.710535> Try Modify Lock Buy order for close at now, 
+15:42:38.710535> close short, modify for take min profit, TotalVal=0.010 pos:-0.010 EntrPrice=60906.9 Stk:20 Lnt:1 Prg:0 Bid: 60793.40 Ask:  60793.50
+15:42:38.962548> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=60788.40;execution=251.013 ms;
+15:42:38.963547> Modify BuyLimit (1Leg) for Close at now
+15:42:42.000748> Try Open SellLimit, Ask: 60789.10 Bid:60789.00
+15:42:42.001733> Gap Signal open short, OrdZig=1 Order=2 StepByStepDN:0 Stk:20 StkImp:2 Lnt:1 Prg:0 Natiag:1 Bid: 60789.00 Ask:  60789.10
+15:42:42.972727> [1Leg]: Sell OK BTCUSDT at 60790.10;Price=60790.10;Slippage=-1.0;Execution=970.994 ms;
+15:42:42.972727> Placed Main SellLimit, ticketCustom = 11 ticket = 401370612249 LastSellPrice=60790.10
+15:42:43.800446>  SellLimit executed, LastSellPrice:60790.10
+15:42:48.003678> Try place lock BuyLimit, Bid: 60799.90 Ask:  60800.00 wantPrice:60590.1 EntrPrice:60790.1
+15:42:48.252483> [1Leg]: Buy OK BTCUSDT at 60590.10;Price=60590.10;Slippage=209.9;Execution=246.804 ms;
+15:42:48.252483>  
+15:42:48.253478> Placed lock BuyLimit, ticketCustom= 12, ticket= 401370612249 
+15:43:20.484181> Try Modify Lock Buy order for close at now, 
+15:43:20.485180> close short, argument GapBuy:-23.38312500 modify for close, TotalVal=0.010 pos:-0.010 EntrPrice=60790.1 Stk:2 Lnt:1 Prg:0 Bid: 60798.40 Ask:  60798.50
+15:43:20.736207> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=60793.40;execution=250.028 ms;
+15:43:20.736207> Modify BuyLimit (1Leg) for Close at now
+15:43:20.738202> Try Modify Lock Buy order for close at now, 
+15:43:20.738202> close short, argument GapBuy:-23.38312500 modify for close, TotalVal=0.010 pos:-0.010 EntrPrice=60790.1 Stk:2 Lnt:1 Prg:0 Bid: 60800.40 Ask:  60800.50
+15:43:20.988686> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=60795.40;execution=250.483 ms;
+15:43:20.989692> Modify BuyLimit (1Leg) for Close at now
+15:43:21.173705> Try Modify Lock Buy order for close at now, 
+15:43:21.174692> close short, argument GapBuy:-23.38312500 modify for close, TotalVal=0.010 pos:-0.010 EntrPrice=60790.1 Stk:2 Lnt:1 Prg:0 Bid: 60809.60 Ask:  60809.70
+15:43:21.950419> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=60804.60;execution=775.728 ms;
+15:43:21.951419> Modify BuyLimit (1Leg) for Close at now
+15:43:26.254235> Try Modify Lock Buy order for close at now, 
+15:43:26.254235> close short, argument GapBuy:-23.38312500 modify for close, TotalVal=0.010 pos:-0.010 EntrPrice=60790.1 Stk:2 Lnt:1 Prg:0 Bid: 60813.30 Ask:  60813.40
+15:43:26.503698> [1Leg]: BUY OK MODIFY BTCUSDT at 0.010 lot;price=60808.30;execution=249.463 ms;
+15:43:26.504696> Modify BuyLimit (1Leg) for Close at now
+15:44:00.489313> Try Open BuyLimit, Bid: 60837.30 Ask:  60837.40
+15:44:00.490305> Gap Signal open long, OrdZig=1 Order=2 StepByStepUP:0 Stk:10 StkImp:2 Lnt:1 Prg:0 Tide:10 Natiag:1 Bid: 60837.30 Ask:  60837.40
+15:44:00.754306> [1Leg]: Buy OK BTCUSDT at 60836.30;Price=60836.30;Slippage=1.1;Execution=264.001 ms;
+15:44:00.755306> Placed Main BuyLimit, ticketCustom = 13 ticket= 401371202901 LastBuyPrice=60836.30
+15:44:00.756305> Try Delete main Buy order, 
+15:44:00.756305> Gap Signal open long, OrdZig=1 Order=2 StepByStepUP:0 Stk:10 StkImp:2 Lnt:1 Prg:0 Tide:10 Natiag:1 Bid: 60837.30 Ask:  60837.40
+15:44:01.005798> OrderId: [401371202901]: Buy Limit OK DELETE  BTCUSDT;price=0;Execution=248.492 ms;
+15:44:01.006798> Delete main BuyLimit (1Leg)
+15:44:11.000700> Try Open BuyLimit, Bid: 60825.40 Ask:  60825.50
+15:44:11.001698> Gap Signal open long, OrdZig=1 Order=2 StepByStepUP:0 Stk:10 StkImp:2 Lnt:1 Prg:0 Tide:20 Natiag:1 Bid: 60825.40 Ask:  60825.50
+15:44:11.247242> [1Leg]: Buy OK BTCUSDT at 60824.40;Price=60824.40;Slippage=1.1;Execution=245.544 ms;
+15:44:11.248243> Placed Main BuyLimit, ticketCustom = 14 ticket= 401371202901 LastBuyPrice=60824.40
+15:44:21.731242>  BuyLimit executed, LastBuyPrice:60824.40
+15:44:22.000257> Try Open BuyLimit, Bid: 60823.20 Ask:  60823.30
+15:44:22.001249> Gap Signal open long, OrdZig=1 Order=2 StepByStepUP:0 Stk:10 StkImp:2 Lnt:1 Prg:0 Tide:10 Natiag:1 Bid: 60823.20 Ask:  60823.30
+15:44:22.253084> [1Leg]: Buy OK BTCUSDT at 60822.20;Price=60822.20;Slippage=1.1;Execution=251.835 ms;
+15:44:22.253084> Placed Main BuyLimit, ticketCustom = 15 ticket= 401371202901 LastBuyPrice=60822.20
+15:44:22.754604>  BuyLimit executed, LastBuyPrice:60822.20
+15:44:27.001527> Try place lock SellLimit, Bid: 60814.00 Ask:60814.10 wantPrice:61023.3  EntrPrice:60823.3
+15:44:27.750917> [1Leg]: Sell OK BTCUSDT at 61023.30;Price=61023.30;Slippage=-211.2;Execution=748.390 ms;
+15:44:27.750917> Placed lock SellLimit, ticketCustom= 16, ticket= 401371202901 
+15:44:27.751911>  
+15:52:42.362689> Try Modify Lock Sell order for Close at now, 
+15:52:42.362689> close long, modify for take min profit, TotalVal=0.020 pos:0.020 EntrPrice=60823.3 Stk:10 Lnt:2 Prg:0 Bid: 60929.90 Ask:  60930.00
+15:52:42.607703> [1Leg]: SELL OK MODIFY BTCUSDT at 0.020 lot;price=60935.00;execution=244.014 ms;
+15:52:42.608704> Modify Lock SellLimit (1Leg) for Close at now
+15:52:48.002122> Try Open BuyLimit, Bid: 60930.00 Ask:  60930.10
+15:52:48.002122> Gap Signal open long, OrdZig=1 Order=2 StepByStepUP:0 Stk:10 StkImp:1 Lnt:2 Prg:0 Tide:10 Natiag:1 Bid: 60930.00 Ask:  60930.10
+15:52:48.993200> [1Leg]: Buy OK BTCUSDT at 60929.00;Price=60929.00;Slippage=1.1;Execution=991.078 ms;
+15:52:48.994192> Placed Main BuyLimit, ticketCustom = 17 ticket= 401376941700 LastBuyPrice=60929.00
+15:52:49.523000>  BuyLimit executed, LastBuyPrice:60929.00
+15:52:58.994980> Try place lock SellLimit, Bid: 60887.50 Ask:60887.60 wantPrice:61129.0  EntrPrice:60929.0
+15:52:59.238504> [1Leg]: Sell OK BTCUSDT at 61129.00;Price=61129.00;Slippage=-241.4;Execution=243.525 ms;
+15:52:59.239493> Placed lock SellLimit, ticketCustom= 18, ticket= 401376941700 
+15:52:59.239493>  
+15:57:17.320044> Try Delete lock Sell order,  ticket = 401376941700 ticketCustom = 18
+15:57:17.320044> Gap Signal open adding long, OrdZig=1 Order=2 StepByStepUP:0 , stoploss=60129.0 TotalVal=0.010 pos:0.010 EntrPrice=60929.0 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:1
+15:57:17.578056> OrderId: [401377046491]: Sell Limit OK DELETE  BTCUSDT;price=0;Execution=257.013 ms;
+15:57:17.579055> Delete lock SellLimit (1Leg)
+15:57:17.579055> Try adding BuyLimit, Bid: 60828.20 Ask:  60828.30
+15:57:17.823070> [1Leg]: Buy OK BTCUSDT at 60826.20;Price=60826.20;Slippage=-1.1;Execution=244.015 ms;
+15:57:17.824072> adding BuyLimit, ticket = 401378899398 ticketCustom = 19 
+15:57:17.825072>  BuyLimit executed, LastBuyPrice:60826.20
+15:57:17.825072> Try place lock SellLimit, Bid: 60825.00 Ask:60825.10 wantPrice:61129.0  EntrPrice:60929.0
+15:57:18.070098> [1Leg]: Sell OK BTCUSDT at 61129.00;Price=61129.00;Slippage=-303.9;Execution=245.026 ms;
+15:57:18.071159> Placed lock SellLimit, ticketCustom= 20, ticket= 401378899398 
+15:57:18.072086>  
+16:05:00.783279> Try Delete lock Sell order,  ticket = 401378899398 ticketCustom = 20
+16:05:00.784414> Gap Signal close long, OrdZig=1 Order=2222 stoploss=60077.05 TotalVal=0.020 pos:0.020 EntrPrice=60877.05 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 60818.70 Ask:  60818.80
+16:05:01.029292> OrderId: [401378899706]: Sell Limit OK DELETE  BTCUSDT;price=0;Execution=244.878 ms;
+16:05:01.030292> Delete lock SellLimit (1Leg)
+16:05:01.031293> Try Close Buy urgently, Ask: 60818.80 Bid:60818.70 
+16:05:01.066293> Gap Signal close long, OrdZig=1 Order=2222 stoploss=60077.05 TotalVal=0.020 pos:0.020 EntrPrice=60877.05 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 60818.70 Ask:  60818.80
+16:05:01.310604> [1Leg]: Sell OK BTCUSDT at 0.00;Price=0.00;Slippage=60818.8;Execution=244.311 ms;
+16:05:01.310604> Close Main Buy, ticketCustom = 21 ticket = 401383422123

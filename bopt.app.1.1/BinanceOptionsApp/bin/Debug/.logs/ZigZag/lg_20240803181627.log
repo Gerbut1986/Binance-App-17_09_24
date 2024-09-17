@@ -1,0 +1,233 @@
+18:16:28.134011> WebSocket connected! Start Partial @depth20 [Future] process...
+18:16:28.134011> WebSocket connected! Start Partial @depth20 [Future] process...
+18:16:28.137012> WebSocket connected! Start @depth [Future] process...
+18:16:28.155015> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:16:28.163018> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:16:28.187015> WebSocket connected! Start @depth [Future] process...
+18:16:29.079083> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:16:29.080094> WebSocket connected! Start @depth [Future] process...
+18:16:29.081082> WebSocket connected! Start Partial @depth20 [Future] process...
+18:16:29.092088> WebSocket connected! Start Partial @depth20 [Future] process...
+18:16:29.100086> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:16:29.113098> WebSocket connected! Start @depth [Future] process...
+18:16:29.569107> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 240.08131303 USDT
+18:27:54.978638> Try Open SellLimit, Ask: 61666.10 Bid:61666.00
+18:27:54.979664> Order Signal open short, OrdZig=1 Order=1 StepByStepDN:1 Stk:10 StkImp:0 Lnt:1 Prg:0 Natiag:2 Bid: 61666.00 Ask:  61666.10
+18:27:55.246178> [1Leg]: Sell OK BTCUSDT at 0.00;Price=0.00;Slippage=61666.1;Execution=263.539 ms;
+18:27:55.247177> Placed Main SellLimit, ticketCustom = 1 ticket = 385285412282 LastSellPrice=61666.10
+19:30:54.667434> Try Close Sell urgently, Bid: 61194.90 Ask:  61200.50
+19:30:54.669420> Order Signal close short, OrdZig=2 Order=2 stoploss=61966.0 TotalVal=0.002 pos:-0.002 EntrPrice=61666.0 Stk:20 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 61194.90 Ask:  61200.50
+19:30:55.052446> [1Leg]: Buy OK BTCUSDT at 0.00;Price=0.00;Slippage=61200.5;Execution=382.026 ms;
+19:30:55.053444> Close Main Sell ticketCustom = 2 ticket= 385285412282
+19:48:04.805584>  DevBUY (+): 120.63375 avgGapBuy:0.36625 
+19:48:23.625660>  DevBUY (-): 62.8875 avgGapBuy:3.4125 
+19:48:24.429704>  DevSELL (-): -90.39 avgGapSell:-0.01 
+19:48:41.300674>  DevSELL (+): -130.3675 avgGapSell:-0.2325 
+19:48:41.302675>  DevSELL (-): -168.1675 avgGapSell:-0.2325 
+19:48:49.230127>  DevBUY (-): 124.91625 avgGapBuy:1.78375 
+19:48:50.450198>  DevBUY (-): 62.41625 avgGapBuy:1.78375 
+19:49:04.170983>  DevBUY (-): 74.845 avgGapBuy:3.055 
+19:49:04.787019>  DevSELL (-): -66.12375 avgGapSell:-5.77625 
+19:49:35.835801> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:49:36.081813> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:49:40.848092> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:49:40.851085> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:49:41.139106> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:49:41.139106> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:49:42.245166>  DevBUY (+): 63.08875 avgGapBuy:4.81125 
+19:49:42.572188> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:49:42.652189> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:49:43.345230>  DevSELL (-): -61.80375 avgGapSell:-7.59625 
+19:50:19.511303>  DevBUY (+): 111.81 avgGapBuy:5.59 
+19:50:19.574307>  DevSELL (-): -114.03875 avgGapSell:-13.86125 
+19:50:56.152405>  DevSELL (-): -80.98875 avgGapSell:-15.71125 
+19:51:25.197068>  DevSELL (-): -71.9925 avgGapSell:-11.0075 
+19:51:25.724102> Try Open BuyLimit, Bid: 60661.20 Ask:  60661.30
+19:51:25.730100> Order Signal open long, OrdZig=2 Order=1 StepByStepUP:1 Stk:20 StkImp:1 Lnt:2 Prg:0 Tide:10 Natiag:1 Bid: 60661.20 Ask:  60661.30
+19:51:26.098121> [1Leg]: Buy OK BTCUSDT at 0.00;Price=0.00;Slippage=60562.9;Execution=368.021 ms;
+19:51:26.098121> Placed Main BuyLimit, ticketCustom = 3 ticket= 385342617071 LastBuyPrice=60661.20
+19:51:36.916743>  DevSELL (-): -137.98875 avgGapSell:-12.01125 
+19:51:37.559782>  DevSELL (+): -86.28875 avgGapSell:-12.01125 
+19:51:40.329937>  DevBUY (+): 126.1775 avgGapBuy:4.7225 
+19:51:44.005150>  DevSELL (-): -125.53 avgGapSell:-12.37 
+19:51:47.500348>  DevBUY (-): 106.385 avgGapBuy:6.315 
+19:51:52.060611>  DevSELL (-): -121.35125 avgGapSell:-10.14875 
+19:51:52.911659>  DevBUY (-): 112.38 avgGapBuy:7.62 
+19:51:54.062726>  DevBUY (+): 91.46625 avgGapBuy:8.53375 
+19:52:33.896010> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:52:34.849065>  DevBUY (-): 126.31625 avgGapBuy:8.68375 
+19:52:39.141313> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:52:39.141313> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:52:40.469394> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:52:41.513444>  DevSELL (-): -98.785 avgGapSell:-3.215 
+19:52:43.165543> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:52:48.231831> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:52:48.231831> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:52:49.331894> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:53:09.779067>  DevSELL (-): -65.9675 avgGapSell:-0.4325 
+19:53:12.815242>  DevBUY (-): 78.46 avgGapBuy:11.64 
+19:53:16.255440>  DevSELL (-): -79.64375 avgGapSell:-0.95625 
+19:53:34.409478>  DevBUY (-): 76.03375 avgGapBuy:12.26625 
+19:53:35.094516>  DevBUY (+): 87.43375 avgGapBuy:12.26625 
+19:53:44.085035>  DevSELL (-): -72.3575 avgGapSell:-3.6425 
+19:53:45.934139>  DevBUY (-): 138.51125 avgGapBuy:13.48875 
+19:53:49.478341>  DevSELL (+): -318.78 avgGapSell:-4.52 
+19:53:50.068374>  DevSELL (-): -143.38 avgGapSell:-4.52 
+19:53:52.667527>  DevBUY (-): 133.44375 avgGapBuy:13.55625 
+19:53:57.673586>  DevBUY (+): 110.2925 avgGapBuy:10.7075 
+19:53:58.208844>  DevSELL (-): -106.5875 avgGapSell:-14.7125 
+19:54:02.799110>  DevSELL (-): -98.795 avgGapSell:-16.005 
+19:54:05.244248>  DevSELL (-): -117.33125 avgGapSell:-16.76875 
+19:54:07.475375>  DevBUY (-): 268.9275 avgGapBuy:11.6725 
+19:54:08.530436>  DevSELL (-): -299.23125 avgGapSell:-16.76875 
+19:54:10.911569>  DevSELL (+): -216.665 avgGapSell:-17.835 
+19:54:15.504835>  DevSELL (-): -164.1625 avgGapSell:-25.2375 
+19:54:15.505836>  DevSELL (+): -164.1625 avgGapSell:-25.2375 
+19:54:33.702877>  DevBUY (+): 188.23125 avgGapBuy:11.06875 
+19:54:52.530958>  DevBUY (-): 114.45875 avgGapBuy:11.44125 
+19:54:53.614018>  DevBUY (-): 117.05875 avgGapBuy:11.44125 
+19:54:55.773170>  DevSELL (+): -70.965 avgGapSell:-23.235 
+19:54:56.077164>  DevBUY (-): 118.12875 avgGapBuy:11.87125 
+19:54:57.008214>  DevSELL (-): -128.865 avgGapSell:-23.235 
+19:54:57.852263>  DevSELL (-): -133.465 avgGapSell:-23.235 
+19:55:44.412935> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:55:49.846246> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:55:49.847246> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:55:51.070168> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:56:22.532121>  DevBUY (+): 67.10875 avgGapBuy:9.69125 
+19:56:39.512091>  DevSELL (-): -69.75125 avgGapSell:-8.14875 
+19:56:41.169186>  DevSELL (-): -81.21 avgGapSell:-12.39 
+19:56:48.251592>  DevSELL (-): -129.63125 avgGapSell:-13.66875 
+19:56:49.180647>  DevBUY (-): 118.6275 avgGapBuy:6.7725 
+19:57:07.014667>  DevSELL (-): -96.5425 avgGapSell:-17.7575 
+19:57:55.108426>  DevSELL (-): -66.24875 avgGapSell:-14.05125 
+19:59:23.105472> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:59:24.740565>  DevBUY (+): 74.94625 avgGapBuy:9.95375 
+19:59:26.928692> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+19:59:28.292777> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:59:28.292777> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:59:29.422835> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+19:59:32.053993> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+19:59:32.053993> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+19:59:33.317057> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:00:20.582873>  DevSELL (-): -67.1325 avgGapSell:-13.3675 
+20:00:21.423921>  DevBUY (+): 108.9625 avgGapBuy:8.2375 
+20:00:42.014102>  DevSELL (-): -126.04 avgGapSell:-11.66 
+20:00:42.042103>  DevBUY (-): 129.45625 avgGapBuy:8.24375 
+20:00:50.492589>  DevSELL (-): -117.49375 avgGapSell:-10.40625 
+20:01:25.122575>  DevBUY (+): 94.46875 avgGapBuy:9.83125 
+20:02:43.251054>  DevSELL (-): -64.89625 avgGapSell:-4.50375 
+20:03:42.273436>  DevSELL (-): -63.57875 avgGapSell:-4.82125 
+20:03:46.777696>  DevBUY (+): 70.11625 avgGapBuy:8.98375 
+20:04:11.244097>  DevSELL (-): -93.07875 avgGapSell:-4.12125 
+20:04:16.832418>  DevBUY (-): 122.0275 avgGapBuy:10.3725 
+20:04:18.754547>  DevSELL (-): -67.42375 avgGapSell:-5.47625 
+20:04:19.224554>  DevSELL (-): -78.52375 avgGapSell:-5.47625 
+20:04:31.191241>  DevSELL (+): -78.83625 avgGapSell:-7.06375 
+20:04:31.197244>  DevBUY (-): 147.035 avgGapBuy:11.465 
+20:04:32.101293>  DevSELL (-): -85.73625 avgGapSell:-7.06375 
+20:04:33.408369>  DevSELL (-): -143.2125 avgGapSell:-9.7875 
+20:04:44.495007>  DevSELL (-): -124.98875 avgGapSell:-11.51125 
+20:04:44.533008>  DevBUY (-): 145.44125 avgGapBuy:11.05875 
+20:04:47.071153>  DevSELL (-): -141.28875 avgGapSell:-11.51125 
+20:04:52.417460> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:04:54.442578>  DevSELL (-): -204.96375 avgGapSell:-14.63625 
+20:04:57.560753> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:04:57.579778> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:04:58.904831> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:05:31.173682> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:05:36.299974> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:05:36.299974> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:05:37.405041> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:05:38.904124> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:05:41.154255>  DevBUY (-): 66.47125 avgGapBuy:12.62875 
+20:05:44.044428> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:05:44.044428> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:05:45.365494> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:06:12.468373>  DevSELL (-): -100.76125 avgGapSell:-16.83875 
+20:06:15.759563>  DevBUY (+): 114.83375 avgGapBuy:14.46625 
+20:06:21.499894>  DevSELL (-): -105.31875 avgGapSell:-17.68125 
+20:06:27.831254>  DevSELL (-): -123.35625 avgGapSell:-19.94375 
+20:06:36.826772>  DevBUY (-): 91.825 avgGapBuy:13.975 
+20:06:40.576986>  DevSELL (+): -86.3325 avgGapSell:-21.7675 
+20:06:40.613989>  DevBUY (-): 94.56875 avgGapBuy:13.33125 
+20:06:48.558445>  DevSELL (-): -97.7425 avgGapSell:-19.5575 
+20:06:50.743569>  DevBUY (-): 96.87 avgGapBuy:14.63 
+20:06:55.601848>  DevSELL (-): -120.46 avgGapSell:-17.44 
+20:06:57.043932>  DevSELL (-): -72.66 avgGapSell:-17.44 
+20:06:57.045932>  DevBUY (-): 76.315 avgGapBuy:18.785 
+20:07:06.156452>  DevSELL (+): -63.69 avgGapSell:-11.31 
+20:08:22.525183> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:08:22.526184> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:08:23.607253> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:33:20.676068>  DevSELL (-): -92.975 avgGapSell:-4.025 
+20:33:45.124470>  DevSELL (-): -65.4575 avgGapSell:-7.3425 
+20:33:48.173648>  DevSELL (-): -102.6575 avgGapSell:-7.3425 
+20:33:48.178648>  DevBUY (-): 68.59875 avgGapBuy:-2.59875 
+20:33:50.036754>  DevSELL (+): -67.00375 avgGapSell:-9.39625 
+20:33:50.248765>  DevBUY (-): 82.77875 avgGapBuy:-3.27875 
+20:35:06.958163> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:35:06.958163> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:35:08.284633> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:35:52.771792> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:35:52.774789> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:35:54.633897> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:41:10.125077>  DevSELL (-): -112.4475 avgGapSell:-6.9525 
+20:41:39.364753>  DevBUY (+): 65.425 avgGapBuy:-1.525 
+20:41:58.212836> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:42:03.454138> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:42:03.575145> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:42:04.823213> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:50:39.716542>  DevBUY (+): 91.19125 avgGapBuy:1.40875 
+20:50:40.571594>  DevSELL (-): -101.89 avgGapSell:-5.61 
+20:50:42.388696>  DevBUY (-): 117.5675 avgGapBuy:1.6325 
+20:50:43.251744>  DevSELL (-): -118.09 avgGapSell:-5.61 
+20:51:43.924229>  DevBUY (-): 79.56875 avgGapBuy:2.93125 
+20:51:57.593012>  DevSELL (-): -78.92375 avgGapSell:-11.47625 
+20:52:19.798284>  DevSELL (+): -64.25625 avgGapSell:-11.74375 
+20:52:47.370865> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:52:52.663167> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:52:52.663167> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:52:54.325265> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:58:23.684057> Try Close Buy urgently, Ask: 60430.10 Bid:60430.00 
+20:58:23.691058> Stop Signal close long, stoploss=60447.5 TotalVal=0.002 pos:0.002 EntrPrice=60747.5 Stk:10 Lnt:2 Prg:0 Bid: 60430.00 Ask:  60430.10
+20:58:24.117084> [1Leg]: Sell OK BTCUSDT at 0.00;Price=0.00;Slippage=60430.1;Execution=422.026 ms;
+20:58:24.118085> Close Main Buy, ticketCustom = 4 ticket = 385342617071
+21:05:19.966852>  DevSELL (-): -63.47125 avgGapSell:-6.82875 
+21:05:19.973856>  DevBUY (-): 69.1675 avgGapBuy:1.1325 
+21:07:10.917554>  DevBUY (-): 95.79375 avgGapBuy:2.00625 
+21:07:14.672769>  DevSELL (+): -97.00 avgGapSell:-7.60 
+21:07:14.675769>  DevBUY (-): 96.03625 avgGapBuy:3.46375 
+21:07:33.638857>  DevSELL (-): -89.07875 avgGapSell:-7.42125 
+21:07:53.917018>  DevBUY (-): 90.81125 avgGapBuy:3.38875 
+21:07:55.421103>  DevSELL (-): -110.16 avgGapSell:-7.54 
+21:09:44.856381>  DevSELL (-): -66.345 avgGapSell:-9.655 
+21:09:59.906246>  DevBUY (+): 118.39625 avgGapBuy:3.90375 
+21:10:01.050306>  DevSELL (-): -107.56375 avgGapSell:-9.93625 
+21:10:02.210375>  DevSELL (-): -89.0975 avgGapSell:-11.0025 
+21:10:03.873470>  DevSELL (-): -105.0975 avgGapSell:-11.0025 
+21:10:03.888471>  DevSELL (+): -105.0975 avgGapSell:-11.0025 
+21:11:00.545718>  DevSELL (-): -151.08125 avgGapSell:-12.71875 
+21:11:00.662767> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:11:01.993802>  DevSELL (-): -157.38125 avgGapSell:-12.71875 
+21:11:05.728019> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:11:05.728019> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:11:07.202102> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:11:26.283195>  DevBUY (-): 162.3975 avgGapBuy:2.0025 
+21:13:57.754881>  DevBUY (-): 181.81125 avgGapBuy:4.08875 
+21:14:04.333256> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:14:09.401551> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:14:09.402552> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:14:10.542617> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:14:22.971325>  DevSELL (-): -101.4325 avgGapSell:-10.5675 
+21:14:43.606507>  DevSELL (-): -168.1575 avgGapSell:-12.5425 
+21:15:37.442057>  DevSELL (-): -67.95125 avgGapSell:-14.94875 
+21:16:02.045466>  DevSELL (-): -96.28625 avgGapSell:-15.71375 
+21:16:41.358719>  DevBUY (-): 65.5575 avgGapBuy:5.3425 
+21:16:47.870095> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:16:53.057394> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:16:53.058392> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:16:54.418470> WebSocket connected! Start @depth [Future] process...
+21:19:08.089137> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:19:08.089137> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:19:09.197199> WebSocket connected! Start @depth [Future] process...

@@ -1,0 +1,1535 @@
+08:55:50.981408> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+08:55:51.019411> WebSocket connected! Start @depth [Future] process...
+08:55:51.021411> WebSocket connected! Start Partial @depth20 [Future] process...
+08:55:51.070419> WebSocket connected! Start Partial @depth20 [Future] process...
+08:55:51.978215> WebSocket connected! Start Partial @depth20 [Future] process...
+08:55:52.004216> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+08:55:52.026219> WebSocket connected! Start Partial @depth20 [Future] process...
+08:55:52.064219> WebSocket connected! Start @depth [Future] process...
+08:55:52.565183> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 227.45205054 USDT
+09:23:41.552665> Try Open BuyLimit, Bid: 64291.6 Ask:  64291.7
+09:23:41.553665> Order Signal open long, OrdStep=2 Order=0 StepByStepUP:3 Stk:20 StkImp:2 Lnt:1 Prg:0 Tide:10 Natiag:1 Bid: 64291.6 Ask:  64291.7
+09:23:41.816835> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=64293.8;Execution=259.176 ms;
+09:23:41.817845> Placed Main BuyLimit, ticketCustom = 1 ticket= 5045403118 LastBuyPrice=64291.6
+09:23:47.000865> Try place lock SellLimit, Bid: 64273.7 Ask:64273.8 wantPrice:64569.296  EntrPrice:64294.296
+09:23:48.014625> [1Leg]: Sell OK BTCUSDC at 64569.30;Price=64569.3;Slippage=-300.5;Execution=1012.790 ms;
+09:23:48.015616> Placed lock SellLimit, ticketCustom= 2, ticket= 5045403118 
+09:23:48.015616> TakeProfit Signal close long, stoploss=64094.296 TotalVal=0.025 pos:0.025 EntrPrice=64294.296 Stk:20 Lnt:1 Prg:0 Bid: 64273.7 Ask:  64273.8
+09:39:57.742712> Try Modify Lock Sell order for Close at now, 
+09:39:57.742712> TakeProfit Signal close long, stoploss=64094.296 TotalVal=0.025 pos:0.025 EntrPrice=64294.296 Stk:10 Lnt:1 Prg:0 Bid: 64251.1 Ask:  64251.2
+09:39:57.999726> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=64276.20;execution=253.017 ms;
+09:39:58.000731> Modify Lock SellLimit (1Leg) for Close at now
+10:03:52.089969> Try Delete lock Sell order,  ticket = 5045403118 ticketCustom = 2
+10:03:52.091008> Stop Signal close long, stoploss=64094.296 TotalVal=0.025 pos:0.025 EntrPrice=64294.296 Stk:10 Lnt:1 Prg:0 Bid: 64091.3 Ask:  64091.4
+10:03:52.358967> OrderId: [5045406563]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=266.998 ms;
+10:03:52.359956> Delete lock SellLimit (1Leg)
+10:03:52.359956> Try Close Buy urgently, Ask: 64091.4 Bid:64091.3 
+10:03:52.359956> Stop Signal close long, stoploss=64094.296 TotalVal=0.025 pos:0.025 EntrPrice=64294.296 Stk:10 Lnt:1 Prg:0 Bid: 64091.3 Ask:  64091.4
+10:03:52.622972> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=64091.4;Execution=262.014 ms;
+10:03:52.622972> Close Main Buy, ticketCustom = 3 ticket = 5045878826
+10:21:42.580066> Try Open SellLimit, Ask: 63945.0 Bid:63944.9
+10:21:42.581075> Order Signal open short, OrdStep=1 Order=2 StepByStepDN:3 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 63944.9 Ask:  63945.0
+10:21:42.849087> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=63945.0;Execution=267.011 ms;
+10:21:42.849087> Placed Main SellLimit, ticketCustom = 4 ticket = 5045878826 LastSellPrice=63945.0
+10:21:47.001892> Try place lock BuyLimit, Bid: 63924.5 Ask:  63924.6 wantPrice:63668.316 EntrPrice:63943.316
+10:21:48.005260> [1Leg]: Buy OK BTCUSDC at 63668.30;Price=63668.3;Slippage=256.3;Execution=1002.377 ms;
+10:21:48.007259> TakeProfit Signal close short, stoploss=64143.316 TotalVal=0.025 pos:-0.025 EntrPrice=63943.316 Stk:10 Lnt:2 Prg:0 Bid: 63924.5 Ask:  63924.6
+10:21:48.007259> Placed lock BuyLimit, ticketCustom= 5, ticket= 5045878826 
+10:49:29.936895> Try Open SellLimit, Ask: 63716.5 Bid:63716.4
+10:49:29.936895> Order Signal open short, OrdStep=1 Order=2222 StepByStepDN:4 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 63716.4 Ask:  63716.5
+10:49:30.231890> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=63716.5;Execution=294.995 ms;
+10:49:30.232894> Placed Main SellLimit, ticketCustom = 6 ticket = 5046865746 LastSellPrice=63716.5
+10:49:35.000506> Try place lock BuyLimit, Bid: 63710.6 Ask:  63710.7 wantPrice:63437.6 EntrPrice:63712.6
+10:49:36.007315> [1Leg]: Buy OK BTCUSDC at 63437.60;Price=63437.6;Slippage=272.4;Execution=1004.810 ms;
+10:49:36.008312> TakeProfit Signal close short, stoploss=63912.6 TotalVal=0.025 pos:-0.025 EntrPrice=63712.6 Stk:10 Lnt:2 Prg:0 Bid: 63710.6 Ask:  63710.7
+10:49:36.009313> Placed lock BuyLimit, ticketCustom= 7, ticket= 5046865746 
+11:10:34.830708> Try Delete lock Buy order, ticket = 5046865746 ticketCustom = 7
+11:10:34.832707> TakeProfit Signal close short, stoploss=63912.6 TotalVal=0.025 pos:-0.025 EntrPrice=63712.6 Stk:20 Lnt:1 Prg:0 Bid: 63574.3 Ask:  63574.4
+11:10:35.091727> OrderId: [5046868366]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=259.020 ms;
+11:10:35.091727> Delete lock BuyLimit (1Leg)
+11:10:35.092723> Try Close Sell urgently, Bid: 63574.3 Ask:  63574.4
+11:10:35.092723> TakeProfit Signal close short, stoploss=63912.6 TotalVal=0.025 pos:-0.025 EntrPrice=63712.6 Stk:20 Lnt:1 Prg:0 Bid: 63574.3 Ask:  63574.4
+11:10:35.343801> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=63579.5;Execution=251.078 ms;
+11:10:35.344737> Close Main Sell ticketCustom = 8 ticket= 5047349020
+11:10:38.000834> Try Open BuyLimit, Bid: 63588.4 Ask:  63588.5
+11:10:38.001832> Order Signal open long, OrdStep=2 Order=222 StepByStepUP:0 Stk:20 StkImp:2 Lnt:0 Prg:0 Tide:10 Natiag:0 Bid: 63588.4 Ask:  63588.5
+11:10:38.966223> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=63588.5;Execution=964.391 ms;
+11:10:38.968222> Placed Main BuyLimit, ticketCustom = 9 ticket= 5047349020 LastBuyPrice=63588.4
+11:10:44.003390> Try place lock SellLimit, Bid: 63597.9 Ask:63598.0 wantPrice:63863.5  EntrPrice:63588.5
+11:10:44.292417> [1Leg]: Sell OK BTCUSDC at 63863.50;Price=63863.5;Slippage=-265.5;Execution=289.027 ms;
+11:10:44.292417> Placed lock SellLimit, ticketCustom= 10, ticket= 5047349020 
+11:10:44.293409> TakeProfit Signal close long, stoploss=63388.5 TotalVal=0.025 pos:0.025 EntrPrice=63588.5 Stk:20 Lnt:0 Prg:0 Bid: 63597.9 Ask:  63598.0
+11:14:32.850396> Try Delete lock Sell order,  ticket = 5047349020 ticketCustom = 10
+11:14:32.851395> Stop Signal close long, stoploss=63388.5 TotalVal=0.025 pos:0.025 EntrPrice=63588.5 Stk:10 Lnt:1 Prg:0 Bid: 63386.5 Ask:  63386.6
+11:14:33.120406> OrderId: [5047352591]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=269.011 ms;
+11:14:33.123406> Delete lock SellLimit (1Leg)
+11:14:33.123406> Try Close Buy urgently, Ask: 63386.6 Bid:63386.5 
+11:14:33.124405> Stop Signal close long, stoploss=63388.5 TotalVal=0.025 pos:0.025 EntrPrice=63588.5 Stk:10 Lnt:1 Prg:0 Bid: 63386.5 Ask:  63386.6
+11:14:33.375025> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=63387.2;Execution=250.620 ms;
+11:14:33.376018> Close Main Buy, ticketCustom = 11 ticket = 5047476404
+11:29:59.093112> Try Open SellLimit, Ask: 63494.4 Bid:63494.3
+11:29:59.093112> Order Signal open short, OrdStep=1 Order=2 StepByStepDN:3 Stk:1 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 63494.3 Ask:  63494.4
+11:30:00.096016> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=63492.6;Execution=1001.903 ms;
+11:30:00.096016> Placed Main SellLimit, ticketCustom = 12 ticket = 5047476404 LastSellPrice=63494.4
+11:30:05.003763> Try place lock BuyLimit, Bid: 63496.9 Ask:  63497.0 wantPrice:63217.5 EntrPrice:63492.5
+11:30:05.288779> [1Leg]: Buy OK BTCUSDC at 63217.50;Price=63217.5;Slippage=279.5;Execution=251.014 ms;
+11:30:05.289780> TakeProfit Signal close short, stoploss=63692.5 TotalVal=0.025 pos:-0.025 EntrPrice=63492.5 Stk:20 Lnt:2 Prg:0 Bid: 63496.9 Ask:  63497.0
+11:30:05.289780> Placed lock BuyLimit, ticketCustom= 13, ticket= 5047476404 
+11:36:16.238578> Try Delete lock Buy order, ticket = 5047476404 ticketCustom = 13
+11:36:16.240578> Stop Signal close short, stoploss=63692.5 TotalVal=0.025 pos:-0.025 EntrPrice=63492.5 Stk:20 Lnt:2 Prg:0 Bid: 63693.9 Ask:  63694.0
+11:36:16.492599> OrderId: [5047857182]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=251.021 ms;
+11:36:16.492599> Delete lock BuyLimit (1Leg)
+11:36:16.493596> Try Close Sell urgently, Bid: 63693.9 Ask:  63694.0
+11:36:16.493596> Stop Signal close short, stoploss=63692.5 TotalVal=0.025 pos:-0.025 EntrPrice=63492.5 Stk:20 Lnt:2 Prg:0 Bid: 63693.9 Ask:  63694.0
+11:36:16.748609> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=63694.0;Execution=255.013 ms;
+11:36:16.749607> Close Main Sell ticketCustom = 14 ticket= 5048007962
+11:36:52.302318>  DevSELL (-): -74.3325 avgGapSell:-9.1675 
+11:36:54.651476>  DevBUY (+): 189.21875 avgGapBuy:-9.11875 
+11:36:54.818463>  DevBUY (-): 178.01875 avgGapBuy:-9.11875 
+12:26:25.014452> Try Open BuyLimit, Bid: 63925.0 Ask:  63925.1
+12:26:25.044456> Order Signal open long, OrdStep=2 Order=2 StepByStepUP:3 Stk:20 StkImp:1 Lnt:1 Prg:0 Tide:20 Natiag:2 Bid: 63925.0 Ask:  63925.1
+12:26:25.315468> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=63925.1;Execution=270.016 ms;
+12:26:25.317467> Placed Main BuyLimit, ticketCustom = 15 ticket= 5048007962 LastBuyPrice=63925.0
+12:26:29.000655> Try place lock SellLimit, Bid: 63926.9 Ask:63927.0 wantPrice:64200.448  EntrPrice:63925.448
+12:26:30.049863> [1Leg]: Sell OK BTCUSDC at 64200.40;Price=64200.4;Slippage=-272.9;Execution=1047.207 ms;
+12:26:30.050886> Placed lock SellLimit, ticketCustom= 16, ticket= 5048007962 
+12:26:30.051872> TakeProfit Signal close long, stoploss=63725.448 TotalVal=0.025 pos:0.025 EntrPrice=63925.448 Stk:2 Lnt:1 Prg:0 Bid: 63926.9 Ask:  63927.0
+12:33:21.030942> Try Modify Lock Sell order for Close at now, 
+12:33:21.031855> TakeProfit Signal close long, stoploss=63725.448 TotalVal=0.025 pos:0.025 EntrPrice=63925.448 Stk:1 Lnt:2 Prg:0 Bid: 63854.2 Ask:  63854.3
+12:33:21.304868> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=63879.30;execution=273.013 ms;
+12:33:21.305895> Modify Lock SellLimit (1Leg) for Close at now
+12:33:22.159377> Try Modify Lock Sell order for Close at now, 
+12:33:22.160377> TakeProfit Signal close long, stoploss=63725.448 TotalVal=0.025 pos:0.025 EntrPrice=63925.448 Stk:1 Lnt:2 Prg:0 Bid: 63853.6 Ask:  63853.7
+12:33:22.418390> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=63878.70;execution=257.013 ms;
+12:33:22.419392> Modify Lock SellLimit (1Leg) for Close at now
+12:38:01.480362> Try Open BuyLimit, Bid: 63838.9 Ask:  63839.0
+12:38:01.481353> Order Signal open long, OrdStep=2 Order=2 StepByStepUP:3 Stk:20 StkImp:2 Lnt:2 Prg:0 Tide:20 Natiag:0 Bid: 63838.9 Ask:  63839.0
+12:38:01.749370> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=63839.0;Execution=268.017 ms;
+12:38:01.750372> Placed Main BuyLimit, ticketCustom = 17 ticket= 5049266274 LastBuyPrice=63838.9
+12:38:05.001473> Try place lock SellLimit, Bid: 63837.6 Ask:63837.7 wantPrice:64114.0  EntrPrice:63839.0
+12:38:05.988359> [1Leg]: Sell OK BTCUSDC at 64114.00;Price=64114.0;Slippage=-276.3;Execution=985.889 ms;
+12:38:05.990358> Placed lock SellLimit, ticketCustom= 18, ticket= 5049266274 
+12:38:05.991355> TakeProfit Signal close long, stoploss=63639.0 TotalVal=0.025 pos:0.025 EntrPrice=63839.0 Stk:20 Lnt:2 Prg:0 Bid: 63837.6 Ask:  63837.7
+12:41:24.965192> Try Delete lock Sell order,  ticket = 5049266274 ticketCustom = 18
+12:41:24.965192> Stop Signal close long, stoploss=63639.0 TotalVal=0.025 pos:0.025 EntrPrice=63839.0 Stk:20 Lnt:1 Prg:0 Bid: 63638.5 Ask:  63638.6
+12:41:25.223208> OrderId: [5049267014]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=257.013 ms;
+12:41:25.223208> Delete lock SellLimit (1Leg)
+12:41:25.224209> Try Close Buy urgently, Ask: 63638.6 Bid:63638.5 
+12:41:25.224209> Stop Signal close long, stoploss=63639.0 TotalVal=0.025 pos:0.025 EntrPrice=63839.0 Stk:20 Lnt:1 Prg:0 Bid: 63638.5 Ask:  63638.6
+12:41:25.479230> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=63638.6;Execution=254.023 ms;
+12:41:25.480223> Close Main Buy, ticketCustom = 19 ticket = 5049344160
+12:52:30.578282> Try Open BuyLimit, Bid: 63757.1 Ask:  63757.2
+12:52:30.578282> Order Signal open long, OrdStep=2 Order=2 StepByStepUP:3 Stk:20 StkImp:2 Lnt:2 Prg:0 Tide:20 Natiag:2 Bid: 63757.1 Ask:  63757.2
+12:52:30.856225> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=63757.2;Execution=276.951 ms;
+12:52:30.857226> Placed Main BuyLimit, ticketCustom = 20 ticket= 5049344160 LastBuyPrice=63757.1
+12:52:35.004664> Try place lock SellLimit, Bid: 63768.5 Ask:63768.6 wantPrice:64032.76  EntrPrice:63757.76
+12:52:36.008718> [1Leg]: Sell OK BTCUSDC at 64032.80;Price=64032.8;Slippage=-264.2;Execution=1001.105 ms;
+12:52:36.010720> Placed lock SellLimit, ticketCustom= 21, ticket= 5049531420 
+12:52:36.011721> TakeProfit Signal close long, stoploss=63557.76 TotalVal=0.025 pos:0.025 EntrPrice=63757.76 Stk:20 Lnt:2 Prg:0 Bid: 63768.5 Ask:  63768.6
+13:04:30.325153> Try Modify Lock Sell order for Close at now, 
+13:04:30.326157> TakeProfit Signal close long, stoploss=63557.76 TotalVal=0.025 pos:0.025 EntrPrice=63757.76 Stk:10 Lnt:2 Prg:0 Bid: 63852.3 Ask:  63852.4
+13:04:30.590168> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=63877.40;execution=263.014 ms;
+13:04:30.591170> Modify Lock SellLimit (1Leg) for Close at now
+13:04:30.594170> Try Modify Lock Sell order for Close at now, 
+13:04:30.594170> TakeProfit Signal close long, stoploss=63557.76 TotalVal=0.025 pos:0.025 EntrPrice=63757.76 Stk:10 Lnt:2 Prg:0 Bid: 63848.0 Ask:  63848.1
+13:04:30.833183> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=63873.10;execution=238.014 ms;
+13:04:30.834183> Modify Lock SellLimit (1Leg) for Close at now
+13:33:27.789766> Try Open SellLimit, Ask: 64078.2 Bid:64078.1
+13:33:27.790767> Order Signal open short, OrdStep=1 Order=1 StepByStepDN:3 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 64078.1 Ask:  64078.2
+13:33:28.031804> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=64078.2;Execution=241.038 ms;
+13:33:28.032780> Placed Main SellLimit, ticketCustom = 22 ticket = 5049531420 LastSellPrice=64078.2
+13:33:32.000403> Try place lock BuyLimit, Bid: 64078.1 Ask:  64078.2 wantPrice:63803.1 EntrPrice:64078.1
+13:33:33.035144> [1Leg]: Buy OK BTCUSDC at 63803.10;Price=63803.1;Slippage=275.1;Execution=1033.740 ms;
+13:33:33.036152> TakeProfit Signal close short, stoploss=64278.1 TotalVal=0.025 pos:-0.025 EntrPrice=64078.1 Stk:10 Lnt:2 Prg:0 Bid: 64078.1 Ask:  64078.2
+13:33:33.037139> Placed lock BuyLimit, ticketCustom= 23, ticket= 5049531420 
+14:06:13.286333> Try Modify Lock Buy order for close at now, 
+14:06:13.287355> TakeProfit Signal close short, stoploss=64278.1 TotalVal=0.025 pos:-0.025 EntrPrice=64078.1 Stk:20 Lnt:1 Prg:0 Bid: 64025.5 Ask:  64025.6
+14:06:13.530345> [1Leg]: BUY OK MODIFY BTCUSDC at 0.025 lot;price=64000.50;execution=242.012 ms;
+14:06:13.530345> Modify BuyLimit (1Leg) for Close at now
+14:06:13.532346> Try Delete lock Buy order, ticket = 5049531420 ticketCustom = 23
+14:06:13.532346> TakeProfit Signal close short, stoploss=64278.1 TotalVal=0.025 pos:-0.025 EntrPrice=64078.1 Stk:20 Lnt:1 Prg:0 Bid: 64025.5 Ask:  64025.6
+14:06:13.778359> OrderId: [5050290139]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=246.013 ms;
+14:06:13.778359> Delete lock BuyLimit (1Leg)
+14:06:13.779360> Try Close Sell urgently, Bid: 64025.4 Ask:  64025.5
+14:06:13.779360> TakeProfit Signal close short, stoploss=64278.1 TotalVal=0.025 pos:-0.025 EntrPrice=64078.1 Stk:20 Lnt:1 Prg:0 Bid: 64025.5 Ask:  64025.6
+14:06:14.022380> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=64025.5;Execution=243.021 ms;
+14:06:14.022380> Close Main Sell ticketCustom = 24 ticket= 5050786462
+14:06:17.000191> Try Open BuyLimit, Bid: 64021.1 Ask:  64021.2
+14:06:17.001181> Order Signal open long, OrdStep=2 Order=2 StepByStepUP:3 Stk:20 StkImp:2 Lnt:0 Prg:0 Tide:10 Natiag:0 Bid: 64021.1 Ask:  64021.2
+14:06:18.037745> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=64021.2;Execution=1036.564 ms;
+14:06:18.038735> Placed Main BuyLimit, ticketCustom = 25 ticket= 5050786462 LastBuyPrice=64021.1
+14:06:23.000664> Try place lock SellLimit, Bid: 64021.1 Ask:64021.2 wantPrice:64296.2  EntrPrice:64021.2
+14:06:23.786199> [1Leg]: Sell OK BTCUSDC at 64296.20;Price=64296.2;Slippage=-275.0;Execution=784.574 ms;
+14:06:23.787199> Placed lock SellLimit, ticketCustom= 26, ticket= 5050786462 
+14:06:23.788201> TakeProfit Signal close long, stoploss=63821.2 TotalVal=0.025 pos:0.025 EntrPrice=64021.2 Stk:20 Lnt:0 Prg:0 Bid: 64021.1 Ask:  64021.2
+14:23:39.968090> Try Modify Lock Sell order for Close at now, 
+14:23:39.968090> TakeProfit Signal close long, stoploss=63821.2 TotalVal=0.025 pos:0.025 EntrPrice=64021.2 Stk:10 Lnt:2 Prg:0 Bid: 64123.5 Ask:  64123.6
+14:23:40.212103> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=64148.60;execution=244.013 ms;
+14:23:40.213105> Modify Lock SellLimit (1Leg) for Close at now
+14:23:40.228107> Try Modify Lock Sell order for Close at now, 
+14:23:40.228107> TakeProfit Signal close long, stoploss=63821.2 TotalVal=0.025 pos:0.025 EntrPrice=64021.2 Stk:10 Lnt:2 Prg:0 Bid: 64119.7 Ask:  64119.8
+14:23:40.468120> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=64144.80;execution=240.013 ms;
+14:23:40.469122> Modify Lock SellLimit (1Leg) for Close at now
+15:06:03.038460> Try Open BuyLimit, Bid: 64152.2 Ask:  64152.3
+15:06:03.039459> Order Signal open long, OrdStep=2 Order=2 StepByStepUP:3 Stk:20 StkImp:2 Lnt:1 Prg:0 Tide:20 Natiag:1 Bid: 64152.2 Ask:  64152.3
+15:06:03.346476> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=64153.7;Execution=307.017 ms;
+15:06:03.346476> Placed Main BuyLimit, ticketCustom = 27 ticket= 5051595842 LastBuyPrice=64152.2
+15:06:08.000195> Try place lock SellLimit, Bid: 64154.8 Ask:64154.9 wantPrice:64429.34  EntrPrice:64154.34
+15:06:09.078122> [1Leg]: Sell OK BTCUSDC at 64429.30;Price=64429.3;Slippage=-274.4;Execution=1076.941 ms;
+15:06:09.079123> Placed lock SellLimit, ticketCustom= 28, ticket= 5051595842 
+15:06:09.079123> TakeProfit Signal close long, stoploss=63954.34 TotalVal=0.025 pos:0.025 EntrPrice=64154.34 Stk:20 Lnt:1 Prg:0 Bid: 64154.8 Ask:  64154.9
+15:52:44.706742> Try Modify Lock Sell order for Close at now, 
+15:52:44.707741> TakeProfit Signal close long, stoploss=63954.34 TotalVal=0.025 pos:0.025 EntrPrice=64154.34 Stk:10 Lnt:2 Prg:0 Bid: 64365.1 Ask:  64365.2
+15:52:45.000418> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=64390.20;execution=263.670 ms;
+15:52:45.001428> Modify Lock SellLimit (1Leg) for Close at now
+15:52:47.077246> Try Modify Lock Sell order for Close at now, 
+15:52:47.077246> TakeProfit Signal close long, stoploss=63954.34 TotalVal=0.025 pos:0.025 EntrPrice=64154.34 Stk:10 Lnt:2 Prg:0 Bid: 64359.9 Ask:  64360.0
+15:52:48.207033> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=64385.00;execution=1092.786 ms;
+15:52:48.208036> Modify Lock SellLimit (1Leg) for Close at now
+16:02:01.705766> Try Open SellLimit, Ask: 64355.4 Bid:64355.3
+16:02:01.705766> Order Signal open short, OrdStep=1 Order=1 StepByStepDN:3 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:1 Bid: 64355.3 Ask:  64355.4
+16:02:01.985774> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=64355.4;Execution=279.017 ms;
+16:02:01.988775> Placed Main SellLimit, ticketCustom = 29 ticket = 5052692254 LastSellPrice=64355.4
+16:02:05.029798> Try place lock BuyLimit, Bid: 64342.6 Ask:  64342.7 wantPrice:64079.656 EntrPrice:64354.656
+16:02:06.097839> [1Leg]: Buy OK BTCUSDC at 64079.70;Price=64079.7;Slippage=262.9;Execution=1034.042 ms;
+16:02:06.103835> TakeProfit Signal close short, stoploss=64554.656 TotalVal=0.025 pos:-0.025 EntrPrice=64354.656 Stk:10 Lnt:2 Prg:0 Bid: 64342.6 Ask:  64342.7
+16:02:06.104838> Placed lock BuyLimit, ticketCustom= 30, ticket= 5052692254 
+16:02:06.105839> Try Delete lock Buy order, ticket = 5052692254 ticketCustom = 30
+16:02:06.105839> TakeProfit Signal close short, stoploss=64554.656 TotalVal=0.025 pos:-0.025 EntrPrice=64354.656 Stk:10 Lnt:2 Prg:0 Bid: 64342.6 Ask:  64342.7
+16:02:06.362867> OrderId: [5052695693]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=257.028 ms;
+16:02:06.363853> Delete lock BuyLimit (1Leg)
+16:02:06.399854> Try place lock BuyLimit, Bid: 64342.5 Ask:  64342.6 wantPrice:64079.656 EntrPrice:64354.656
+16:02:06.657875> [1Leg]: Buy OK BTCUSDC at 64079.70;Price=64079.7;Slippage=260.3;Execution=256.020 ms;
+16:02:06.658871> TakeProfit Signal close short, stoploss=64554.656 TotalVal=0.025 pos:-0.025 EntrPrice=64354.656 Stk:10 Lnt:2 Prg:0 Bid: 64342.5 Ask:  64342.6
+16:02:06.659869> Placed lock BuyLimit, ticketCustom= 31, ticket= 5052696426 
+16:19:52.340543> Try Modify Lock Buy order for close at now, 
+16:19:52.348534> TakeProfit Signal close short, stoploss=64554.656 TotalVal=0.025 pos:-0.025 EntrPrice=64354.656 Stk:2 Lnt:1 Prg:0 Bid: 64189.5 Ask:  64189.6
+16:19:52.622555> [1Leg]: BUY OK MODIFY BTCUSDC at 0.025 lot;price=64164.50;execution=273.021 ms;
+16:19:52.623550> Modify BuyLimit (1Leg) for Close at now
+16:19:52.625550> Try Modify Lock Buy order for close at now, 
+16:19:52.625550> TakeProfit Signal close short, stoploss=64554.656 TotalVal=0.025 pos:-0.025 EntrPrice=64354.656 Stk:2 Lnt:1 Prg:0 Bid: 64195.9 Ask:  64196.0
+16:19:52.896564> [1Leg]: BUY OK MODIFY BTCUSDC at 0.025 lot;price=64170.90;execution=271.015 ms;
+16:19:52.897564> Modify BuyLimit (1Leg) for Close at now
+16:19:53.619059> Try Modify Lock Buy order for close at now, 
+16:19:53.620060> TakeProfit Signal close short, stoploss=64554.656 TotalVal=0.025 pos:-0.025 EntrPrice=64354.656 Stk:2 Lnt:1 Prg:0 Bid: 64201.1 Ask:  64201.2
+16:19:53.891121> [1Leg]: BUY OK MODIFY BTCUSDC at 0.025 lot;price=64176.10;execution=271.061 ms;
+16:19:53.892123> Modify BuyLimit (1Leg) for Close at now
+16:30:15.768642>  DevSELL (+): -118.75875 avgGapSell:-1.44125 
+16:36:39.953742>  DevBUY (+): 86.86625 avgGapBuy:-5.06625 
+16:43:05.617023> Try Open BuyLimit, Bid: 64770.5 Ask:  64770.6
+16:43:05.618022> Order Signal open long, OrdStep=2 Order=1 StepByStepUP:3 Stk:20 StkImp:2 Lnt:1 Prg:0 Tide:10 Natiag:2 Bid: 64770.5 Ask:  64770.6
+16:43:05.898069> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=64770.6;Execution=256.047 ms;
+16:43:05.899037> Placed Main BuyLimit, ticketCustom = 32 ticket= 5052696426 LastBuyPrice=64770.5
+16:43:11.000097> Try place lock SellLimit, Bid: 64787.9 Ask:64788.0 wantPrice:65049.4  EntrPrice:64774.4
+16:43:12.064386> [1Leg]: Sell OK BTCUSDC at 65049.40;Price=65049.4;Slippage=-257.5;Execution=1062.288 ms;
+16:43:12.065399> Placed lock SellLimit, ticketCustom= 33, ticket= 5052696426 
+16:43:12.065399> TakeProfit Signal close long, stoploss=64574.4 TotalVal=0.025 pos:0.025 EntrPrice=64774.4 Stk:2 Lnt:1 Prg:0 Bid: 64787.9 Ask:  64788.0
+16:44:11.341864> Try Modify Lock Sell order for Close at now, 
+16:44:11.342864> TakeProfit Signal close long, stoploss=64574.4 TotalVal=0.025 pos:0.025 EntrPrice=64774.4 Stk:10 Lnt:2 Prg:0 Bid: 64692.2 Ask:  64692.3
+16:44:11.610894> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=64717.30;execution=255.030 ms;
+16:44:11.611878> Modify Lock SellLimit (1Leg) for Close at now
+16:44:11.816892> Try Modify Lock Sell order for Close at now, 
+16:44:11.817890> TakeProfit Signal close long, stoploss=64574.4 TotalVal=0.025 pos:0.025 EntrPrice=64774.4 Stk:10 Lnt:2 Prg:0 Bid: 64691.0 Ask:  64691.1
+16:44:12.079906> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=64716.10;execution=262.016 ms;
+16:44:12.080915> Modify Lock SellLimit (1Leg) for Close at now
+16:44:12.426924> Try Modify Lock Sell order for Close at now, 
+16:44:12.426924> TakeProfit Signal close long, stoploss=64574.4 TotalVal=0.025 pos:0.025 EntrPrice=64774.4 Stk:10 Lnt:2 Prg:0 Bid: 64681.3 Ask:  64681.4
+16:44:12.714940> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=64706.40;execution=287.015 ms;
+16:44:12.715939> Modify Lock SellLimit (1Leg) for Close at now
+16:44:12.842946> Try Modify Lock Sell order for Close at now, 
+16:44:12.843948> TakeProfit Signal close long, stoploss=64574.4 TotalVal=0.025 pos:0.025 EntrPrice=64774.4 Stk:10 Lnt:2 Prg:0 Bid: 64673.3 Ask:  64673.4
+16:44:13.100963> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=64698.40;execution=257.015 ms;
+16:44:13.101965> Modify Lock SellLimit (1Leg) for Close at now
+16:44:13.373995> Try Modify Lock Sell order for Close at now, 
+16:44:13.373995> TakeProfit Signal close long, stoploss=64574.4 TotalVal=0.025 pos:0.025 EntrPrice=64774.4 Stk:10 Lnt:2 Prg:0 Bid: 64667.7 Ask:  64667.8
+16:44:13.632269> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=64692.80;execution=257.288 ms;
+16:44:13.633268> Modify Lock SellLimit (1Leg) for Close at now
+16:59:09.586047> Try Open SellLimit, Ask: 65187.0 Bid:65186.9
+16:59:09.586047> Order Signal open short, OrdStep=1 Order=1 StepByStepDN:3 Stk:10 StkImp:2 Lnt:1 Prg:0 Natiag:1 Bid: 65186.9 Ask:  65187.0
+16:59:09.873060> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=65182.2;Execution=286.014 ms;
+16:59:09.876061> Placed Main SellLimit, ticketCustom = 34 ticket = 5055047597 LastSellPrice=65187.0
+16:59:14.018527> Try place lock BuyLimit, Bid: 65164.6 Ask:  65164.7 wantPrice:64907.1 EntrPrice:65182.1
+16:59:15.031725> [1Leg]: Buy OK BTCUSDC at 64907.10;Price=64907.1;Slippage=255.2;Execution=1012.197 ms;
+16:59:15.032720> TakeProfit Signal close short, stoploss=65382.1 TotalVal=0.025 pos:-0.025 EntrPrice=65182.1 Stk:10 Lnt:1 Prg:0 Bid: 65164.6 Ask:  65164.7
+16:59:15.032720> Placed lock BuyLimit, ticketCustom= 35, ticket= 5055047597 
+17:08:19.595225> Try Modify Lock Buy order for close at now, 
+17:08:19.596225> TakeProfit Signal close short, stoploss=65382.1 TotalVal=0.025 pos:-0.025 EntrPrice=65182.1 Stk:20 Lnt:2 Prg:0 Bid: 65194.8 Ask:  65194.9
+17:08:19.853241> [1Leg]: BUY OK MODIFY BTCUSDC at 0.025 lot;price=65169.80;execution=256.016 ms;
+17:08:19.853241> Modify BuyLimit (1Leg) for Close at now
+17:08:20.390834> Try Modify Lock Buy order for close at now, 
+17:08:20.391834> TakeProfit Signal close short, stoploss=65382.1 TotalVal=0.025 pos:-0.025 EntrPrice=65182.1 Stk:20 Lnt:2 Prg:0 Bid: 65199.9 Ask:  65200.0
+17:08:20.967867> [1Leg]: BUY OK MODIFY BTCUSDC at 0.025 lot;price=65174.90;execution=576.033 ms;
+17:08:20.967867> Modify BuyLimit (1Leg) for Close at now
+17:08:20.971868> Try Modify Lock Buy order for close at now, 
+17:08:20.971868> TakeProfit Signal close short, stoploss=65382.1 TotalVal=0.025 pos:-0.025 EntrPrice=65182.1 Stk:20 Lnt:2 Prg:0 Bid: 65200.6 Ask:  65200.7
+17:08:21.339888> [1Leg]: BUY OK MODIFY BTCUSDC at 0.025 lot;price=65175.60;execution=368.019 ms;
+17:08:21.340887> Modify BuyLimit (1Leg) for Close at now
+17:14:30.359724>  DevBUY (+): 62.31375 avgGapBuy:8.38625 
+17:14:30.360726> Try Delete lock Buy order, ticket = 5055047597 ticketCustom = 35
+17:14:30.360726> Stop Signal close short, stoploss=65382.1 TotalVal=0.025 pos:-0.025 EntrPrice=65182.1 Stk:10 Lnt:2 Prg:0 Bid: 65384.5 Ask:  65408.0
+17:14:30.958761> OrderId: [5055051537]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=597.032 ms;
+17:14:30.988762> Delete lock BuyLimit (1Leg)
+17:14:30.989763> Try Close Sell urgently, Bid: 65420.9 Ask:  65433.1
+17:14:30.989763> Stop Signal close short, stoploss=65382.1 TotalVal=0.025 pos:-0.025 EntrPrice=65182.1 Stk:10 Lnt:2 Prg:0 Bid: 65384.5 Ask:  65408.0
+17:14:31.458789> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65428.4;Execution=469.026 ms;
+17:14:31.459790> Close Main Sell ticketCustom = 36 ticket= 5055866341
+17:25:21.078649> Try Open BuyLimit, Bid: 65789.1 Ask:  65789.2
+17:25:21.079651> Order Signal open long, OrdStep=2 Order=1 StepByStepUP:3 Stk:20 StkImp:1 Lnt:2 Prg:0 Tide:20 Natiag:2 Bid: 65789.1 Ask:  65789.2
+17:25:21.354671> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65789.2;Execution=274.022 ms;
+17:25:21.358669> Placed Main BuyLimit, ticketCustom = 37 ticket= 5055866341 LastBuyPrice=65789.1
+17:25:26.000918> Try place lock SellLimit, Bid: 65775.1 Ask:65775.2 wantPrice:66067.288  EntrPrice:65792.288
+17:25:27.054980> [1Leg]: Sell OK BTCUSDC at 66067.30;Price=66067.3;Slippage=-287.0;Execution=1053.061 ms;
+17:25:27.055979> Placed lock SellLimit, ticketCustom= 38, ticket= 5055866341 
+17:25:27.055979> TakeProfit Signal close long, stoploss=65592.288 TotalVal=0.025 pos:0.025 EntrPrice=65792.288 Stk:20 Lnt:2 Prg:0 Bid: 65775.1 Ask:  65775.2
+17:26:19.208571> Try Modify Lock Sell order for Close at now, 
+17:26:19.210569> TakeProfit Signal close long, stoploss=65592.288 TotalVal=0.025 pos:0.025 EntrPrice=65792.288 Stk:1 Lnt:1 Prg:0 Bid: 65793.1 Ask:  65793.2
+17:26:19.480586> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=65818.20;execution=270.018 ms;
+17:26:19.481587> Modify Lock SellLimit (1Leg) for Close at now
+17:26:19.685597> Try Modify Lock Sell order for Close at now, 
+17:26:19.685597> TakeProfit Signal close long, stoploss=65592.288 TotalVal=0.025 pos:0.025 EntrPrice=65792.288 Stk:1 Lnt:1 Prg:0 Bid: 65792.9 Ask:  65793.0
+17:26:19.939611> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=65818.00;execution=253.013 ms;
+17:26:19.940611> Modify Lock SellLimit (1Leg) for Close at now
+17:26:20.614588> Try Modify Lock Sell order for Close at now, 
+17:26:20.615588> TakeProfit Signal close long, stoploss=65592.288 TotalVal=0.025 pos:0.025 EntrPrice=65792.288 Stk:1 Lnt:1 Prg:0 Bid: 65788.3 Ask:  65788.4
+17:26:20.888511> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=65813.40;execution=272.924 ms;
+17:26:20.894513> Modify Lock SellLimit (1Leg) for Close at now
+17:26:21.079523> Try Modify Lock Sell order for Close at now, 
+17:26:21.080521> TakeProfit Signal close long, stoploss=65592.288 TotalVal=0.025 pos:0.025 EntrPrice=65792.288 Stk:1 Lnt:1 Prg:0 Bid: 65781.5 Ask:  65781.6
+17:26:21.341542> [1Leg]: SELL OK MODIFY BTCUSDC at 0.025 lot;price=65806.60;execution=261.021 ms;
+17:26:21.342539> Modify Lock SellLimit (1Leg) for Close at now
+17:28:14.130727> Try Delete lock Sell order,  ticket = 5055866341 ticketCustom = 38
+17:28:14.130727> Stop Signal close long, stoploss=65592.288 TotalVal=0.025 pos:0.025 EntrPrice=65792.288 Stk:111 Lnt:1 Prg:0 Bid: 65590.9 Ask:  65591.0
+17:28:15.265146> OrderId: [5056637149]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=1134.419 ms;
+17:28:15.266146> Delete lock SellLimit (1Leg)
+17:28:15.266146> Try Close Buy urgently, Ask: 65584.1 Bid:65584.0 
+17:28:15.266146> Stop Signal close long, stoploss=65592.288 TotalVal=0.025 pos:0.025 EntrPrice=65792.288 Stk:111 Lnt:1 Prg:0 Bid: 65590.9 Ask:  65591.0
+17:28:15.521184> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=65584.1;Execution=254.038 ms;
+17:28:15.522160> Close Main Buy, ticketCustom = 39 ticket = 5056798903
+17:28:38.556533>  DevBUY (+): 159.905 avgGapBuy:8.195 
+17:28:38.624536>  DevBUY (-): 95.205 avgGapBuy:8.195 
+17:28:39.081564>  DevBUY (-): 103.305 avgGapBuy:8.195 
+17:28:39.596395>  DevBUY (-): 107.205 avgGapBuy:8.195 
+17:28:40.104425>  DevBUY (-): 109.805 avgGapBuy:8.195 
+17:29:02.603803>  DevBUY (-): 138.045 avgGapBuy:42.855 
+17:41:56.029659>  DevSELL (+): -75.89625 avgGapSell:11.09625 
+17:44:01.543620> Try Open SellLimit, Ask: 65606.7 Bid:65606.6
+17:44:01.543620> Order Signal open short, OrdStep=1 Order=1 StepByStepDN:3 Stk:10 StkImp:1 Lnt:1 Prg:0 Natiag:1 Bid: 65606.6 Ask:  65606.7
+17:44:01.813633> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=65605.7;Execution=269.013 ms;
+17:44:01.906638> Placed Main SellLimit, ticketCustom = 40 ticket = 5056798903 LastSellPrice=65606.7
+17:44:05.000084> Try place lock BuyLimit, Bid: 65605.5 Ask:  65605.6 wantPrice:65330.6 EntrPrice:65605.6
+17:44:05.997003> [1Leg]: Buy OK BTCUSDC at 65330.60;Price=65330.6;Slippage=275.0;Execution=995.926 ms;
+17:44:05.999004> TakeProfit Signal close short, stoploss=65805.6 TotalVal=0.025 pos:-0.025 EntrPrice=65605.6 Stk:10 Lnt:1 Prg:0 Bid: 65605.5 Ask:  65605.6
+17:44:06.000005> Placed lock BuyLimit, ticketCustom= 41, ticket= 5056798903 
+18:06:40.263779> Try Delete lock Buy order, ticket = 5056798903 ticketCustom = 41
+18:06:40.263779> Stop Signal close short, stoploss=65805.6 TotalVal=0.025 pos:-0.025 EntrPrice=65605.6 Stk:10 Lnt:2 Prg:0 Bid: 65807.3 Ask:  65807.4
+18:06:40.572724> OrderId: [5057493319]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=308.946 ms;
+18:06:40.573723> Delete lock BuyLimit (1Leg)
+18:06:40.573723> Try Close Sell urgently, Bid: 65807.3 Ask:  65807.4
+18:06:40.573723> Stop Signal close short, stoploss=65805.6 TotalVal=0.025 pos:-0.025 EntrPrice=65605.6 Stk:10 Lnt:2 Prg:0 Bid: 65807.3 Ask:  65807.4
+18:06:40.842744> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=65807.4;Execution=269.020 ms;
+18:06:40.842744> Close Main Sell ticketCustom = 42 ticket= 5058253210
+18:17:59.085890> Try Open SellLimit, Ask: 65645.1 Bid:65645.0
+18:17:59.086889> Order Signal open short, OrdStep=1 Order=1 StepByStepDN:3 Stk:10 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 65645.0 Ask:  65645.1
+18:18:00.234061> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=65635.3;Execution=1146.172 ms;
+18:18:00.235055> Placed Main SellLimit, ticketCustom = 43 ticket = 5058253210 LastSellPrice=65645.1
+18:18:05.009820> Try place lock BuyLimit, Bid: 65626.0 Ask:  65626.1 wantPrice:65358.1 EntrPrice:65633.1
+18:18:05.281852> [1Leg]: Buy OK BTCUSDC at 65358.10;Price=65358.1;Slippage=268.0;Execution=270.033 ms;
+18:18:05.281852> TakeProfit Signal close short, stoploss=65833.1 TotalVal=0.025 pos:-0.025 EntrPrice=65633.1 Stk:10 Lnt:2 Prg:0 Bid: 65626.0 Ask:  65626.1
+18:18:05.282836> Placed lock BuyLimit, ticketCustom= 44, ticket= 5058692505 
+18:22:36.150748> Try Modify Lock Buy order for close at now, 
+18:22:36.150748> TakeProfit Signal close short, stoploss=65833.1 TotalVal=0.025 pos:-0.025 EntrPrice=65633.1 Stk:20 Lnt:1 Prg:0 Bid: 65783.6 Ask:  65783.7
+18:22:36.450768> [1Leg]: BUY OK MODIFY BTCUSDC at 0.025 lot;price=65758.60;execution=300.021 ms;
+18:22:36.451768> Modify BuyLimit (1Leg) for Close at now
+18:22:36.491770> Try Modify Lock Buy order for close at now, 
+18:22:36.492770> TakeProfit Signal close short, stoploss=65833.1 TotalVal=0.025 pos:-0.025 EntrPrice=65633.1 Stk:20 Lnt:1 Prg:0 Bid: 65788.0 Ask:  65788.1
+18:22:36.757786> [1Leg]: BUY OK MODIFY BTCUSDC at 0.025 lot;price=65763.00;execution=264.016 ms;
+18:22:36.757786> Modify BuyLimit (1Leg) for Close at now
+18:22:38.950085> Try Modify Lock Buy order for close at now, 
+18:22:38.951083> TakeProfit Signal close short, stoploss=65833.1 TotalVal=0.025 pos:-0.025 EntrPrice=65633.1 Stk:20 Lnt:1 Prg:0 Bid: 65788.2 Ask:  65788.3
+18:22:39.228104> [1Leg]: BUY OK MODIFY BTCUSDC at 0.025 lot;price=65763.20;execution=277.021 ms;
+18:22:39.228104> Modify BuyLimit (1Leg) for Close at now
+18:23:33.540371>  DevBUY (-): 84.8775 avgGapBuy:8.5225 
+19:01:35.565561>  DevBUY (-): 180.1325 avgGapBuy:18.5675 
+19:01:35.715572>  DevBUY (+): 82.8325 avgGapBuy:18.5675 
+19:02:00.299192>  DevBUY (-): 79.1625 avgGapBuy:35.6375 
+19:03:25.460685>  DevSELL (+): -101.2925 avgGapSell:35.6925 
+19:04:10.020592>  DevBUY (+): 74.16 avgGapBuy:41.14 
+19:04:40.501977>  DevBUY (-): 92.10 avgGapBuy:44.10 
+19:04:45.035341>  DevBUY (-): 87.60 avgGapBuy:44.10 
+19:06:19.643675> Try Open BuyLimit, Bid: 66154.8 Ask:  66154.9
+19:06:19.643675> Order Signal open long, OrdStep=2 Order=1 StepByStepUP:3 Stk:20 StkImp:1 Lnt:2 Prg:0 Tide:20 Natiag:1 Bid: 66154.8 Ask:  66154.9
+19:06:19.900691> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=66174.0;Execution=256.015 ms;
+19:06:19.900691> Placed Main BuyLimit, ticketCustom = 45 ticket= 5058692505 LastBuyPrice=66154.8
+19:06:23.000365> Try place lock SellLimit, Bid: 66134.4 Ask:66134.5 wantPrice:66445.2  EntrPrice:66170.2
+19:06:24.117570> [1Leg]: Sell OK BTCUSDC at 66445.20;Price=66445.2;Slippage=-289.8;Execution=1116.208 ms;
+19:06:24.118583> Placed lock SellLimit, ticketCustom= 46, ticket= 5058692505 
+19:06:24.118583> TakeProfit Signal close long, stoploss=65970.2 TotalVal=0.025 pos:0.025 EntrPrice=66170.2 Stk:20 Lnt:2 Prg:0 Bid: 66134.4 Ask:  66134.5
+19:06:24.119583> Try Delete lock Sell order,  ticket = 5058692505 ticketCustom = 46
+19:06:24.119583> TakeProfit Signal close long, stoploss=65970.2 TotalVal=0.025 pos:0.025 EntrPrice=66170.2 Stk:20 Lnt:2 Prg:0 Bid: 66134.4 Ask:  66134.5
+19:06:24.373596> OrderId: [5060832275]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=254.014 ms;
+19:06:24.374595> Delete lock SellLimit (1Leg)
+19:06:24.454601> Try place lock SellLimit, Bid: 66155.3 Ask:66155.4 wantPrice:66445.2  EntrPrice:66170.2
+19:06:24.711620> [1Leg]: Sell OK BTCUSDC at 66445.20;Price=66445.2;Slippage=-290.2;Execution=257.019 ms;
+19:06:24.712617> Placed lock SellLimit, ticketCustom= 47, ticket= 5060832577 
+19:06:24.712617> TakeProfit Signal close long, stoploss=65970.2 TotalVal=0.025 pos:0.025 EntrPrice=66170.2 Stk:20 Lnt:2 Prg:0 Bid: 66155.3 Ask:  66155.4
+19:09:17.342165> Try Delete lock Sell order,  ticket = 5060832577 ticketCustom = 47
+19:09:17.343164> TakeProfit Signal close long, stoploss=65970.2 TotalVal=0.025 pos:0.025 EntrPrice=66170.2 Stk:10 Lnt:2 Prg:0 Bid: 66122.0 Ask:  66122.1
+19:09:17.613178> OrderId: [5060832577]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=268.015 ms;
+19:09:17.614179> Delete lock SellLimit (1Leg)
+19:09:17.614179> Try Close Buy urgently, Ask: 66122.1 Bid:66122.0 
+19:09:17.614179> TakeProfit Signal close long, stoploss=65970.2 TotalVal=0.025 pos:0.025 EntrPrice=66170.2 Stk:10 Lnt:2 Prg:0 Bid: 66122.0 Ask:  66122.1
+19:09:17.899204> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=66122.1;Execution=285.025 ms;
+19:09:17.899204> Close Main Buy, ticketCustom = 48 ticket = 5060832577
+19:09:17.902209> Try Open SellLimit, Ask: 66122.1 Bid:66122.0
+19:09:17.902209> Order Signal open short, OrdStep=1 Order=2 StepByStepDN:3 Stk:10 StkImp:1 Lnt:0 Prg:0 Natiag:0 Bid: 66122.0 Ask:  66122.1
+19:09:18.197212> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=66122.1;Execution=295.003 ms;
+19:09:18.197212> Placed Main SellLimit, ticketCustom = 49 ticket = 5060832577 LastSellPrice=66122.1
+19:09:23.016591> Try place lock BuyLimit, Bid: 66099.9 Ask:  66100.0 wantPrice:65846.588 EntrPrice:66121.588
+19:09:24.136563> [1Leg]: Buy OK BTCUSDC at 65846.60;Price=65846.6;Slippage=252.4;Execution=1118.971 ms;
+19:09:24.136563> TakeProfit Signal close short, stoploss=66321.588 TotalVal=0.025 pos:-0.025 EntrPrice=66121.588 Stk:10 Lnt:0 Prg:0 Bid: 66099.9 Ask:  66100.0
+19:09:24.136563> Placed lock BuyLimit, ticketCustom= 50, ticket= 5060832577 
+19:13:49.651643>  DevBUY (-): 97.06125 avgGapBuy:26.03875 
+19:21:15.499417> Try Delete lock Buy order, ticket = 5060832577 ticketCustom = 50
+19:21:15.500417> Stop Signal close short, stoploss=66321.588 TotalVal=0.025 pos:-0.025 EntrPrice=66121.588 Stk:1 Lnt:2 Prg:0 Bid: 66322.1 Ask:  66322.2
+19:21:15.755430> OrderId: [5060980334]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=255.013 ms;
+19:21:15.756431> Delete lock BuyLimit (1Leg)
+19:21:15.756431> Try Close Sell urgently, Bid: 66322.1 Ask:  66322.2
+19:21:15.756431> Stop Signal close short, stoploss=66321.588 TotalVal=0.025 pos:-0.025 EntrPrice=66121.588 Stk:1 Lnt:2 Prg:0 Bid: 66322.1 Ask:  66322.2
+19:21:16.011141> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=66322.2;Execution=253.711 ms;
+19:21:16.012132> Close Main Sell ticketCustom = 51 ticket= 5061537206
+19:24:26.215828>  DevBUY (+): 99.07625 avgGapBuy:27.42375 
+19:24:26.591850>  DevSELL (-): -75.36875 avgGapSell:27.46875 
+19:24:32.632787>  DevBUY (-): 98.99875 avgGapBuy:26.80125 
+19:58:39.809055>  DevBUY (-): 64.56625 avgGapBuy:18.23375 
+19:58:46.880460>  DevBUY (-): 73.4275 avgGapBuy:26.4725 
+20:04:25.006847>  DevSELL (+): -61.89875 avgGapSell:-7.60125 
+20:04:27.672999>  DevSELL (+): -69.19875 avgGapSell:-7.60125 
+20:04:28.284036>  DevSELL (-): -86.89875 avgGapSell:-7.60125 
+20:04:28.604055>  DevSELL (-): -99.29875 avgGapSell:-7.60125 
+20:04:30.556167>  DevSELL (+): -77.63 avgGapSell:-15.97 
+20:05:08.041315>  DevBUY (-): 63.33 avgGapBuy:-22.43 
+20:05:15.726755>  DevBUY (-): 67.7525 avgGapBuy:-17.8525 
+20:05:24.262243>  DevBUY (-): 91.80125 avgGapBuy:-18.80125 
+20:05:24.563267>  DevBUY (-): 83.90125 avgGapBuy:-18.80125 
+20:05:25.986359>  DevBUY (+): 76.10125 avgGapBuy:-18.80125 
+20:05:29.277532>  DevBUY (-): 86.28875 avgGapBuy:-15.28875 
+20:05:29.593552>  DevBUY (+): 86.28875 avgGapBuy:-15.28875 
+20:05:36.165926>  DevBUY (-): 67.8725 avgGapBuy:-13.8725 
+20:05:37.389997>  DevBUY (-): 73.7725 avgGapBuy:-13.8725 
+20:05:39.914144>  DevBUY (+): 67.735 avgGapBuy:-11.735 
+20:07:04.334984>  DevBUY (-): 74.53125 avgGapBuy:29.26875 
+20:07:08.484221>  DevBUY (+): 84.985 avgGapBuy:29.415 
+20:07:08.671232>  DevBUY (-): 79.185 avgGapBuy:29.415 
+20:07:11.199375>  DevBUY (-): 80.385 avgGapBuy:29.415 
+20:07:17.027710>  DevBUY (+): 65.4675 avgGapBuy:34.2325 
+20:07:23.771096>  DevSELL (-): -62.82625 avgGapSell:33.72625 
+20:07:24.291128>  DevSELL (-): -63.02625 avgGapSell:33.72625 
+20:11:23.175826> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:11:28.650139> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:11:28.651143> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:11:32.823377> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:12:46.044577>  DevBUY (-): 62.8475 avgGapBuy:19.5525 
+20:12:47.358650>  DevBUY (-): 67.0475 avgGapBuy:19.5525 
+20:12:47.879680>  DevBUY (+): 62.2475 avgGapBuy:19.5525 
+20:12:52.258932>  DevBUY (-): 72.89 avgGapBuy:27.41 
+20:13:10.186961>  DevBUY (+): 63.6725 avgGapBuy:43.9275 
+20:13:41.769771>  DevSELL (-): -66.54125 avgGapSell:66.44125 
+20:13:49.821231>  DevSELL (-): -82.44 avgGapSell:56.74 
+20:13:50.632278>  DevSELL (-): -71.84 avgGapSell:56.74 
+20:13:50.777328>  DevSELL (-): -73.24 avgGapSell:56.74 
+20:13:50.879293>  DevSELL (-): -75.64 avgGapSell:56.74 
+20:13:52.162368>  DevSELL (-): -80.95875 avgGapSell:51.45875 
+20:13:53.429439>  DevSELL (+): -79.85875 avgGapSell:51.45875 
+20:14:14.194628>  DevSELL (-): -65.1875 avgGapSell:42.4875 
+20:14:14.420644>  DevSELL (-): -76.2875 avgGapSell:42.4875 
+20:14:14.593654>  DevSELL (-): -78.9875 avgGapSell:42.4875 
+20:14:15.453703>  DevSELL (-): -78.9875 avgGapSell:42.4875 
+20:14:16.134742>  DevSELL (+): -78.9875 avgGapSell:42.4875 
+20:14:17.518822>  DevSELL (-): -84.3875 avgGapSell:42.4875 
+20:15:08.341736>  DevSELL (-): -74.02 avgGapSell:-41.48 
+20:15:08.545745>  DevSELL (+): -74.02 avgGapSell:-41.48 
+20:15:09.274788>  DevSELL (+): -74.22 avgGapSell:-41.48 
+20:15:10.225841>  DevSELL (-): -68.73375 avgGapSell:-45.16625 
+20:15:13.486030>  DevSELL (+): -63.93375 avgGapSell:-45.16625 
+20:15:24.502660>  DevBUY (-): 74.69625 avgGapBuy:-59.19625 
+20:15:25.944745>  DevBUY (-): 80.15125 avgGapBuy:-57.55125 
+20:15:26.416774>  DevBUY (+): 74.35125 avgGapBuy:-57.55125 
+20:15:27.495832>  DevBUY (-): 83.45125 avgGapBuy:-57.55125 
+20:15:28.043867>  DevBUY (-): 85.45125 avgGapBuy:-57.55125 
+20:15:28.645899>  DevBUY (-): 89.55125 avgGapBuy:-57.55125 
+20:15:30.091982>  DevBUY (-): 102.05125 avgGapBuy:-57.55125 
+20:15:31.525062>  DevBUY (-): 105.24625 avgGapBuy:-48.04625 
+20:15:31.898083>  DevBUY (+): 97.74625 avgGapBuy:-48.04625 
+20:15:33.277162>  DevBUY (-): 107.04625 avgGapBuy:-48.04625 
+20:15:33.410172>  DevBUY (+): 101.74625 avgGapBuy:-48.04625 
+20:15:35.168272>  DevBUY (-): 112.04625 avgGapBuy:-48.04625 
+20:17:29.690843> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:17:34.944143> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:17:34.944143> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:17:35.864194>  DevBUY (-): 62.39 avgGapBuy:14.81 
+20:17:37.368279> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:18:08.082042>  DevBUY (-): 68.80375 avgGapBuy:30.49625 
+20:18:09.453118>  DevBUY (-): 86.35 avgGapBuy:42.15 
+20:18:09.674133>  DevBUY (+): 91.55 avgGapBuy:42.15 
+20:18:10.117159>  DevBUY (+): 96.45 avgGapBuy:42.15 
+20:18:10.742193>  DevBUY (-): 101.95 avgGapBuy:42.15 
+20:18:34.584559>  DevBUY (+): 76.70375 avgGapBuy:83.19625 
+20:18:34.883577>  DevBUY (+): 77.80375 avgGapBuy:83.19625 
+20:18:35.253598>  DevBUY (+): 77.80375 avgGapBuy:83.19625 
+20:18:35.257601>  DevBUY (-): 74.80375 avgGapBuy:83.19625 
+20:18:35.895635>  DevBUY (+): 80.70375 avgGapBuy:83.19625 
+20:18:35.979640>  DevBUY (-): 66.00375 avgGapBuy:83.19625 
+20:18:36.128648>  DevBUY (-): 80.30375 avgGapBuy:83.19625 
+20:19:09.445558>  DevSELL (-): -64.1625 avgGapSell:116.8625 
+20:19:09.946589>  DevSELL (-): -70.6625 avgGapSell:116.8625 
+20:19:10.205602>  DevSELL (+): -70.7625 avgGapSell:116.8625 
+20:19:10.584622>  DevSELL (-): -92.6025 avgGapSell:112.2025 
+20:19:11.201658>  DevSELL (-): -122.5025 avgGapSell:112.2025 
+20:19:11.801692>  DevSELL (-): -128.4025 avgGapSell:112.2025 
+20:19:11.951702>  DevSELL (-): -70.2025 avgGapSell:112.2025 
+20:19:12.217720>  DevSELL (-): -147.8025 avgGapSell:112.2025 
+20:19:12.226721>  DevSELL (+): -89.6025 avgGapSell:112.2025 
+20:19:12.531736>  DevSELL (-): -147.8025 avgGapSell:112.2025 
+20:19:12.542736>  DevSELL (+): -89.6025 avgGapSell:112.2025 
+20:19:13.186770>  DevSELL (-): -148.5025 avgGapSell:112.2025 
+20:19:13.550794>  DevSELL (-): -100.8025 avgGapSell:112.2025 
+20:19:13.803809>  DevSELL (-): -107.9025 avgGapSell:112.2025 
+20:19:14.407842>  DevSELL (+): -123.8025 avgGapSell:112.2025 
+20:19:14.891872>  DevSELL (-): -128.7025 avgGapSell:112.2025 
+20:19:16.281950>  DevSELL (-): -109.19875 avgGapSell:97.09875 
+20:19:17.726033>  DevSELL (+): -120.19875 avgGapSell:97.09875 
+20:19:20.791212>  DevSELL (+): -83.22375 avgGapSell:89.22375 
+20:19:21.871271>  DevSELL (+): -77.32375 avgGapSell:89.22375 
+20:19:22.524310>  DevSELL (-): -73.92375 avgGapSell:89.22375 
+20:19:22.903332>  DevBUY (-): 75.03625 avgGapBuy:88.46375 
+20:19:23.037338>  DevBUY (-): 114.43625 avgGapBuy:88.46375 
+20:19:23.340357>  DevSELL (-): -100.42375 avgGapSell:89.22375 
+20:19:23.664375>  DevBUY (-): 70.93625 avgGapBuy:88.46375 
+20:19:23.902390>  DevSELL (-): -97.72375 avgGapSell:89.22375 
+20:19:24.126402>  DevSELL (-): -160.12375 avgGapSell:89.22375 
+20:19:24.863445>  DevSELL (-): -71.12375 avgGapSell:89.22375 
+20:19:25.786497>  DevBUY (+): 100.68125 avgGapBuy:71.21875 
+20:19:35.192037>  DevBUY (-): 78.8275 avgGapBuy:66.9725 
+20:19:54.835162>  DevBUY (-): 75.31875 avgGapBuy:54.38125 
+20:19:55.098176>  DevBUY (+): 72.71875 avgGapBuy:54.38125 
+20:19:55.256187>  DevBUY (-): 78.31875 avgGapBuy:54.38125 
+20:19:55.352191>  DevBUY (+): 84.21875 avgGapBuy:54.38125 
+20:19:55.582205>  DevBUY (-): 86.41875 avgGapBuy:54.38125 
+20:19:57.001284>  DevBUY (-): 88.61875 avgGapBuy:54.38125 
+20:19:58.893396>  DevBUY (-): 86.545 avgGapBuy:59.855 
+20:19:58.982397>  DevBUY (+): 81.845 avgGapBuy:59.855 
+20:19:59.104406>  DevBUY (-): 87.145 avgGapBuy:59.855 
+20:20:00.907508>  DevBUY (-): 85.245 avgGapBuy:59.855 
+20:20:01.633552>  DevBUY (-): 67.845 avgGapBuy:59.855 
+20:20:01.839563>  DevBUY (-): 81.745 avgGapBuy:59.855 
+20:20:02.088577>  DevBUY (+): 97.745 avgGapBuy:59.855 
+20:20:02.267587>  DevBUY (-): 74.245 avgGapBuy:59.855 
+20:20:02.883623>  DevBUY (-): 70.745 avgGapBuy:59.855 
+20:20:06.083806>  DevBUY (-): 69.255 avgGapBuy:63.645 
+20:20:06.378822>  DevBUY (-): 74.655 avgGapBuy:63.645 
+20:20:07.348880>  DevBUY (-): 67.355 avgGapBuy:63.645 
+20:20:07.527888>  DevBUY (+): 69.955 avgGapBuy:63.645 
+20:20:08.638955>  DevBUY (-): 69.955 avgGapBuy:63.645 
+20:20:08.829963>  DevBUY (+): 63.0475 avgGapBuy:70.5525 
+20:20:09.043978>  DevSELL (+): -75.77625 avgGapSell:72.37625 
+20:20:09.054978>  DevBUY (-): 63.0475 avgGapBuy:70.5525 
+20:20:10.359053>  DevSELL (-): -116.97625 avgGapSell:72.37625 
+20:20:11.472114>  DevSELL (+): -102.37625 avgGapSell:72.37625 
+20:20:17.842480>  DevSELL (+): -109.41375 avgGapSell:67.51375 
+20:20:20.518632>  DevSELL (-): -139.66 avgGapSell:65.76 
+20:20:21.416687>  DevSELL (-): -120.06 avgGapSell:65.76 
+20:20:21.870711>  DevSELL (-): -128.86 avgGapSell:65.76 
+20:20:23.159786>  DevSELL (-): -165.96 avgGapSell:65.76 
+20:20:24.024836>  DevSELL (-): -175.16 avgGapSell:65.76 
+20:20:24.976891>  DevSELL (+): -149.11 avgGapSell:38.41 
+20:20:25.709929>  DevSELL (+): -149.11 avgGapSell:38.41 
+20:20:31.082240>  DevSELL (-): -69.06375 avgGapSell:5.06375 
+20:20:31.116242>  DevSELL (-): -72.96375 avgGapSell:5.06375 
+20:20:31.684276>  DevSELL (-): -92.76375 avgGapSell:5.06375 
+20:20:32.670330>  DevSELL (-): -103.36375 avgGapSell:5.06375 
+20:20:33.286365>  DevSELL (-): -113.46375 avgGapSell:5.06375 
+20:21:23.872264>  DevBUY (+): 62.0575 avgGapBuy:-81.4575 
+20:21:34.188859>  DevBUY (-): 62.48375 avgGapBuy:-65.48375 
+20:22:03.695550>  DevBUY (-): 71.4825 avgGapBuy:-49.1825 
+20:22:06.216695>  DevBUY (+): 74.7825 avgGapBuy:-49.1825 
+20:22:06.863730>  DevBUY (-): 74.8825 avgGapBuy:-49.1825 
+20:22:13.886133>  DevBUY (-): 77.01375 avgGapBuy:-23.21375 
+20:23:13.163534>  DevSELL (-): -67.23625 avgGapSell:-30.66375 
+20:23:13.397546>  DevSELL (-): -75.03625 avgGapSell:-30.66375 
+20:23:19.614902>  DevSELL (-): -102.99875 avgGapSell:-41.40125 
+20:23:19.619902>  DevSELL (+): -108.89875 avgGapSell:-41.40125 
+20:23:20.203938>  DevSELL (-): -83.1475 avgGapSell:-55.9525 
+20:23:20.722966>  DevSELL (-): -103.0475 avgGapSell:-55.9525 
+20:23:20.997982>  DevSELL (+): -93.7475 avgGapSell:-55.9525 
+20:23:25.869261>  DevSELL (-): -62.265 avgGapSell:-72.635 
+20:23:27.281342>  DevSELL (-): -66.665 avgGapSell:-72.635 
+20:23:27.906380>  DevSELL (+): -66.365 avgGapSell:-72.635 
+20:23:37.395925> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:23:43.247258> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:23:43.248261> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:23:45.062362> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:23:50.403668>  DevSELL (-): -66.84375 avgGapSell:-75.85625 
+20:23:54.968930>  DevSELL (+): -63.23875 avgGapSell:-81.16125 
+20:23:55.884981>  DevSELL (+): -65.93875 avgGapSell:-81.16125 
+20:24:21.752466>  DevSELL (-): -64.67875 avgGapSell:-88.12125 
+20:24:23.659576>  DevSELL (-): -69.67625 avgGapSell:-88.52375 
+20:26:03.600306> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:26:09.065619> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:26:09.068618> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:26:10.548707> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:26:18.109137>  DevBUY (-): 64.9025 avgGapBuy:-75.7025 
+20:27:03.840758>  DevSELL (-): -74.67625 avgGapSell:-78.72375 
+20:27:05.013826>  DevSELL (-): -74.87625 avgGapSell:-78.72375 
+20:27:05.173836>  DevSELL (+): -74.87625 avgGapSell:-78.72375 
+20:28:24.837404>  DevSELL (-): -66.9725 avgGapSell:-144.4275 
+20:28:25.428436>  DevSELL (+): -78.9725 avgGapSell:-144.4275 
+20:28:25.835461>  DevSELL (-): -77.6725 avgGapSell:-144.4275 
+20:28:29.245657>  DevSELL (-): -101.5975 avgGapSell:-161.7025 
+20:28:29.921696>  DevSELL (+): -101.5975 avgGapSell:-161.7025 
+20:28:38.206169>  DevSELL (-): -108.835 avgGapSell:-181.765 
+20:28:38.521199>  DevSELL (-): -191.335 avgGapSell:-181.765 
+20:28:39.848264>  DevSELL (+): -114.435 avgGapSell:-181.765 
+20:28:44.730544>  DevSELL (+): -165.9375 avgGapSell:-207.6625 
+20:29:29.695124>  DevBUY (-): 81.19375 avgGapBuy:-317.69375 
+20:29:30.901192>  DevBUY (-): 81.29375 avgGapBuy:-317.69375 
+20:29:31.480223>  DevBUY (-): 78.19375 avgGapBuy:-317.69375 
+20:29:32.282271>  DevBUY (-): 86.69375 avgGapBuy:-317.69375 
+20:29:33.083316>  DevBUY (-): 111.87125 avgGapBuy:-308.87125 
+20:29:33.469337>  DevBUY (-): 114.77125 avgGapBuy:-308.87125 
+20:29:38.071604>  DevBUY (+): 85.7775 avgGapBuy:-292.3775 
+20:29:38.180610>  DevBUY (-): 88.3775 avgGapBuy:-292.3775 
+20:29:38.637636>  DevBUY (-): 96.9775 avgGapBuy:-292.3775 
+20:29:38.792651>  DevBUY (+): 84.8775 avgGapBuy:-292.3775 
+20:29:39.031661>  DevBUY (+): 89.4775 avgGapBuy:-292.3775 
+20:29:39.110665>  DevBUY (-): 73.3775 avgGapBuy:-292.3775 
+20:29:39.254671>  DevBUY (+): 72.2775 avgGapBuy:-292.3775 
+20:29:39.642834>  DevBUY (-): 72.4775 avgGapBuy:-292.3775 
+20:29:39.832703>  DevBUY (-): 109.5775 avgGapBuy:-292.3775 
+20:29:40.325732>  DevBUY (-): 105.2775 avgGapBuy:-292.3775 
+20:29:40.974770>  DevBUY (-): 84.9775 avgGapBuy:-292.3775 
+20:29:41.564805>  DevBUY (-): 77.4775 avgGapBuy:-292.3775 
+20:29:42.451855>  DevBUY (+): 85.9775 avgGapBuy:-292.3775 
+20:29:42.755873>  DevBUY (+): 87.0775 avgGapBuy:-292.3775 
+20:29:42.757871>  DevBUY (-): 88.8775 avgGapBuy:-292.3775 
+20:29:42.775874>  DevBUY (-): 95.7775 avgGapBuy:-292.3775 
+20:29:44.184953>  DevBUY (+): 98.14625 avgGapBuy:-261.54625 
+20:29:45.108007>  DevBUY (+): 118.94625 avgGapBuy:-261.54625 
+20:29:46.377080>  DevBUY (+): 121.24625 avgGapBuy:-261.54625 
+20:29:46.619093>  DevBUY (-): 110.54625 avgGapBuy:-261.54625 
+20:29:46.696098>  DevBUY (+): 104.84625 avgGapBuy:-261.54625 
+20:29:46.810106>  DevBUY (-): 96.34625 avgGapBuy:-261.54625 
+20:29:47.397146>  DevBUY (-): 90.94625 avgGapBuy:-261.54625 
+20:29:47.528144>  DevBUY (-): 95.44625 avgGapBuy:-261.54625 
+20:29:47.566147>  DevBUY (-): 96.14625 avgGapBuy:-261.54625 
+20:29:48.197185>  DevBUY (-): 89.06375 avgGapBuy:-235.86375 
+20:29:48.401194> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:29:48.704217>  DevBUY (-): 120.66375 avgGapBuy:-235.86375 
+20:29:49.871282>  DevBUY (-): 100.26375 avgGapBuy:-235.86375 
+20:29:51.220355>  DevBUY (-): 66.56375 avgGapBuy:-235.86375 
+20:29:52.182412>  DevBUY (+): 67.16375 avgGapBuy:-235.86375 
+20:29:52.353422>  DevBUY (-): 71.16375 avgGapBuy:-235.86375 
+20:29:53.514487> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:29:53.515488> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:29:54.180525>  DevBUY (+): 114.2175 avgGapBuy:-221.3175 
+20:29:54.845564>  DevBUY (-): 72.1175 avgGapBuy:-221.3175 
+20:29:55.243586> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:29:58.545776>  DevBUY (-): 74.655 avgGapBuy:-199.055 
+20:29:59.606841>  DevBUY (-): 120.155 avgGapBuy:-199.055 
+20:30:00.671899>  DevBUY (-): 136.955 avgGapBuy:-199.055 
+20:30:02.106982>  DevBUY (-): 149.855 avgGapBuy:-199.055 
+20:30:02.507006>  DevBUY (-): 153.655 avgGapBuy:-199.055 
+20:30:02.569008>  DevBUY (-): 162.255 avgGapBuy:-199.055 
+20:30:02.930029>  DevBUY (+): 145.755 avgGapBuy:-199.055 
+20:30:06.444231>  DevBUY (-): 92.4775 avgGapBuy:-165.7775 
+20:30:06.805251>  DevBUY (-): 104.6775 avgGapBuy:-165.7775 
+20:30:07.450288>  DevBUY (+): 68.1775 avgGapBuy:-165.7775 
+20:30:08.676358>  DevBUY (-): 71.3775 avgGapBuy:-165.7775 
+20:31:40.416614>  DevBUY (-): 69.4625 avgGapBuy:-68.3625 
+20:31:40.987652>  DevBUY (-): 73.5625 avgGapBuy:-68.3625 
+20:31:42.699750>  DevBUY (+): 84.1625 avgGapBuy:-68.3625 
+20:31:49.402142>  DevBUY (-): 75.90875 avgGapBuy:-61.90875 
+20:31:49.481136>  DevBUY (+): 75.90875 avgGapBuy:-61.90875 
+20:32:51.544712>  DevSELL (+): -65.29 avgGapSell:-21.91 
+20:32:52.647759>  DevSELL (-): -62.62875 avgGapSell:-25.67125 
+20:32:53.381802>  DevSELL (-): -65.12875 avgGapSell:-25.67125 
+20:33:54.851326>  DevBUY (-): 65.03625 avgGapBuy:-18.53625 
+20:33:57.631486>  DevBUY (+): 62.12125 avgGapBuy:-10.52125 
+20:33:57.877502>  DevBUY (-): 91.62125 avgGapBuy:-10.52125 
+20:33:58.332527>  DevBUY (+): 82.42125 avgGapBuy:-10.52125 
+20:34:06.233979>  DevBUY (+): 80.00375 avgGapBuy:13.49625 
+20:34:06.334001>  DevBUY (-): 107.90375 avgGapBuy:13.49625 
+20:34:07.147031>  DevBUY (+): 94.80375 avgGapBuy:13.49625 
+20:34:07.685062>  DevBUY (+): 109.20375 avgGapBuy:13.49625 
+20:34:08.069084>  DevBUY (-): 108.50375 avgGapBuy:13.49625 
+20:34:08.957135>  DevBUY (+): 121.70375 avgGapBuy:13.49625 
+20:34:09.383158>  DevBUY (-): 252.20375 avgGapBuy:13.49625 
+20:34:10.000193>  DevBUY (-): 263.20375 avgGapBuy:13.49625 
+20:34:14.765467>  DevBUY (+): 234.05375 avgGapBuy:44.94625 
+20:34:17.321615>  DevBUY (-): 164.50125 avgGapBuy:59.59875 
+20:34:17.905649>  DevBUY (-): 160.80125 avgGapBuy:59.59875 
+20:34:18.515684>  DevBUY (+): 89.40125 avgGapBuy:59.59875 
+20:34:19.333729>  DevBUY (-): 86.60125 avgGapBuy:59.59875 
+20:34:20.341798>  DevBUY (-): 88.50125 avgGapBuy:59.59875 
+20:34:34.667611>  DevBUY (+): 68.72875 avgGapBuy:98.17125 
+20:34:34.830618>  DevBUY (-): 68.12875 avgGapBuy:98.17125 
+20:34:35.025630>  DevBUY (-): 68.12875 avgGapBuy:98.17125 
+20:34:35.669666>  DevBUY (+): 81.52875 avgGapBuy:98.17125 
+20:34:36.183697>  DevBUY (+): 70.02875 avgGapBuy:112.07125 
+20:34:36.465713>  DevBUY (-): 75.32875 avgGapBuy:112.07125 
+20:35:10.374660>  DevBUY (+): 70.33875 avgGapBuy:119.26125 
+20:35:10.381663>  DevBUY (-): 70.93875 avgGapBuy:119.26125 
+20:35:23.029383>  DevBUY (-): 66.4725 avgGapBuy:123.6275 
+20:35:24.044439>  DevBUY (+): 132.9725 avgGapBuy:123.6275 
+20:35:24.983493>  DevBUY (-): 141.8725 avgGapBuy:123.6275 
+20:35:25.146503>  DevBUY (-): 149.4725 avgGapBuy:123.6275 
+20:35:25.440521>  DevBUY (+): 126.9725 avgGapBuy:123.6275 
+20:35:26.661590>  DevBUY (-): 110.8725 avgGapBuy:123.6275 
+20:35:27.275625>  DevBUY (+): 99.9725 avgGapBuy:144.4275 
+20:35:27.937663>  DevBUY (+): 104.6725 avgGapBuy:144.4275 
+20:35:28.544696>  DevBUY (+): 105.3725 avgGapBuy:144.4275 
+20:35:28.970729>  DevBUY (-): 115.5725 avgGapBuy:144.4275 
+20:35:29.665763>  DevBUY (-): 131.7725 avgGapBuy:144.4275 
+20:35:30.144791>  DevBUY (-): 127.7725 avgGapBuy:144.4275 
+20:35:30.326800>  DevBUY (-): 132.1725 avgGapBuy:144.4275 
+20:35:30.590815>  DevBUY (+): 137.1725 avgGapBuy:144.4275 
+20:35:31.749892>  DevBUY (+): 140.1725 avgGapBuy:144.4275 
+20:35:32.112902>  DevSELL (+): -63.85375 avgGapSell:152.65375 
+20:35:32.289912>  DevBUY (-): 140.12 avgGapBuy:158.38 
+20:35:32.712936>  DevBUY (-): 140.62 avgGapBuy:158.38 
+20:35:32.866945>  DevBUY (-): 152.22 avgGapBuy:158.38 
+20:35:33.118958>  DevSELL (+): -68.55375 avgGapSell:152.65375 
+20:35:33.523984>  DevBUY (+): 141.52 avgGapBuy:158.38 
+20:35:33.641990>  DevSELL (+): -68.55375 avgGapSell:152.65375 
+20:35:33.937007>  DevSELL (-): -65.05375 avgGapSell:152.65375 
+20:35:34.260025>  DevBUY (-): 133.82 avgGapBuy:158.38 
+20:35:34.546043>  DevBUY (+): 135.02 avgGapBuy:158.38 
+20:35:35.415091>  DevSELL (+): -71.05375 avgGapSell:152.65375 
+20:35:35.548101>  DevBUY (+): 122.52 avgGapBuy:158.38 
+20:35:35.583099>  DevSELL (+): -71.05375 avgGapSell:152.65375 
+20:35:35.587102>  DevSELL (-): -61.85375 avgGapSell:152.65375 
+20:35:36.348145>  DevSELL (-): -66.15375 avgGapSell:152.65375 
+20:35:37.125193>  DevBUY (+): 120.305 avgGapBuy:166.595 
+20:35:37.127205>  DevSELL (+): -78.4425 avgGapSell:163.2425 
+20:35:37.416207>  DevSELL (-): -86.3425 avgGapSell:163.2425 
+20:35:37.467210>  DevBUY (+): 89.105 avgGapBuy:166.595 
+20:35:37.990240>  DevBUY (-): 94.005 avgGapBuy:166.595 
+20:35:38.275255>  DevSELL (-): -88.9425 avgGapSell:163.2425 
+20:35:39.470324>  DevBUY (+): 108.405 avgGapBuy:166.595 
+20:35:39.497328>  DevBUY (-): 97.905 avgGapBuy:166.595 
+20:35:39.606332>  DevSELL (+): -84.4425 avgGapSell:163.2425 
+20:35:39.696338>  DevBUY (-): 61.805 avgGapBuy:166.595 
+20:35:39.800344>  DevSELL (-): -85.5425 avgGapSell:163.2425 
+20:35:40.065361>  DevSELL (-): -69.8425 avgGapSell:163.2425 
+20:35:40.423381>  DevSELL (+): -70.9425 avgGapSell:163.2425 
+20:35:41.693450>  DevBUY (+): 65.005 avgGapBuy:166.595 
+20:35:41.933466>  DevSELL (+): -81.66125 avgGapSell:173.96125 
+20:35:42.437495>  DevBUY (+): 63.3625 avgGapBuy:179.9375 
+20:35:44.791630>  DevSELL (+): -83.66125 avgGapSell:173.96125 
+20:35:44.876635>  DevSELL (-): -102.66125 avgGapSell:173.96125 
+20:35:44.888635>  DevSELL (+): -89.66125 avgGapSell:173.96125 
+20:35:46.073703>  DevSELL (+): -91.66125 avgGapSell:173.96125 
+20:35:46.348717>  DevSELL (+): -107.46125 avgGapSell:173.96125 
+20:35:46.390722>  DevSELL (-): -91.66125 avgGapSell:173.96125 
+20:35:46.536731>  DevSELL (-): -107.46125 avgGapSell:173.96125 
+20:35:54.484186>  DevBUY (+): 95.98 avgGapBuy:142.12 
+20:35:54.739202>  DevBUY (-): 111.28 avgGapBuy:142.12 
+20:35:55.096222>  DevBUY (+): 66.28 avgGapBuy:142.12 
+20:35:55.680254>  DevBUY (-): 65.88 avgGapBuy:142.12 
+20:35:56.759316>  DevBUY (+): 72.88 avgGapBuy:142.12 
+20:35:57.135339>  DevBUY (-): 116.35875 avgGapBuy:123.34125 
+20:35:57.333350>  DevBUY (+): 111.35875 avgGapBuy:123.34125 
+20:35:58.066392> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:35:58.391409>  DevBUY (+): 115.85875 avgGapBuy:123.34125 
+20:35:58.469412>  DevBUY (-): 126.05875 avgGapBuy:123.34125 
+20:35:58.860435>  DevBUY (+): 129.95875 avgGapBuy:123.34125 
+20:35:59.716485>  DevBUY (-): 119.35875 avgGapBuy:123.34125 
+20:36:00.061505>  DevBUY (+): 111.05875 avgGapBuy:123.34125 
+20:36:00.435528>  DevBUY (+): 101.35875 avgGapBuy:123.34125 
+20:36:00.440530>  DevBUY (-): 114.45875 avgGapBuy:123.34125 
+20:36:01.105564>  DevBUY (-): 114.45875 avgGapBuy:123.34125 
+20:36:01.506587>  DevBUY (-): 96.45875 avgGapBuy:123.34125 
+20:36:02.153626>  DevBUY (+): 97.14875 avgGapBuy:121.75125 
+20:36:02.935670>  DevBUY (+): 102.34875 avgGapBuy:121.75125 
+20:36:02.945671>  DevBUY (-): 100.44875 avgGapBuy:121.75125 
+20:36:03.304691> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:36:03.304691> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:36:03.830721>  DevBUY (+): 108.64875 avgGapBuy:121.75125 
+20:36:04.897798> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:36:05.338809>  DevBUY (+): 111.84875 avgGapBuy:121.75125 
+20:36:18.573567>  DevBUY (+): 119.30875 avgGapBuy:126.09125 
+20:36:19.255606>  DevSELL (-): -64.155 avgGapSell:126.255 
+20:36:19.297609>  DevBUY (+): 116.00875 avgGapBuy:126.09125 
+20:36:19.361615>  DevSELL (+): -64.155 avgGapSell:126.255 
+20:36:19.519621>  DevSELL (-): -86.055 avgGapSell:126.255 
+20:36:19.692630>  DevSELL (+): -87.155 avgGapSell:126.255 
+20:36:19.797635>  DevBUY (+): 88.30875 avgGapBuy:126.09125 
+20:36:20.088651>  DevBUY (+): 126.20875 avgGapBuy:126.09125 
+20:36:20.490675>  DevBUY (-): 85.10875 avgGapBuy:126.09125 
+20:36:20.556680>  DevBUY (-): 114.30875 avgGapBuy:126.09125 
+20:36:20.561683>  DevSELL (-): -91.055 avgGapSell:126.255 
+20:36:20.848694>  DevBUY (+): 81.10875 avgGapBuy:126.09125 
+20:36:20.893702>  DevBUY (-): 111.30875 avgGapBuy:126.09125 
+20:36:21.042707>  DevSELL (-): -95.055 avgGapSell:126.255 
+20:36:22.496792>  DevBUY (-): 107.20875 avgGapBuy:126.09125 
+20:36:22.507791>  DevSELL (-): -95.655 avgGapSell:126.255 
+20:36:22.512793>  DevBUY (-): 107.20875 avgGapBuy:126.09125 
+20:36:22.776435>  DevSELL (+): -95.855 avgGapSell:126.255 
+20:36:23.308838>  DevSELL (+): -110.67375 avgGapSell:141.07375 
+20:36:25.674975>  DevBUY (+): 62.14875 avgGapBuy:140.95125 
+20:36:25.948991>  DevSELL (+): -110.67375 avgGapSell:141.07375 
+20:36:26.037995>  DevSELL (-): -104.77375 avgGapSell:141.07375 
+20:36:26.192004>  DevBUY (+): 90.34875 avgGapBuy:140.95125 
+20:36:26.716032>  DevSELL (-): -104.47375 avgGapSell:141.07375 
+20:36:26.739035>  DevBUY (+): 85.64875 avgGapBuy:140.95125 
+20:36:27.158060>  DevSELL (+): -76.47375 avgGapSell:141.07375 
+20:36:27.528081>  DevBUY (-): 71.34875 avgGapBuy:140.95125 
+20:36:27.751093>  DevBUY (-): 87.24875 avgGapBuy:140.95125 
+20:36:27.937103>  DevSELL (-): -70.97375 avgGapSell:141.07375 
+20:36:28.424132>  DevSELL (-): -83.0525 avgGapSell:142.2525 
+20:36:28.845155>  DevSELL (-): -88.7525 avgGapSell:142.2525 
+20:36:29.198173>  DevBUY (-): 79.575 avgGapBuy:142.425 
+20:36:31.592323>  DevSELL (-): -99.3525 avgGapSell:142.2525 
+20:36:32.150347>  DevSELL (-): -107.3525 avgGapSell:142.2525 
+20:36:32.670374>  DevSELL (-): -107.4525 avgGapSell:142.2525 
+20:36:33.281424>  DevSELL (+): -99.3525 avgGapSell:142.2525 
+20:36:33.298414>  DevSELL (-): -104.9525 avgGapSell:142.2525 
+20:36:33.606427>  DevSELL (+): -98.8575 avgGapSell:134.9575 
+20:36:34.194461>  DevSELL (+): -94.0575 avgGapSell:134.9575 
+20:36:34.665491>  DevSELL (-): -93.2575 avgGapSell:134.9575 
+20:36:35.244523>  DevSELL (-): -89.0575 avgGapSell:134.9575 
+20:36:35.462535>  DevSELL (-): -93.2575 avgGapSell:134.9575 
+20:36:36.409588>  DevSELL (-): -84.7575 avgGapSell:134.9575 
+20:36:36.473594>  DevSELL (-): -89.6575 avgGapSell:134.9575 
+20:36:38.247696>  DevSELL (-): -72.9575 avgGapSell:134.9575 
+20:36:38.515708>  DevSELL (+): -71.5575 avgGapSell:134.9575 
+20:36:40.457819>  DevSELL (-): -68.94375 avgGapSell:119.64375 
+20:36:41.202866>  DevSELL (-): -70.44375 avgGapSell:119.64375 
+20:36:41.861908>  DevSELL (+): -71.54375 avgGapSell:119.64375 
+20:36:42.408934>  DevSELL (+): -62.64375 avgGapSell:119.64375 
+20:36:42.671951>  DevSELL (+): -63.24375 avgGapSell:119.64375 
+20:36:42.799954>  DevSELL (+): -67.04375 avgGapSell:119.64375 
+20:36:43.461993>  DevSELL (+): -86.74375 avgGapSell:119.64375 
+20:36:45.986139>  DevSELL (-): -76.33125 avgGapSell:109.63125 
+20:36:48.825300>  DevSELL (-): -87.83125 avgGapSell:109.63125 
+20:36:48.979310>  DevSELL (+): -79.0075 avgGapSell:100.8075 
+20:36:50.052381>  DevSELL (+): -79.0075 avgGapSell:100.8075 
+20:36:50.495397>  DevBUY (-): 68.62125 avgGapBuy:102.77875 
+20:36:51.051430>  DevSELL (+): -93.2075 avgGapSell:100.8075 
+20:36:51.760472>  DevSELL (+): -92.1075 avgGapSell:100.8075 
+20:36:52.562514>  DevSELL (+): -92.1075 avgGapSell:100.8075 
+20:37:11.929625>  DevBUY (+): 79.14 avgGapBuy:84.16 
+20:37:12.982686>  DevBUY (+): 79.14 avgGapBuy:84.16 
+20:37:13.872739>  DevBUY (+): 94.04 avgGapBuy:84.16 
+20:37:18.700013>  DevSELL (-): -62.50125 avgGapSell:85.20125 
+20:37:19.575064>  DevBUY (+): 72.29625 avgGapBuy:86.80375 
+20:37:21.627181>  DevBUY (-): 65.39625 avgGapBuy:86.80375 
+20:37:27.012492>  DevSELL (-): -67.82125 avgGapSell:88.32125 
+20:37:34.992947>  DevBUY (-): 63.635 avgGapBuy:86.065 
+20:37:35.443975>  DevBUY (-): 68.435 avgGapBuy:86.065 
+20:37:36.133016>  DevSELL (+): -73.06625 avgGapSell:86.36625 
+20:37:42.031351>  DevSELL (-): -67.8675 avgGapSell:91.3675 
+20:37:42.098353>  DevSELL (-): -69.2675 avgGapSell:91.3675 
+20:37:42.826399>  DevSELL (-): -66.2675 avgGapSell:91.3675 
+20:37:43.664448>  DevSELL (+): -69.0675 avgGapSell:91.3675 
+20:37:44.530495>  DevSELL (-): -76.1675 avgGapSell:91.3675 
+20:37:45.404546>  DevSELL (-): -69.60 avgGapSell:83.70 
+20:37:45.575557>  DevBUY (-): 62.71125 avgGapBuy:83.78875 
+20:37:45.988582>  DevSELL (-): -69.50 avgGapSell:83.70 
+20:37:48.310713>  DevSELL (-): -88.20 avgGapSell:83.70 
+20:37:48.613737>  DevBUY (-): 66.71125 avgGapBuy:83.78875 
+20:37:48.781738>  DevBUY (-): 68.01125 avgGapBuy:83.78875 
+20:37:49.131759>  DevSELL (-): -79.60 avgGapSell:83.70 
+20:37:49.649788>  DevSELL (+): -72.30 avgGapSell:83.70 
+20:37:50.083815>  DevBUY (+): 83.1925 avgGapBuy:82.4075 
+20:37:50.300826>  DevSELL (+): -70.85625 avgGapSell:82.25625 
+20:37:50.775853>  DevBUY (+): 83.1925 avgGapBuy:82.4075 
+20:37:51.507899>  DevBUY (+): 81.8925 avgGapBuy:82.4075 
+20:37:51.846916>  DevSELL (-): -68.65625 avgGapSell:82.25625 
+20:37:53.163989>  DevSELL (+): -68.65625 avgGapSell:82.25625 
+20:37:54.246054>  DevBUY (-): 77.1925 avgGapBuy:82.4075 
+20:37:55.494124>  DevBUY (-): 68.225 avgGapBuy:85.775 
+20:37:55.762137>  DevBUY (+): 65.925 avgGapBuy:85.775 
+20:38:07.160793>  DevSELL (+): -62.48125 avgGapSell:92.08125 
+20:38:08.446867>  DevSELL (-): -63.98125 avgGapSell:92.08125 
+20:38:09.149909>  DevSELL (-): -70.08125 avgGapSell:92.08125 
+20:38:10.165965>  DevSELL (-): -73.38125 avgGapSell:92.08125 
+20:38:10.222967>  DevSELL (-): -74.20875 avgGapSell:92.90875 
+20:38:11.739053>  DevSELL (+): -74.50875 avgGapSell:92.90875 
+20:38:16.511329>  DevSELL (-): -74.635 avgGapSell:94.335 
+20:38:16.942356> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:38:17.222369>  DevSELL (+): -74.635 avgGapSell:94.335 
+20:38:17.650395>  DevSELL (-): -80.435 avgGapSell:94.335 
+20:38:18.560448>  DevSELL (+): -75.035 avgGapSell:94.335 
+20:38:19.728514>  DevSELL (-): -72.635 avgGapSell:94.335 
+20:38:22.229657> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:38:22.466669> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:38:23.163707>  DevBUY (-): 67.33125 avgGapBuy:83.46875 
+20:38:23.963754> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:38:30.730146>  DevBUY (-): 101.02375 avgGapBuy:74.87625 
+20:38:33.811321>  DevBUY (-): 119.22375 avgGapBuy:74.87625 
+20:38:34.839378>  DevBUY (+): 125.72375 avgGapBuy:74.87625 
+20:38:35.552420>  DevBUY (-): 120.12375 avgGapBuy:74.87625 
+20:38:35.830437>  DevBUY (-): 103.29 avgGapBuy:82.61 
+20:38:38.659597>  DevBUY (+): 97.19 avgGapBuy:82.61 
+20:38:38.936630>  DevBUY (+): 95.39 avgGapBuy:82.61 
+20:38:39.561649>  DevBUY (-): 64.59 avgGapBuy:82.61 
+20:40:26.199765>  DevBUY (-): 72.4125 avgGapBuy:94.4875 
+20:41:04.011934>  DevBUY (+): 72.6175 avgGapBuy:80.0825 
+20:41:04.913984>  DevBUY (+): 74.6175 avgGapBuy:80.0825 
+20:41:05.383013>  DevBUY (-): 78.4175 avgGapBuy:80.0825 
+20:41:10.824323>  DevBUY (-): 65.2775 avgGapBuy:88.4225 
+20:41:17.449702>  DevSELL (-): -63.96375 avgGapSell:93.16375 
+20:41:17.727721>  DevSELL (+): -63.96375 avgGapSell:93.16375 
+20:41:54.826844>  DevBUY (-): 62.1925 avgGapBuy:63.3075 
+20:41:59.651125>  DevSELL (-): -92.08875 avgGapSell:72.98875 
+20:42:00.110151>  DevSELL (-): -96.88875 avgGapSell:72.98875 
+20:42:00.597177>  DevSELL (+): -79.38875 avgGapSell:72.98875 
+20:42:00.923198>  DevSELL (-): -92.88875 avgGapSell:72.98875 
+20:42:02.519286>  DevBUY (-): 66.2175 avgGapBuy:74.2825 
+20:42:03.615351>  DevBUY (-): 63.0175 avgGapBuy:74.2825 
+20:42:04.110380>  DevBUY (+): 66.69375 avgGapBuy:70.70625 
+20:42:04.643409>  DevBUY (-): 78.59375 avgGapBuy:70.70625 
+20:42:06.605521>  DevBUY (-): 81.89375 avgGapBuy:70.70625 
+20:42:09.187670>  DevBUY (-): 67.69375 avgGapBuy:78.00625 
+20:42:09.635695>  DevSELL (-): -79.64 avgGapSell:75.14 
+20:42:10.093728>  DevSELL (-): -111.74 avgGapSell:75.14 
+20:42:10.528747>  DevBUY (-): 64.39375 avgGapBuy:78.00625 
+20:42:11.981833>  DevSELL (-): -119.34 avgGapSell:75.14 
+20:42:12.374854>  DevSELL (-): -119.34 avgGapSell:75.14 
+20:42:14.335966>  DevSELL (-): -112.94 avgGapSell:64.94 
+20:42:15.236018>  DevSELL (+): -111.64 avgGapSell:64.94 
+20:42:31.060924>  DevSELL (-): -128.29125 avgGapSell:56.49125 
+20:42:31.779965>  DevSELL (+): -126.59125 avgGapSell:56.49125 
+20:42:32.029979>  DevSELL (-): -117.99125 avgGapSell:56.49125 
+20:42:32.506007>  DevSELL (+): -117.99125 avgGapSell:56.49125 
+20:42:32.863029>  DevSELL (-): -71.09125 avgGapSell:56.49125 
+20:42:33.644074>  DevSELL (+): -71.59125 avgGapSell:56.49125 
+20:42:33.758078>  DevSELL (+): -73.99125 avgGapSell:56.49125 
+20:42:33.818084>  DevSELL (-): -167.49125 avgGapSell:56.49125 
+20:42:34.725135>  DevSELL (-): -175.39125 avgGapSell:56.49125 
+20:42:35.377173>  DevSELL (-): -64.5175 avgGapSell:33.9175 
+20:42:35.910201>  DevSELL (-): -74.6175 avgGapSell:33.9175 
+20:42:37.122274>  DevSELL (-): -161.9175 avgGapSell:33.9175 
+20:42:37.413289>  DevSELL (-): -168.7175 avgGapSell:33.9175 
+20:42:39.215391>  DevSELL (-): -61.8175 avgGapSell:33.9175 
+20:42:39.326399>  DevSELL (+): -167.8175 avgGapSell:33.9175 
+20:42:39.613417>  DevSELL (-): -144.7175 avgGapSell:33.9175 
+20:42:39.697419>  DevSELL (-): -151.3175 avgGapSell:33.9175 
+20:42:40.495463>  DevSELL (-): -121.72875 avgGapSell:1.12875 
+20:42:40.608471>  DevBUY (-): 98.8075 avgGapBuy:2.8925 
+20:42:41.016495>  DevBUY (+): 95.4075 avgGapBuy:2.8925 
+20:42:41.469520>  DevSELL (+): -117.62875 avgGapSell:1.12875 
+20:42:42.187562>  DevSELL (-): -109.92875 avgGapSell:1.12875 
+20:42:45.220734>  DevBUY (-): 111.9775 avgGapBuy:-12.1775 
+20:42:45.709765>  DevSELL (-): -106.415 avgGapSell:-10.285 
+20:42:46.404804>  DevBUY (-): 100.1775 avgGapBuy:-12.1775 
+20:42:48.597930>  DevSELL (-): -84.815 avgGapSell:-10.285 
+20:42:50.494041>  DevBUY (+): 67.875 avgGapBuy:-8.575 
+20:42:50.797058>  DevBUY (+): 67.775 avgGapBuy:-8.575 
+20:42:50.799058>  DevBUY (-): 67.675 avgGapBuy:-8.575 
+20:42:51.907118>  DevBUY (-): 74.275 avgGapBuy:-8.575 
+20:42:52.101130>  DevSELL (-): -75.4225 avgGapSell:-10.3775 
+20:42:52.224140>  DevSELL (+): -75.4225 avgGapSell:-10.3775 
+20:42:52.235144>  DevSELL (-): -75.4225 avgGapSell:-10.3775 
+20:42:52.779169>  DevSELL (-): -78.4225 avgGapSell:-10.3775 
+20:42:52.930187>  DevSELL (+): -78.4225 avgGapSell:-10.3775 
+20:42:53.783227>  DevSELL (+): -78.4225 avgGapSell:-10.3775 
+20:42:54.448266>  DevBUY (+): 71.775 avgGapBuy:-8.575 
+20:42:55.082301>  DevBUY (-): 65.975 avgGapBuy:-8.575 
+20:42:55.189309>  DevBUY (-): 76.41125 avgGapBuy:-19.01125 
+20:42:57.625449>  DevSELL (+): -78.76125 avgGapSell:-17.33875 
+20:42:58.050473>  DevSELL (+): -80.66125 avgGapSell:-17.33875 
+20:43:17.910610>  DevSELL (+): -61.87125 avgGapSell:-12.12875 
+20:43:18.283633>  DevSELL (+): -69.17125 avgGapSell:-12.12875 
+20:43:18.408639>  DevSELL (-): -69.17125 avgGapSell:-12.12875 
+20:43:18.568646>  DevSELL (+): -71.87125 avgGapSell:-12.12875 
+20:43:24.260975>  DevSELL (+): -61.95125 avgGapSell:-20.84875 
+20:43:24.323979>  DevSELL (+): -69.05125 avgGapSell:-20.84875 
+20:43:24.586993>  DevSELL (-): -72.95125 avgGapSell:-20.84875 
+20:43:24.803007>  DevSELL (+): -69.65125 avgGapSell:-20.84875 
+20:43:25.066023>  DevSELL (-): -75.45125 avgGapSell:-20.84875 
+20:43:25.700059>  DevSELL (-): -64.4825 avgGapSell:-34.2175 
+20:43:26.221087>  DevSELL (-): -79.0825 avgGapSell:-34.2175 
+20:43:26.818123>  DevSELL (-): -82.1825 avgGapSell:-34.2175 
+20:43:27.453158>  DevSELL (-): -91.5825 avgGapSell:-34.2175 
+20:43:27.835180>  DevSELL (+): -100.4825 avgGapSell:-34.2175 
+20:43:27.836180>  DevSELL (+): -100.5825 avgGapSell:-34.2175 
+20:43:28.458212>  DevSELL (-): -73.2825 avgGapSell:-34.2175 
+20:43:28.863236>  DevSELL (+): -91.0825 avgGapSell:-34.2175 
+20:43:29.231261>  DevSELL (-): -95.5825 avgGapSell:-34.2175 
+20:43:29.433271>  DevSELL (+): -106.0825 avgGapSell:-34.2175 
+20:43:30.957359>  DevSELL (-): -94.91625 avgGapSell:-49.58375 
+20:43:31.936417>  DevSELL (-): -96.61625 avgGapSell:-49.58375 
+20:43:32.449445>  DevSELL (+): -96.71625 avgGapSell:-49.58375 
+20:43:32.797466>  DevSELL (-): -96.71625 avgGapSell:-49.58375 
+20:43:33.447499>  DevSELL (-): -96.71625 avgGapSell:-49.58375 
+20:43:33.659514>  DevBUY (+): 75.75 avgGapBuy:-49.65 
+20:43:33.905529>  DevSELL (-): -99.41625 avgGapSell:-49.58375 
+20:43:36.793694>  DevSELL (-): -78.405 avgGapSell:-60.095 
+20:43:36.946703>  DevSELL (-): -76.105 avgGapSell:-60.095 
+20:43:37.340725>  DevSELL (-): -76.105 avgGapSell:-60.095 
+20:43:37.558736>  DevBUY (+): 62.00125 avgGapBuy:-60.00125 
+20:43:37.663743>  DevSELL (-): -76.105 avgGapSell:-60.095 
+20:43:37.965758>  DevBUY (+): 67.00125 avgGapBuy:-60.00125 
+20:43:38.101768>  DevSELL (-): -78.805 avgGapSell:-60.095 
+20:43:38.376784>  DevBUY (-): 69.90125 avgGapBuy:-60.00125 
+20:43:38.968819>  DevBUY (+): 73.40125 avgGapBuy:-60.00125 
+20:43:39.318839>  DevSELL (-): -79.605 avgGapSell:-60.095 
+20:43:40.498905>  DevSELL (-): -78.905 avgGapSell:-60.095 
+20:43:46.034223>  DevBUY (-): 93.975 avgGapBuy:-66.575 
+20:43:46.172231>  DevSELL (-): -77.57625 avgGapSell:-64.72375 
+20:43:46.788272>  DevBUY (-): 99.275 avgGapBuy:-66.575 
+20:43:46.801267>  DevBUY (-): 99.275 avgGapBuy:-66.575 
+20:43:47.603313>  DevSELL (-): -67.67625 avgGapSell:-64.72375 
+20:43:48.488364>  DevBUY (-): 65.275 avgGapBuy:-66.575 
+20:43:48.557367>  DevBUY (+): 104.575 avgGapBuy:-66.575 
+20:43:49.522423>  DevBUY (-): 103.175 avgGapBuy:-66.575 
+20:43:50.192461>  DevBUY (-): 69.275 avgGapBuy:-66.575 
+20:43:50.194464>  DevBUY (+): 91.475 avgGapBuy:-66.575 
+20:43:50.945503>  DevBUY (+): 103.28625 avgGapBuy:-56.68625 
+20:43:51.923563>  DevBUY (-): 99.98625 avgGapBuy:-56.68625 
+20:43:55.713780>  DevBUY (+): 81.68625 avgGapBuy:-56.68625 
+20:44:11.515682>  DevBUY (-): 74.15375 avgGapBuy:-36.15375 
+20:44:12.785758>  DevBUY (-): 74.75375 avgGapBuy:-36.15375 
+20:44:19.228127>  DevSELL (+): -68.49 avgGapSell:-24.51 
+20:44:20.130177>  DevBUY (+): 61.82875 avgGapBuy:-24.32875 
+20:44:24.183412>  DevBUY (+): 62.2275 avgGapBuy:-17.0275 
+20:44:24.414424>  DevBUY (+): 69.5275 avgGapBuy:-17.0275 
+20:44:25.148468>  DevBUY (+): 74.8275 avgGapBuy:-17.0275 
+20:44:25.596493>  DevBUY (+): 77.1275 avgGapBuy:-17.0275 
+20:44:26.252532>  DevBUY (-): 87.0275 avgGapBuy:-17.0275 
+20:44:26.814561>  DevBUY (+): 82.9275 avgGapBuy:-17.0275 
+20:44:27.713611>  DevBUY (+): 112.07875 avgGapBuy:-7.87875 
+20:44:30.035747>  DevBUY (+): 125.57875 avgGapBuy:-7.87875 
+20:44:30.314766>  DevBUY (+): 131.67875 avgGapBuy:-7.87875 
+20:44:30.637779>  DevBUY (-): 65.87875 avgGapBuy:-7.87875 
+20:44:30.840793>  DevBUY (-): 131.67875 avgGapBuy:-7.87875 
+20:44:31.698841>  DevBUY (+): 114.47875 avgGapBuy:-7.87875 
+20:44:32.193870>  DevBUY (-): 139.77875 avgGapBuy:-7.87875 
+20:44:32.871908>  DevBUY (+): 116.2925 avgGapBuy:15.6075 
+20:44:33.417939>  DevBUY (+): 111.2925 avgGapBuy:15.6075 
+20:44:33.614950>  DevBUY (-): 111.1925 avgGapBuy:15.6075 
+20:44:38.034206>  DevSELL (-): -72.14875 avgGapSell:35.64875 
+20:44:38.221217>  DevSELL (+): -72.14875 avgGapSell:35.64875 
+20:44:43.262505>  DevSELL (-): -71.55625 avgGapSell:39.65625 
+20:44:43.618525>  DevSELL (+): -72.75625 avgGapSell:39.65625 
+20:44:44.969604>  DevSELL (+): -68.25625 avgGapSell:39.65625 
+20:44:52.543037>  DevBUY (+): 62.215 avgGapBuy:34.685 
+20:44:54.095125>  DevBUY (+): 69.275 avgGapBuy:34.225 
+20:44:54.391142>  DevSELL (+): -66.16375 avgGapSell:37.36375 
+20:44:54.554153>  DevBUY (-): 69.975 avgGapBuy:34.225 
+20:44:54.756164>  DevSELL (+): -73.36375 avgGapSell:37.36375 
+20:44:55.450203>  DevSELL (+): -79.46375 avgGapSell:37.36375 
+20:44:56.954304>  DevSELL (+): -81.46375 avgGapSell:37.36375 
+20:44:57.523322>  DevSELL (-): -77.86375 avgGapSell:37.36375 
+20:44:58.312368>  DevBUY (-): 65.33375 avgGapBuy:21.66625 
+20:44:58.559380>  DevSELL (+): -67.305 avgGapSell:24.805 
+20:44:58.607385>  DevBUY (-): 71.33375 avgGapBuy:21.66625 
+20:44:58.675388>  DevSELL (-): -71.305 avgGapSell:24.805 
+20:44:58.835397>  DevBUY (-): 71.33375 avgGapBuy:21.66625 
+20:45:00.433488>  DevSELL (+): -95.405 avgGapSell:24.805 
+20:45:00.796519>  DevSELL (-): -101.805 avgGapSell:24.805 
+20:45:01.629556>  DevSELL (+): -101.805 avgGapSell:24.805 
+20:45:02.195592>  DevBUY (-): 73.43375 avgGapBuy:21.66625 
+20:45:02.500607>  DevSELL (-): -105.405 avgGapSell:24.805 
+20:45:02.713622>  DevBUY (-): 76.53375 avgGapBuy:21.66625 
+20:45:02.963636>  DevSELL (-): -108.205 avgGapSell:24.805 
+20:45:03.497664>  DevSELL (+): -104.4175 avgGapSell:19.3175 
+20:45:03.665675>  DevBUY (-): 123.93 avgGapBuy:16.47 
+20:45:03.674673>  DevSELL (-): -102.5175 avgGapSell:19.3175 
+20:45:04.357714>  DevSELL (+): -101.2175 avgGapSell:19.3175 
+20:45:04.364718>  DevSELL (-): -101.2175 avgGapSell:19.3175 
+20:45:04.806740>  DevBUY (+): 122.03 avgGapBuy:16.47 
+20:45:05.737792>  DevSELL (-): -94.1175 avgGapSell:19.3175 
+20:45:06.090814>  DevSELL (+): -94.1175 avgGapSell:19.3175 
+20:45:06.635869>  DevBUY (-): 71.83 avgGapBuy:16.47 
+20:45:07.161918>  DevSELL (+): -108.0175 avgGapSell:19.3175 
+20:45:07.164878>  DevBUY (-): 87.23 avgGapBuy:16.47 
+20:45:07.167879>  DevBUY (+): 81.03 avgGapBuy:16.47 
+20:45:07.633903>  DevSELL (-): -108.0175 avgGapSell:19.3175 
+20:45:07.961929>  DevBUY (-): 109.93 avgGapBuy:16.47 
+20:45:08.250939>  DevBUY (-): 115.255 avgGapBuy:11.145 
+20:45:08.722969>  DevBUY (+): 115.255 avgGapBuy:11.145 
+20:45:09.392005>  DevSELL (-): -86.015 avgGapSell:11.015 
+20:45:10.273054>  DevSELL (+): -86.015 avgGapSell:11.015 
+20:45:13.463236>  DevBUY (+): 128.44375 avgGapBuy:7.95625 
+20:45:13.748254>  DevSELL (-): -83.84 avgGapSell:8.84 
+20:45:14.138274>  DevBUY (-): 146.24375 avgGapBuy:7.95625 
+20:45:14.391290>  DevSELL (-): -90.74 avgGapSell:8.84 
+20:45:14.893322>  DevBUY (-): 137.14375 avgGapBuy:7.95625 
+20:45:15.349345>  DevBUY (+): 125.44375 avgGapBuy:7.95625 
+20:45:15.438348>  DevBUY (+): 132.14375 avgGapBuy:7.95625 
+20:45:15.809370>  DevBUY (+): 150.24375 avgGapBuy:7.95625 
+20:45:16.123388>  DevSELL (-): -82.14 avgGapSell:8.84 
+20:45:16.446406>  DevBUY (-): 147.94375 avgGapBuy:7.95625 
+20:45:16.691423>  DevSELL (-): -82.14 avgGapSell:8.84 
+20:45:16.702424>  DevSELL (-): -82.14 avgGapSell:8.84 
+20:45:16.881432>  DevBUY (-): 143.74375 avgGapBuy:7.95625 
+20:45:17.643478>  DevSELL (+): -82.14 avgGapSell:8.84 
+20:45:17.898492>  DevBUY (-): 149.74375 avgGapBuy:7.95625 
+20:45:18.227509>  DevSELL (-): -82.14 avgGapSell:8.84 
+20:45:18.296512>  DevBUY (-): 149.74375 avgGapBuy:7.95625 
+20:45:19.301571>  DevBUY (+): 141.9025 avgGapBuy:20.4975 
+20:45:19.319572>  DevSELL (-): -89.195 avgGapSell:20.495 
+20:45:21.465787>  DevBUY (-): 104.9025 avgGapBuy:20.4975 
+20:45:21.602706>  DevBUY (+): 112.1025 avgGapBuy:20.4975 
+20:45:21.764714>  DevSELL (+): -86.195 avgGapSell:20.495 
+20:45:21.946721>  DevBUY (-): 122.6025 avgGapBuy:20.4975 
+20:45:22.525758>  DevSELL (-): -89.495 avgGapSell:20.495 
+20:45:23.018785>  DevBUY (-): 122.6025 avgGapBuy:20.4975 
+20:45:23.343801>  DevBUY (+): 129.8025 avgGapBuy:20.4975 
+20:45:23.450809>  DevSELL (-): -104.14125 avgGapSell:36.34125 
+20:45:23.764824>  DevSELL (-): -104.14125 avgGapSell:36.34125 
+20:45:24.615875>  DevBUY (-): 125.55625 avgGapBuy:36.34375 
+20:45:24.731882>  DevBUY (+): 112.45625 avgGapBuy:36.34375 
+20:45:24.802903>  DevSELL (-): -104.14125 avgGapSell:36.34125 
+20:45:25.218910>  DevBUY (-): 105.45625 avgGapBuy:36.34375 
+20:45:25.483926>  DevSELL (-): -104.14125 avgGapSell:36.34125 
+20:45:25.726938>  DevBUY (-): 100.25625 avgGapBuy:36.34375 
+20:45:26.412981>  DevSELL (-): -91.54125 avgGapSell:36.34125 
+20:45:26.689995>  DevSELL (-): -89.64125 avgGapSell:36.34125 
+20:45:27.290031>  DevSELL (-): -90.74125 avgGapSell:36.34125 
+20:45:28.346088>  DevSELL (+): -92.84125 avgGapSell:36.34125 
+20:45:28.511097>  DevBUY (-): 113.615 avgGapBuy:43.085 
+20:45:28.886122>  DevSELL (+): -103.2825 avgGapSell:43.0825 
+20:45:28.894120>  DevBUY (-): 113.615 avgGapBuy:43.085 
+20:45:33.252369>  DevSELL (-): -103.2825 avgGapSell:43.0825 
+20:45:34.462442>  DevSELL (-): -111.205 avgGapSell:45.505 
+20:45:34.845461>  DevBUY (+): 107.9925 avgGapBuy:45.5075 
+20:45:35.170481>  DevBUY (-): 118.8925 avgGapBuy:45.5075 
+20:45:36.410554>  DevSELL (+): -114.005 avgGapSell:45.505 
+20:45:36.728570>  DevSELL (-): -113.905 avgGapSell:45.505 
+20:45:36.935581>  DevBUY (-): 77.8925 avgGapBuy:45.5075 
+20:45:37.103592>  DevSELL (-): -112.005 avgGapSell:45.505 
+20:45:37.859634>  DevBUY (+): 81.1925 avgGapBuy:45.5075 
+20:45:38.930697>  DevBUY (-): 72.37875 avgGapBuy:40.92125 
+20:45:39.543730>  DevBUY (-): 81.57875 avgGapBuy:40.92125 
+20:45:40.104765>  DevSELL (+): -110.8525 avgGapSell:40.9525 
+20:45:40.500784>  DevBUY (-): 79.67875 avgGapBuy:40.92125 
+20:45:40.564789>  DevSELL (-): -110.8525 avgGapSell:40.9525 
+20:45:40.592791>  DevBUY (-): 87.17875 avgGapBuy:40.92125 
+20:45:52.215458>  DevSELL (-): -116.8925 avgGapSell:34.9925 
+20:45:52.571480>  DevSELL (-): -117.4925 avgGapSell:34.9925 
+20:45:54.174571>  DevBUY (-): 88.31125 avgGapBuy:30.58875 
+20:45:54.876609>  DevSELL (-): -122.12 avgGapSell:30.62 
+20:45:55.461654>  DevSELL (-): -111.52 avgGapSell:30.62 
+20:45:56.163684>  DevSELL (-): -114.22 avgGapSell:30.62 
+20:45:56.790728>  DevSELL (+): -114.22 avgGapSell:30.62 
+20:45:57.168738>  DevSELL (-): -114.22 avgGapSell:30.62 
+20:45:57.203753>  DevBUY (-): 118.51125 avgGapBuy:30.58875 
+20:45:57.207744>  DevSELL (+): -117.62 avgGapSell:30.62 
+20:45:57.664769>  DevBUY (-): 118.51125 avgGapBuy:30.58875 
+20:45:57.779776>  DevSELL (-): -120.82 avgGapSell:30.62 
+20:45:58.049794>  DevBUY (+): 124.21125 avgGapBuy:30.58875 
+20:45:58.200800>  DevBUY (-): 127.51125 avgGapBuy:30.58875 
+20:45:58.283806>  DevSELL (-): -110.42 avgGapSell:30.62 
+20:45:58.466817>  DevBUY (+): 130.51125 avgGapBuy:30.58875 
+20:45:58.551848>  DevSELL (-): -111.02 avgGapSell:30.62 
+20:45:59.632885>  DevBUY (-): 155.99375 avgGapBuy:23.40625 
+20:46:00.680942>  DevBUY (-): 142.39375 avgGapBuy:23.40625 
+20:46:01.040965>  DevSELL (-): -118.7375 avgGapSell:23.4375 
+20:46:01.821009>  DevBUY (+): 138.09375 avgGapBuy:23.40625 
+20:46:02.426045>  DevBUY (+): 139.19375 avgGapBuy:23.40625 
+20:46:11.730576>  DevBUY (-): 118.68375 avgGapBuy:27.91625 
+20:46:12.110597>  DevSELL (+): -133.61625 avgGapSell:27.91625 
+20:46:13.849699>  DevBUY (-): 118.68375 avgGapBuy:27.91625 
+20:46:14.598742>  DevSELL (-): -124.78875 avgGapSell:29.78875 
+20:46:15.801818>  DevSELL (-): -125.08875 avgGapSell:29.78875 
+20:46:16.948876>  DevBUY (-): 103.405 avgGapBuy:29.795 
+20:46:17.876927>  DevBUY (+): 94.705 avgGapBuy:29.795 
+20:46:18.973992>  DevBUY (+): 100.53875 avgGapBuy:23.96125 
+20:46:21.839155>  DevBUY (-): 112.53875 avgGapBuy:23.96125 
+20:46:21.945161>  DevSELL (-): -121.755 avgGapSell:23.955 
+20:46:22.237176>  DevSELL (-): -126.955 avgGapSell:23.955 
+20:46:22.257182>  DevBUY (-): 139.13875 avgGapBuy:23.96125 
+20:46:22.310184>  DevSELL (-): -126.955 avgGapSell:23.955 
+20:46:23.864272>  DevBUY (-): 151.63875 avgGapBuy:23.96125 
+20:46:24.175287>  DevBUY (-): 152.03375 avgGapBuy:23.66625 
+20:46:24.816329>  DevSELL (-): -138.5675 avgGapSell:23.6675 
+20:46:25.223352>  DevBUY (-): 152.33375 avgGapBuy:23.66625 
+20:46:25.612389>  DevBUY (-): 157.13375 avgGapBuy:23.66625 
+20:46:26.072401>  DevSELL (-): -139.8675 avgGapSell:23.6675 
+20:46:26.702436>  DevBUY (+): 157.13375 avgGapBuy:23.66625 
+20:46:27.367473>  DevSELL (-): -139.8675 avgGapSell:23.6675 
+20:46:29.038570>  DevSELL (-): -150.435 avgGapSell:34.235 
+20:46:29.527597>  DevBUY (-): 146.56625 avgGapBuy:34.23375 
+20:46:31.161691>  DevBUY (+): 149.26625 avgGapBuy:34.23375 
+20:46:31.467710>  DevBUY (-): 150.76625 avgGapBuy:34.23375 
+20:46:33.455823>  DevBUY (-): 150.86625 avgGapBuy:34.23375 
+20:46:33.938850>  DevBUY (+): 150.86625 avgGapBuy:34.23375 
+20:46:36.180978>  DevSELL (-): -160.2325 avgGapSell:48.0325 
+20:46:36.703009>  DevSELL (+): -160.2325 avgGapSell:48.0325 
+20:46:36.938025>  DevBUY (-): 137.06875 avgGapBuy:48.03125 
+20:46:38.323102>  DevBUY (-): 142.76875 avgGapBuy:48.03125 
+20:46:38.422108>  DevBUY (+): 145.76875 avgGapBuy:48.03125 
+20:46:38.426109>  DevSELL (-): -147.6325 avgGapSell:48.0325 
+20:46:39.359159>  DevBUY (-): 146.91875 avgGapBuy:46.88125 
+20:46:39.823189>  DevBUY (+): 148.91875 avgGapBuy:46.88125 
+20:46:39.922194>  DevSELL (-): -154.63125 avgGapSell:48.83125 
+20:46:40.600234>  DevBUY (+): 148.91875 avgGapBuy:46.88125 
+20:46:40.782241>  DevBUY (-): 153.81875 avgGapBuy:46.88125 
+20:46:40.863249>  DevSELL (-): -154.03125 avgGapSell:48.83125 
+20:46:41.173266>  DevSELL (-): -132.23125 avgGapSell:48.83125 
+20:46:42.278329>  DevBUY (-): 160.61875 avgGapBuy:46.88125 
+20:46:42.917364>  DevSELL (-): -114.23125 avgGapSell:48.83125 
+20:46:43.690408>  DevBUY (-): 145.41875 avgGapBuy:46.88125 
+20:46:58.150237>  DevBUY (+): 138.37625 avgGapBuy:51.52375 
+20:46:58.289244>  DevSELL (-): -123.215 avgGapSell:49.515 
+20:46:58.653267>  DevBUY (-): 127.37625 avgGapBuy:51.52375 
+20:46:58.878279>  DevBUY (-): 119.47625 avgGapBuy:51.52375 
+20:46:58.900280>  DevSELL (-): -118.915 avgGapSell:49.515 
+20:46:59.065288>  DevBUY (-): 130.67625 avgGapBuy:51.52375 
+20:46:59.675337>  DevSELL (-): -126.985 avgGapSell:60.985 
+20:46:59.749329>  DevBUY (-): 89.74375 avgGapBuy:61.65625 
+20:47:00.494375>  DevSELL (-): -67.485 avgGapSell:60.985 
+20:47:04.384595>  DevSELL (-): -67.5275 avgGapSell:61.0275 
+20:47:04.658609>  DevSELL (-): -139.0275 avgGapSell:61.0275 
+20:47:05.194643>  DevSELL (+): -145.0275 avgGapSell:61.0275 
+20:47:05.199643>  DevSELL (-): -82.2275 avgGapSell:61.0275 
+20:47:05.585664>  DevSELL (-): -82.7275 avgGapSell:61.0275 
+20:47:06.136695>  DevBUY (-): 85.42625 avgGapBuy:64.37375 
+20:47:06.328724>  DevSELL (-): -155.7275 avgGapSell:61.0275 
+20:47:06.743729>  DevSELL (-): -92.3275 avgGapSell:61.0275 
+20:47:07.567778>  DevSELL (-): -179.0275 avgGapSell:61.0275 
+20:47:07.575778>  DevSELL (+): -186.3275 avgGapSell:61.0275 
+20:47:08.509833>  DevBUY (-): 86.72625 avgGapBuy:64.37375 
+20:47:09.752905>  DevBUY (-): 94.94375 avgGapBuy:56.15625 
+20:47:10.059922>  DevSELL (-): -94.4475 avgGapSell:54.7475 
+20:47:10.809963>  DevBUY (+): 72.34375 avgGapBuy:56.15625 
+20:47:10.978975>  DevSELL (+): -93.9475 avgGapSell:54.7475 
+20:47:11.207988>  DevSELL (-): -176.9475 avgGapSell:54.7475 
+20:47:11.408998>  DevBUY (-): 71.54375 avgGapBuy:56.15625 
+20:47:11.790025>  DevBUY (-): 62.74375 avgGapBuy:56.15625 
+20:47:13.467116>  DevSELL (+): -176.9475 avgGapSell:54.7475 
+20:47:14.151157>  DevSELL (-): -99.6475 avgGapSell:54.7475 
+20:47:15.226217>  DevSELL (+): -158.875 avgGapSell:40.575 
+20:47:15.813253>  DevBUY (-): 63.70 avgGapBuy:42.50 
+20:47:16.327282>  DevBUY (+): 64.80 avgGapBuy:42.50 
+20:47:16.438289>  DevSELL (-): -142.575 avgGapSell:40.575 
+20:47:16.510290>  DevBUY (-): 64.80 avgGapBuy:42.50 
+20:47:16.821312>  DevSELL (+): -76.575 avgGapSell:40.575 
+20:47:17.102324>  DevBUY (+): 64.80 avgGapBuy:42.50 
+20:47:17.156326>  DevBUY (-): 69.40 avgGapBuy:42.50 
+20:47:17.485347>  DevSELL (-): -71.975 avgGapSell:40.575 
+20:47:17.552350>  DevBUY (+): 69.40 avgGapBuy:42.50 
+20:47:17.726363>  DevSELL (+): -144.475 avgGapSell:40.575 
+20:47:18.533406>  DevBUY (-): 69.40 avgGapBuy:42.50 
+20:47:18.608413>  DevSELL (+): -71.975 avgGapSell:40.575 
+20:47:19.479460>  DevBUY (+): 69.40 avgGapBuy:42.50 
+20:47:21.270565>  DevSELL (-): -62.39 avgGapSell:30.99 
+20:47:23.232677>  DevSELL (-): -132.19 avgGapSell:30.99 
+20:47:23.677704>  DevBUY (+): 78.62125 avgGapBuy:33.57875 
+20:47:23.799710>  DevSELL (-): -130.69 avgGapSell:30.99 
+20:47:23.982721>  DevBUY (-): 81.72125 avgGapBuy:33.57875 
+20:47:25.155788>  DevBUY (-): 99.33375 avgGapBuy:24.66625 
+20:47:25.412804>  DevBUY (-): 110.13375 avgGapBuy:24.66625 
+20:47:25.672814>  DevSELL (-): -118.13375 avgGapSell:23.53375 
+20:47:25.735822>  DevSELL (+): -112.03375 avgGapSell:23.53375 
+20:47:26.077839>  DevSELL (+): -107.53375 avgGapSell:23.53375 
+20:47:26.151844>  DevBUY (-): 110.43375 avgGapBuy:24.66625 
+20:47:27.214909>  DevBUY (-): 110.43375 avgGapBuy:24.66625 
+20:47:27.270909>  DevBUY (+): 110.43375 avgGapBuy:24.66625 
+20:47:27.764938>  DevSELL (+): -104.63375 avgGapSell:23.53375 
+20:47:27.769935>  DevBUY (+): 113.33375 avgGapBuy:24.66625 
+20:47:28.722992>  DevSELL (+): -104.63375 avgGapSell:23.53375 
+20:47:29.130013>  DevBUY (+): 113.33375 avgGapBuy:24.66625 
+20:47:29.452033>  DevSELL (+): -130.93375 avgGapSell:23.53375 
+20:47:29.752051>  DevBUY (+): 113.33375 avgGapBuy:24.66625 
+20:47:30.444090>  DevSELL (-): -134.775 avgGapSell:20.575 
+20:47:31.729163>  DevSELL (-): -140.775 avgGapSell:20.575 
+20:47:33.393258>  DevSELL (+): -135.775 avgGapSell:20.575 
+20:47:33.871288>  DevSELL (-): -144.775 avgGapSell:20.575 
+20:47:34.370314>  DevSELL (+): -157.375 avgGapSell:20.575 
+20:47:34.707336>  DevBUY (-): 110.82625 avgGapBuy:20.77375 
+20:47:35.010352>  DevBUY (+): 107.42625 avgGapBuy:20.77375 
+20:47:35.111359>  DevSELL (-): -148.85875 avgGapSell:9.95875 
+20:47:35.257368>  DevBUY (+): 115.64125 avgGapBuy:9.95875 
+20:47:37.348486>  DevSELL (-): -148.85875 avgGapSell:9.95875 
+20:47:38.016524>  DevBUY (-): 115.64125 avgGapBuy:9.95875 
+20:47:38.427545>  DevSELL (-): -149.15875 avgGapSell:9.95875 
+20:47:39.290598>  DevBUY (-): 96.24125 avgGapBuy:9.95875 
+20:47:39.557613>  DevBUY (-): 95.44125 avgGapBuy:9.95875 
+20:47:39.771626>  DevSELL (-): -149.15875 avgGapSell:9.95875 
+20:47:40.104644>  DevBUY (-): 124.64125 avgGapBuy:9.95875 
+20:47:40.111644>  DevBUY (-): 134.94 avgGapBuy:-0.34 
+20:47:40.278656>  DevSELL (-): -143.36 avgGapSell:-0.34 
+20:47:40.963695>  DevSELL (+): -142.16 avgGapSell:-0.34 
+20:47:41.110702>  DevBUY (+): 127.24 avgGapBuy:-0.34 
+20:47:41.197705>  DevSELL (-): -141.66 avgGapSell:-0.34 
+20:47:41.798741>  DevBUY (+): 131.54 avgGapBuy:-0.34 
+20:47:41.945751>  DevSELL (-): -135.66 avgGapSell:-0.34 
+20:47:42.425777>  DevSELL (+): -141.56 avgGapSell:-0.34 
+20:47:43.263824>  DevSELL (+): -128.96 avgGapSell:-0.34 
+20:47:43.333828>  DevBUY (-): 137.94 avgGapBuy:-0.34 
+20:47:43.495839>  DevBUY (+): 153.94 avgGapBuy:-0.34 
+20:47:43.504840>  DevBUY (-): 147.64 avgGapBuy:-0.34 
+20:47:43.792856>  DevBUY (+): 147.64 avgGapBuy:-0.34 
+20:47:43.799856>  DevBUY (-): 137.14 avgGapBuy:-0.34 
+20:47:44.564901>  DevBUY (-): 126.34 avgGapBuy:-0.34 
+20:47:45.207935>  DevBUY (-): 130.72125 avgGapBuy:-5.92125 
+20:47:45.670964>  DevSELL (-): -145.97875 avgGapSell:-5.92125 
+20:47:45.824973>  DevBUY (-): 130.72125 avgGapBuy:-5.92125 
+20:47:49.902208>  DevBUY (+): 121.42125 avgGapBuy:-5.92125 
+20:47:50.026212>  DevSELL (-): -134.37875 avgGapSell:-5.92125 
+20:47:50.305228>  DevBUY (-): 122.1175 avgGapBuy:-7.5175 
+20:47:50.665250>  DevBUY (+): 127.7175 avgGapBuy:-7.5175 
+20:47:52.424352>  DevBUY (-): 129.6175 avgGapBuy:-7.5175 
+20:47:53.702423>  DevBUY (+): 130.1175 avgGapBuy:-7.5175 
+20:47:54.030442>  DevBUY (-): 130.1175 avgGapBuy:-7.5175 
+20:47:54.257458>  DevBUY (+): 132.1175 avgGapBuy:-7.5175 
+20:47:54.323456>  DevSELL (-): -87.4825 avgGapSell:-7.5175 
+20:47:55.428522>  DevBUY (-): 127.9525 avgGapBuy:11.5475 
+20:47:55.980553>  DevBUY (-): 151.1525 avgGapBuy:11.5475 
+20:47:56.480587>  DevSELL (+): -114.04 avgGapSell:11.54 
+20:47:56.904608>  DevBUY (-): 155.0525 avgGapBuy:11.5475 
+20:47:57.534646>  DevSELL (+): -111.44 avgGapSell:11.54 
+20:47:58.740712>  DevSELL (-): -110.34 avgGapSell:11.54 
+20:48:00.082788>  DevSELL (-): -112.84 avgGapSell:11.54 
+20:48:00.250799>  DevSELL (-): -116.70375 avgGapSell:15.40375 
+20:48:01.151853>  DevBUY (+): 158.38875 avgGapBuy:15.41125 
+20:48:02.499928>  DevBUY (+): 158.38875 avgGapBuy:15.41125 
+20:48:02.584935>  DevBUY (-): 63.48875 avgGapBuy:15.41125 
+20:48:03.134965>  DevBUY (-): 64.28875 avgGapBuy:15.41125 
+20:48:03.357979>  DevSELL (+): -113.90375 avgGapSell:15.40375 
+20:48:03.359978>  DevBUY (-): 164.88875 avgGapBuy:15.41125 
+20:48:03.848004>  DevBUY (+): 164.98875 avgGapBuy:15.41125 
+20:48:04.298030>  DevBUY (+): 157.48875 avgGapBuy:15.41125 
+20:48:04.688056>  DevBUY (+): 158.58875 avgGapBuy:15.41125 
+20:48:10.028360>  DevBUY (-): 74.91625 avgGapBuy:33.38375 
+20:48:10.244370>  DevBUY (+): 72.51625 avgGapBuy:33.38375 
+20:48:10.253372>  DevBUY (-): 141.71625 avgGapBuy:33.38375 
+20:48:10.712399>  DevBUY (+): 124.86875 avgGapBuy:42.13125 
+20:48:10.912410>  DevBUY (-): 124.86875 avgGapBuy:42.13125 
+20:48:11.534448>  DevSELL (+): -112.62375 avgGapSell:42.12375 
+20:48:12.017473>  DevBUY (-): 136.16875 avgGapBuy:42.13125 
+20:48:12.130489>  DevSELL (-): -112.62375 avgGapSell:42.12375 
+20:48:12.294491>  DevBUY (-): 136.16875 avgGapBuy:42.13125 
+20:48:12.621507>  DevBUY (-): 129.16875 avgGapBuy:42.13125 
+20:48:12.770518>  DevSELL (-): -106.82375 avgGapSell:42.12375 
+20:48:12.829518>  DevBUY (-): 125.46875 avgGapBuy:42.13125 
+20:48:13.198542>  DevSELL (+): -102.72375 avgGapSell:42.12375 
+20:48:13.402555>  DevSELL (-): -99.32375 avgGapSell:42.12375 
+20:48:13.644564>  DevBUY (-): 137.56875 avgGapBuy:42.13125 
+20:48:13.870580>  DevSELL (-): -111.02375 avgGapSell:42.12375 
+20:48:14.391609>  DevBUY (-): 65.56875 avgGapBuy:42.13125 
+20:48:14.496618>  DevSELL (+): -126.72375 avgGapSell:42.12375 
+20:48:15.412671>  DevSELL (+): -132.97875 avgGapSell:48.37875 
+20:48:16.053707>  DevSELL (-): -68.47875 avgGapSell:48.37875 
+20:48:16.597744>  DevSELL (-): -136.27875 avgGapSell:48.37875 
+20:48:19.802919>  DevSELL (-): -140.27875 avgGapSell:48.37875 
+20:48:20.454962>  DevSELL (-): -122.09625 avgGapSell:41.49625 
+20:48:20.618968>  DevSELL (-): -115.59625 avgGapSell:41.49625 
+20:48:21.980045>  DevBUY (-): 106.395 avgGapBuy:41.505 
+20:48:23.168111>  DevSELL (-): -70.79625 avgGapSell:41.49625 
+20:48:23.743146>  DevBUY (+): 82.795 avgGapBuy:41.505 
+20:48:23.753147>  DevSELL (+): -70.79625 avgGapSell:41.49625 
+20:48:23.891155>  DevSELL (-): -127.59625 avgGapSell:41.49625 
+20:48:23.974161>  DevBUY (-): 92.795 avgGapBuy:41.505 
+20:48:24.451184>  DevSELL (+): -127.59625 avgGapSell:41.49625 
+20:48:24.671198>  DevBUY (-): 92.795 avgGapBuy:41.505 
+20:48:24.830206>  DevSELL (-): -127.59625 avgGapSell:41.49625 
+20:48:25.600253>  DevBUY (-): 93.77125 avgGapBuy:36.72875 
+20:48:25.676257>  DevBUY (+): 90.47125 avgGapBuy:36.72875 
+20:48:26.441303>  DevBUY (-): 90.47125 avgGapBuy:36.72875 
+20:48:27.371357>  DevSELL (-): -112.6275 avgGapSell:36.7275 
+20:48:28.603423>  DevSELL (+): -109.5275 avgGapSell:36.7275 
+20:48:30.479534>  DevSELL (+): -110.7275 avgGapSell:36.7275 
+20:48:30.780551>  DevBUY (+): 88.99 avgGapBuy:35.81 
+20:48:30.783553>  DevSELL (+): -62.00875 avgGapSell:35.80875 
+20:48:30.866554>  DevSELL (-): -113.00875 avgGapSell:35.80875 
+20:48:32.986675>  DevBUY (+): 85.49 avgGapBuy:35.81 
+20:48:33.048680>  DevSELL (-): -121.80875 avgGapSell:35.80875 
+20:48:33.691714>  DevBUY (+): 77.49 avgGapBuy:35.81 
+20:48:33.832724>  DevSELL (-): -121.90875 avgGapSell:35.80875 
+20:48:34.502762>  DevSELL (-): -123.00875 avgGapSell:35.80875 
+20:48:35.138801>  DevBUY (-): 70.89 avgGapBuy:35.81 
+20:48:35.856843>  DevSELL (-): -113.46375 avgGapSell:27.16375 
+20:48:37.505072>  DevSELL (-): -117.36375 avgGapSell:27.16375 
+20:48:37.509935>  DevSELL (-): -137.26375 avgGapSell:27.16375 
+20:48:38.123973>  DevSELL (-): -123.96375 avgGapSell:27.16375 
+20:48:40.242093>  DevSELL (-): -64.26375 avgGapSell:27.16375 
+20:48:40.622116>  DevSELL (-): -115.96375 avgGapSell:27.16375 
+20:48:41.090143>  DevSELL (+): -96.25375 avgGapSell:9.95375 
+20:48:44.640460>  DevSELL (-): -98.85375 avgGapSell:9.95375 
+20:48:46.630459>  DevSELL (-): -100.72375 avgGapSell:4.32375 
+20:48:46.965478>  DevSELL (-): -100.72375 avgGapSell:4.32375 
+20:48:47.327499>  DevSELL (-): -106.82375 avgGapSell:4.32375 
+20:48:47.801525>  DevSELL (-): -62.32375 avgGapSell:4.32375 
+20:48:49.372616>  DevSELL (-): -129.42375 avgGapSell:4.32375 
+20:48:50.759694>  DevSELL (+): -74.22875 avgGapSell:-9.37125 
+20:48:53.203834>  DevSELL (-): -122.32875 avgGapSell:-9.37125 
+20:48:53.402848>  DevSELL (+): -80.52875 avgGapSell:-9.37125 
+20:48:53.550856>  DevSELL (+): -122.32875 avgGapSell:-9.37125 
+20:48:54.852930>  DevSELL (+): -126.32875 avgGapSell:-9.37125 
+20:48:55.203952>  DevSELL (-): -129.12875 avgGapSell:-9.37125 
+20:48:56.751035>  DevSELL (-): -98.6575 avgGapSell:-24.9425 
+20:48:57.342072>  DevSELL (-): -78.2575 avgGapSell:-24.9425 
+20:48:58.293126>  DevSELL (-): -79.0575 avgGapSell:-24.9425 
+20:48:58.322128>  DevSELL (+): -88.2575 avgGapSell:-24.9425 
+20:49:04.782501>  DevSELL (-): -78.01125 avgGapSell:-31.58875 
+20:49:05.170518>  DevSELL (+): -98.01125 avgGapSell:-31.58875 
+20:49:05.226523>  DevSELL (-): -101.81125 avgGapSell:-31.58875 
+20:49:05.915565>  DevSELL (-): -97.84375 avgGapSell:-38.15625 
+20:49:06.767612>  DevSELL (+): -87.44375 avgGapSell:-38.15625 
+20:50:15.805571> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:50:15.814573> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:50:17.054642> WebSocket connected! Start @depth [Future] process...
+20:50:32.186512> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:50:37.500814> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:50:37.501817> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:50:38.911904> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:52:44.839116>  DevSELL (+): -70.96375 avgGapSell:44.26375 
+20:52:46.998242>  DevSELL (-): -73.88875 avgGapSell:39.58875 
+20:52:51.889522>  DevSELL (-): -80.49625 avgGapSell:29.39625 
+20:52:52.240543>  DevSELL (-): -81.79625 avgGapSell:29.39625 
+20:52:56.546799>  DevSELL (+): -77.155 avgGapSell:25.955 
+20:56:43.982827> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:56:49.448145> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+20:56:49.448145> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:56:51.553274> WebSocket connected! Start @depth [Future] process...
+20:56:52.201300>  DevBUY (-): 78.97 avgGapBuy:3.03 
+20:56:52.410312>  DevBUY (-): 78.97 avgGapBuy:3.03 
+20:56:53.010348>  DevBUY (-): 78.97 avgGapBuy:3.03 
+20:56:54.043404>  DevBUY (-): 78.97 avgGapBuy:3.03 
+20:57:07.469177>  DevBUY (-): 78.31625 avgGapBuy:3.68375 
+20:57:10.063324>  DevBUY (-): 79.01625 avgGapBuy:3.68375 
+20:57:11.013378>  DevBUY (-): 79.01625 avgGapBuy:3.68375 
+20:57:11.669416>  DevBUY (-): 77.74625 avgGapBuy:4.95375 
+20:57:12.792481>  DevBUY (-): 77.74625 avgGapBuy:4.95375 
+20:57:19.258863> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:57:25.358201> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:57:25.360203> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:57:27.658332> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+20:57:39.681021>  DevSELL (-): -62.3775 avgGapSell:7.9775 
+20:57:40.061042>  DevSELL (-): -62.3775 avgGapSell:7.9775 
+20:57:41.691141>  DevSELL (-): -75.6775 avgGapSell:7.9775 
+20:57:42.326175>  DevSELL (-): -75.6775 avgGapSell:7.9775 
+20:57:43.105220>  DevSELL (-): -74.11 avgGapSell:6.41 
+20:57:45.805373>  DevSELL (-): -73.41 avgGapSell:6.41 
+20:57:48.091505>  DevSELL (-): -73.22125 avgGapSell:6.22125 
+20:57:48.793546>  DevSELL (-): -73.22125 avgGapSell:6.22125 
+20:57:50.535645>  DevSELL (-): -79.82125 avgGapSell:6.22125 
+20:57:50.589649>  DevSELL (+): -84.42125 avgGapSell:6.22125 
+20:57:51.918723>  DevSELL (-): -96.02125 avgGapSell:6.22125 
+20:57:54.725885>  DevSELL (-): -94.2275 avgGapSell:0.6275 
+20:57:56.491988>  DevSELL (-): -106.9275 avgGapSell:0.6275 
+20:57:57.052018>  DevSELL (-): -116.8275 avgGapSell:0.6275 
+20:57:58.446097>  DevSELL (-): -131.1225 avgGapSell:-4.2775 
+20:57:59.009131>  DevSELL (+): -129.6225 avgGapSell:-4.2775 
+20:57:59.887182>  DevSELL (-): -131.4225 avgGapSell:-4.2775 
+20:58:16.691145>  DevSELL (-): -121.3525 avgGapSell:-12.4475 
+20:58:17.054162>  DevSELL (+): -120.1525 avgGapSell:-12.4475 
+20:58:46.936877>  DevSELL (-): -101.22625 avgGapSell:-21.27375 
+20:58:47.899932>  DevSELL (-): -101.22625 avgGapSell:-21.27375 
+20:58:49.965052>  DevSELL (-): -86.6625 avgGapSell:-25.2375 
+20:58:52.809217>  DevSELL (+): -87.3625 avgGapSell:-25.2375 
+20:58:54.803328>  DevSELL (-): -84.0825 avgGapSell:-28.5175 
+20:58:55.452366>  DevSELL (-): -84.0825 avgGapSell:-28.5175 
+20:58:55.787388>  DevSELL (+): -83.3825 avgGapSell:-28.5175 
+20:58:57.781501>  DevSELL (-): -83.3825 avgGapSell:-28.5175 
+20:58:58.306530>  DevSELL (-): -89.3825 avgGapSell:-28.5175 
+20:59:00.701668>  DevSELL (-): -78.81875 avgGapSell:-34.98125 
+20:59:06.724014>  DevSELL (-): -81.2525 avgGapSell:-36.1475 
+20:59:13.613409>  DevSELL (-): -79.0225 avgGapSell:-38.3775 
+20:59:17.945658>  DevSELL (-): -77.57125 avgGapSell:-39.82875 
+20:59:18.563691>  DevSELL (-): -64.67125 avgGapSell:-39.82875 
+20:59:49.588471> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:59:51.978609> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+20:59:55.017782> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:59:55.017782> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+20:59:55.332801>  DevSELL (-): -65.65125 avgGapSell:-43.64875 
+20:59:56.476868> WebSocket connected! Start @depth [Future] process...
+20:59:57.084901> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+20:59:57.085901> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+20:59:59.782056> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:03:11.775068> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:03:17.791410> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:03:17.899415> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:03:19.467506> WebSocket connected! Start @depth [Future] process...
+21:06:06.369074> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:06:12.135417> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:06:12.135417> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:06:15.089575> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:08:47.027286> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:08:47.040287> WebSocket [ConnectToDepthStream()] [future] error: A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+21:08:52.718613> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:08:52.718613> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:08:54.354707> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:08:57.135866> WebSocket connected! Start @depth [Future] process...
+21:09:00.224042> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:09:00.226041> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:09:02.020146> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:11:49.857770> WebSocket [SubscribePartialDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:11:55.032071> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:11:55.039066> WebSocket [SubscribePartialDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:11:57.485206> WebSocket connected! Start @depth [Future] process...
+21:12:16.371291> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:12:21.388576> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:12:21.390578> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:12:22.491639> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:14:44.887806> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:14:50.069104> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:14:50.069104> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:14:51.699399> WebSocket connected! Start @depth [Future] process...
+21:15:07.777118> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:15:13.407441> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:15:13.408441> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:15:14.762518> WebSocket connected! Start @depth [Future] process...
+21:18:00.341018> WebSocket [ConnectToDepthStream()] [future] error: Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.
+21:18:05.638316> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:18:05.639316> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:18:06.793382> WebSocket connected! Start @depth [Future] process...
+21:21:17.110295> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:21:23.502662> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:21:23.509660> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:21:24.921743> WebSocket connected! Start @depth [Future] process...
+21:21:27.213875> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:21:32.599183> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:21:32.600184> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:21:34.201272> WebSocket connected! Start @depth [Future] process...
+21:23:42.573637> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:23:42.574637> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:23:44.036734> WebSocket connected! Start @depth [Future] process...
+21:24:30.826402> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:24:35.898692> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:24:35.899693> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:24:36.939753> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:26:15.063380> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:26:15.202388> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:26:16.474459> WebSocket connected! Start @depth [Future] process...
+21:26:17.787534> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:26:23.511867> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:26:23.512864> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:26:24.569925> WebSocket connected! Start @depth [Future] process...
+21:26:44.874088> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:26:50.340400> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:26:50.342402> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:26:52.001496> WebSocket connected! Start @depth [Future] process...
+21:29:48.087591> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:29:50.727743> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:29:55.506019> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:29:55.507019> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:29:55.881041> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:29:55.881041> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:29:57.749148> WebSocket connected! Start @depth [Future] process...
+21:29:58.051163> WebSocket connected! Start @depth [Future] process...
+21:30:07.722718> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:30:13.676061> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:30:13.678060> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:30:14.924131> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:30:53.047318> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:30:58.471645> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:30:58.472628> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:31:01.473802> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:35:58.186812> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine.
+21:36:03.246102> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:36:03.263104> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:36:04.388168> WebSocket connected! Start @depth [Future] process...
+21:36:35.485953> Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:36:40.671249> BinanceFuture - Vxxv1AWf[USD_M] Reconect to WebSocket #
+21:36:40.675251> WebSocket [SubscribeToAggTradeStream()] [Closed] [future] and reconnect again [with Task.Delay]..
+21:36:42.291340> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+21:41:59.185530> WebSocket [ConnectToDepthStream()] [future] error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host.
+21:42:04.418831> BinanceFuture - Vxxv1AWf[USD_M] Reconect ConnectToDepthStream() to WebSocket #
+21:42:04.418831> WebSocket [ConnectToDepthStream()] [Closed] [future] and reconnect again [during Task.Delay]..
+21:42:05.475893> WebSocket connected! Start @depth [Future] process...

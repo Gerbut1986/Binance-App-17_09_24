@@ -1,0 +1,662 @@
+14:00:47.091616> WebSocket connected! Start Partial @depth20 [Future] process...
+14:00:47.092617> WebSocket connected! Start @depth [Future] process...
+14:00:47.093617> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:00:47.110617> WebSocket connected! Start Partial @depth20 [Future] process...
+14:00:48.100844> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+14:00:48.120846> WebSocket connected! Start Partial @depth20 [Future] process...
+14:00:48.139846> WebSocket connected! Start @depth [Future] process...
+14:00:48.149845> WebSocket connected! Start Partial @depth20 [Future] process...
+14:00:48.649555> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 229.72970742 USDT
+14:12:29.766109> Try Open BuyLimit, Bid: 57940.4 Ask:  57940.5
+14:12:29.766109> Order Signal open long, Order=222 StepByStepUP:0 Stk:10 StkImp:2 Lnt:2 Prg:0 Tide:20 Bid: 57940.4 Ask:  57940.5
+14:12:30.039037> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57940.5;Execution=267.937 ms;
+14:12:30.040032> Placed Main BuyLimit, ticketCustom = 1 ticket= 4442116194 LastBuyPrice=57940.4
+14:12:34.001339> Try adding BuyLimit, Bid: 57936.1 Ask:  57936.2
+14:12:34.987127> [1Leg]: Buy OK BTCUSDC at 57934.10;Price=57934.1;Slippage=-3.7;Execution=984.790 ms;
+14:12:34.987127> adding BuyLimit, ticket = 4442116194 ticketCustom = 2 
+14:12:34.989127> Try adding BuyLimit, Bid: 57930.3 Ask:  57930.4
+14:12:35.246132> [1Leg]: Buy OK BTCUSDC at 57928.30;Price=57928.3;Slippage=1.5;Execution=257.005 ms;
+14:12:35.246132> adding BuyLimit, ticket = 4442116194 ticketCustom = 3 
+14:13:07.030327> Try adding BuyLimit, Bid: 57925.1 Ask:  57925.2
+14:13:07.293472> [1Leg]: Buy OK BTCUSDC at 57923.10;Price=57923.1;Slippage=2.1;Execution=263.145 ms;
+14:13:07.294475> adding BuyLimit, ticket = 4442116194 ticketCustom = 4 
+14:13:09.709433> Try adding BuyLimit, Bid: 57920.7 Ask:  57920.8
+14:13:09.967447> [1Leg]: Buy OK BTCUSDC at 57918.70;Price=57918.7;Slippage=2.1;Execution=258.014 ms;
+14:13:09.967447> adding BuyLimit, ticket = 4442116194 ticketCustom = 5 
+14:15:31.841537> Try Close Buy, Ask: 57841.4 Bid:57841.3 
+14:15:31.841537> Natiag Signal close long, stoploss=57778.08 TotalVal=0.050 pos:0.050 EntrPrice=57928.08 Stk:10 Lnt:1 Prg:0 Bid: 57841.3 Ask:  57841.4
+14:15:32.102604> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57841.4;Execution=260.066 ms;
+14:15:32.103605> Close Main Buy, ticketCustom = 6 ticket = 4442116194
+14:15:37.001283> Try Open BuyLimit, Bid: 57827.3 Ask:  57827.4
+14:15:37.002281> Order Signal open long, Order=222 StepByStepUP:0 Stk:10 StkImp:2 Lnt:0 Prg:0 Tide:10 Bid: 57827.3 Ask:  57827.4
+14:15:37.987853> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57822.7;Execution=985.572 ms;
+14:15:37.987853> Placed Main BuyLimit, ticketCustom = 7 ticket= 4442203842 LastBuyPrice=57827.3
+14:15:43.000432> Try place lock SellLimit, Bid: 57819.9 Ask:57820.0 wantPrice:57983.3  EntrPrice:57822.7
+14:15:43.250401> [1Leg]: Sell OK BTCUSDC at 57983.30;Price=57983.3;Slippage=-163.3;Execution=249.015 ms;
+14:15:43.251400> Placed lock SellLimit, ticketCustom= 8, ticket= 4442203842 
+14:15:43.251400> Order Signal open adding long, Order=222 StepByStepUP:0 , stoploss=57778.08 TotalVal=0.010 pos:0.010 EntrPrice=57822.7 Stk:10 StkImp:2 Lnt:1 Prg:0
+14:15:43.251400> Try Delete lock Sell order,  ticket = 4442203842 ticketCustom = 8
+14:15:43.252402> Order Signal open adding long, Order=222 StepByStepUP:0 , stoploss=57778.08 TotalVal=0.010 pos:0.010 EntrPrice=57822.7 Stk:10 StkImp:2 Lnt:1 Prg:0
+14:15:43.508417> OrderId: [4442206446]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=255.016 ms;
+14:15:43.509416> Delete lock SellLimit (1Leg)
+14:15:43.509416> Try adding BuyLimit, Bid: 57819.9 Ask:  57820.0
+14:15:43.766430> [1Leg]: Buy OK BTCUSDC at 57817.90;Price=57817.9;Slippage=2.1;Execution=257.014 ms;
+14:15:43.766430> adding BuyLimit, ticket = 4442207671 ticketCustom = 9 
+14:15:58.396008> Try adding BuyLimit, Bid: 57814.5 Ask:  57814.6
+14:15:58.655214> [1Leg]: Buy OK BTCUSDC at 57812.50;Price=57812.5;Slippage=2.1;Execution=259.207 ms;
+14:15:58.655214> adding BuyLimit, ticket = 4442207671 ticketCustom = 10 
+14:16:00.966887> Try adding BuyLimit, Bid: 57811.2 Ask:  57811.3
+14:16:01.237901> [1Leg]: Buy OK BTCUSDC at 57809.20;Price=57809.2;Slippage=2.1;Execution=266.026 ms;
+14:16:01.238899> adding BuyLimit, ticket = 4442207671 ticketCustom = 11 
+14:16:11.272932> Try adding BuyLimit, Bid: 57791.4 Ask:  57791.5
+14:16:11.529938> [1Leg]: Buy OK BTCUSDC at 57789.40;Price=57789.4;Slippage=2.1;Execution=256.017 ms;
+14:16:11.530943> adding BuyLimit, ticket = 4442207671 ticketCustom = 12 
+14:16:44.371940> Try adding BuyLimit, Bid: 57787.4 Ask:  57787.5
+14:16:44.639004> [1Leg]: Buy OK BTCUSDC at 57785.40;Price=57785.4;Slippage=2.1;Execution=267.064 ms;
+14:16:44.640004> adding BuyLimit, ticket = 4442207671 ticketCustom = 13 
+14:26:04.296644> Try Close Buy, Ask: 57684.7 Bid:57684.6 
+14:26:04.297646> Natiag Signal close long, stoploss=57655.34 TotalVal=0.060 pos:0.060 EntrPrice=57805.34 Stk:10 Lnt:1 Prg:0 Bid: 57684.6 Ask:  57684.7
+14:26:04.557651> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57684.7;Execution=260.006 ms;
+14:26:04.558641> Close Main Buy, ticketCustom = 14 ticket = 4442207671
+14:26:09.000098> Try Open BuyLimit, Bid: 57681.9 Ask:  57682.0
+14:26:09.001093> Order Signal open long, Order=222 StepByStepUP:0 Stk:10 StkImp:2 Lnt:1 Prg:0 Tide:10 Bid: 57681.9 Ask:  57682.0
+14:26:09.998025> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57682.0;Execution=996.932 ms;
+14:26:09.998025> Placed Main BuyLimit, ticketCustom = 15 ticket= 4442520119 LastBuyPrice=57681.9
+14:26:15.000025> Try place lock SellLimit, Bid: 57672.0 Ask:57672.1 wantPrice:57842.6  EntrPrice:57682.0
+14:26:15.262358> [1Leg]: Sell OK BTCUSDC at 57842.60;Price=57842.6;Slippage=-173.6;Execution=261.363 ms;
+14:26:15.264354> Placed lock SellLimit, ticketCustom= 16, ticket= 4442520119 
+14:26:15.266355> Order Signal open adding long, Order=222 StepByStepUP:0 , stoploss=57655.34 TotalVal=0.010 pos:0.010 EntrPrice=57682.0 Stk:10 StkImp:2 Lnt:1 Prg:0
+14:26:15.267355> Try Delete lock Sell order,  ticket = 4442520119 ticketCustom = 16
+14:26:15.267355> Order Signal open adding long, Order=222 StepByStepUP:0 , stoploss=57655.34 TotalVal=0.010 pos:0.010 EntrPrice=57682.0 Stk:10 StkImp:2 Lnt:1 Prg:0
+14:26:15.523369> OrderId: [4442523897]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=254.018 ms;
+14:26:15.523369> Delete lock SellLimit (1Leg)
+14:26:15.524370> Try adding BuyLimit, Bid: 57668.9 Ask:  57669.0
+14:26:15.779395> [1Leg]: Buy OK BTCUSDC at 57666.90;Price=57666.9;Slippage=7.9;Execution=255.026 ms;
+14:26:15.780390> adding BuyLimit, ticket = 4442525205 ticketCustom = 17 
+14:36:43.091823> Try adding BuyLimit, Bid: 57664.4 Ask:  57664.5
+14:36:43.348820> [1Leg]: Buy OK BTCUSDC at 57662.40;Price=57662.4;Slippage=2.1;Execution=256.997 ms;
+14:36:43.348820> adding BuyLimit, ticket = 4442525205 ticketCustom = 18 
+14:36:45.714452> Try adding BuyLimit, Bid: 57658.1 Ask:  57658.2
+14:36:45.972812> [1Leg]: Buy OK BTCUSDC at 57656.10;Price=57656.1;Slippage=2.1;Execution=258.360 ms;
+14:36:45.973813> adding BuyLimit, ticket = 4442525205 ticketCustom = 19 
+14:37:08.141275> Try adding BuyLimit, Bid: 57644.2 Ask:  57646.5
+14:37:08.396136> [1Leg]: Buy OK BTCUSDC at 57642.20;Price=57642.2;Slippage=4.3;Execution=254.860 ms;
+14:37:08.397130> adding BuyLimit, ticket = 4442525205 ticketCustom = 20 
+14:37:15.148425> Try adding BuyLimit, Bid: 57640.9 Ask:  57641.0
+14:37:16.137089> [1Leg]: Buy OK BTCUSDC at 57638.90;Price=57638.9;Slippage=2.1;Execution=987.676 ms;
+14:37:16.138096> adding BuyLimit, ticket = 4442525205 ticketCustom = 21 
+14:52:21.001477> Try place lock SellLimit, Bid: 57765.9 Ask:57766.0 wantPrice:57818.6  EntrPrice:57658.08333333
+14:52:22.063618> [1Leg]: Sell OK BTCUSDC at 57818.60;Price=57818.6;Slippage=-50.9;Execution=984.139 ms;
+14:52:22.064613> Placed lock SellLimit, ticketCustom= 22, ticket= 4442525205 
+14:52:22.064613>  
+14:58:00.000522> Try Modify Lock Sell order, 
+14:58:01.011854> [1Leg]: SELL OK MODIFY BTCUSDC at 0.010 lot;price=57802.20;execution=1008.352 ms;
+14:58:01.011854> Modify Lock SellLimit (1Leg)
+15:07:51.250731> Try Delete lock Sell order,  ticket = 4442525205 ticketCustom = 22
+15:07:51.253730> Natiag Signal close long, stoploss=57508.08333333 TotalVal=0.060 pos:0.060 EntrPrice=57658.08333333 Stk:10 Lnt:1 Prg:0 Bid: 57574.0 Ask:  57574.1
+15:07:51.509162> OrderId: [4443136906]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=254.427 ms;
+15:07:51.509162> Delete lock SellLimit (1Leg)
+15:07:51.510162> Try Close Buy, Ask: 57574.1 Bid:57574.0 
+15:07:51.510162> Natiag Signal close long, stoploss=57508.08333333 TotalVal=0.060 pos:0.060 EntrPrice=57658.08333333 Stk:10 Lnt:1 Prg:0 Bid: 57574.0 Ask:  57574.1
+15:07:51.820180> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57574.1;Execution=310.018 ms;
+15:07:51.820180> Close Main Buy, ticketCustom = 23 ticket = 4443549861
+15:58:02.421270> Try Open BuyLimit, Bid: 57238.0 Ask:  57238.1
+15:58:02.421270> Order Signal open long, Order=2222 StepByStepUP:0 Stk:10 StkImp:2 Lnt:2 Prg:0 Tide:20 Bid: 57238.0 Ask:  57238.1
+15:58:02.678289> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57238.1;Execution=257.020 ms;
+15:58:02.679285> Placed Main BuyLimit, ticketCustom = 24 ticket= 4443549861 LastBuyPrice=57238.0
+15:58:06.009230> Try place lock SellLimit, Bid: 57261.5 Ask:57261.6 wantPrice:57412.8  EntrPrice:57238.34
+15:58:07.048375> [1Leg]: Sell OK BTCUSDC at 57412.80;Price=57412.8;Slippage=-151.2;Execution=1038.146 ms;
+15:58:07.048375> Placed lock SellLimit, ticketCustom= 25, ticket= 4445332312 
+15:58:07.049376>  
+16:01:49.051857> Try Delete lock Sell order,  ticket = 4445332312 ticketCustom = 25
+16:01:49.051857> Stop Signal close long, stoploss=57088.34 TotalVal=0.010 pos:0.010 EntrPrice=57238.34 Stk:10 Lnt:1 Prg:0 Bid: 57087.3 Ask:  57087.4
+16:01:49.360788> OrderId: [4445332312]: Sell Limit OK DELETE  BTCUSDC;price=0;Execution=307.931 ms;
+16:01:49.361784> Delete lock SellLimit (1Leg)
+16:01:49.362784> Try Close Buy, Ask: 57087.4 Bid:57087.3 
+16:01:49.362784> Stop Signal close long, stoploss=57088.34 TotalVal=0.010 pos:0.010 EntrPrice=57238.34 Stk:10 Lnt:1 Prg:0 Bid: 57087.3 Ask:  57087.4
+16:01:49.620809> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57087.4;Execution=258.025 ms;
+16:01:49.621799> Close Main Buy, ticketCustom = 26 ticket = 4445332312
+16:25:39.278306> Try Open BuyLimit, Bid: 56904.8 Ask:  56904.9
+16:25:39.279006> Order Signal open long, Order=2222 StepByStepUP:0 Stk:10 StkImp:1 Lnt:2 Prg:0 Tide:20 Bid: 56904.8 Ask:  56904.9
+16:25:39.570021> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=56895.8;Execution=291.015 ms;
+16:25:39.571023> Placed Main BuyLimit, ticketCustom = 27 ticket= 4445332312 LastBuyPrice=56904.8
+16:25:45.013279> Try place lock SellLimit, Bid: 56932.0 Ask:56932.1 wantPrice:57006.7  EntrPrice:56895.8
+16:25:46.024685> [1Leg]: Sell OK BTCUSDC at 57006.70;Price=57006.7;Slippage=-79.6;Execution=1009.407 ms;
+16:25:46.024685> Placed lock SellLimit, ticketCustom= 28, ticket= 4447187742 
+16:25:46.024685>  
+16:28:37.973959>  DevSELL (+): -87.21875 avgGapSell:-47.68125 
+16:28:41.020860>  DevBUY (+): 65.645 avgGapBuy:-46.445 
+16:50:58.084649> Try Open SellLimit, Ask: 57239.3 Bid:57239.2
+16:50:58.085635> Order Signal open short, Order=1111 StepByStepDN:0 Stk:20 StkImp:2 Lnt:1 Prg:0 Bid: 57239.2 Ask:  57239.3
+16:50:58.394651> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57249.5;Execution=308.018 ms;
+16:50:58.447655> Placed Main SellLimit, ticketCustom = 29 ticket = 4447187742 LastSellPrice=57239.3
+16:51:03.000006> Try place lock BuyLimit, Bid: 57237.0 Ask:  57237.1 wantPrice:57064.1 EntrPrice:57244.1
+16:51:03.993812> [1Leg]: Buy OK BTCUSDC at 57064.10;Price=57064.1;Slippage=185.9;Execution=992.810 ms;
+16:51:03.994791>  
+16:51:03.994791> Placed lock BuyLimit, ticketCustom= 30, ticket= 4447187742 
+16:51:03.994791> Try Delete lock Buy order, ticket = 4447187742 ticketCustom = 30
+16:51:04.020798>  
+16:51:04.282806> OrderId: [4449274343]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=261.013 ms;
+16:51:04.282806> Delete lock BuyLimit (1Leg)
+16:51:04.284807> Try adding SellLimit, Ask: 57250.0
+16:51:04.284807> Support: 57249.9 VolS:1.617 Resistence: 57250 VolR:2.02
+16:51:04.543497> [1Leg]: Sell OK BTCUSDC at 57252.00;Price=57252.0;Slippage=-2.2;Execution=258.690 ms;
+16:51:04.544498> adding Sell (1Leg), ticket = 4449274835 ticketCustom = 31
+16:51:05.319331> Try adding SellLimit, Ask: 57258.9
+16:51:05.319331> Support: 57258.8 VolS:3.03 Resistence: 57259 VolR:0.712
+16:51:05.598348> [1Leg]: Sell OK BTCUSDC at 57260.90;Price=57260.9;Slippage=-2.0;Execution=279.016 ms;
+16:51:05.639349> adding Sell (1Leg), ticket = 4449274835 ticketCustom = 32
+16:51:05.830370> Try adding SellLimit, Ask: 57264.6
+16:51:05.830370> Support: 57264.5 VolS:1.505 Resistence: 57264.6 VolR:0.366
+16:51:06.091968> [1Leg]: Sell OK BTCUSDC at 57266.60;Price=57266.6;Slippage=-2.0;Execution=260.608 ms;
+16:51:06.092964> adding Sell (1Leg), ticket = 4449274835 ticketCustom = 33
+16:51:45.001910> Try place lock BuyLimit, Bid: 57138.6 Ask:  57138.7 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:51:45.343256> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:51:45.344256> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.19125;Price=57138.70
+16:51:48.000477> Try place lock BuyLimit, Bid: 57132.9 Ask:  57133.0 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:51:48.283922> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:51:48.284917> [1Leg]: Buy FAILED BTCUSDC;Gap=-7.20625;Price=57134.00
+16:51:51.001933> Try place lock BuyLimit, Bid: 57128.3 Ask:  57128.4 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:51:51.282939> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:51:51.283940> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.00625;Price=57128.40
+16:51:54.001614> Try place lock BuyLimit, Bid: 57141.5 Ask:  57141.6 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:51:54.284009> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:51:54.285006> [1Leg]: Buy FAILED BTCUSDC;Gap=1.70;Price=57141.60
+16:51:57.001598> Try place lock BuyLimit, Bid: 57146.5 Ask:  57146.6 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:51:57.298611> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:51:57.299610> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.40;Price=57152.30
+16:52:00.000425> Try place lock BuyLimit, Bid: 57183.7 Ask:  57183.8 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:00.316329> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:00.317330> [1Leg]: Buy FAILED BTCUSDC;Gap=1.98625;Price=57183.80
+16:52:03.001696> Try place lock BuyLimit, Bid: 57184.2 Ask:  57184.3 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:03.311578> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:03.312576> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.515;Price=57189.50
+16:52:06.001775> Try place lock BuyLimit, Bid: 57189.4 Ask:  57189.5 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:06.339793> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:06.339793> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.915;Price=57189.50
+16:52:09.001215> Try place lock BuyLimit, Bid: 57191.1 Ask:  57191.2 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:09.332234> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:09.333236> [1Leg]: Buy FAILED BTCUSDC;Gap=-9.005;Price=57196.30
+16:52:12.003303> Try place lock BuyLimit, Bid: 57196.2 Ask:  57196.3 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:12.326322> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:12.326322> [1Leg]: Buy FAILED BTCUSDC;Gap=0.895;Price=57196.30
+16:52:15.000906> Try place lock BuyLimit, Bid: 57198.0 Ask:  57198.1 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:15.311923> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:15.312927> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.36375;Price=57198.10
+16:52:18.021224> Try place lock BuyLimit, Bid: 57183.7 Ask:  57183.8 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:18.317209> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:18.317209> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.5075;Price=57183.80
+16:52:21.026413> Try place lock BuyLimit, Bid: 57158.0 Ask:  57158.1 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:21.317430> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:21.318429> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.4075;Price=57158.10
+16:52:24.021542> Try place lock BuyLimit, Bid: 57184.8 Ask:  57184.9 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:24.400561> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:24.400561> [1Leg]: Buy FAILED BTCUSDC;Gap=2.95;Price=57196.90
+16:52:27.001039> Try place lock BuyLimit, Bid: 57196.8 Ask:  57196.9 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:27.338072> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:27.339061> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.25;Price=57196.90
+16:52:30.030151> Try place lock BuyLimit, Bid: 57199.7 Ask:  57199.8 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:30.377168> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:30.378172> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.70375;Price=57199.80
+16:52:33.001606> Try place lock BuyLimit, Bid: 57204.0 Ask:  57204.1 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:33.330609> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:33.353613> [1Leg]: Buy FAILED BTCUSDC;Gap=-24.85375;Price=57237.90
+16:52:36.000474> Try place lock BuyLimit, Bid: 57226.2 Ask:  57226.3 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:36.303496> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:36.304499> [1Leg]: Buy FAILED BTCUSDC;Gap=5.44625;Price=57225.60
+16:52:39.001508> Try place lock BuyLimit, Bid: 57230.6 Ask:  57230.7 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:39.323510> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:39.324514> [1Leg]: Buy FAILED BTCUSDC;Gap=2.13125;Price=57230.70
+16:52:42.000019> Try place lock BuyLimit, Bid: 57242.6 Ask:  57242.7 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:42.319026> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:42.320022> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.46875;Price=57242.90
+16:52:45.000908> Try place lock BuyLimit, Bid: 57250.7 Ask:  57250.8 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:45.304920> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:45.304920> [1Leg]: Buy FAILED BTCUSDC;Gap=1.1675;Price=57253.00
+16:52:48.000109> Try place lock BuyLimit, Bid: 57244.4 Ask:  57244.5 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:48.288114> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:48.289113> [1Leg]: Buy FAILED BTCUSDC;Gap=1.915;Price=57244.50
+16:52:51.000469> Try place lock BuyLimit, Bid: 57252.4 Ask:  57252.5 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:51.287479> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:51.288480> [1Leg]: Buy FAILED BTCUSDC;Gap=4.615;Price=57252.50
+16:52:54.000985> Try place lock BuyLimit, Bid: 57266.2 Ask:  57266.3 wantPrice:57073.53333333 EntrPrice:57253.53333333
+16:52:54.291998> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+16:52:54.292995> [1Leg]: Buy FAILED BTCUSDC;Gap=0.81125;Price=57266.30
+16:52:57.000265> Try place lock BuyLimit, Bid: 57257.2 Ask:  57257.4 wantPrice:57076.8 EntrPrice:57256.8
+16:52:57.250281> [1Leg]: Buy OK BTCUSDC at 57076.80;Price=57076.8;Slippage=180.6;Execution=249.015 ms;
+16:52:57.251281>  
+16:52:57.251281> Placed lock BuyLimit, ticketCustom= 34, ticket= 4449274835 
+16:57:46.552067> Try Delete lock Buy order, ticket = 4449274835 ticketCustom = 34
+16:57:46.553065> Stop Signal close short, stoploss=57406.8 TotalVal=0.040 pos:-0.040 EntrPrice=57256.8 Stk:20 Lnt:1 Prg:0 Bid: 57409.9 Ask:  57410.0
+16:57:46.812079> OrderId: [4449412697]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=259.014 ms;
+16:57:46.812079> Delete lock BuyLimit (1Leg)
+16:57:46.813080> Try Close Sell, Bid: 57409.9 Ask:  57410.0
+16:57:46.813080> Stop Signal close short, stoploss=57406.8 TotalVal=0.040 pos:-0.040 EntrPrice=57256.8 Stk:20 Lnt:1 Prg:0 Bid: 57409.9 Ask:  57410.0
+16:57:47.074095> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57410.0;Execution=259.015 ms;
+16:57:47.074095> Close Main Sell ticketCustom = 35 ticket= 4449671116
+17:05:01.857166> Try Open SellLimit, Ask: 57341.3 Bid:57341.2
+17:05:01.857166> Order Signal open short, Order=1111 StepByStepDN:0 Stk:20 StkImp:2 Lnt:1 Prg:0 Bid: 57341.2 Ask:  57341.3
+17:05:02.124180> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57341.3;Execution=266.017 ms;
+17:05:02.124180> Placed Main SellLimit, ticketCustom = 36 ticket = 4449671116 LastSellPrice=57341.3
+17:05:19.771751> Try adding SellLimit, Ask: 57348.7
+17:05:19.771751> Support: 57348.6 VolS:1.768 Resistence: 57353.7 VolR:0.752
+17:05:20.050757> [1Leg]: Sell OK BTCUSDC at 57350.70;Price=57350.7;Slippage=-2.0;Execution=278.016 ms;
+17:05:20.051757> adding Sell (1Leg), ticket = 4450034558 ticketCustom = 37
+17:05:24.260749> Try adding SellLimit, Ask: 57354.6
+17:05:24.261749> Support: 57354.3 VolS:2.054 Resistence: 57358.8 VolR:0.627
+17:05:25.358777> [1Leg]: Sell OK BTCUSDC at 57356.60;Price=57356.6;Slippage=11.0;Execution=1097.028 ms;
+17:05:25.359782> adding Sell (1Leg), ticket = 4450034558 ticketCustom = 38
+17:05:25.361784> Try adding SellLimit, Ask: 57367.6
+17:05:25.361784> Support: 57367.5 VolS:1.911 Resistence: 57367.6 VolR:0.573
+17:05:25.622785> [1Leg]: Sell OK BTCUSDC at 57369.60;Price=57369.6;Slippage=-2.0;Execution=261.001 ms;
+17:05:25.623784> adding Sell (1Leg), ticket = 4450034558 ticketCustom = 39
+17:05:32.499220> Try adding SellLimit, Ask: 57372.8
+17:05:32.499220> Support: 57372.7 VolS:2.395 Resistence: 57377.8 VolR:0.731
+17:05:32.759248> [1Leg]: Sell OK BTCUSDC at 57374.80;Price=57374.8;Slippage=-2.0;Execution=260.028 ms;
+17:05:32.760235> adding Sell (1Leg), ticket = 4450034558 ticketCustom = 40
+17:06:27.005851> Try place lock BuyLimit, Bid: 57246.7 Ask:  57246.8 wantPrice:57180.76 EntrPrice:57360.76
+17:06:27.779605> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:27.780605> [1Leg]: Buy FAILED BTCUSDC;Gap=4.94375;Price=57242.20
+17:06:30.000030> Try place lock BuyLimit, Bid: 57245.0 Ask:  57245.1 wantPrice:57180.76 EntrPrice:57360.76
+17:06:30.286038> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:30.309038> [1Leg]: Buy FAILED BTCUSDC;Gap=3.25875;Price=57245.10
+17:06:33.000588> Try place lock BuyLimit, Bid: 57217.4 Ask:  57217.5 wantPrice:57180.76 EntrPrice:57360.76
+17:06:33.301055> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:33.301055> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.84125;Price=57217.50
+17:06:36.000890> Try place lock BuyLimit, Bid: 57230.3 Ask:  57230.4 wantPrice:57180.76 EntrPrice:57360.76
+17:06:36.288296> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:36.288296> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.5125;Price=57230.40
+17:06:39.001275> Try place lock BuyLimit, Bid: 57235.1 Ask:  57235.2 wantPrice:57180.76 EntrPrice:57360.76
+17:06:39.283299> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:39.284299> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.04875;Price=57230.20
+17:06:42.000254> Try place lock BuyLimit, Bid: 57217.5 Ask:  57217.6 wantPrice:57180.76 EntrPrice:57360.76
+17:06:42.279630> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:42.280631> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.24875;Price=57217.60
+17:06:45.001618> Try place lock BuyLimit, Bid: 57218.1 Ask:  57218.2 wantPrice:57180.76 EntrPrice:57360.76
+17:06:45.304833> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:45.317832> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.54875;Price=57218.20
+17:06:48.000542> Try place lock BuyLimit, Bid: 57212.3 Ask:  57212.4 wantPrice:57180.76 EntrPrice:57360.76
+17:06:48.278911> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:48.279911> [1Leg]: Buy FAILED BTCUSDC;Gap=-9.14875;Price=57215.20
+17:06:51.000140> Try place lock BuyLimit, Bid: 57218.1 Ask:  57218.2 wantPrice:57180.76 EntrPrice:57360.76
+17:06:51.335957> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:51.336953> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.54375;Price=57213.60
+17:06:54.000803> Try place lock BuyLimit, Bid: 57218.1 Ask:  57218.2 wantPrice:57180.76 EntrPrice:57360.76
+17:06:54.302122> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:54.303123> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.00625;Price=57214.80
+17:06:57.000316> Try place lock BuyLimit, Bid: 57214.1 Ask:  57214.2 wantPrice:57180.76 EntrPrice:57360.76
+17:06:57.297032> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:06:57.298033> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.10625;Price=57214.20
+17:07:00.000063> Try place lock BuyLimit, Bid: 57214.1 Ask:  57214.2 wantPrice:57180.76 EntrPrice:57360.76
+17:07:00.291880> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:00.306883> [1Leg]: Buy FAILED BTCUSDC;Gap=0.10375;Price=57214.20
+17:07:03.000757> Try place lock BuyLimit, Bid: 57215.2 Ask:  57215.3 wantPrice:57180.76 EntrPrice:57360.76
+17:07:03.339781> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:03.340780> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.09625;Price=57215.30
+17:07:06.007573> Try place lock BuyLimit, Bid: 57215.2 Ask:  57215.3 wantPrice:57180.76 EntrPrice:57360.76
+17:07:06.298576> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:06.299576> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.85;Price=57215.30
+17:07:09.020936> Try place lock BuyLimit, Bid: 57215.2 Ask:  57215.3 wantPrice:57180.76 EntrPrice:57360.76
+17:07:09.314660> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:09.315659> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.74875;Price=57215.30
+17:07:12.063308> Try place lock BuyLimit, Bid: 57215.2 Ask:  57215.3 wantPrice:57180.76 EntrPrice:57360.76
+17:07:12.363515> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:12.365514> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.74875;Price=57221.70
+17:07:15.020167> Try place lock BuyLimit, Bid: 57217.7 Ask:  57217.8 wantPrice:57180.76 EntrPrice:57360.76
+17:07:15.299182> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:15.300182> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.2425;Price=57217.00
+17:07:18.000823> Try place lock BuyLimit, Bid: 57207.4 Ask:  57207.5 wantPrice:57180.76 EntrPrice:57360.76
+17:07:18.280834> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:18.281831> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.3425;Price=57207.50
+17:07:21.000281> Try place lock BuyLimit, Bid: 57191.2 Ask:  57191.3 wantPrice:57180.76 EntrPrice:57360.76
+17:07:21.283284> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:21.283284> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.25375;Price=57191.30
+17:07:24.001712> Try place lock BuyLimit, Bid: 57214.6 Ask:  57214.7 wantPrice:57180.76 EntrPrice:57360.76
+17:07:24.293724> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:24.294723> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.02;Price=57214.70
+17:07:27.000956> Try place lock BuyLimit, Bid: 57227.2 Ask:  57227.3 wantPrice:57180.76 EntrPrice:57360.76
+17:07:27.283972> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:27.284971> [1Leg]: Buy FAILED BTCUSDC;Gap=1.68;Price=57226.80
+17:07:30.001400> Try place lock BuyLimit, Bid: 57228.3 Ask:  57228.4 wantPrice:57180.76 EntrPrice:57360.76
+17:07:30.282401> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:30.282401> [1Leg]: Buy FAILED BTCUSDC;Gap=0.2475;Price=57228.40
+17:07:33.000473> Try place lock BuyLimit, Bid: 57227.2 Ask:  57227.3 wantPrice:57180.76 EntrPrice:57360.76
+17:07:33.304477> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:33.307478> [1Leg]: Buy FAILED BTCUSDC;Gap=1.6475;Price=57227.30
+17:07:36.000713> Try place lock BuyLimit, Bid: 57243.2 Ask:  57243.3 wantPrice:57180.76 EntrPrice:57360.76
+17:07:36.297720> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:36.301719> [1Leg]: Buy FAILED BTCUSDC;Gap=1.2275;Price=57243.30
+17:07:39.000935> Try place lock BuyLimit, Bid: 57246.1 Ask:  57246.2 wantPrice:57180.76 EntrPrice:57360.76
+17:07:39.280860> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:39.308859> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.475;Price=57246.20
+17:07:42.000221> Try place lock BuyLimit, Bid: 57247.2 Ask:  57247.3 wantPrice:57180.76 EntrPrice:57360.76
+17:07:42.283235> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:42.284235> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.275;Price=57247.30
+17:07:45.000243> Try place lock BuyLimit, Bid: 57247.7 Ask:  57247.8 wantPrice:57180.76 EntrPrice:57360.76
+17:07:45.300249> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:45.302247> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.80;Price=57247.80
+17:07:48.000342> Try place lock BuyLimit, Bid: 57247.7 Ask:  57247.8 wantPrice:57180.76 EntrPrice:57360.76
+17:07:48.330322> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:48.331322> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.10;Price=57247.80
+17:07:51.000908> Try place lock BuyLimit, Bid: 57243.3 Ask:  57243.4 wantPrice:57180.76 EntrPrice:57360.76
+17:07:51.302922> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:51.303922> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.37375;Price=57238.20
+17:07:54.000244> Try place lock BuyLimit, Bid: 57238.1 Ask:  57238.2 wantPrice:57180.76 EntrPrice:57360.76
+17:07:54.323261> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:54.324262> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.4675;Price=57241.70
+17:07:57.000674> Try place lock BuyLimit, Bid: 57241.1 Ask:  57241.2 wantPrice:57180.76 EntrPrice:57360.76
+17:07:57.319654> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:07:57.320654> [1Leg]: Buy FAILED BTCUSDC;Gap=1.4325;Price=57241.20
+17:08:00.000193> Try place lock BuyLimit, Bid: 57223.2 Ask:  57223.3 wantPrice:57180.76 EntrPrice:57360.76
+17:08:00.345267> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:00.346268> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.465;Price=57222.20
+17:08:03.000164> Try place lock BuyLimit, Bid: 57213.2 Ask:  57213.3 wantPrice:57180.76 EntrPrice:57360.76
+17:08:03.296175> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:03.296175> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.365;Price=57213.30
+17:08:06.000415> Try place lock BuyLimit, Bid: 57198.6 Ask:  57198.7 wantPrice:57180.76 EntrPrice:57360.76
+17:08:06.355428> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:06.356429> [1Leg]: Buy FAILED BTCUSDC;Gap=0.29875;Price=57198.70
+17:08:09.001292> Try place lock BuyLimit, Bid: 57203.1 Ask:  57203.2 wantPrice:57180.76 EntrPrice:57360.76
+17:08:09.319991> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:09.348993> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.48125;Price=57203.20
+17:08:12.000856> Try place lock BuyLimit, Bid: 57203.1 Ask:  57203.2 wantPrice:57180.76 EntrPrice:57360.76
+17:08:12.325649> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:12.325649> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.48125;Price=57203.20
+17:08:15.001379> Try place lock BuyLimit, Bid: 57199.8 Ask:  57199.9 wantPrice:57180.76 EntrPrice:57360.76
+17:08:15.300776> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:15.325777> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.495;Price=57199.90
+17:08:18.001418> Try place lock BuyLimit, Bid: 57193.5 Ask:  57193.6 wantPrice:57180.76 EntrPrice:57360.76
+17:08:18.302416> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:18.328413> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.095;Price=57193.60
+17:08:21.000296> Try place lock BuyLimit, Bid: 57191.7 Ask:  57191.8 wantPrice:57180.76 EntrPrice:57360.76
+17:08:21.295746> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:21.295746> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.98625;Price=57191.80
+17:08:24.000687> Try place lock BuyLimit, Bid: 57182.6 Ask:  57182.7 wantPrice:57180.76 EntrPrice:57360.76
+17:08:24.300745> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:24.309708> [1Leg]: Buy FAILED BTCUSDC;Gap=0.1225;Price=57182.70
+17:08:27.000571> Try place lock BuyLimit, Bid: 57189.4 Ask:  57189.5 wantPrice:57180.76 EntrPrice:57360.76
+17:08:27.298495> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:27.299497> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.7775;Price=57189.50
+17:08:30.000011> Try place lock BuyLimit, Bid: 57205.9 Ask:  57206.0 wantPrice:57180.76 EntrPrice:57360.76
+17:08:30.291491> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:30.292499> [1Leg]: Buy FAILED BTCUSDC;Gap=1.24625;Price=57206.00
+17:08:33.006338> Try place lock BuyLimit, Bid: 57205.9 Ask:  57206.0 wantPrice:57180.76 EntrPrice:57360.76
+17:08:33.298357> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:33.298357> [1Leg]: Buy FAILED BTCUSDC;Gap=1.24625;Price=57206.00
+17:08:36.000098> Try place lock BuyLimit, Bid: 57211.6 Ask:  57211.7 wantPrice:57180.76 EntrPrice:57360.76
+17:08:36.291046> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:36.292041> [1Leg]: Buy FAILED BTCUSDC;Gap=1.83125;Price=57211.70
+17:08:39.000645> Try place lock BuyLimit, Bid: 57217.3 Ask:  57217.4 wantPrice:57180.76 EntrPrice:57360.76
+17:08:39.288456> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:39.288456> [1Leg]: Buy FAILED BTCUSDC;Gap=3.0825;Price=57217.40
+17:08:42.042160> Try place lock BuyLimit, Bid: 57207.8 Ask:  57207.9 wantPrice:57180.76 EntrPrice:57360.76
+17:08:42.333164> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:42.333164> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.9175;Price=57207.90
+17:08:45.001839> Try place lock BuyLimit, Bid: 57201.4 Ask:  57201.5 wantPrice:57180.76 EntrPrice:57360.76
+17:08:45.309573> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:45.310573> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.7525;Price=57201.50
+17:08:48.004800> Try place lock BuyLimit, Bid: 57201.5 Ask:  57201.6 wantPrice:57180.76 EntrPrice:57360.76
+17:08:48.327818> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:48.328818> [1Leg]: Buy FAILED BTCUSDC;Gap=0.7475;Price=57198.70
+17:08:51.017232> Try place lock BuyLimit, Bid: 57196.8 Ask:  57196.9 wantPrice:57180.76 EntrPrice:57360.76
+17:08:51.328875> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:51.328875> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.51875;Price=57196.90
+17:08:54.016430> Try place lock BuyLimit, Bid: 57190.6 Ask:  57190.7 wantPrice:57180.76 EntrPrice:57360.76
+17:08:54.303449> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:54.304451> [1Leg]: Buy FAILED BTCUSDC;Gap=2.84875;Price=57190.70
+17:08:57.022185> Try place lock BuyLimit, Bid: 57190.6 Ask:  57190.7 wantPrice:57180.76 EntrPrice:57360.76
+17:08:57.335985> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:08:57.335985> [1Leg]: Buy FAILED BTCUSDC;Gap=0.44875;Price=57193.50
+17:09:00.031365> Try place lock BuyLimit, Bid: 57182.0 Ask:  57182.1 wantPrice:57180.76 EntrPrice:57360.76
+17:09:00.307389> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:00.309382> [1Leg]: Buy FAILED BTCUSDC;Gap=5.75375;Price=57182.10
+17:09:03.008497> Try place lock BuyLimit, Bid: 57182.5 Ask:  57182.6 wantPrice:57180.76 EntrPrice:57360.76
+17:09:03.298517> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:03.299516> [1Leg]: Buy FAILED BTCUSDC;Gap=1.45375;Price=57182.60
+17:09:06.000226> Try place lock BuyLimit, Bid: 57196.8 Ask:  57196.9 wantPrice:57180.76 EntrPrice:57360.76
+17:09:06.288254> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:06.289238> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.8725;Price=57196.90
+17:09:09.000970> Try place lock BuyLimit, Bid: 57193.5 Ask:  57194.0 wantPrice:57180.76 EntrPrice:57360.76
+17:09:09.297986> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:09.299998> [1Leg]: Buy FAILED BTCUSDC;Gap=3.76625;Price=57193.60
+17:09:12.000497> Try place lock BuyLimit, Bid: 57193.5 Ask:  57193.6 wantPrice:57180.76 EntrPrice:57360.76
+17:09:12.281489> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:12.281489> [1Leg]: Buy FAILED BTCUSDC;Gap=3.36625;Price=57193.60
+17:09:15.000907> Try place lock BuyLimit, Bid: 57192.3 Ask:  57192.4 wantPrice:57180.76 EntrPrice:57360.76
+17:09:15.280915> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:15.281914> [1Leg]: Buy FAILED BTCUSDC;Gap=0.5475;Price=57192.40
+17:09:18.000164> Try place lock BuyLimit, Bid: 57195.2 Ask:  57195.3 wantPrice:57180.76 EntrPrice:57360.76
+17:09:18.280197> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:18.280197> [1Leg]: Buy FAILED BTCUSDC;Gap=1.7475;Price=57195.30
+17:09:21.001128> Try place lock BuyLimit, Bid: 57190.0 Ask:  57190.1 wantPrice:57180.76 EntrPrice:57360.76
+17:09:21.298011> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:21.300010> [1Leg]: Buy FAILED BTCUSDC;Gap=1.23375;Price=57190.10
+17:09:24.000375> Try place lock BuyLimit, Bid: 57187.2 Ask:  57187.3 wantPrice:57180.76 EntrPrice:57360.76
+17:09:24.285390> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:24.286390> [1Leg]: Buy FAILED BTCUSDC;Gap=2.3475;Price=57187.30
+17:09:27.000478> Try place lock BuyLimit, Bid: 57176.3 Ask:  57176.4 wantPrice:57180.76 EntrPrice:57360.76
+17:09:27.319487> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:27.320488> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.7525;Price=57176.40
+17:09:30.000747> Try place lock BuyLimit, Bid: 57179.1 Ask:  57179.2 wantPrice:57180.76 EntrPrice:57360.76
+17:09:30.306780> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:30.306780> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.2975;Price=57179.20
+17:09:33.000208> Try place lock BuyLimit, Bid: 57179.1 Ask:  57179.2 wantPrice:57180.76 EntrPrice:57360.76
+17:09:33.292211> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:33.293211> [1Leg]: Buy FAILED BTCUSDC;Gap=0.7025;Price=57179.20
+17:09:36.000654> Try place lock BuyLimit, Bid: 57180.2 Ask:  57180.3 wantPrice:57180.76 EntrPrice:57360.76
+17:09:36.371667> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:36.371667> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.29375;Price=57180.30
+17:09:39.001732> Try place lock BuyLimit, Bid: 57173.5 Ask:  57173.6 wantPrice:57180.76 EntrPrice:57360.76
+17:09:39.329748> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:39.330746> [1Leg]: Buy FAILED BTCUSDC;Gap=5.82;Price=57165.60
+17:09:42.004204> Try place lock BuyLimit, Bid: 57159.2 Ask:  57159.3 wantPrice:57180.76 EntrPrice:57360.76
+17:09:42.299453> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:42.318456> [1Leg]: Buy FAILED BTCUSDC;Gap=-8.48;Price=57159.30
+17:09:45.000759> Try place lock BuyLimit, Bid: 57175.1 Ask:  57175.2 wantPrice:57180.76 EntrPrice:57360.76
+17:09:45.357771> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:45.358770> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.32875;Price=57175.20
+17:09:48.000716> Try place lock BuyLimit, Bid: 57173.5 Ask:  57173.6 wantPrice:57180.76 EntrPrice:57360.76
+17:09:48.358724> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:48.359721> [1Leg]: Buy FAILED BTCUSDC;Gap=-7.82875;Price=57173.60
+17:09:51.001495> Try place lock BuyLimit, Bid: 57180.8 Ask:  57180.9 wantPrice:57180.76 EntrPrice:57360.76
+17:09:51.321500> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:51.321500> [1Leg]: Buy FAILED BTCUSDC;Gap=-4.12125;Price=57180.40
+17:09:54.001717> Try place lock BuyLimit, Bid: 57179.2 Ask:  57179.3 wantPrice:57180.76 EntrPrice:57360.76
+17:09:54.334665> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:54.334665> [1Leg]: Buy FAILED BTCUSDC;Gap=0.7525;Price=57179.30
+17:09:57.001651> Try place lock BuyLimit, Bid: 57179.2 Ask:  57179.3 wantPrice:57180.76 EntrPrice:57360.76
+17:09:57.280300> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:09:57.281300> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.0475;Price=57179.30
+17:10:00.001714> Try place lock BuyLimit, Bid: 57180.8 Ask:  57180.9 wantPrice:57180.76 EntrPrice:57360.76
+17:10:00.280754> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:00.281749> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.9675;Price=57180.90
+17:10:03.027489> Try place lock BuyLimit, Bid: 57181.4 Ask:  57181.5 wantPrice:57180.76 EntrPrice:57360.76
+17:10:03.308346> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:03.308346> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.9675;Price=57181.50
+17:10:06.001848> Try place lock BuyLimit, Bid: 57198.4 Ask:  57198.5 wantPrice:57180.76 EntrPrice:57360.76
+17:10:06.289857> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:06.711692> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.00625;Price=57198.50
+17:10:09.000343> Try place lock BuyLimit, Bid: 57203.1 Ask:  57203.2 wantPrice:57180.76 EntrPrice:57360.76
+17:10:09.299285> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:09.300285> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.7825;Price=57203.20
+17:10:12.000099> Try place lock BuyLimit, Bid: 57203.1 Ask:  57203.2 wantPrice:57180.76 EntrPrice:57360.76
+17:10:12.293116> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:12.293116> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.7825;Price=57203.20
+17:10:15.000426> Try place lock BuyLimit, Bid: 57203.7 Ask:  57203.8 wantPrice:57180.76 EntrPrice:57360.76
+17:10:15.303609> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:15.303609> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.2825;Price=57202.70
+17:10:18.001055> Try place lock BuyLimit, Bid: 57193.5 Ask:  57193.6 wantPrice:57180.76 EntrPrice:57360.76
+17:10:18.293062> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:18.294061> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.7825;Price=57193.60
+17:10:21.000269> Try place lock BuyLimit, Bid: 57185.9 Ask:  57186.0 wantPrice:57180.76 EntrPrice:57360.76
+17:10:21.279283> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:21.280291> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.25875;Price=57180.40
+17:10:24.010162> Try place lock BuyLimit, Bid: 57179.3 Ask:  57179.4 wantPrice:57180.76 EntrPrice:57360.76
+17:10:24.305182> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:24.306179> [1Leg]: Buy FAILED BTCUSDC;Gap=0.28375;Price=57179.40
+17:10:27.001221> Try place lock BuyLimit, Bid: 57167.4 Ask:  57167.5 wantPrice:57180.76 EntrPrice:57360.76
+17:10:27.284230> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:27.286228> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.31625;Price=57167.50
+17:10:30.001459> Try place lock BuyLimit, Bid: 57159.8 Ask:  57159.9 wantPrice:57180.76 EntrPrice:57360.76
+17:10:30.286447> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:30.286447> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.9025;Price=57159.90
+17:10:33.020755> Try place lock BuyLimit, Bid: 57162.5 Ask:  57162.6 wantPrice:57180.76 EntrPrice:57360.76
+17:10:33.354772> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:33.355774> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.6025;Price=57162.60
+17:10:36.001897> Try place lock BuyLimit, Bid: 57163.2 Ask:  57163.3 wantPrice:57180.76 EntrPrice:57360.76
+17:10:36.287452> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:36.295453> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.68;Price=57163.30
+17:10:39.026772> Try place lock BuyLimit, Bid: 57163.2 Ask:  57163.3 wantPrice:57180.76 EntrPrice:57360.76
+17:10:39.330793> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:39.331791> [1Leg]: Buy FAILED BTCUSDC;Gap=3.0525;Price=57157.00
+17:10:42.000176> Try place lock BuyLimit, Bid: 57152.3 Ask:  57152.4 wantPrice:57180.76 EntrPrice:57360.76
+17:10:42.294216> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:42.295218> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.2475;Price=57152.40
+17:10:45.000678> Try place lock BuyLimit, Bid: 57157.9 Ask:  57158.0 wantPrice:57180.76 EntrPrice:57360.76
+17:10:45.350685> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:45.350685> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.01875;Price=57158.00
+17:10:48.001401> Try place lock BuyLimit, Bid: 57165.9 Ask:  57166.0 wantPrice:57180.76 EntrPrice:57360.76
+17:10:48.286417> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:48.287417> [1Leg]: Buy FAILED BTCUSDC;Gap=5.18125;Price=57157.60
+17:10:51.000763> Try place lock BuyLimit, Bid: 57152.2 Ask:  57152.3 wantPrice:57180.76 EntrPrice:57360.76
+17:10:51.280772> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:51.280772> [1Leg]: Buy FAILED BTCUSDC;Gap=4.88;Price=57152.30
+17:10:54.000718> Try place lock BuyLimit, Bid: 57156.2 Ask:  57156.3 wantPrice:57180.76 EntrPrice:57360.76
+17:10:54.284704> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:54.285705> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.28125;Price=57156.30
+17:10:57.000711> Try place lock BuyLimit, Bid: 57146.0 Ask:  57146.1 wantPrice:57180.76 EntrPrice:57360.76
+17:10:57.280719> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:10:57.281717> [1Leg]: Buy FAILED BTCUSDC;Gap=3.31875;Price=57146.10
+17:11:00.000949> Try place lock BuyLimit, Bid: 57142.0 Ask:  57142.1 wantPrice:57180.76 EntrPrice:57360.76
+17:11:00.276957> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:00.277957> [1Leg]: Buy FAILED BTCUSDC;Gap=1.28375;Price=57142.10
+17:11:03.021534> Try place lock BuyLimit, Bid: 57134.8 Ask:  57134.9 wantPrice:57180.76 EntrPrice:57360.76
+17:11:03.301550> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:03.301550> [1Leg]: Buy FAILED BTCUSDC;Gap=0.78375;Price=57135.70
+17:11:06.000680> Try place lock BuyLimit, Bid: 57147.2 Ask:  57147.3 wantPrice:57180.76 EntrPrice:57360.76
+17:11:06.296694> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:06.297694> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.34;Price=57141.00
+17:11:09.001699> Try place lock BuyLimit, Bid: 57140.3 Ask:  57140.4 wantPrice:57180.76 EntrPrice:57360.76
+17:11:09.297708> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:09.299709> [1Leg]: Buy FAILED BTCUSDC;Gap=2.5475;Price=57140.40
+17:11:12.000583> Try place lock BuyLimit, Bid: 57140.3 Ask:  57140.4 wantPrice:57180.76 EntrPrice:57360.76
+17:11:12.298599> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:12.298599> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.4525;Price=57140.40
+17:11:15.001435> Try place lock BuyLimit, Bid: 57171.1 Ask:  57171.2 wantPrice:57180.76 EntrPrice:57360.76
+17:11:15.365578> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:15.366575> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.55875;Price=57173.50
+17:11:18.000898> Try place lock BuyLimit, Bid: 57164.8 Ask:  57164.9 wantPrice:57180.76 EntrPrice:57360.76
+17:11:18.298902> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:18.299901> [1Leg]: Buy FAILED BTCUSDC;Gap=-5.15875;Price=57157.10
+17:11:21.000103> Try place lock BuyLimit, Bid: 57154.9 Ask:  57155.0 wantPrice:57180.76 EntrPrice:57360.76
+17:11:21.350114> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:21.353117> [1Leg]: Buy FAILED BTCUSDC;Gap=1.73875;Price=57155.00
+17:11:24.000751> Try place lock BuyLimit, Bid: 57142.0 Ask:  57142.1 wantPrice:57180.76 EntrPrice:57360.76
+17:11:24.304482> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:24.304482> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.33;Price=57142.10
+17:11:27.001427> Try place lock BuyLimit, Bid: 57143.6 Ask:  57143.7 wantPrice:57180.76 EntrPrice:57360.76
+17:11:27.360449> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:27.360449> [1Leg]: Buy FAILED BTCUSDC;Gap=-6.33;Price=57146.60
+17:11:30.001795> Try place lock BuyLimit, Bid: 57143.1 Ask:  57143.2 wantPrice:57180.76 EntrPrice:57360.76
+17:11:30.316806> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:30.392812> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.6125;Price=57143.20
+17:11:33.000621> Try place lock BuyLimit, Bid: 57148.9 Ask:  57149.0 wantPrice:57180.76 EntrPrice:57360.76
+17:11:33.317632> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:33.319632> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.3125;Price=57150.00
+17:11:36.000401> Try place lock BuyLimit, Bid: 57088.4 Ask:  57088.5 wantPrice:57180.76 EntrPrice:57360.76
+17:11:36.284403> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:36.339408> [1Leg]: Buy FAILED BTCUSDC;Gap=-1.645;Price=57091.30
+17:11:39.000483> Try place lock BuyLimit, Bid: 57097.4 Ask:  57097.5 wantPrice:57180.76 EntrPrice:57360.76
+17:11:39.293059> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:39.321061> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.55625;Price=57097.50
+17:11:42.000058> Try place lock BuyLimit, Bid: 57134.8 Ask:  57134.9 wantPrice:57180.76 EntrPrice:57360.76
+17:11:42.317244> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:42.339205> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.85625;Price=57134.90
+17:11:45.000565> Try place lock BuyLimit, Bid: 57149.3 Ask:  57149.4 wantPrice:57180.76 EntrPrice:57360.76
+17:11:45.311585> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:45.337588> [1Leg]: Buy FAILED BTCUSDC;Gap=-3.0425;Price=57149.40
+17:11:48.001021> Try place lock BuyLimit, Bid: 57147.7 Ask:  57147.8 wantPrice:57180.76 EntrPrice:57360.76
+17:11:48.299029> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:48.299029> [1Leg]: Buy FAILED BTCUSDC;Gap=0.1575;Price=57147.30
+17:11:51.000166> Try place lock BuyLimit, Bid: 57164.2 Ask:  57164.3 wantPrice:57180.76 EntrPrice:57360.76
+17:11:51.281344> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:51.282342> [1Leg]: Buy FAILED BTCUSDC;Gap=-2.4475;Price=57164.30
+17:11:54.000240> Try place lock BuyLimit, Bid: 57163.2 Ask:  57163.3 wantPrice:57180.76 EntrPrice:57360.76
+17:11:54.301805> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:54.302803> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.06875;Price=57162.70
+17:11:57.000568> Try place lock BuyLimit, Bid: 57154.6 Ask:  57154.7 wantPrice:57180.76 EntrPrice:57360.76
+17:11:57.286839> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:11:57.287831> [1Leg]: Buy FAILED BTCUSDC;Gap=0.23125;Price=57153.00
+17:12:00.000649> Try place lock BuyLimit, Bid: 57150.6 Ask:  57150.7 wantPrice:57180.76 EntrPrice:57360.76
+17:12:00.292649> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:12:00.292649> [1Leg]: Buy FAILED BTCUSDC;Gap=1.63875;Price=57150.70
+17:12:03.001733> Try place lock BuyLimit, Bid: 57150.6 Ask:  57150.7 wantPrice:57180.76 EntrPrice:57360.76
+17:12:03.289746> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:12:03.289746> [1Leg]: Buy FAILED BTCUSDC;Gap=0.03875;Price=57150.70
+17:12:06.000540> Try place lock BuyLimit, Bid: 57146.6 Ask:  57146.7 wantPrice:57180.76 EntrPrice:57360.76
+17:12:06.278572> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:12:06.278572> [1Leg]: Buy FAILED BTCUSDC;Gap=0.345;Price=57146.70
+17:12:09.001218> Try place lock BuyLimit, Bid: 57147.6 Ask:  57147.7 wantPrice:57180.76 EntrPrice:57360.76
+17:12:09.287189> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:12:09.288185> [1Leg]: Buy FAILED BTCUSDC;Gap=1.34125;Price=57147.70
+17:12:12.001906> Try place lock BuyLimit, Bid: 57149.9 Ask:  57150.0 wantPrice:57180.76 EntrPrice:57360.76
+17:12:12.309924> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:12:12.310925> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.55875;Price=57150.00
+17:12:15.000266> Try place lock BuyLimit, Bid: 57164.2 Ask:  57164.3 wantPrice:57180.76 EntrPrice:57360.76
+17:12:15.290128> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:12:15.291128> [1Leg]: Buy FAILED BTCUSDC;Gap=2.1325;Price=57164.30
+17:12:18.017210> Try place lock BuyLimit, Bid: 57172.2 Ask:  57172.3 wantPrice:57180.76 EntrPrice:57360.76
+17:12:18.298226> BinanceFuture - Vxxv1AWf[USD_M] Api Error Code: -1111 Message: Precision is over the maximum defined for this asset.
+17:12:18.299225> [1Leg]: Buy FAILED BTCUSDC;Gap=-0.8675;Price=57172.30
+17:12:21.001609> Try place lock BuyLimit, Bid: 57174.5 Ask:  57174.6 wantPrice:57103.0 EntrPrice:57360.76
+17:12:21.284640> [1Leg]: Buy OK BTCUSDC at 57103.00;Price=57103.0;Slippage=71.6;Execution=247.026 ms;
+17:12:21.285635>  
+17:12:21.285635> Placed lock BuyLimit, ticketCustom= 41, ticket= 4450034558 
+17:26:22.447903> Try Open SellLimit, Ask: 57151.1 Bid:57151.0
+17:26:22.448902> Order Signal open short, Order=1111 StepByStepDN:0 Stk:111 StkImp:1 Lnt:1 Prg:0 Bid: 57151.0 Ask:  57151.1
+17:26:22.711919> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57150.1;Execution=263.017 ms;
+17:26:22.712917> Placed Main SellLimit, ticketCustom = 42 ticket = 4450871665 LastSellPrice=57151.1
+17:26:27.000213> Try place lock BuyLimit, Bid: 57173.8 Ask:  57173.9 wantPrice:56927.0 EntrPrice:57150.0
+17:26:28.043758> [1Leg]: Buy OK BTCUSDC at 56927.00;Price=56927.0;Slippage=240.3;Execution=1042.548 ms;
+17:26:28.044763> Order Signal open adding short, Order=1111  StepByStepDN:0 , stoploss=57510.76 TotalVal=0.010 pos:-0.010 EntrPrice=57150.0 Stk:20 StkImp:1 Lnt:2 Prg:0
+17:26:28.045758> Placed lock BuyLimit, ticketCustom= 43, ticket= 4450871665 
+17:30:00.739122> Try Open SellLimit, Ask: 56917.9 Bid:56917.8
+17:30:00.740116> Order Signal open short, Order=1111 StepByStepDN:0 Stk:10 StkImp:1 Lnt:2 Prg:0 Bid: 56917.8 Ask:  56917.9
+17:30:01.001074> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=56910.0;Execution=260.958 ms;
+17:30:01.001074> Placed Main SellLimit, ticketCustom = 44 ticket = 4451109485 LastSellPrice=56917.9
+17:30:06.000641> Try place lock BuyLimit, Bid: 56927.6 Ask:  56927.7 wantPrice:56570.2 EntrPrice:56909.9
+17:30:07.019651> [1Leg]: Buy OK BTCUSDC at 56570.20;Price=56570.2;Slippage=357.5;Execution=1018.100 ms;
+17:30:07.020649> Order Signal open adding short, Order=1111  StepByStepDN:0 , stoploss=57300.0 TotalVal=0.010 pos:-0.010 EntrPrice=56909.9 Stk:10 StkImp:1 Lnt:2 Prg:0
+17:30:07.020649> Placed lock BuyLimit, ticketCustom= 45, ticket= 4451109485 
+17:34:11.774367> Try Delete lock Buy order, ticket = 4451109485 ticketCustom = 45
+17:34:11.774367> Stop Signal close short, stoploss=57059.9 TotalVal=0.010 pos:-0.010 EntrPrice=56909.9 Stk:20 Lnt:2 Prg:0 Bid: 57069.4 Ask:  57069.5
+17:34:12.046389> OrderId: [4451115000]: Buy Limit OK DELETE  BTCUSDC;price=0;Execution=271.025 ms;
+17:34:12.047379> Delete lock BuyLimit (1Leg)
+17:34:12.047379> Try Close Sell, Bid: 57069.4 Ask:  57069.5
+17:34:12.047379> Stop Signal close short, stoploss=57059.9 TotalVal=0.010 pos:-0.010 EntrPrice=56909.9 Stk:20 Lnt:2 Prg:0 Bid: 57069.4 Ask:  57069.5
+17:34:12.309021> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57071.0;Execution=261.642 ms;
+17:34:12.309021> Close Main Sell ticketCustom = 46 ticket= 4451366233
+18:26:08.139006> Try Open SellLimit, Ask: 57408.9 Bid:57408.8
+18:26:08.139998> Order Signal open short, Order=1111 StepByStepDN:0 Stk:20 StkImp:1 Lnt:1 Prg:0 Bid: 57408.8 Ask:  57408.9
+18:26:08.401570> [1Leg]: Sell OK BTCUSDC at 0.00;Price=0.0;Slippage=57408.9;Execution=261.572 ms;
+18:26:08.401570> Placed Main SellLimit, ticketCustom = 47 ticket = 4451366233 LastSellPrice=57408.9
+18:26:12.016265> Try adding SellLimit, Ask: 57412.9
+18:26:12.028283> Support: 57412.8 VolS:1.754 Resistence: 57412.9 VolR:1.084
+18:26:12.999826> [1Leg]: Sell OK BTCUSDC at 57414.90;Price=57414.9;Slippage=-2.4;Execution=970.560 ms;
+18:26:13.000825> adding Sell (1Leg), ticket = 4453442626 ticketCustom = 48
+18:26:17.540698> Try adding SellLimit, Ask: 57417.5
+18:26:17.542697> Support: 57417.4 VolS:3.025 Resistence: 57420.5 VolR:0.549
+18:26:17.802713> [1Leg]: Sell OK BTCUSDC at 57419.50;Price=57419.5;Slippage=-2.0;Execution=259.014 ms;
+18:26:17.803713> adding Sell (1Leg), ticket = 4453442626 ticketCustom = 49
+18:26:22.060724> Try adding SellLimit, Ask: 57420.8
+18:26:22.060724> Support: 57420.7 VolS:3.832 Resistence: 57421 VolR:0.025
+18:26:22.323418> [1Leg]: Sell OK BTCUSDC at 57422.80;Price=57422.8;Slippage=-2.0;Execution=262.693 ms;
+18:26:22.325418> adding Sell (1Leg), ticket = 4453442626 ticketCustom = 50
+18:26:22.600428> Try adding SellLimit, Ask: 57429.4
+18:26:22.603424> Support: 57429.3 VolS:2.519 Resistence: 57434.8 VolR:0.033
+18:26:22.865440> [1Leg]: Sell OK BTCUSDC at 57431.40;Price=57431.4;Slippage=-2.0;Execution=261.014 ms;
+18:26:22.865440> adding Sell (1Leg), ticket = 4453442626 ticketCustom = 51
+18:43:51.789222> Try Close Sell, Bid: 57578.8 Ask:  57578.9
+18:43:51.789222> Stop Signal close short, stoploss=57569.48 TotalVal=0.050 pos:-0.050 EntrPrice=57419.48 Stk:2 Lnt:2 Prg:0 Bid: 57578.8 Ask:  57578.9
+18:43:52.038240> [1Leg]: Buy OK BTCUSDC at 0.00;Price=0.0;Slippage=57578.9;Execution=248.018 ms;
+18:43:52.038240> Close Main Sell ticketCustom = 52 ticket= 4453442626

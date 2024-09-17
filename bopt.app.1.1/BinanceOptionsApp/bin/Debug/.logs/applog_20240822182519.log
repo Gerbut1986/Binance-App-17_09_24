@@ -1,0 +1,32 @@
+18:25:29.679745> WebSocket connected! Start @depth [Future] process...
+18:25:29.681745> Binance - Vxxv1AWf[SPOT] SPOT Balance: 0.15097346 USDT
+18:25:29.682745> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:25:29.702745> WebSocket connected! Start Partial @depth20 [Future] process...
+18:25:29.706746> WebSocket connected! Start Partial @depth20 [SPOT] process...
+18:25:29.929762> WebSocket connected! Start Partial @depth20 [SPOT] process...
+18:25:30.429274> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+18:25:30.444270> WebSocket connected! Start @depth [Future] process...
+18:25:30.453295> WebSocket connected! Start Partial @depth20 [Future] process...
+18:25:30.920667> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 159.23445588 USDT
+18:37:20.442620> Try Open BuyLimit, Bid: 60316.10 Ask:  60316.20
+18:37:20.443620> Gap Signal open long, OrdZig=0 Order=0 StepByStepUP:0 Stk:20 StkImp:1 Lnt:2 Prg:0 Tide:20 Natiag:2 Bid: 60316.10 Ask:  60316.20
+18:37:20.709175> [1Leg]: Buy OK BTCUSDT at 60315.10;Price=60315.10;Slippage=1.1;Execution=260.555 ms;
+18:37:20.710175> Placed Main BuyLimit, calcOpenOrderBuy:1 ticketCustom = 1 ticket= 401484531340 LastBuyPrice=60315.10
+18:37:30.118175>  BuyLimit executed, LastBuyPrice:60315.10
+18:37:31.001592> Try Open BuyLimit, Bid: 60312.10 Ask:  60312.20
+18:37:31.002589> Gap Signal open long, OrdZig=0 Order=0 StepByStepUP:0 Stk:20 StkImp:1 Lnt:2 Prg:0 Tide:10 Natiag:2 Bid: 60312.10 Ask:  60312.20
+18:37:32.065972> [1Leg]: Buy OK BTCUSDT at 60311.10;Price=60311.10;Slippage=-7.1;Execution=1063.383 ms;
+18:37:32.066962> Placed Main BuyLimit, calcOpenOrderBuy:1 ticketCustom = 2 ticket= 401484531340 LastBuyPrice=60311.10
+18:37:32.068968>  BuyLimit executed, LastBuyPrice:60311.10
+18:43:04.622839> Try adding BuyLimit, Bid: 60210.00 Ask:  60210.10
+18:43:04.878621> [1Leg]: Buy OK BTCUSDT at 60208.00;Price=60208.00;Slippage=2.1;Execution=254.781 ms;
+18:43:04.879623> adding BuyLimit, ticket = 401484531340 ticketCustom = 3 
+18:43:05.642982>  BuyLimit executed, LastBuyPrice:60208.00
+18:45:27.947825> Try adding BuyLimit, Bid: 60104.10 Ask:  60104.20
+18:45:28.292838> [1Leg]: Buy OK BTCUSDT at 60102.10;Price=60102.10;Slippage=2.1;Execution=344.021 ms;
+18:45:28.318837> adding BuyLimit, ticket = 401484531340 ticketCustom = 4 
+18:48:53.424604>  BuyLimit executed, LastBuyPrice:60102.10
+18:56:01.724977> Try Close Buy urgently, Ask: 60222.10 Bid:60222.00 
+18:56:01.724977> Gap Signal close long, OrdZig=1 Order=1 stoploss=59432.3 TotalVal=0.040 pos:0.040 EntrPrice=60232.3 Stk:20 StkImp:1 Lnt:2 Prg:0 Natiag:2 Bid: 60222.00 Ask:  60222.10
+18:56:01.975899> [1Leg]: Sell OK BTCUSDT at 0.00;Price=0.00;Slippage=60222.1;Execution=249.922 ms;
+18:56:01.976899> Close Main Buy, ticketCustom = 5 ticket = 401484531340

@@ -1,0 +1,36 @@
+17:45:43.831376> WebSocket connected! Start Partial @depth20 [Future] process...
+17:45:43.831376> WebSocket connected! Start @depth [Future] process...
+17:45:43.832376> WebSocket connected! Start Partial @depth20 [Future] process...
+17:45:43.838375> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:45:44.814557> WebSocket connected! Start Partial @depth20 [Future] process...
+17:45:44.830547> WebSocket connected! Start @depth [Future] process...
+17:45:44.837547> Lenta has started...Start SubscribeToAggTradeStream @aggTrade [future] process...
+17:45:44.885550> WebSocket connected! Start Partial @depth20 [Future] process...
+17:45:44.885550> BinanceFuture - Vxxv1AWf[USD_M] USD_M Balance: 242.31467906 USDT
+17:47:08.832323> Try Open BuyLimit, Bid: 65218.5 Ask:  65218.6
+17:47:08.832323> Step Signal open long, StepByStepUP:3 Stk:20 StkImp:0 Lnt:0 Prg:0 Tide:20 Bid: 65218.5 Ask:  65218.6
+17:47:09.174350> [1Leg]: Buy OK BTCUSDC at 0.00;Gap=0.07875;Price=65218.60;Slippage=65218.6;Execution=338.027 ms;
+17:47:09.175343> Placed Main BuyLimit, ticketCustom = 1 ticket= 3979745918 LastBuyPrice=65218.5
+17:47:15.017427> Try place lock SellLimit, Bid: 65230.0 Ask:  65230.1
+17:47:15.783346> [1Leg]: Sell OK BTCUSDC at 65275.50;Gap=-2.25125;Price=65211.00;Slippage=-64.5;Execution=763.921 ms;
+17:47:15.784355> Placed lock SellLimit, ticketCustom= 2, ticket= 3979745918 
+17:47:20.001035> Try Modify Lock Sell order, 
+17:47:20.253795> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=65275.30;execution=248.783 ms;
+17:47:20.253795> Modify Lock SellLimit (1Leg)
+17:47:25.002561> Try Modify Lock Sell order, 
+17:47:25.249584> [1Leg]: SELL OK MODIFY BTCUSDC at 0.002 lot;price=65274.70;execution=246.023 ms;
+17:47:25.250583> Modify Lock SellLimit (1Leg)
+17:47:25.252576> Try Delete lock Sell order,  ticket = 3979745918 ticketCustom = 2
+17:47:25.648599> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:47:27.680207> Try Close Buy, Ask: 65162.7 Bid:65162.6 
+17:47:27.680207> Stop Signal close long, stoploss=65174.1 TotalVal=0.002 pos:0.002 EntrPrice=65224.1 Stk:10 Lnt:0 Prg:0 Bid: 65169.2 Ask:  65169.3
+17:47:27.933214> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-6.52125;Price=65162.70;Slippage=65162.7;Execution=253.007 ms;
+17:47:27.933214> Close Main Buy, ticketCustom = 3 ticket = 3979761409
+17:47:27.936215> Try Delete lock Sell order,  ticket = 3979745918 ticketCustom = 2
+17:47:28.226228> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
+17:47:30.249104> Try Close Buy, Ask: 65153.9 Bid:65153.8 
+17:47:30.249104> Stop Signal close long, stoploss=65174.1 TotalVal=0.002 pos:0.002 EntrPrice=65224.1 Stk:10 Lnt:0 Prg:0 Bid: 65162.6 Ask:  65162.7
+17:47:30.506203> [1Leg]: Sell OK BTCUSDC at 0.00;Gap=-9.82125;Price=65153.90;Slippage=65153.9;Execution=257.099 ms;
+17:47:30.506203> Close Main Buy, ticketCustom = 4 ticket = 3979761409
+17:47:30.515203> Try Delete lock Sell order,  ticket = 3979745918 ticketCustom = 2
+17:47:30.815203> BinanceFuture - Vxxv1AWf[USD_M] DELETE FAILURE.....
